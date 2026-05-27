@@ -477,11 +477,35 @@ function renderDetail(q) {
   const orta = q.prof_questions.filter(p => p.level === 'orta');
   const zor = q.prof_questions.filter(p => p.level === 'zor');
 
+  // Benzer geçmiş yıl soruları
+  const similarHtml = (q.similar_questions && q.similar_questions.length > 0) ? `
+    <div class="similar-section">
+      <div class="similar-section-title">📚 Benzer Geçmiş Yıl Soruları</div>
+      <div class="similar-list">
+        ${q.similar_questions.map(s => {
+          const target = state.data.questions.find(x => x.id === s.id);
+          if (!target) return '';
+          const label = target.exam_label || s.source;
+          return `
+            <div class="similar-card" data-target="${s.id}">
+              <div class="similar-card-head">
+                <span class="similar-exam">🎓 ${escapeHtml(label)}</span>
+                <span class="similar-num">#${target.num}</span>
+              </div>
+              <div class="similar-title">${escapeHtml(target.title || target.stem.slice(0,80))}</div>
+              <div class="similar-topic">${escapeHtml(target.topic.main)}</div>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    </div>
+  ` : '';
+
   cont.innerHTML = `
     <div class="detail-header">
-      <div class="detail-tag">Soru ${q.num} · ${escapeHtml(q.topic.main)}</div>
+      <div class="detail-tag">Soru ${q.num} · ${escapeHtml(q.topic.main)} · 🎓 ${escapeHtml(q.exam_label || '2029 D2M4')}</div>
       <div class="detail-title">${escapeHtml(q.title)}</div>
-      <div class="detail-meta">2029 D2M4 Çıkmışları · s.${q.exam_page}</div>
+      <div class="detail-meta">${escapeHtml(q.exam_label || '2029 D2M4 Çıkmışları')} · s.${q.exam_page}</div>
     </div>
     <div class="question-stem">${q.stem}</div>
     ${q.extra_block ? `<div class="extra-block">${q.extra_block}</div>` : ''}
@@ -499,6 +523,7 @@ function renderDetail(q) {
       <div id="prof-list"></div>
     </div>
     ` : ''}
+    ${similarHtml}
   `;
 
   // Şık tıklama

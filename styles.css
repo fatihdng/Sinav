@@ -162,6 +162,43 @@ button { cursor: pointer; }
   border-radius: 4px; font-weight: 600;
 }
 
+.similar-section {
+  margin-top: 20px; padding: 16px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.similar-section-title {
+  font-size: 14px; font-weight: 700; color: var(--accent);
+  margin-bottom: 12px;
+}
+.similar-list { display: flex; flex-direction: column; gap: 8px; }
+.similar-card {
+  background: rgba(56,189,248,0.05);
+  border: 1px solid rgba(56,189,248,0.20);
+  border-radius: 8px; padding: 10px 12px;
+  cursor: pointer; transition: all 0.15s;
+}
+.similar-card:hover {
+  border-color: var(--primary); background: rgba(56,189,248,0.10);
+}
+.similar-card-head {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 4px;
+}
+.similar-exam {
+  font-size: 10px; color: var(--primary); font-weight: 700;
+}
+.similar-num {
+  font-size: 12px; font-weight: 700; color: var(--text);
+}
+.similar-title {
+  font-size: 13px; color: var(--text); line-height: 1.4;
+  margin-bottom: 2px;
+}
+.similar-topic {
+  font-size: 10px; color: var(--text-dim);
+}
+
 /* ======== SORU LİSTESİ ======== */
 .question-list { display: flex; flex-direction: column; gap: 8px; padding-bottom: 20px; }
 .question-row {

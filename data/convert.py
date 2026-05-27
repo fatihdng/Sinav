@@ -164,14 +164,64 @@ def convert_question(q, idx):
     }
 
 
+STOPWORDS = {
+    'bir','ile','ve','için','olan','olur','olarak','olduğu','aşağıdaki','aşağıdakilerden','hangisi',
+    'doğru','yanlış','aşağıda','arasında','üzerinde','dair','sonra','önce','tüm','bütün',
+    'eşleştirme','eşleştirmelerden','sayesinde','ilgili','aşağıdakilerden','aşağıda','aşağıdakilerden','de','da','ve',
+}
+
+def _keywords(q):
+    """Soru için anahtar kelime havuzu — title + topic + stem'den."""
+    import re
+    text = (q.get('title','') + ' ' + q['topic']['main'] + ' ' +
+            (q['topic'].get('sub') or '') + ' ' + q['stem']).lower()
+    # Türkçe karakter normalize
+    text = text.replace('ı','i').replace('ş','s').replace('ğ','g').replace('ü','u').replace('ö','o').replace('ç','c')
+    words = re.findall(r'[a-z]{4,}', text)  # min 4 harf
+    return set(w for w in words if w not in STOPWORDS)
+
+
+def _topic_group(t):
+    """Ana modül grubunu çıkar — 'İmmünoloji — X' → 'İmmünoloji', 'Fizyoloji · Y' → 'Fizyoloji'."""
+    main = t.get('main','')
+    # Ayraç karakterleri: —, ·, -, /
+    for sep in ['—','·','-','/']:
+        if sep in main:
+            return main.split(sep)[0].strip()
+    return main.strip()
+
+
+def add_cross_references(questions):
+    """Her sorudaki similar_questions alanını doldur (aynı modül grup + keyword overlap)."""
+    for q in questions:
+        q['_kw'] = _keywords(q)
+        q['_grp'] = _topic_group(q['topic'])
+    for q in questions:
+        candidates = []
+        for o in questions:
+            if o['num'] == q['num']: continue
+            same_grp = (o['_grp'] == q['_grp'])
+            overlap = len(q['_kw'] & o['_kw'])
+            # Eşik: aynı grup + 2 keyword, veya farklı grup + 4 keyword
+            if (same_grp and overlap >= 2) or (overlap >= 4):
+                candidates.append((o['num'], o.get('exam_source',''), overlap, same_grp))
+        # Sırala: overlap desc, farklı kaynak öncelik
+        candidates.sort(key=lambda x: (-x[2], -int(x[3]), x[1] == q.get('exam_source','')))
+        q['similar_questions'] = [{'id': c[0], 'source': c[1], 'score': c[2]} for c in candidates[:5]]
+    for q in questions:
+        del q['_kw']; del q['_grp']
+
+
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
+    questions = [convert_question(q, i) for i, q in enumerate(ALL)]
+    add_cross_references(questions)
     data = {
-        'version': '1.0',
-        'exam': '2029 D2M4 Çıkmışları',
-        'last_updated': '2026-05-26',
+        'version': '1.1',
+        'exam': 'D2M4 Çıkmış Sorular (2029 + 2028)',
+        'last_updated': '2026-05-27',
         'total_questions': len(ALL),
-        'questions': [convert_question(q, i) for i, q in enumerate(ALL)]
+        'questions': questions
     }
     out = os.path.join(HERE, 'questions.json')
     with open(out, 'w', encoding='utf-8') as f:
