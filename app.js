@@ -545,6 +545,14 @@ function renderDetail(q) {
     });
   });
   renderProfList(q, 'orta');
+
+  // Benzer soru kartlarına tıklama
+  cont.querySelectorAll('.similar-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const tid = parseInt(card.dataset.target);
+      if (tid) openDetail(tid);
+    });
+  });
 }
 
 function renderProfList(q, level) {
