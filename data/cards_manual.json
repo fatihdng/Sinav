@@ -1,0 +1,108 @@
+{
+  "_comment": "Elle yazılmış kavramsal hap bilgi kartları. gen_cards.py bunları otomatik üretilenlerle birleştirir.",
+  "cards": [
+    {"front": "Lökosit göçü 4 basamağı (sırasıyla)?", "back": "1. Sitokin salınımı\n2. Selektin aracılı yuvarlanma\n3. İntegrin aracılı sıkı tutunma\n4. Kemokin gradyenti + diapedez", "topic": "İmmünoloji — Doğal Bağışıklık", "type": "liste", "related_qid": 1},
+    {"front": "Akut enflamasyonun 6 adımı?", "back": "Tanıma → Toplanma → Salınım → Yok etme → Onarım → Regülasyon", "topic": "İmmünoloji — Doğal Bağışıklık", "type": "liste", "related_qid": 1},
+    {"front": "Septik şokun moleküler nedeni?", "back": "Aşırı pro-inflamatuvar sitokin (TNF-α, IL-1, IL-6) → sistemik vazodilatasyon + ani tansiyon düşmesi", "topic": "İmmünoloji — Doğal Bağışıklık", "type": "tanım", "related_qid": 1},
+
+    {"front": "Direkt mikroskopinin avantajı / kısıtı?", "back": "✓ Hızlı, kolay, ekonomik; bazen kültürden değerli (dokuda Aspergillus hifleri)\n✗ Kültürden daha az duyarlı — NEGATİF sonuç mantar enfeksiyonunu EKARTE ETMEZ", "topic": "Mikoloji", "type": "tanım", "related_qid": 2},
+    {"front": "Çini mürekkebi preparatı hangi mantar?", "back": "Cryptococcus neoformans — BOS'ta kapsüllü maya görüntülenir (klasik bulgu)", "topic": "Mikoloji", "type": "eşleştirme", "related_qid": 2},
+
+    {"front": "Dermatofitler hangi deri katmanında?", "back": "Stratum corneum (yüzeyel keratinize tabaka). Artrokonidiyumlar burada çoğalır. Sistemik invazyon YOK.", "topic": "Mikoloji", "type": "tanım", "related_qid": 3},
+    {"front": "Saçlı deride dermatofit yerleşimini engelleyen faktör?", "back": "Ergenlikte değişen yağ asit içeriği (sebum) saçlı deride yerleşimi engeller", "topic": "Mikoloji", "type": "tanım", "related_qid": 3},
+
+    {"front": "Seksüel mantar sporları?", "back": "Oospor (Oomycetes), Zigospor (Zygomycota), Askospor (kese mantarı), Bazidiyospor (şapkalı). Mayoz ile oluşur.", "topic": "Mikoloji", "type": "liste", "related_qid": 4},
+    {"front": "Aseksüel mantar sporları?", "back": "Sporangiospor (Rhizopus), Blastokonidyum (tomurcuk - Candida), Artrokonidyum (dermatofit), Klamidokonidyum (dayanıklı), Makro/mikrokonidyum. Mitoz ile.", "topic": "Mikoloji", "type": "liste", "related_qid": 4},
+    {"front": "Telemorf vs Anamorf?", "back": "Telemorf = eşeyli (mayoz) şekil. Anamorf = eşeysiz (mitoz). Klinikte ANAMORF adlar kullanılır; telemorf özel lab koşullarında çıkar.", "topic": "Mikoloji", "type": "tanım", "related_qid": 4},
+
+    {"front": "BCR sinyal iletim molekülü?", "back": "Igα/Igβ heterodimeri (CD79a/b) — ITAM motifleri ile sinyal iletir", "topic": "İmmünoloji — Antijen Reseptörleri", "type": "eşleştirme", "related_qid": 5},
+    {"front": "TCR sinyal iletim molekülü?", "back": "CD3 kompleksi + ζ (zeta) zinciri — TCR tek başına sinyal iletemez", "topic": "İmmünoloji — Antijen Reseptörleri", "type": "eşleştirme", "related_qid": 5},
+    {"front": "BCR vs TCR antijen tanıma farkı?", "back": "BCR: protein, lipid, polisakkarit, nükleik asit doğrudan tanır.\nTCR: SADECE peptid (MHC üzerinde sunulmuş).", "topic": "İmmünoloji — Antijen Reseptörleri", "type": "tanım", "related_qid": 5},
+
+    {"front": "Antijen tipleri immünojenite sırası?", "back": "Polivalan > Multivalan > Monovalan > Hapten\n(Hapten tek başına immünojen değil — taşıyıcı protein gerekli)", "topic": "İmmünoloji — Antijen", "type": "liste", "related_qid": 6},
+    {"front": "İmmünojeniteyi belirleyen faktörler?", "back": "• Molekül büyüklüğü (>5-10 kDa)\n• Kimyasal kompleksite (protein > polisakkarit > lipid)\n• Yabancılık\n• HLA tipi\n• Doz, yol, adjuvan", "topic": "İmmünoloji — Antijen", "type": "liste", "related_qid": 6},
+
+    {"front": "CD28 ne yapar?", "back": "T hücresi üzerinde, APC'deki B7 (CD80/86) ile etkileşir → ko-stimülasyon (sinyal 2). Olmazsa T aktive olamaz.", "topic": "İmmünoloji — T Lenfosit Aktivasyonu", "type": "tanım", "related_qid": 7},
+    {"front": "CD40L (CD154) ne yapar?", "back": "T üzerinde — APC'deki CD40'ı bağlar → APC daha çok B7 eksprese eder + sitokin salar (dolaylı sinyal artışı)", "topic": "İmmünoloji — T Lenfosit Aktivasyonu", "type": "tanım", "related_qid": 7},
+    {"front": "T hücre aktivasyonu 3 sinyal?", "back": "1. TCR + peptid/MHC (sinyal 1)\n2. CD28-B7 ko-stimülasyon (sinyal 2)\n3. Sitokinler (IL-12, IL-1, IL-6) — farklılaşma", "topic": "İmmünoloji — T Lenfosit Aktivasyonu", "type": "liste", "related_qid": 7},
+
+    {"front": "MHC-I antijen sunum yolu adımları?", "back": "Ubiquitin → Proteazom → TAP (peptidi ER'ye taşır) → Tapasin (MHC-I + TAP teması) → MHC-I yarığa peptid → yüzeye → CD8+ T'ye sunum", "topic": "İmmünoloji — MHC Sınıf I Yolu", "type": "mekanizma", "related_qid": 8},
+    {"front": "CLIP nerede ve ne işe yarar?", "back": "MHC Sınıf II yarığını geçici olarak kapatan peptid (yanlış peptid bağlanmasın diye). HLA-DM CLIP'i çıkarır → gerçek peptid bağlanır.", "topic": "İmmünoloji — MHC Sınıf I Yolu", "type": "tanım", "related_qid": 8},
+
+    {"front": "İnterferans nedir? (virüs)", "back": "Bir konağı enfekte eden iki virüsten birinin diğerinin çoğalmasını İNHİBE etmesi", "topic": "Viroloji", "type": "tanım", "related_qid": 9},
+    {"front": "Komplementasyon nedir? (virüs)", "back": "Farklı genlerden defektli iki virüsün aynı hücreyi enfekte edip BİRBİRİNİN EKSİĞİNİ TAMAMLAYARAK çoğalması", "topic": "Viroloji", "type": "tanım", "related_qid": 9},
+    {"front": "Transkapsidasyon / Fenotipik maskeleme?", "back": "Bir virüsün GENOMU diğer virüsün KAPSİDİ içine paketlenir → bir nesil 'maske takmış' gibi davranır; sonraki nesilde orijinale döner", "topic": "Viroloji", "type": "tanım", "related_qid": 9},
+    {"front": "Genetik reassortment nedir?", "back": "Segmentli RNA virüslerde (influenza, rotavirüs) iki suş aynı hücrede karşılaşınca SEGMENT değişimi → antijenik shift'in temeli (pandemi)", "topic": "Viroloji", "type": "tanım", "related_qid": 9},
+
+    {"front": "Helikal kapsid insan virüslerinin özellikleri?", "back": "• Hepsi ZARFLI (paramyxo, ortho, rhabdo, korona, filo, bunya)\n• Sadece RNA genom (DNA helikal insan virüsü YOK)\n• Segmentli (ortho, bunya) veya tek molekül (rhabdo, paramyxo) olabilir\n• Kapsid PROTEİN tekrarı (karbonhidrat değil)", "topic": "Viroloji", "type": "liste", "related_qid": 10},
+
+    {"front": "Serolojik tanıda kullanılan Ag-Ab reaksiyonları?", "back": "• Presipitasyon (Mancini, Ouchterlony)\n• Aglütinasyon (Wright, Coombs)\n• Kompleman fiksasyonu\n• Nötralizasyon (hücre kültürü)\n• ELISA / RIA / Western blot", "topic": "İmmünoloji — Serolojik Tanı", "type": "liste", "related_qid": 11},
+    {"front": "Opsonizasyon serolojik tanıda kullanılır mı?", "back": "HAYIR — opsonizasyon bir EFEKTÖR FONKSİYONDUR (in vivo fagositoz artırma). Serolojik (in vitro) tanıda kullanılmaz.", "topic": "İmmünoloji — Serolojik Tanı", "type": "tanım", "related_qid": 11},
+    {"front": "Afinite olgunlaşması nedir?", "back": "Sekonder immün yanıtta antikorların antijene bağlanma gücünün artması (somatik hipermutasyon ile). Primer yanıtta düşük afinite, sekonderde yüksek.", "topic": "İmmünoloji — Serolojik Tanı", "type": "tanım", "related_qid": 11},
+
+    {"front": "Hipersensitivite 4 tipi?", "back": "Tip I: IgE + mast hücre (alerji, anafilaksi)\nTip II: IgM/IgG + hücre yüzey Ag (sitotoksik)\nTip III: İmmün kompleks (vaskülit, SLE, APSGN)\nTip IV: T hücre aracılı (gecikmiş — PPD, TBC)", "topic": "İmmünoloji — Hipersensitivite", "type": "liste", "related_qid": 12},
+    {"front": "ARH ve APSGN hipersensitivite tipleri?", "back": "ARH (Akut Romatizmal Ateş) = Tip II — anti-M antikorları kalp dokusu ile moleküler taklit\nAPSGN = Tip III — streptokok-antikor immün kompleks birikimi", "topic": "İmmünoloji — Hipersensitivite", "type": "eşleştirme", "related_qid": 12},
+
+    {"front": "Devamlı (continuous) hücre kültürü kaynağı?", "back": "Kanserli dokulardan hazırlanır (HeLa, Vero gibi) — sınırsız pasaj. Rutin viroloji laboratuvarında en sık kullanılan.", "topic": "Viroloji", "type": "tanım", "related_qid": 13},
+    {"front": "Shell vial sistemi avantajı?", "back": "CPE (sitopatik etki) BEKLEMEDEN — 24-48 saatte erken viral antijenleri immünfloresan ile saptar. Klasik kültürden çok daha hızlı.", "topic": "Viroloji", "type": "tanım", "related_qid": 13},
+
+    {"front": "Kızamık virüsü VAP'i?", "back": "Hemaglütinin (H proteini) — Paramyxoviridae ailesi. F proteini membran füzyonunu sağlar.", "topic": "Viroloji", "type": "eşleştirme", "related_qid": 14},
+    {"front": "Virüs - VAP eşleştirmeleri (notta geçen)?", "back": "Kızamık → Hemaglütinin (H)\nAdenovirüs → Fiber protein\nEBV → gp350/220 (B hücresi CR2/CD21'i tanır)\nHIV → gp120 (CD4)\nReovirüs → Sigma-1", "topic": "Viroloji", "type": "liste", "related_qid": 14},
+
+    {"front": "MHC-I → hangi T hücreye, hangi antijen?", "back": "MHC-I → CD8+ sitotoksik T hücresine, intrasellüler antijen (virüs, sitozolik bakteri). Sonuç: enfekte hücre öldürülür. Tüm çekirdekli hücrelerde MHC-I var.", "topic": "İmmünoloji — MHC Sunumu", "type": "tanım", "related_qid": 15},
+    {"front": "MHC-II → hangi T hücreye, hangi antijen?", "back": "MHC-II → CD4+ yardımcı T hücresine, ekstrasellüler antijen (fagosite edilen bakteri). Sonuç: B hücresine yardım + makrofaj aktivasyonu. Sadece profesyonel APC'lerde.", "topic": "İmmünoloji — MHC Sunumu", "type": "tanım", "related_qid": 15},
+    {"front": "Çapraz sunum (cross-presentation)?", "back": "Dendritik hücreler fagosite ettikleri ekstrasellüler antijeni MHC-I üzerinde de sunabilir → CD8+ T aktive eder (özellikle virüsler ve tümörler için önemli)", "topic": "İmmünoloji — MHC Sunumu", "type": "tanım", "related_qid": 15},
+
+    {"front": "HLA gen sınıfları ve ürünleri?", "back": "Sınıf I: HLA-A/B/C → MHC-I (peptid sunum)\nSınıf II: HLA-DP/DQ/DR → MHC-II (peptid sunum)\nSınıf III: kompleman (C2/C4/Faktör B), TNF, HSP — antijen sunumu YOK", "topic": "İmmünoloji — MHC Polimorfizm", "type": "liste", "related_qid": 16},
+    {"front": "Neden bireyler aynı patojene farklı yanıt verir?", "back": "MHC (HLA) yüksek polimorfizm → kişiden kişiye farklı peptidleri bağlama kapasitesi → farklı T yanıtı kuvveti. Bu bireysel immün varyasyonun ana kaynağıdır.", "topic": "İmmünoloji — MHC Polimorfizm", "type": "tanım", "related_qid": 16},
+
+    {"front": "Aşı ile eradike edilebilir patojen özellikleri?", "back": "1. Sadece insan rezervuarı (hayvan yok)\n2. Antijenik stabil (varyasyon yok)\n3. Latent enfeksiyon yapmamalı\n4. Edinsel bağışıklığı kuvvetle uyarmalı\n5. Etkili aşı geliştirilebilmeli", "topic": "İmmünoloji — Aşılama", "type": "liste", "related_qid": 17},
+    {"front": "Aşı teknolojileri sınıfları?", "back": "Canlı atenüe (MMR, OPV), İnaktif (IPV), Alt ünite (HBV, PPSV23), Toksoid (tetanoz, difteri), VLP (HPV - genetik materyal YOK), mRNA (COVID), Konjuge (Hib, PCV)", "topic": "İmmünoloji — Aşılama", "type": "liste", "related_qid": 17},
+
+    {"front": "Sağlıklı erişkin serumundaki antikorların kaynağı?", "back": "Plazmablastlar + uzun ömürlü plazma hücreleri (kemik iliği nişlerinde). Sürekli IgG salgılarlar.", "topic": "İmmünoloji — B Hücre Alt Tipleri", "type": "tanım", "related_qid": 18},
+    {"front": "B hücre alt tipleri?", "back": "• Foliküler B2 (T-bağımlı, germinal merkez)\n• Marjinal zon B (dalakta, T-bağımsız polisakkarit)\n• B1 lenfosit (peritoneal/plevral, doğal IgM)\n• Plazmablast / plazma hücresi (antikor üretici)\n• Hafıza B (sessiz, antijenle hızlı yanıt)", "topic": "İmmünoloji — B Hücre Alt Tipleri", "type": "liste", "related_qid": 18},
+    {"front": "Splenektomi sonrası neden kapsüllü bakteri riski?", "back": "Dalak: (1) Marjinal zon B → T-bağımsız polisakkarit antijenlere hızlı IgM. (2) Opsonize bakteri filtresi. Eksilince S. pneumoniae, Hib, meningokok riski artar.", "topic": "İmmünoloji — B Hücre Alt Tipleri", "type": "tanım", "related_qid": 18},
+
+    {"front": "Primer (konjenital) vs sekonder immün yetmezlik kök neden?", "back": "Primer: GENETİK mutasyon (>300 gen)\nSekonder: HIV (dünya), kemoterapi/immünsüpresyon (gelişmiş ülke), malnütrisyon, malignite", "topic": "İmmünoloji — İmmün Yetmezlik", "type": "tanım", "related_qid": 19},
+    {"front": "Sık görülen primer immün yetmezlikler?", "back": "• Bruton (X-bağlı agammaglobulinemi, BTK)\n• Hiper-IgM (CD40L)\n• SCID (T ± B, NK kombine)\n• DiGeorge (22q11, timik aplazi)\n• CGH (fagosit oksidaz)\n• Wiskott-Aldrich, Ataxia-Telanjiektazi", "topic": "İmmünoloji — İmmün Yetmezlik", "type": "liste", "related_qid": 19},
+
+    {"front": "Retroviridae replikasyon stratejisi?", "back": "ssRNA → revers transkriptaz → RNA-DNA hibridi → çift sarmal cDNA → İNTEGRAZ ile konak genomuna entegre (provirüs) → mRNA transkripsiyonu", "topic": "Viroloji", "type": "mekanizma", "related_qid": 20},
+    {"front": "HIV hangi hücreyi tercihen enfekte eder?", "back": "CD4+ T helper lenfositler (ayrıca makrofaj, dendritik). CD4 reseptör + CCR5/CXCR4 ko-reseptör ile gp120 üzerinden girer.", "topic": "Viroloji", "type": "tanım", "related_qid": 20},
+    {"front": "HBV neden RT inhibitörlerine duyarlı?", "back": "HBV DNA virüsü ama replikasyonunda pregenomik RNA → RT ile yeni DNA sentezler → bu yüzden tenofovir/lamivudin/entekavir hem HIV hem HBV'ye etki eder", "topic": "Viroloji", "type": "tanım", "related_qid": 20},
+
+    {"front": "C3 yıkım ürünleri 3 işlev?", "back": "C3a → anaflatoksin (enflamasyon, mast hücre)\nC3b → opsonizasyon (fagositik CR1 tanır)\nC3d → humoral yanıt (B hücresi CR2/CD21 üzerinden 2. sinyal)", "topic": "İmmünoloji — Kompleman", "type": "liste", "related_qid": 21},
+    {"front": "Kompleman 3 aktivasyon yolu?", "back": "Klasik (Ag-Ab → C1 → C4 → C2)\nLektin (MBL → MASP → C4 → C2)\nAlternatif (mikrop yüzeyinde spontan C3)\n→ Hepsi C3 konvertazda birleşir → MAC (C5b-9)", "topic": "İmmünoloji — Kompleman", "type": "liste", "related_qid": 21},
+
+    {"front": "Mantar ökaryot mu? Bakteriden farkı?", "back": "EVET, ökaryot — çekirdek zarı VAR. Bakteriden farkı:\n• Duvar: kitin/glukan/mannan (peptidoglikan YOK)\n• Membran: ERGOSTEROL (insanda kolesterol)\n• 80S ribozom (bakteri 70S)", "topic": "Mikoloji", "type": "tanım", "related_qid": 22},
+    {"front": "Mantar hücre duvarı bileşenleri?", "back": "Kitin (N-asetil glukozamin), Glukan, Mannan — %90 polisakkarit + %10 protein. Şekil ve rijidite verir.", "topic": "Mikoloji", "type": "liste", "related_qid": 22},
+
+    {"front": "Renin'i düzenleyen 5 faktör?", "back": "1. Perfüzyon basıncı (afferent arteriol, miyojenik)\n2. Makula densaya NaCl girişi\n3. Sempatik β-adrenerjik (↑)\n4. ATII feedback inhibisyonu\n5. Natriüretik peptit (↓)", "topic": "Fizyoloji · Böbrek", "type": "liste", "related_qid": 23},
+    {"front": "RAAS kaskadı sıralaması?", "back": "Renin sentezi → Anjiyotensinojen (Kc) → ATI → ACE ile ATII → vazokonstriksiyon + aldosteron salınımı", "topic": "Fizyoloji · Böbrek", "type": "mekanizma", "related_qid": 23},
+    {"front": "Böbrek innervasyonu — hoca tuzağı?", "back": "Böbrekte SADECE sempatik innervasyon vardır. Parasempatik YOK. Üreter/mesanede parasempatik VAR.", "topic": "Fizyoloji · Böbrek", "type": "tuzak", "related_qid": 23},
+
+    {"front": "Sertoli hücresi sentezledikleri?", "back": "İnhibin B (FSH'yı baskılar, spermatogenez göstergesi), ABP (androjen bağlayıcı protein), büyüme faktörleri, östradiol (aromataz ile testosterondan)", "topic": "Fizyoloji · Üreme", "type": "liste", "related_qid": 24},
+    {"front": "Leydig hücresi sentezi?", "back": "Testosteron (kolesterolden) — LH ile uyarılır", "topic": "Fizyoloji · Üreme", "type": "tanım", "related_qid": 24},
+    {"front": "FSH ve LH iş bölümü (erkek)?", "back": "FSH → Sertoli hücresini uyarır\nLH → Leydig hücresini uyarır\n(Hocanın 'bilmek önemli' dediği nokta)", "topic": "Fizyoloji · Üreme", "type": "eşleştirme", "related_qid": 24},
+
+    {"front": "Aldosteron 3 ana etkisi (esas hücreler)?", "back": "1. Bazolateral Na⁺-K⁺-ATPaz ↑\n2. Apikal K⁺ kanal ↑\n3. Apikal ENaC ↑\n(Notta 'ilk üç madde çok önemli' diye vurgulanmış)", "topic": "Fizyoloji · Böbrek", "type": "liste", "related_qid": 25},
+    {"front": "Aldosteron salgısını artıran/azaltan?", "back": "Artıran: Hiperkalemi + ATII\nAzaltan: Hipokalemi + Natriüretik peptit", "topic": "Fizyoloji · Böbrek", "type": "eşleştirme", "related_qid": 25},
+    {"front": "Aldosteron akut vs kronik etki?", "back": "Akut (saatler): Na-K-ATPaz aktive ama K⁺ atılımı HEMEN artmaz\nKronik: K⁺ sekresyonu baskın hale gelir", "topic": "Fizyoloji · Böbrek", "type": "tanım", "related_qid": 25},
+
+    {"front": "Semen bileşimi (% ve kaynaklar)?", "back": "• Sperm %10 (testis)\n• Fruktoz → seminal vezikül (sperm enerjisi)\n• Proteazlar (PSA) → prostat\n• Mukus → bulboüretral (Cowper)\n• Semen hafif ALKALİN (vajen asidini nötralize)", "topic": "Fizyoloji · Üreme", "type": "liste", "related_qid": 26},
+    {"front": "Emisyon vs Ejakülasyon?", "back": "Emisyon: vaz deferens + prostat + seminal vezikül kasılması — semen üretraya boşalır (T12-L2 SEMPATİK refleks)\nEjakülasyon: semenin üretradan dışarı atılması (düz kas + iskelet kası)", "topic": "Fizyoloji · Üreme", "type": "tanım", "related_qid": 26},
+    {"front": "Kapsasitasyon nedir ve nerede olur?", "back": "Spermin ovumu döllenebilme yeteneğini kazandığı son maturasyon aşaması. KADIN GENİTAL KANALINDA gerçekleşir (IVF'te in vitro yapılır). Sonra akrozom reaksiyonu izler.", "topic": "Fizyoloji · Üreme", "type": "tanım", "related_qid": 26},
+
+    {"front": "Doğumda artan hormonlar?", "back": "Kortizol (fetal stres), Plasental CRH, Oksitosin, Prostaglandin (PGF2a, PGE2), Östrojen, Relaksin (servikal dilatasyon), Prolaktin (laktasyon hazırlığı)", "topic": "Fizyoloji · Üreme", "type": "liste", "related_qid": 27},
+    {"front": "Doğumda AZALAN hormon? (Tek istisna)", "back": "PROGESTERON — gebelik boyunca uterus kasılmasını engellemişti (Evre 0 sessiz uterus). Doğum öncesi progesteron/östrojen oranı östrojen lehine kayar → kasılmalar başlar.", "topic": "Fizyoloji · Üreme", "type": "tanım", "related_qid": 27},
+    {"front": "Laktasyon: prolaktin vs oksitosin?", "back": "Prolaktin: süt ÜRETİMİ (meme bezinde)\nOksitosin: süt SALINIMI (miyoepitel hücre kasılması, emzirme refleksi)\nGebelikte östrojen/progesteron prolaktini baskılar, plasenta atılınca etkiler.", "topic": "Fizyoloji · Üreme", "type": "eşleştirme", "related_qid": 27},
+
+    {"front": "Hücre içi sıvıyı (HIS) artırmak için hangi solüsyon?", "back": "HİPOTONİK çözelti (%0.45 NaCl, D5W). ESS osmolaritesi düşer → su hücreye geçer → HIS artar.", "topic": "Fizyoloji · Böbrek", "type": "tanım", "related_qid": 28},
+    {"front": "İzotonik çözelti infüzyonu sonucu?", "back": "ESS hacmi artar, osmolarite DEĞİŞMEZ → HIS hacmi DEĞİŞMEZ (suyun hareketi için itici güç yok). Akut kanama/hipovolemi için ilk tercih.", "topic": "Fizyoloji · Böbrek", "type": "tanım", "related_qid": 28},
+    {"front": "Hipertonik çözelti infüzyonu sonucu?", "back": "ESS osmolaritesi yükselir → hücreden ESS'ye su çekilir → HIS azalır, ESS belirgin artar. Şiddetli hiponatremi için kullanılır.", "topic": "Fizyoloji · Böbrek", "type": "tanım", "related_qid": 28},
+
+    {"front": "Oogenez fetal dönem — kritik nokta?", "back": "Oogonium MİTOZU fetal hayatta tamamlanır. Doğumdan sonra yeni oosit ÜRETİLMEZ (erkekten temel fark — spermatogenez yaşam boyu sürer).", "topic": "Fizyoloji · Üreme", "type": "tuzak", "related_qid": 29},
+    {"front": "Oosit havuzu yaşam boyu nasıl değişir?", "back": "20. gebelik haftası: 6-7 milyon\nDoğum: 1-2 milyon\nMenarş: ~400.000\nYaşam boyu OVÜLE: ~400\nGeri kalanı atreziye uğrar", "topic": "Fizyoloji · Üreme", "type": "liste", "related_qid": 29},
+    {"front": "Dominant folikül seçimi mekanizması?", "back": "Her siklusta 5-10 folikül başlar. FSH bağlama kapasitesi en yüksek olan kalır. Diğer foliküller östrojen/inhibin B feedback ile FSH azalınca atreziye uğrar.", "topic": "Fizyoloji · Üreme", "type": "mekanizma", "related_qid": 29},
+    {"front": "LH piki ne zaman ve sonucu?", "back": "Geç foliküler evrede (~13-14. gün) östrojen kritik eşiği aşar → negatif feedback pozitife döner → LH (ve FSH) piki → ovulasyon", "topic": "Fizyoloji · Üreme", "type": "mekanizma", "related_qid": 29}
+  ]
+}

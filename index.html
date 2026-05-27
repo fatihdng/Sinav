@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Modül 4">
+<meta name="theme-color" content="#0f1419">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="icon" type="image/svg+xml" href="icon.svg">
+<title>Modül 4 — Çıkmış Sorular</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app" id="app">
+
+  <!-- HEADER -->
+  <header class="app-header">
+    <div class="header-left">
+      <h1 id="page-title">Modül 4</h1>
+    </div>
+    <div class="header-right">
+      <span class="streak" id="streak-badge">🔥 <span id="streak-days">0</span></span>
+    </div>
+  </header>
+
+  <!-- VIEWS -->
+  <main class="app-main">
+
+    <!-- ANA SAYFA -->
+    <section class="view active" id="view-home">
+      <div class="greeting">
+        <div class="greeting-small">Hoş geldin,</div>
+        <div class="greeting-big" id="greeting-line">çalışmaya başla 💪</div>
+      </div>
+
+      <div class="stat-grid">
+        <div class="stat-card">
+          <div class="stat-label">Tamamlanan</div>
+          <div class="stat-value"><span id="stat-completed">0</span><span class="stat-small">/<span id="stat-total">0</span></span></div>
+          <div class="progress-bar"><div id="progress-completed" style="width: 0%"></div></div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Doğru oranı</div>
+          <div class="stat-value"><span id="stat-accuracy">0</span><span class="stat-small">%</span></div>
+          <div class="progress-bar"><div id="progress-accuracy" style="width: 0%"></div></div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Tekrar bekleyen</div>
+          <div class="stat-value" id="stat-due">0</div>
+          <div class="stat-sub" style="color:var(--accent)">⏰ Flashcard</div>
+        </div>
+        <div class="stat-card error">
+          <div class="stat-label">Yanlış defteri</div>
+          <div class="stat-value" id="stat-mistakes">0</div>
+          <div class="stat-sub">Tekrar et</div>
+        </div>
+      </div>
+
+      <div class="action-grid">
+        <div class="action-card" data-go="questions">
+          <div class="action-emoji">📋</div>
+          <div class="action-text">
+            <div class="action-title">Soru Listesi</div>
+            <div class="action-desc"><span id="action-list-count">0</span> çıkmış soru · konu filtresi</div>
+          </div>
+          <div class="action-arrow">›</div>
+        </div>
+        <div class="action-card" data-go="quiz">
+          <div class="action-emoji">🎯</div>
+          <div class="action-text">
+            <div class="action-title">Quiz Modu</div>
+            <div class="action-desc">10 rastgele soru · sınav simülasyonu</div>
+          </div>
+          <div class="action-arrow">›</div>
+        </div>
+        <div class="action-card" data-go="cards">
+          <div class="action-emoji">🃏</div>
+          <div class="action-text">
+            <div class="action-title">Flashcard</div>
+            <div class="action-desc"><span id="action-cards-count">0</span> kart tekrar bekliyor</div>
+          </div>
+          <div class="action-arrow">›</div>
+        </div>
+        <div class="action-card" data-go="topics">
+          <div class="action-emoji">📚</div>
+          <div class="action-text">
+            <div class="action-title">Konuya Göre Çalış</div>
+            <div class="action-desc">Zayıf konulara odaklan</div>
+          </div>
+          <div class="action-arrow">›</div>
+        </div>
+        <div class="action-card" data-go="mistakes">
+          <div class="action-emoji">⚠️</div>
+          <div class="action-text">
+            <div class="action-title">Yanlış Defteri</div>
+            <div class="action-desc"><span id="action-mistakes-count">0</span> yanlışı tekrar dene</div>
+          </div>
+          <div class="action-arrow">›</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SORU LİSTESİ -->
+    <section class="view" id="view-questions">
+      <div class="filter-bar">
+        <input type="search" id="search-input" placeholder="🔍 Soru veya konu ara..." />
+        <select id="topic-filter">
+          <option value="">Tüm konular</option>
+        </select>
+      </div>
+      <div class="question-list" id="question-list"></div>
+    </section>
+
+    <!-- SORU DETAY -->
+    <section class="view" id="view-detail">
+      <button class="back-btn" data-go="questions">← Soru listesine dön</button>
+      <div id="detail-content"></div>
+    </section>
+
+    <!-- QUIZ -->
+    <section class="view" id="view-quiz">
+      <div id="quiz-content"></div>
+    </section>
+
+    <!-- FLASHCARD -->
+    <section class="view" id="view-cards">
+      <div id="cards-content"></div>
+    </section>
+
+    <!-- KONULAR -->
+    <section class="view" id="view-topics">
+      <h2 class="view-title">Konuya Göre Çalış</h2>
+      <div id="topics-content"></div>
+    </section>
+
+    <!-- YANLIŞ DEFTERİ -->
+    <section class="view" id="view-mistakes">
+      <h2 class="view-title">Yanlış Defteri</h2>
+      <div id="mistakes-content"></div>
+    </section>
+
+  </main>
+
+  <!-- ALT NAVİGASYON -->
+  <nav class="tabs">
+    <button class="tab-btn active" data-go="home">
+      <span class="tab-icon">🏠</span><span class="tab-label">Ana</span>
+    </button>
+    <button class="tab-btn" data-go="questions">
+      <span class="tab-icon">📋</span><span class="tab-label">Sorular</span>
+    </button>
+    <button class="tab-btn" data-go="quiz">
+      <span class="tab-icon">🎯</span><span class="tab-label">Quiz</span>
+    </button>
+    <button class="tab-btn" data-go="cards">
+      <span class="tab-icon">🃏</span><span class="tab-label">Kartlar</span>
+    </button>
+    <button class="tab-btn" data-go="mistakes">
+      <span class="tab-icon">⚠️</span><span class="tab-label">Yanlış</span>
+    </button>
+  </nav>
+
+</div>
+
+<script src="app.js"></script>
+<script>
+  // Service Worker — offline çalışma
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(e => console.warn('SW failed', e));
+    });
+  }
+</script>
+</body>
+</html>

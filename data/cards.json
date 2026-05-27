@@ -1,0 +1,3832 @@
+{
+  "version": "1.0",
+  "total_cards": 425,
+  "last_updated": "2026-05-26",
+  "cards": [
+    {
+      "front": "Lökosit göçü 4 basamağı (sırasıyla)?",
+      "back": "1. Sitokin salınımı\n2. Selektin aracılı yuvarlanma\n3. İntegrin aracılı sıkı tutunma\n4. Kemokin gradyenti + diapedez",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "type": "liste",
+      "related_qid": 1,
+      "id": "manual_001",
+      "source": ""
+    },
+    {
+      "front": "Akut enflamasyonun 6 adımı?",
+      "back": "Tanıma → Toplanma → Salınım → Yok etme → Onarım → Regülasyon",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "type": "liste",
+      "related_qid": 1,
+      "id": "manual_002",
+      "source": ""
+    },
+    {
+      "front": "Septik şokun moleküler nedeni?",
+      "back": "Aşırı pro-inflamatuvar sitokin (TNF-α, IL-1, IL-6) → sistemik vazodilatasyon + ani tansiyon düşmesi",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "type": "tanım",
+      "related_qid": 1,
+      "id": "manual_003",
+      "source": ""
+    },
+    {
+      "front": "Direkt mikroskopinin avantajı / kısıtı?",
+      "back": "✓ Hızlı, kolay, ekonomik; bazen kültürden değerli (dokuda Aspergillus hifleri)\n✗ Kültürden daha az duyarlı — NEGATİF sonuç mantar enfeksiyonunu EKARTE ETMEZ",
+      "topic": "Mikoloji",
+      "type": "tanım",
+      "related_qid": 2,
+      "id": "manual_004",
+      "source": ""
+    },
+    {
+      "front": "Çini mürekkebi preparatı hangi mantar?",
+      "back": "Cryptococcus neoformans — BOS'ta kapsüllü maya görüntülenir (klasik bulgu)",
+      "topic": "Mikoloji",
+      "type": "eşleştirme",
+      "related_qid": 2,
+      "id": "manual_005",
+      "source": ""
+    },
+    {
+      "front": "Dermatofitler hangi deri katmanında?",
+      "back": "Stratum corneum (yüzeyel keratinize tabaka). Artrokonidiyumlar burada çoğalır. Sistemik invazyon YOK.",
+      "topic": "Mikoloji",
+      "type": "tanım",
+      "related_qid": 3,
+      "id": "manual_006",
+      "source": ""
+    },
+    {
+      "front": "Saçlı deride dermatofit yerleşimini engelleyen faktör?",
+      "back": "Ergenlikte değişen yağ asit içeriği (sebum) saçlı deride yerleşimi engeller",
+      "topic": "Mikoloji",
+      "type": "tanım",
+      "related_qid": 3,
+      "id": "manual_007",
+      "source": ""
+    },
+    {
+      "front": "Seksüel mantar sporları?",
+      "back": "Oospor (Oomycetes), Zigospor (Zygomycota), Askospor (kese mantarı), Bazidiyospor (şapkalı). Mayoz ile oluşur.",
+      "topic": "Mikoloji",
+      "type": "liste",
+      "related_qid": 4,
+      "id": "manual_008",
+      "source": ""
+    },
+    {
+      "front": "Aseksüel mantar sporları?",
+      "back": "Sporangiospor (Rhizopus), Blastokonidyum (tomurcuk - Candida), Artrokonidyum (dermatofit), Klamidokonidyum (dayanıklı), Makro/mikrokonidyum. Mitoz ile.",
+      "topic": "Mikoloji",
+      "type": "liste",
+      "related_qid": 4,
+      "id": "manual_009",
+      "source": ""
+    },
+    {
+      "front": "Telemorf vs Anamorf?",
+      "back": "Telemorf = eşeyli (mayoz) şekil. Anamorf = eşeysiz (mitoz). Klinikte ANAMORF adlar kullanılır; telemorf özel lab koşullarında çıkar.",
+      "topic": "Mikoloji",
+      "type": "tanım",
+      "related_qid": 4,
+      "id": "manual_010",
+      "source": ""
+    },
+    {
+      "front": "BCR sinyal iletim molekülü?",
+      "back": "Igα/Igβ heterodimeri (CD79a/b) — ITAM motifleri ile sinyal iletir",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "type": "eşleştirme",
+      "related_qid": 5,
+      "id": "manual_011",
+      "source": ""
+    },
+    {
+      "front": "TCR sinyal iletim molekülü?",
+      "back": "CD3 kompleksi + ζ (zeta) zinciri — TCR tek başına sinyal iletemez",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "type": "eşleştirme",
+      "related_qid": 5,
+      "id": "manual_012",
+      "source": ""
+    },
+    {
+      "front": "BCR vs TCR antijen tanıma farkı?",
+      "back": "BCR: protein, lipid, polisakkarit, nükleik asit doğrudan tanır.\nTCR: SADECE peptid (MHC üzerinde sunulmuş).",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "type": "tanım",
+      "related_qid": 5,
+      "id": "manual_013",
+      "source": ""
+    },
+    {
+      "front": "Antijen tipleri immünojenite sırası?",
+      "back": "Polivalan > Multivalan > Monovalan > Hapten\n(Hapten tek başına immünojen değil — taşıyıcı protein gerekli)",
+      "topic": "İmmünoloji — Antijen",
+      "type": "liste",
+      "related_qid": 6,
+      "id": "manual_014",
+      "source": ""
+    },
+    {
+      "front": "İmmünojeniteyi belirleyen faktörler?",
+      "back": "• Molekül büyüklüğü (>5-10 kDa)\n• Kimyasal kompleksite (protein > polisakkarit > lipid)\n• Yabancılık\n• HLA tipi\n• Doz, yol, adjuvan",
+      "topic": "İmmünoloji — Antijen",
+      "type": "liste",
+      "related_qid": 6,
+      "id": "manual_015",
+      "source": ""
+    },
+    {
+      "front": "CD28 ne yapar?",
+      "back": "T hücresi üzerinde, APC'deki B7 (CD80/86) ile etkileşir → ko-stimülasyon (sinyal 2). Olmazsa T aktive olamaz.",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "type": "tanım",
+      "related_qid": 7,
+      "id": "manual_016",
+      "source": ""
+    },
+    {
+      "front": "CD40L (CD154) ne yapar?",
+      "back": "T üzerinde — APC'deki CD40'ı bağlar → APC daha çok B7 eksprese eder + sitokin salar (dolaylı sinyal artışı)",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "type": "tanım",
+      "related_qid": 7,
+      "id": "manual_017",
+      "source": ""
+    },
+    {
+      "front": "T hücre aktivasyonu 3 sinyal?",
+      "back": "1. TCR + peptid/MHC (sinyal 1)\n2. CD28-B7 ko-stimülasyon (sinyal 2)\n3. Sitokinler (IL-12, IL-1, IL-6) — farklılaşma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "type": "liste",
+      "related_qid": 7,
+      "id": "manual_018",
+      "source": ""
+    },
+    {
+      "front": "MHC-I antijen sunum yolu adımları?",
+      "back": "Ubiquitin → Proteazom → TAP (peptidi ER'ye taşır) → Tapasin (MHC-I + TAP teması) → MHC-I yarığa peptid → yüzeye → CD8+ T'ye sunum",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "type": "mekanizma",
+      "related_qid": 8,
+      "id": "manual_019",
+      "source": ""
+    },
+    {
+      "front": "CLIP nerede ve ne işe yarar?",
+      "back": "MHC Sınıf II yarığını geçici olarak kapatan peptid (yanlış peptid bağlanmasın diye). HLA-DM CLIP'i çıkarır → gerçek peptid bağlanır.",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "type": "tanım",
+      "related_qid": 8,
+      "id": "manual_020",
+      "source": ""
+    },
+    {
+      "front": "İnterferans nedir? (virüs)",
+      "back": "Bir konağı enfekte eden iki virüsten birinin diğerinin çoğalmasını İNHİBE etmesi",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 9,
+      "id": "manual_021",
+      "source": ""
+    },
+    {
+      "front": "Komplementasyon nedir? (virüs)",
+      "back": "Farklı genlerden defektli iki virüsün aynı hücreyi enfekte edip BİRBİRİNİN EKSİĞİNİ TAMAMLAYARAK çoğalması",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 9,
+      "id": "manual_022",
+      "source": ""
+    },
+    {
+      "front": "Transkapsidasyon / Fenotipik maskeleme?",
+      "back": "Bir virüsün GENOMU diğer virüsün KAPSİDİ içine paketlenir → bir nesil 'maske takmış' gibi davranır; sonraki nesilde orijinale döner",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 9,
+      "id": "manual_023",
+      "source": ""
+    },
+    {
+      "front": "Genetik reassortment nedir?",
+      "back": "Segmentli RNA virüslerde (influenza, rotavirüs) iki suş aynı hücrede karşılaşınca SEGMENT değişimi → antijenik shift'in temeli (pandemi)",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 9,
+      "id": "manual_024",
+      "source": ""
+    },
+    {
+      "front": "Helikal kapsid insan virüslerinin özellikleri?",
+      "back": "• Hepsi ZARFLI (paramyxo, ortho, rhabdo, korona, filo, bunya)\n• Sadece RNA genom (DNA helikal insan virüsü YOK)\n• Segmentli (ortho, bunya) veya tek molekül (rhabdo, paramyxo) olabilir\n• Kapsid PROTEİN tekrarı (karbonhidrat değil)",
+      "topic": "Viroloji",
+      "type": "liste",
+      "related_qid": 10,
+      "id": "manual_025",
+      "source": ""
+    },
+    {
+      "front": "Serolojik tanıda kullanılan Ag-Ab reaksiyonları?",
+      "back": "• Presipitasyon (Mancini, Ouchterlony)\n• Aglütinasyon (Wright, Coombs)\n• Kompleman fiksasyonu\n• Nötralizasyon (hücre kültürü)\n• ELISA / RIA / Western blot",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "type": "liste",
+      "related_qid": 11,
+      "id": "manual_026",
+      "source": ""
+    },
+    {
+      "front": "Opsonizasyon serolojik tanıda kullanılır mı?",
+      "back": "HAYIR — opsonizasyon bir EFEKTÖR FONKSİYONDUR (in vivo fagositoz artırma). Serolojik (in vitro) tanıda kullanılmaz.",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "type": "tanım",
+      "related_qid": 11,
+      "id": "manual_027",
+      "source": ""
+    },
+    {
+      "front": "Afinite olgunlaşması nedir?",
+      "back": "Sekonder immün yanıtta antikorların antijene bağlanma gücünün artması (somatik hipermutasyon ile). Primer yanıtta düşük afinite, sekonderde yüksek.",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "type": "tanım",
+      "related_qid": 11,
+      "id": "manual_028",
+      "source": ""
+    },
+    {
+      "front": "Hipersensitivite 4 tipi?",
+      "back": "Tip I: IgE + mast hücre (alerji, anafilaksi)\nTip II: IgM/IgG + hücre yüzey Ag (sitotoksik)\nTip III: İmmün kompleks (vaskülit, SLE, APSGN)\nTip IV: T hücre aracılı (gecikmiş — PPD, TBC)",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "type": "liste",
+      "related_qid": 12,
+      "id": "manual_029",
+      "source": ""
+    },
+    {
+      "front": "ARH ve APSGN hipersensitivite tipleri?",
+      "back": "ARH (Akut Romatizmal Ateş) = Tip II — anti-M antikorları kalp dokusu ile moleküler taklit\nAPSGN = Tip III — streptokok-antikor immün kompleks birikimi",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "type": "eşleştirme",
+      "related_qid": 12,
+      "id": "manual_030",
+      "source": ""
+    },
+    {
+      "front": "Devamlı (continuous) hücre kültürü kaynağı?",
+      "back": "Kanserli dokulardan hazırlanır (HeLa, Vero gibi) — sınırsız pasaj. Rutin viroloji laboratuvarında en sık kullanılan.",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 13,
+      "id": "manual_031",
+      "source": ""
+    },
+    {
+      "front": "Shell vial sistemi avantajı?",
+      "back": "CPE (sitopatik etki) BEKLEMEDEN — 24-48 saatte erken viral antijenleri immünfloresan ile saptar. Klasik kültürden çok daha hızlı.",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 13,
+      "id": "manual_032",
+      "source": ""
+    },
+    {
+      "front": "Kızamık virüsü VAP'i?",
+      "back": "Hemaglütinin (H proteini) — Paramyxoviridae ailesi. F proteini membran füzyonunu sağlar.",
+      "topic": "Viroloji",
+      "type": "eşleştirme",
+      "related_qid": 14,
+      "id": "manual_033",
+      "source": ""
+    },
+    {
+      "front": "Virüs - VAP eşleştirmeleri (notta geçen)?",
+      "back": "Kızamık → Hemaglütinin (H)\nAdenovirüs → Fiber protein\nEBV → gp350/220 (B hücresi CR2/CD21'i tanır)\nHIV → gp120 (CD4)\nReovirüs → Sigma-1",
+      "topic": "Viroloji",
+      "type": "liste",
+      "related_qid": 14,
+      "id": "manual_034",
+      "source": ""
+    },
+    {
+      "front": "MHC-I → hangi T hücreye, hangi antijen?",
+      "back": "MHC-I → CD8+ sitotoksik T hücresine, intrasellüler antijen (virüs, sitozolik bakteri). Sonuç: enfekte hücre öldürülür. Tüm çekirdekli hücrelerde MHC-I var.",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "type": "tanım",
+      "related_qid": 15,
+      "id": "manual_035",
+      "source": ""
+    },
+    {
+      "front": "MHC-II → hangi T hücreye, hangi antijen?",
+      "back": "MHC-II → CD4+ yardımcı T hücresine, ekstrasellüler antijen (fagosite edilen bakteri). Sonuç: B hücresine yardım + makrofaj aktivasyonu. Sadece profesyonel APC'lerde.",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "type": "tanım",
+      "related_qid": 15,
+      "id": "manual_036",
+      "source": ""
+    },
+    {
+      "front": "Çapraz sunum (cross-presentation)?",
+      "back": "Dendritik hücreler fagosite ettikleri ekstrasellüler antijeni MHC-I üzerinde de sunabilir → CD8+ T aktive eder (özellikle virüsler ve tümörler için önemli)",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "type": "tanım",
+      "related_qid": 15,
+      "id": "manual_037",
+      "source": ""
+    },
+    {
+      "front": "HLA gen sınıfları ve ürünleri?",
+      "back": "Sınıf I: HLA-A/B/C → MHC-I (peptid sunum)\nSınıf II: HLA-DP/DQ/DR → MHC-II (peptid sunum)\nSınıf III: kompleman (C2/C4/Faktör B), TNF, HSP — antijen sunumu YOK",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "type": "liste",
+      "related_qid": 16,
+      "id": "manual_038",
+      "source": ""
+    },
+    {
+      "front": "Neden bireyler aynı patojene farklı yanıt verir?",
+      "back": "MHC (HLA) yüksek polimorfizm → kişiden kişiye farklı peptidleri bağlama kapasitesi → farklı T yanıtı kuvveti. Bu bireysel immün varyasyonun ana kaynağıdır.",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "type": "tanım",
+      "related_qid": 16,
+      "id": "manual_039",
+      "source": ""
+    },
+    {
+      "front": "Aşı ile eradike edilebilir patojen özellikleri?",
+      "back": "1. Sadece insan rezervuarı (hayvan yok)\n2. Antijenik stabil (varyasyon yok)\n3. Latent enfeksiyon yapmamalı\n4. Edinsel bağışıklığı kuvvetle uyarmalı\n5. Etkili aşı geliştirilebilmeli",
+      "topic": "İmmünoloji — Aşılama",
+      "type": "liste",
+      "related_qid": 17,
+      "id": "manual_040",
+      "source": ""
+    },
+    {
+      "front": "Aşı teknolojileri sınıfları?",
+      "back": "Canlı atenüe (MMR, OPV), İnaktif (IPV), Alt ünite (HBV, PPSV23), Toksoid (tetanoz, difteri), VLP (HPV - genetik materyal YOK), mRNA (COVID), Konjuge (Hib, PCV)",
+      "topic": "İmmünoloji — Aşılama",
+      "type": "liste",
+      "related_qid": 17,
+      "id": "manual_041",
+      "source": ""
+    },
+    {
+      "front": "Sağlıklı erişkin serumundaki antikorların kaynağı?",
+      "back": "Plazmablastlar + uzun ömürlü plazma hücreleri (kemik iliği nişlerinde). Sürekli IgG salgılarlar.",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "type": "tanım",
+      "related_qid": 18,
+      "id": "manual_042",
+      "source": ""
+    },
+    {
+      "front": "B hücre alt tipleri?",
+      "back": "• Foliküler B2 (T-bağımlı, germinal merkez)\n• Marjinal zon B (dalakta, T-bağımsız polisakkarit)\n• B1 lenfosit (peritoneal/plevral, doğal IgM)\n• Plazmablast / plazma hücresi (antikor üretici)\n• Hafıza B (sessiz, antijenle hızlı yanıt)",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "type": "liste",
+      "related_qid": 18,
+      "id": "manual_043",
+      "source": ""
+    },
+    {
+      "front": "Splenektomi sonrası neden kapsüllü bakteri riski?",
+      "back": "Dalak: (1) Marjinal zon B → T-bağımsız polisakkarit antijenlere hızlı IgM. (2) Opsonize bakteri filtresi. Eksilince S. pneumoniae, Hib, meningokok riski artar.",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "type": "tanım",
+      "related_qid": 18,
+      "id": "manual_044",
+      "source": ""
+    },
+    {
+      "front": "Primer (konjenital) vs sekonder immün yetmezlik kök neden?",
+      "back": "Primer: GENETİK mutasyon (>300 gen)\nSekonder: HIV (dünya), kemoterapi/immünsüpresyon (gelişmiş ülke), malnütrisyon, malignite",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "type": "tanım",
+      "related_qid": 19,
+      "id": "manual_045",
+      "source": ""
+    },
+    {
+      "front": "Sık görülen primer immün yetmezlikler?",
+      "back": "• Bruton (X-bağlı agammaglobulinemi, BTK)\n• Hiper-IgM (CD40L)\n• SCID (T ± B, NK kombine)\n• DiGeorge (22q11, timik aplazi)\n• CGH (fagosit oksidaz)\n• Wiskott-Aldrich, Ataxia-Telanjiektazi",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "type": "liste",
+      "related_qid": 19,
+      "id": "manual_046",
+      "source": ""
+    },
+    {
+      "front": "Retroviridae replikasyon stratejisi?",
+      "back": "ssRNA → revers transkriptaz → RNA-DNA hibridi → çift sarmal cDNA → İNTEGRAZ ile konak genomuna entegre (provirüs) → mRNA transkripsiyonu",
+      "topic": "Viroloji",
+      "type": "mekanizma",
+      "related_qid": 20,
+      "id": "manual_047",
+      "source": ""
+    },
+    {
+      "front": "HIV hangi hücreyi tercihen enfekte eder?",
+      "back": "CD4+ T helper lenfositler (ayrıca makrofaj, dendritik). CD4 reseptör + CCR5/CXCR4 ko-reseptör ile gp120 üzerinden girer.",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 20,
+      "id": "manual_048",
+      "source": ""
+    },
+    {
+      "front": "HBV neden RT inhibitörlerine duyarlı?",
+      "back": "HBV DNA virüsü ama replikasyonunda pregenomik RNA → RT ile yeni DNA sentezler → bu yüzden tenofovir/lamivudin/entekavir hem HIV hem HBV'ye etki eder",
+      "topic": "Viroloji",
+      "type": "tanım",
+      "related_qid": 20,
+      "id": "manual_049",
+      "source": ""
+    },
+    {
+      "front": "C3 yıkım ürünleri 3 işlev?",
+      "back": "C3a → anaflatoksin (enflamasyon, mast hücre)\nC3b → opsonizasyon (fagositik CR1 tanır)\nC3d → humoral yanıt (B hücresi CR2/CD21 üzerinden 2. sinyal)",
+      "topic": "İmmünoloji — Kompleman",
+      "type": "liste",
+      "related_qid": 21,
+      "id": "manual_050",
+      "source": ""
+    },
+    {
+      "front": "Kompleman 3 aktivasyon yolu?",
+      "back": "Klasik (Ag-Ab → C1 → C4 → C2)\nLektin (MBL → MASP → C4 → C2)\nAlternatif (mikrop yüzeyinde spontan C3)\n→ Hepsi C3 konvertazda birleşir → MAC (C5b-9)",
+      "topic": "İmmünoloji — Kompleman",
+      "type": "liste",
+      "related_qid": 21,
+      "id": "manual_051",
+      "source": ""
+    },
+    {
+      "front": "Mantar ökaryot mu? Bakteriden farkı?",
+      "back": "EVET, ökaryot — çekirdek zarı VAR. Bakteriden farkı:\n• Duvar: kitin/glukan/mannan (peptidoglikan YOK)\n• Membran: ERGOSTEROL (insanda kolesterol)\n• 80S ribozom (bakteri 70S)",
+      "topic": "Mikoloji",
+      "type": "tanım",
+      "related_qid": 22,
+      "id": "manual_052",
+      "source": ""
+    },
+    {
+      "front": "Mantar hücre duvarı bileşenleri?",
+      "back": "Kitin (N-asetil glukozamin), Glukan, Mannan — %90 polisakkarit + %10 protein. Şekil ve rijidite verir.",
+      "topic": "Mikoloji",
+      "type": "liste",
+      "related_qid": 22,
+      "id": "manual_053",
+      "source": ""
+    },
+    {
+      "front": "Renin'i düzenleyen 5 faktör?",
+      "back": "1. Perfüzyon basıncı (afferent arteriol, miyojenik)\n2. Makula densaya NaCl girişi\n3. Sempatik β-adrenerjik (↑)\n4. ATII feedback inhibisyonu\n5. Natriüretik peptit (↓)",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "liste",
+      "related_qid": 23,
+      "id": "manual_054",
+      "source": ""
+    },
+    {
+      "front": "RAAS kaskadı sıralaması?",
+      "back": "Renin sentezi → Anjiyotensinojen (Kc) → ATI → ACE ile ATII → vazokonstriksiyon + aldosteron salınımı",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "mekanizma",
+      "related_qid": 23,
+      "id": "manual_055",
+      "source": ""
+    },
+    {
+      "front": "Böbrek innervasyonu — hoca tuzağı?",
+      "back": "Böbrekte SADECE sempatik innervasyon vardır. Parasempatik YOK. Üreter/mesanede parasempatik VAR.",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "tuzak",
+      "related_qid": 23,
+      "id": "manual_056",
+      "source": ""
+    },
+    {
+      "front": "Sertoli hücresi sentezledikleri?",
+      "back": "İnhibin B (FSH'yı baskılar, spermatogenez göstergesi), ABP (androjen bağlayıcı protein), büyüme faktörleri, östradiol (aromataz ile testosterondan)",
+      "topic": "Fizyoloji · Üreme",
+      "type": "liste",
+      "related_qid": 24,
+      "id": "manual_057",
+      "source": ""
+    },
+    {
+      "front": "Leydig hücresi sentezi?",
+      "back": "Testosteron (kolesterolden) — LH ile uyarılır",
+      "topic": "Fizyoloji · Üreme",
+      "type": "tanım",
+      "related_qid": 24,
+      "id": "manual_058",
+      "source": ""
+    },
+    {
+      "front": "FSH ve LH iş bölümü (erkek)?",
+      "back": "FSH → Sertoli hücresini uyarır\nLH → Leydig hücresini uyarır\n(Hocanın 'bilmek önemli' dediği nokta)",
+      "topic": "Fizyoloji · Üreme",
+      "type": "eşleştirme",
+      "related_qid": 24,
+      "id": "manual_059",
+      "source": ""
+    },
+    {
+      "front": "Aldosteron 3 ana etkisi (esas hücreler)?",
+      "back": "1. Bazolateral Na⁺-K⁺-ATPaz ↑\n2. Apikal K⁺ kanal ↑\n3. Apikal ENaC ↑\n(Notta 'ilk üç madde çok önemli' diye vurgulanmış)",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "liste",
+      "related_qid": 25,
+      "id": "manual_060",
+      "source": ""
+    },
+    {
+      "front": "Aldosteron salgısını artıran/azaltan?",
+      "back": "Artıran: Hiperkalemi + ATII\nAzaltan: Hipokalemi + Natriüretik peptit",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "eşleştirme",
+      "related_qid": 25,
+      "id": "manual_061",
+      "source": ""
+    },
+    {
+      "front": "Aldosteron akut vs kronik etki?",
+      "back": "Akut (saatler): Na-K-ATPaz aktive ama K⁺ atılımı HEMEN artmaz\nKronik: K⁺ sekresyonu baskın hale gelir",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "tanım",
+      "related_qid": 25,
+      "id": "manual_062",
+      "source": ""
+    },
+    {
+      "front": "Semen bileşimi (% ve kaynaklar)?",
+      "back": "• Sperm %10 (testis)\n• Fruktoz → seminal vezikül (sperm enerjisi)\n• Proteazlar (PSA) → prostat\n• Mukus → bulboüretral (Cowper)\n• Semen hafif ALKALİN (vajen asidini nötralize)",
+      "topic": "Fizyoloji · Üreme",
+      "type": "liste",
+      "related_qid": 26,
+      "id": "manual_063",
+      "source": ""
+    },
+    {
+      "front": "Emisyon vs Ejakülasyon?",
+      "back": "Emisyon: vaz deferens + prostat + seminal vezikül kasılması — semen üretraya boşalır (T12-L2 SEMPATİK refleks)\nEjakülasyon: semenin üretradan dışarı atılması (düz kas + iskelet kası)",
+      "topic": "Fizyoloji · Üreme",
+      "type": "tanım",
+      "related_qid": 26,
+      "id": "manual_064",
+      "source": ""
+    },
+    {
+      "front": "Kapsasitasyon nedir ve nerede olur?",
+      "back": "Spermin ovumu döllenebilme yeteneğini kazandığı son maturasyon aşaması. KADIN GENİTAL KANALINDA gerçekleşir (IVF'te in vitro yapılır). Sonra akrozom reaksiyonu izler.",
+      "topic": "Fizyoloji · Üreme",
+      "type": "tanım",
+      "related_qid": 26,
+      "id": "manual_065",
+      "source": ""
+    },
+    {
+      "front": "Doğumda artan hormonlar?",
+      "back": "Kortizol (fetal stres), Plasental CRH, Oksitosin, Prostaglandin (PGF2a, PGE2), Östrojen, Relaksin (servikal dilatasyon), Prolaktin (laktasyon hazırlığı)",
+      "topic": "Fizyoloji · Üreme",
+      "type": "liste",
+      "related_qid": 27,
+      "id": "manual_066",
+      "source": ""
+    },
+    {
+      "front": "Doğumda AZALAN hormon? (Tek istisna)",
+      "back": "PROGESTERON — gebelik boyunca uterus kasılmasını engellemişti (Evre 0 sessiz uterus). Doğum öncesi progesteron/östrojen oranı östrojen lehine kayar → kasılmalar başlar.",
+      "topic": "Fizyoloji · Üreme",
+      "type": "tanım",
+      "related_qid": 27,
+      "id": "manual_067",
+      "source": ""
+    },
+    {
+      "front": "Laktasyon: prolaktin vs oksitosin?",
+      "back": "Prolaktin: süt ÜRETİMİ (meme bezinde)\nOksitosin: süt SALINIMI (miyoepitel hücre kasılması, emzirme refleksi)\nGebelikte östrojen/progesteron prolaktini baskılar, plasenta atılınca etkiler.",
+      "topic": "Fizyoloji · Üreme",
+      "type": "eşleştirme",
+      "related_qid": 27,
+      "id": "manual_068",
+      "source": ""
+    },
+    {
+      "front": "Hücre içi sıvıyı (HIS) artırmak için hangi solüsyon?",
+      "back": "HİPOTONİK çözelti (%0.45 NaCl, D5W). ESS osmolaritesi düşer → su hücreye geçer → HIS artar.",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "tanım",
+      "related_qid": 28,
+      "id": "manual_069",
+      "source": ""
+    },
+    {
+      "front": "İzotonik çözelti infüzyonu sonucu?",
+      "back": "ESS hacmi artar, osmolarite DEĞİŞMEZ → HIS hacmi DEĞİŞMEZ (suyun hareketi için itici güç yok). Akut kanama/hipovolemi için ilk tercih.",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "tanım",
+      "related_qid": 28,
+      "id": "manual_070",
+      "source": ""
+    },
+    {
+      "front": "Hipertonik çözelti infüzyonu sonucu?",
+      "back": "ESS osmolaritesi yükselir → hücreden ESS'ye su çekilir → HIS azalır, ESS belirgin artar. Şiddetli hiponatremi için kullanılır.",
+      "topic": "Fizyoloji · Böbrek",
+      "type": "tanım",
+      "related_qid": 28,
+      "id": "manual_071",
+      "source": ""
+    },
+    {
+      "front": "Oogenez fetal dönem — kritik nokta?",
+      "back": "Oogonium MİTOZU fetal hayatta tamamlanır. Doğumdan sonra yeni oosit ÜRETİLMEZ (erkekten temel fark — spermatogenez yaşam boyu sürer).",
+      "topic": "Fizyoloji · Üreme",
+      "type": "tuzak",
+      "related_qid": 29,
+      "id": "manual_072",
+      "source": ""
+    },
+    {
+      "front": "Oosit havuzu yaşam boyu nasıl değişir?",
+      "back": "20. gebelik haftası: 6-7 milyon\nDoğum: 1-2 milyon\nMenarş: ~400.000\nYaşam boyu OVÜLE: ~400\nGeri kalanı atreziye uğrar",
+      "topic": "Fizyoloji · Üreme",
+      "type": "liste",
+      "related_qid": 29,
+      "id": "manual_073",
+      "source": ""
+    },
+    {
+      "front": "Dominant folikül seçimi mekanizması?",
+      "back": "Her siklusta 5-10 folikül başlar. FSH bağlama kapasitesi en yüksek olan kalır. Diğer foliküller östrojen/inhibin B feedback ile FSH azalınca atreziye uğrar.",
+      "topic": "Fizyoloji · Üreme",
+      "type": "mekanizma",
+      "related_qid": 29,
+      "id": "manual_074",
+      "source": ""
+    },
+    {
+      "front": "LH piki ne zaman ve sonucu?",
+      "back": "Geç foliküler evrede (~13-14. gün) östrojen kritik eşiği aşar → negatif feedback pozitife döner → LH (ve FSH) piki → ovulasyon",
+      "topic": "Fizyoloji · Üreme",
+      "type": "mekanizma",
+      "related_qid": 29,
+      "id": "manual_075",
+      "source": ""
+    },
+    {
+      "id": "card_1_1_P1_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Akut enflamasyonun 6 adımı sıralaması — hoca neyi vurguladı?",
+      "back": "Notta birebir 6 adım listelenmiş. Orijinal soru sıralama tarzında.",
+      "related_qid": 1,
+      "related_pid": "1_P1"
+    },
+    {
+      "id": "card_1_1_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "Akut enflamasyonun 6 adımı sıralaması",
+      "back": "<b>Cevap: A</b> · III – V – I – II – IV – VI\n\nNotta birebir sıra: Tanıma → Toplanma → Salınım → Yok etme → Onarım → Regülasyon. (1) Tanıma uyaranı algılar, (2) toplanma sitokin gradyenti, (3) salınım damar geçirgenliği, (4) fagositozla yok etme, (5) ekstraselüler…",
+      "related_qid": 1,
+      "related_pid": "1_P1"
+    },
+    {
+      "id": "card_1_1_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "CGH (kronik granülomatöz hastalık) — fagosit oksidaz eksikliği",
+      "back": "<b>Cevap: E</b> · İndüklenebilir nitrik oksit sentaz (iNOS) eksikliğinden kaynaklanır.\n\nCGH fagosit oksidaz (ROS üretimi) eksikliğidir. Fagositler mikrobu alır ama oksidatif öldürme yapamaz → granülom oluşur. iNOS ayrı bir öldürme yolağıdır, CGH ile ilgisizdir.",
+      "related_qid": 1,
+      "related_pid": "1_P2"
+    },
+    {
+      "id": "card_1_1_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Lökosit kaskadı moleküler basamaklar (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen selektin/integrin/kemokin etkilerinin ayrı ayrı sınırlandırılması.",
+      "related_qid": 1,
+      "related_pid": "1_P3"
+    },
+    {
+      "id": "card_1_1_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Enflamasyonun sistemik etkileri ve septik şok (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen sistemik etkiler + iNOS detayı.",
+      "related_qid": 1,
+      "related_pid": "1_P4"
+    },
+    {
+      "id": "card_1_1_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Enflamasyonun 5 klasik bulgusu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: Akut enflamasyon klasik 5 bulgu — kızarıklık (rubor), ısı artışı (calor), şişlik (tumor), ağrı (dolor), fonksiyon kaybı (functio laesa).",
+      "related_qid": 1,
+      "related_pid": "1_P5"
+    },
+    {
+      "id": "card_1_1_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "Enflamasyonun 5 klasik bulgusu (notta birebir)",
+      "back": "<b>Cevap: E</b> · Fonksiyon kaybı (functio laesa) sadece kronik enflamasyona özgüdür, akutta görülmez.\n\nAkut enflamasyonun beş klasik bulgusunun beşincisi fonksiyon kaybı (functio laesa)dır ve akut enflamasyonun da bir özelliğidir (örn. eklem enflamasyonunda hareket kısıtlılığı, akut tonsillitte yutma güçlüğü). Diğer 4…",
+      "related_qid": 1,
+      "related_pid": "1_P5"
+    },
+    {
+      "id": "card_1_1_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Enflamasyonun adım 5 — onarım (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Onarım — ekstraselüler matriks onarımı, hasarlı bölgenin tamir edilmesi.\"",
+      "related_qid": 1,
+      "related_pid": "1_P6"
+    },
+    {
+      "id": "card_1_1_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "Enflamasyonun adım 5 — onarım (notta birebir)",
+      "back": "<b>Cevap: B</b> · Hasarlı bölgede ekstraselüler matriks (bağ doku) bileşenleri yeniden üretilerek doku bütünlüğü sağlanır.\n\nNotta birebir: enflamasyonun 6 adımı içinde 5. adım onarımtır ve hasarlanan bölgenin ekstraselüler matriksinin yeniden üretilmesini içerir. Onarım fagositozdan (yok etme) sonra gelir, doku bütünlüğü için anjiogenez ve…",
+      "related_qid": 1,
+      "related_pid": "1_P6"
+    },
+    {
+      "id": "card_1_1_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Doğal bağışıklığın enflamasyondaki rolü (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: enflamasyon doğal bağışıklığın bir parçasıdır; yerleşik makrofajlar ve nötrofiller başlıca hücrelerdir.",
+      "related_qid": 1,
+      "related_pid": "1_P7"
+    },
+    {
+      "id": "card_1_1_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "Doğal bağışıklığın enflamasyondaki rolü (notta birebir)",
+      "back": "<b>Cevap: E</b> · Akut enflamasyonu yürüten temel hücreler edinsel sistemin sitotoksik CD8+ T lenfositleridir.\n\nNotta birebir: enflamasyon doğal bağışıklığın bir bileşenidir; başlıca hücreleri dokuda yerleşik makrofajlar ve dolaşımdan göç eden nötrofillerdir. CD8+ sitotoksik T hücreleri edinsel bağışıklığın hücreleridir ve esas…",
+      "related_qid": 1,
+      "related_pid": "1_P7"
+    },
+    {
+      "id": "card_1_1_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Doğal Bağışıklık",
+      "front": "⚠️ Enflamasyonun regülasyon (sonlanma) basamağı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen 6. basamak (regülasyon) + IL-10 ve IL-1 RA dipnotu.",
+      "related_qid": 1,
+      "related_pid": "1_P8"
+    },
+    {
+      "id": "card_2_2_P1_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar tanı yöntemleri — genel",
+      "back": "<b>Cevap: D</b> · Galaktomannan antijeni Cryptococcus enfeksiyonlarında serum tanısında kullanılır.\n\nGalaktomannan Aspergillus için kullanılır, Cryptococcus için değil. Cryptococcus'ta kapsül polisakkarit antijeni (lateks aglütinasyonu) ve çini mürekkebi preparatı kullanılır.",
+      "related_qid": 2,
+      "related_pid": "2_P1"
+    },
+    {
+      "id": "card_2_2_P2_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Spesifik mantar tanı yöntemi — notta birebir eşleştirme — hoca neyi vurguladı?",
+      "back": "Notta birebir geçen mantar tanı yöntemleri.",
+      "related_qid": 2,
+      "related_pid": "2_P2"
+    },
+    {
+      "id": "card_2_2_P2_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Spesifik mantar tanı yöntemi — notta birebir eşleştirme",
+      "back": "<b>Cevap: E</b> · Direkt mikroskopi negatif sonuç → mantar enfeksiyonu kesin olarak ekarte edilir.\n\nNotta birebir: \"Direkt mikroskopi kültürden DAHA AZ DUYARLI. Direkt mikroskopi NEGATİF ise mantar enfeksiyonu EKARTE EDİLEMEZ.\" Diğer 4 eşleştirme notta birebir geçer (çini mürekkebi-kapsüllü maya, Aspergillus hifleri,…",
+      "related_qid": 2,
+      "related_pid": "2_P2"
+    },
+    {
+      "id": "card_2_2_P3_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Çini mürekkebi preparatı — Cryptococcus (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"BOS'un çini mürekkebi preparatında kapsüllü maya görülmesi\" — Cryptococcus için.",
+      "related_qid": 2,
+      "related_pid": "2_P3"
+    },
+    {
+      "id": "card_2_2_P4_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Aspergillus enfeksiyon mekanizmaları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen Aspergillus özelliklerinin detayı.",
+      "related_qid": 2,
+      "related_pid": "2_P4"
+    },
+    {
+      "id": "card_2_2_P5_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Direkt mikroskopi avantajları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Zaman kazandırıcı, kolay, en hızlı, en ekonomik.\"",
+      "related_qid": 2,
+      "related_pid": "2_P5"
+    },
+    {
+      "id": "card_2_2_P5_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Direkt mikroskopi avantajları (notta birebir)",
+      "back": "<b>Cevap: E</b> · Duyarlılığı kültürden daha yüksektir; bu nedenle altın standart kabul edilir.\n\nNotta birebir: \"Direkt mikroskobi kültürden DAHA AZ DUYARLIdır.\" Hızlı, kolay, ekonomik ve bazen kültürden değerli (özellikle doku Aspergillus hifleri için) olmasına rağmen, altın standart kültürdür. Direkt mikroskopi…",
+      "related_qid": 2,
+      "related_pid": "2_P5"
+    },
+    {
+      "id": "card_2_2_P6_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Sabouraud dekstroz agarı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Kültür: Sabouraud dekstroz agarı (mantar selektif).\"",
+      "related_qid": 2,
+      "related_pid": "2_P6"
+    },
+    {
+      "id": "card_2_2_P6_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Sabouraud dekstroz agarı (notta birebir)",
+      "back": "<b>Cevap: C</b> · Sabouraud dekstroz agarı\n\nNotta birebir: Sabouraud dekstroz agarı mantarlar için seçici besiyeridir; düşük pH ve yüksek glukoz içeriği ile bakteri üremesi sınırlandırılır. Kanlı/çikolata agar bakteri için, McConkey gram negatif enterik için,…",
+      "related_qid": 2,
+      "related_pid": "2_P6"
+    },
+    {
+      "id": "card_2_2_P7_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Serolojik antijen testleri (notta birebir eşleştirme) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Seroloji: Galaktomannan (Aspergillus), beta-D-glucan, kapsül antijeni (Cryptococcus).\"",
+      "related_qid": 2,
+      "related_pid": "2_P7"
+    },
+    {
+      "id": "card_2_2_P7_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Serolojik antijen testleri (notta birebir eşleştirme)",
+      "back": "<b>Cevap: C</b> · Galaktomannan antijeni — Aspergillus enfeksiyonu\n\nNotta birebir: Galaktomannan → Aspergillus; kapsül polisakkarit antijeni → Cryptococcus neoformans; beta-D-glucan birçok mantar (Candida, Aspergillus, Pneumocystis) için ortak pan-fungal belirteçtir, sadece…",
+      "related_qid": 2,
+      "related_pid": "2_P7"
+    },
+    {
+      "id": "card_2_2_P8_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ KOH preparatı ve histopatolojik boyalar (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen mantar boyaları (KOH, çini mürekkebi, calcofluor white, GMS/PAS) ve özel kullanım alanları.",
+      "related_qid": 2,
+      "related_pid": "2_P8"
+    },
+    {
+      "id": "card_3_3_P1_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar virülans faktörleri (hoca \"güzel sorular çıkar\" dipnotu) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hoca virülans faktörlerinden güzel sorular çıkabileceğini söyledi. Biyofilm, melanin, 37°C üreme üzerinde durdu.\"",
+      "related_qid": 3,
+      "related_pid": "3_P1"
+    },
+    {
+      "id": "card_3_3_P1_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar virülans faktörleri (hoca \"güzel sorular çıkar\" dipnotu)",
+      "back": "<b>Cevap: D</b> · Histoplasma capsulatum fagozom pH'ını asitleştirerek lizozomal enzimleri aktive eder.\n\nHistoplasma fagozom pH'ını NÖTRALİZE EDER (asitleştirmez), lizozomal enzimler aktive olamaz, makrofaj içinde sağ kalır.",
+      "related_qid": 3,
+      "related_pid": "3_P1"
+    },
+    {
+      "id": "card_3_3_P2_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Th17 yanıtı / Kronik Mukokütanöz Kandidoz — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Th17 yolağı defektlerinde KMK görülür.\"",
+      "related_qid": 3,
+      "related_pid": "3_P2"
+    },
+    {
+      "id": "card_3_3_P2_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Th17 yanıtı / Kronik Mukokütanöz Kandidoz",
+      "back": "<b>Cevap: C</b> · Th17 yanıtı (IL-17/IL-22 aracılı)\n\nTh17 hücreleri IL-17/IL-22 salgılayarak epitelde antimikrobiyal peptit salınımı ve nötrofil kemotaksisini uyarır. Th17 defektinde KMK gelişir.",
+      "related_qid": 3,
+      "related_pid": "3_P2"
+    },
+    {
+      "id": "card_3_3_P3_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Dermatofit patogenezi — birebir not maddeleri — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen 7 dermatofit özelliği — ince ayrımla negatif kalıp.",
+      "related_qid": 3,
+      "related_pid": "3_P3"
+    },
+    {
+      "id": "card_3_3_P4_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar enfeksiyon sınıflandırması — derinlik düzeyleri — hoca neyi vurguladı?",
+      "back": "Zor: Sistematik mikoloji bilgisi + sınıflandırma.",
+      "related_qid": 3,
+      "related_pid": "3_P4"
+    },
+    {
+      "id": "card_3_3_P5_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Dermatofit bulaşı ve cilt bütünlüğü (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Bulaş, sporları aracılığı ile olur. Deri bütünlüğü bozulması yerleşimi kolaylaştırır.\"",
+      "related_qid": 3,
+      "related_pid": "3_P5"
+    },
+    {
+      "id": "card_3_3_P5_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Dermatofit bulaşı ve cilt bütünlüğü (notta birebir)",
+      "back": "<b>Cevap: E</b> · Dermatofitler tipik olarak kan dolaşımına geçerek viseral organları tutar.\n\nNotta birebir: dermatofitler yüzeyel kutanöz enfeksiyon etkenleridir ve artrokonidiyumları stratum corneum tabakasında çoğalır; sistemik (kan yoluyla yayılım, viseral organ tutulumu) yapmazlar. Diğer 4 ifade notta…",
+      "related_qid": 3,
+      "related_pid": "3_P5"
+    },
+    {
+      "id": "card_3_3_P6_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar dimorfizmi ve maya-hif dönüşümü (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Maya-hif dönüşümü\" ve \"Dimorfizm\" virülans faktörü olarak listelenmiştir.",
+      "related_qid": 3,
+      "related_pid": "3_P6"
+    },
+    {
+      "id": "card_3_3_P6_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar dimorfizmi ve maya-hif dönüşümü (notta birebir)",
+      "back": "<b>Cevap: A</b> · Dimorfizm mantarların virülans faktörlerinden biri olarak değerlendirilir.\n\nNotta birebir: Dimorfizm ve maya-hif dönüşümü mantar virülans faktörleri listesindedir. Histoplasma gibi dimorfik mantarlar çevrede küf, dokuda maya olarak bulunur (37°C'de form değiştirirler). Candida da doku…",
+      "related_qid": 3,
+      "related_pid": "3_P6"
+    },
+    {
+      "id": "card_3_3_P7_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Hocanın öne çıkardığı 3 virülans faktör (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hoca virülans faktörlerinden güzel sorular çıkabileceğini söyledi. Biyofilm, melanin, 37°C üreme üzerinde durdu.\"",
+      "related_qid": 3,
+      "related_pid": "3_P7"
+    },
+    {
+      "id": "card_3_3_P7_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Hocanın öne çıkardığı 3 virülans faktör (notta birebir)",
+      "back": "<b>Cevap: B</b> · Biyofilm, melanin, 37°C'de üreme\n\nNotta birebir hoca vurgusu: biyofilm, melanin, 37°C'de üreme. Biyofilm antifungal/antikor penetrasyonunu engeller; melanin oksidatif strese karşı korur (Cryptococcus); 37°C'de üreme primer patojen olabilmenin temel…",
+      "related_qid": 3,
+      "related_pid": "3_P7"
+    },
+    {
+      "id": "card_3_3_P8_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Th yanıtları — mantarda hangi T helper koruyucu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir Th1 / Th17 / Th2 ayrımı + mantar enfeksiyonu eşleştirmesi.",
+      "related_qid": 3,
+      "related_pid": "3_P8"
+    },
+    {
+      "id": "card_4_4_P1_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar üreme yolu sınıflandırması",
+      "back": "<b>Cevap: E</b> · Eşeysiz üreme mitoz ile gerçekleşir.\n\nNotta birebir: \"Eşeysiz üreme — mitoz — aseksüel sporlar\". Eşeyli üreme mayozla, telemorf eşeyli şekildir, klinikte ANAMORF (eşeysiz) adlar kullanılır, sporangiospor aseksüeldir.",
+      "related_qid": 4,
+      "related_pid": "4_P1"
+    },
+    {
+      "id": "card_4_4_P2_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Aseksüel spor tipleri — yapı eşleştirme",
+      "back": "<b>Cevap: E</b> · Mikrokonidyum — birden çok hücreli büyük spor\n\nMikrokonidyum TEK HÜCRELİ küçük spordur. Büyük çok hücreli olan makrokonidyumdur. Diğer eşleştirmeler doğrudur.",
+      "related_qid": 4,
+      "related_pid": "4_P2"
+    },
+    {
+      "id": "card_4_4_P3_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Telemorf-Anamorf ikilemi (klinik önemi) — hoca neyi vurguladı?",
+      "back": "Zor: Klinik uygulama + isimlendirme + lab pratiği.",
+      "related_qid": 4,
+      "related_pid": "4_P3"
+    },
+    {
+      "id": "card_4_4_P4_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Spor tipi → cins eşleştirmesi (klinik mikoloji) — hoca neyi vurguladı?",
+      "back": "Zor: Sistematik bilgi + tanı kavşağı.",
+      "related_qid": 4,
+      "related_pid": "4_P4"
+    },
+    {
+      "id": "card_4_4_P5_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Seksüel spor tipleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"SEKSÜEL SPORLAR: Zigospor (Zygomycota), Askospor (Ascomycota), Bazidiyospor (Basidiomycota), Oospor (Oomycota).\"",
+      "related_qid": 4,
+      "related_pid": "4_P5"
+    },
+    {
+      "id": "card_4_4_P5_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Seksüel spor tipleri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Blastokonidyum — Basidiomycota seksüel sporudur.\n\nNotta birebir: Blastokonidyum ASEKSÜEL spordur (tomurcuklanma ile, maya/Candida). Bazidiyospor Basidiomycota'nın seksüel sporudur. Diğer 4 seksüel spor — grup eşleştirmesi notla birebir uyumludur.",
+      "related_qid": 4,
+      "related_pid": "4_P5"
+    },
+    {
+      "id": "card_4_4_P6_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Sporun tanımı ve önemi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Sporlar mantarların üreme elemanlarıdır.\"",
+      "related_qid": 4,
+      "related_pid": "4_P6"
+    },
+    {
+      "id": "card_4_4_P6_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Sporun tanımı ve önemi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Sporlar mantarların üreme elemanlarıdır.\n\nNotta birebir: \"Sporlar mantarların üreme elemanlarıdır.\" Sporlar hem eşeyli (mayoz — seksüel) hem eşeysiz (mitoz — aseksüel) üremede oluşabilir. Spor tek hücreli olabileceği gibi çok hücreli (makrokonidyum) da…",
+      "related_qid": 4,
+      "related_pid": "4_P6"
+    },
+    {
+      "id": "card_4_4_P7_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Konidyum vs Sporangiospor (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Konidyum: Artro/Klamido/Blasto/Makro/Mikrokonidyum\" ve \"Sporangiospor (sporangium içinde)\".",
+      "related_qid": 4,
+      "related_pid": "4_P7"
+    },
+    {
+      "id": "card_4_4_P7_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Konidyum vs Sporangiospor (notta birebir)",
+      "back": "<b>Cevap: C</b> · Sporangiosporlar bir kesecik (sporangium) içinde oluşan aseksüel sporlardır (örn. Rhizopus); konidyumlar ise kesecik içinde değil, konidiofor üzerinde doğrudan dışarıda oluşan aseksüel sporlardır.\n\nNotta birebir: Sporangiospor sporangium içinde (Rhizopus); konidyum (artro, klamido, blasto, makro, mikro) sporangium dışında konidiofor üzerinde oluşur. Her iki tip de aseksüeldir. Mikrokonidyum bir sporangiospor değil…",
+      "related_qid": 4,
+      "related_pid": "4_P7"
+    },
+    {
+      "id": "card_4_4_P8_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Aseksüel vs seksüel üreme — mekanizma + klinik isimlendirme — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen mitoz/mayoz + telemorf-anamorf isimlendirme + klinik laboratuvar uygulaması.",
+      "related_qid": 4,
+      "related_pid": "4_P8"
+    },
+    {
+      "id": "card_5_5_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "Sinyal iletimi yardımcı molekülleri (notta birebir)",
+      "back": "<b>Cevap: C</b> · BCR — Igα/Igβ heterodimeri\n\nNotta birebir: BCR sinyal iletimi Igα/Igβ heterodimeri ile. TCR sinyal iletimi CD3 kompleksi ile. CR2 (CD21) B hücresinin C3d bağlayan ko-reseptörüdür (notta birebir geçer). BCR ve TCR sinyal için yardımcı moleküle…",
+      "related_qid": 5,
+      "related_pid": "5_P1"
+    },
+    {
+      "id": "card_5_5_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "B hücresine özgü süreçler",
+      "back": "<b>Cevap: B</b> · Salgısal antikor üretimi ve izotip dönüşümü\n\nSalgısal Ig + izotip dönüşümü (IgM → IgG/A/E) sadece B hücresinde. MHC üzerinde peptid tanıma TCR'nin işidir. Sitotoksik granüller CD8+ T ve NK'da. CD4/CD8 T hücre ko-reseptörleridir.",
+      "related_qid": 5,
+      "related_pid": "5_P2"
+    },
+    {
+      "id": "card_5_5_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ X-bağlı agammaglobulinemi (Bruton) — klinik vinyet — hoca neyi vurguladı?",
+      "back": "Zor: BCR sinyalleme + primer immün yetmezlik.",
+      "related_qid": 5,
+      "related_pid": "5_P3"
+    },
+    {
+      "id": "card_5_5_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ BCR ve TCR antijen tanıma kapsamı farkı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"B vs T tanıma yelpazesi\" detayı.",
+      "related_qid": 5,
+      "related_pid": "5_P4"
+    },
+    {
+      "id": "card_5_5_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ BCR ve TCR salgısal form farkı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: BCR salgısal forma (serbest antikor) sahiptir; TCR sadece membrana bağlıdır.",
+      "related_qid": 5,
+      "related_pid": "5_P5"
+    },
+    {
+      "id": "card_5_5_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "BCR ve TCR salgısal form farkı (notta birebir)",
+      "back": "<b>Cevap: B</b> · BCR salgısal forma sahiptir (plazma hücresinden serbest antikor olarak salgılanır); TCR'nin salgısal formu yoktur, sadece membrana bağlıdır.\n\nNotta birebir: BCR'nin salgısal formu vardır — plazma hücresine farklılaşan B hücresi membran-bağlı Ig'yi salgısal Ig'ye (antikor) çevirir. TCR ise her zaman membrana bağlıdır; serbest TCR (salgısal form) yoktur.…",
+      "related_qid": 5,
+      "related_pid": "5_P5"
+    },
+    {
+      "id": "card_5_5_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ İzotip dönüşümü ve afinite olgunlaşması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: İzotip dönüşümü ve afinite olgunlaşması sadece B hücrelerinde.",
+      "related_qid": 5,
+      "related_pid": "5_P6"
+    },
+    {
+      "id": "card_5_5_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "İzotip dönüşümü ve afinite olgunlaşması (notta birebir)",
+      "back": "<b>Cevap: D</b> · T lenfositlerinin reseptörlerinde de izotip dönüşümü ve afinite olgunlaşması olur.\n\nNotta birebir: İzotip dönüşümü ve afinite olgunlaşması SADECE B hücrelerinde. T hücrelerinde bu süreçler yoktur; TCR genleri timusta seçildikten sonra değişmez. Diğer 4 ifade notla uyumludur.",
+      "related_qid": 5,
+      "related_pid": "5_P6"
+    },
+    {
+      "id": "card_5_5_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ BCR ve TCR ortak özellikleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"ORTAK: Antijen tanır; klonal dağılım; sinyal iletimi için yardımcı moleküllere ihtiyaç var.\"",
+      "related_qid": 5,
+      "related_pid": "5_P7"
+    },
+    {
+      "id": "card_5_5_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "BCR ve TCR ortak özellikleri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Her iki reseptör de klonal dağılım gösterir (her hücrede tek tip reseptör) ve sinyal iletimi için yardımcı moleküllere ihtiyaç duyar.\n\nNotta birebir: BCR ve TCR'nin ortak özellikleri: antijen tanıma, klonal dağılım (her hücrede tek tip reseptör), sinyal iletimi için yardımcı moleküllere ihtiyaç (BCR için Igα/Igβ, TCR için CD3+ζ). Salgısal form, izotip…",
+      "related_qid": 5,
+      "related_pid": "5_P7"
+    },
+    {
+      "id": "card_5_5_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen Reseptörleri",
+      "front": "⚠️ TCR antijen tanıma şartı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen TCR'nin peptid + MHC olarak antijeni tanıma zorunluluğu.",
+      "related_qid": 5,
+      "related_pid": "5_P8"
+    },
+    {
+      "id": "card_6_6_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen",
+      "front": "Antijen tipi tanımları",
+      "back": "<b>Cevap: C</b> · Multivalan antijen — tek tip epitoptan çok sayıda tekrar içerir.\n\nNotta birebir: \"Multivalan antijenler tek epitoptan çok sayıda tekrar epitop içerir.\" Hapten tek başına immünojen değildir; monovalan tek epitop; polivalan farklı tipte çok sayıda epitop.",
+      "related_qid": 6,
+      "related_pid": "6_P1"
+    },
+    {
+      "id": "card_6_6_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen",
+      "front": "İmmünojeniteyi belirleyen faktörler",
+      "back": "<b>Cevap: E</b> · Molekülün renksiz ve kokusuz olması\n\nRenk/koku immünojenite ile ilgisizdir. Diğer 4 ifade temel immünojenite belirleyicileridir: büyüklük, kompleksite, yabancılık, HLA + doz, yol, adjuvan.",
+      "related_qid": 6,
+      "related_pid": "6_P2"
+    },
+    {
+      "id": "card_6_6_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ Hapten - taşıyıcı ilişkisi (klinik vinyet) — hoca neyi vurguladı?",
+      "back": "Zor: İlaç alerjisi + hapten konsepti.",
+      "related_qid": 6,
+      "related_pid": "6_P3"
+    },
+    {
+      "id": "card_6_6_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ Antijen-immün yanıt kuvveti faktörleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"antikor cevabı daha kuvvetli olur\" faktörleri.",
+      "related_qid": 6,
+      "related_pid": "6_P4"
+    },
+    {
+      "id": "card_6_6_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ Polivalan antijen tanımı ve mikroorganizmalar (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Mikroorganizmalar polivalan antijenler taşırlar.\"",
+      "related_qid": 6,
+      "related_pid": "6_P5"
+    },
+    {
+      "id": "card_6_6_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen",
+      "front": "Polivalan antijen tanımı ve mikroorganizmalar (notta birebir)",
+      "back": "<b>Cevap: E</b> · Mikroorganizmalar tek epitoplu monovalan antijenler taşır.\n\nNotta birebir: \"Mikroorganizmalar polivalan antijenler taşırlar.\" Polivalan farklı tipte ve çeşitten çok sayıda epitop içerdiği için en güçlü immün yanıtı uyarır. Monovalan tek epitopludur ve çapraz bağlanma yapamadığı…",
+      "related_qid": 6,
+      "related_pid": "6_P5"
+    },
+    {
+      "id": "card_6_6_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ Hapten temel özellikleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"HAPTEN: Tek başına immünojen DEĞİL; taşıyıcı proteine bağlanırsa immünojen olur.\"",
+      "related_qid": 6,
+      "related_pid": "6_P6"
+    },
+    {
+      "id": "card_6_6_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen",
+      "front": "Hapten temel özellikleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Hapten tek başına immünojen değildir; bir taşıyıcı proteine kovalan bağlandıktan sonra immün yanıt uyarabilir.\n\nNotta birebir: \"Hapten tek başına immünojen değildir; taşıyıcı proteine bağlanırsa immünojen olur.\" Haptenler genelde küçük moleküllerdir (ör. ilaç metabolitleri, küçük kimyasallar). Bağlandığı taşıyıcıya karşı da…",
+      "related_qid": 6,
+      "related_pid": "6_P6"
+    },
+    {
+      "id": "card_6_6_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ PAMP kavramı ve doğal bağışıklık (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: PAMP — patojen ilişkili moleküler patern, doğal bağışıklığın hedefi.",
+      "related_qid": 6,
+      "related_pid": "6_P7"
+    },
+    {
+      "id": "card_6_6_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Antijen",
+      "front": "PAMP kavramı ve doğal bağışıklık (notta birebir)",
+      "back": "<b>Cevap: D</b> · Antijenler ve PAMP'lar tamamen örtüşür; her antijen aynı zamanda bir PAMP'tır.\n\nPAMP ve antijen kavramları tamamen örtüşmez. PAMP doğal bağışıklığın hedeflediği korunmuş mikrobiyal yapılardır (LPS, beta-glukan vs). Antijen ise edinsel bağışıklığın B/T reseptörleri tarafından tanınan herhangi bir…",
+      "related_qid": 6,
+      "related_pid": "6_P7"
+    },
+    {
+      "id": "card_6_6_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Antijen",
+      "front": "⚠️ İmmünojeniteyi artıran ve azaltan koşullar (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"antikor cevabı daha kuvvetli olur\" + immünojenite faktörleri çakışması.",
+      "related_qid": 6,
+      "related_pid": "6_P8"
+    },
+    {
+      "id": "card_7_7_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "T hücre aktivasyon basamakları",
+      "back": "<b>Cevap: E</b> · CD8 ko-reseptörü sinyal 2 olarak görev yapar.\n\nCD8 sinyal 2 (ko-stimülasyon) değil, ko-reseptördür (MHC-I'i tanır, TCR ile birlikte sinyal 1'i destekler). Ko-stimülasyon (sinyal 2) için CD28-B7 etkileşimi gerekir.",
+      "related_qid": 7,
+      "related_pid": "7_P1"
+    },
+    {
+      "id": "card_7_7_P2_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ Ko-stimülasyon zorunluluğu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CD28:B7 etkileşimi olmazsa, TCR tarafından antijen tanınması, T-lenfositleri aktive etmeye yetmez! İkinci sinyali alamazsa silik, sönük bir yanıt oluşur.\"",
+      "related_qid": 7,
+      "related_pid": "7_P2"
+    },
+    {
+      "id": "card_7_7_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "Ko-stimülasyon zorunluluğu (notta birebir)",
+      "back": "<b>Cevap: C</b> · İkinci sinyali alamayan T lenfositlerde silik, sönük bir yanıt oluşur; tam aktivasyon gerçekleşmez.\n\nNotta birebir: \"CD28:B7 etkileşimi olmazsa, TCR tarafından antijen tanınması, T-lenfositleri aktive etmeye yetmez! İkinci sinyali alamazsa silik, sönük bir yanıt oluşur.\" Ko-stimülasyon (B7:CD28) edinsel immün…",
+      "related_qid": 7,
+      "related_pid": "7_P2"
+    },
+    {
+      "id": "card_7_7_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ Hiper-IgM sendromu — CD40L eksikliği (klinik vinyet) — hoca neyi vurguladı?",
+      "back": "Zor: T-B yardımı + izotip dönüşümü + CD40 patofizyolojisi.",
+      "related_qid": 7,
+      "related_pid": "7_P3"
+    },
+    {
+      "id": "card_7_7_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ Adezyon molekülleri ve T-APC etkileşimi (notta detay) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen LFA-1/ICAM-1 etkileşimi + entegratif düşünme.",
+      "related_qid": 7,
+      "related_pid": "7_P4"
+    },
+    {
+      "id": "card_7_7_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ CD40 ve CD40L lokalizasyonu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CD40 — APC üzerinde\", \"CD40L — Th hücresi üzerinde, etkin T hücrelerinde eksprese edilir\".",
+      "related_qid": 7,
+      "related_pid": "7_P5"
+    },
+    {
+      "id": "card_7_7_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "CD40 ve CD40L lokalizasyonu (notta birebir)",
+      "back": "<b>Cevap: B</b> · CD40 APC (dendritik hücre, makrofaj, B hücre) üzerinde; CD40L (CD154) ise aktive yardımcı T hücreleri üzerinde eksprese edilir.\n\nNotta birebir: CD40 APC üzerinde (dendritik, makrofaj, B); CD40L (CD154) aktive yardımcı T hücreleri üzerinde. Etkileşim → APC daha fazla ko-stimülatör (B7) ekspresyonu + sitokin salınımı → daha güçlü T aktivasyonu. A…",
+      "related_qid": 7,
+      "related_pid": "7_P5"
+    },
+    {
+      "id": "card_7_7_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ CD40 etkileşiminin APC üzerindeki etkileri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CD40L:CD40 etkileşimi → APC daha fazla ko-stimülatör (B7) eksprese eder + sitokin salar → APC'nin T hücresini aktive etme kapasitesi artar.\"",
+      "related_qid": 7,
+      "related_pid": "7_P6"
+    },
+    {
+      "id": "card_7_7_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "CD40 etkileşiminin APC üzerindeki etkileri (notta birebir)",
+      "back": "<b>Cevap: E</b> · CD40-CD40L etkileşimi APC'yi inaktive eder ve ko-stimülatör ekspresyonunu baskılar.\n\nNotta birebir: CD40-CD40L etkileşimi APC'nin ko-stimülatör ekspresyonunu ve sitokin salınımını ARTTIRIR, baskılamaz. Sonuç: APC daha güçlü ikinci sinyal üretir, T aktivasyonu güçlenir. Diğer 4 ifade notla birebir…",
+      "related_qid": 7,
+      "related_pid": "7_P6"
+    },
+    {
+      "id": "card_7_7_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ CD4 ve CD8 ko-reseptörlerinin MHC seçiciliği (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CD4 → MHC-II'ye bağlanan ko-reseptör; CD8 → MHC-I'e bağlanan ko-reseptör.\"",
+      "related_qid": 7,
+      "related_pid": "7_P7"
+    },
+    {
+      "id": "card_7_7_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "CD4 ve CD8 ko-reseptörlerinin MHC seçiciliği (notta birebir)",
+      "back": "<b>Cevap: B</b> · CD4 MHC Sınıf II'ye, CD8 MHC Sınıf I'e bağlanan ko-reseptörlerdir.\n\nNotta birebir: CD4 → MHC-II (yardımcı T hücresi); CD8 → MHC-I (sitotoksik T hücresi). Bu ko-reseptörler TCR ile birlikte sinyal-1'i güçlendirir; ko-stimülatör (sinyal-2) değildirler. CD4/CD8 T hücreleri üzerindedir;…",
+      "related_qid": 7,
+      "related_pid": "7_P7"
+    },
+    {
+      "id": "card_7_7_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — T Lenfosit Aktivasyonu",
+      "front": "⚠️ Ko-stimülasyon ve aşı adjuvanları (notta birebir bağlantısı) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen ko-stimülasyon kavramının fizyolojik anlamı + entegratif düşünme.",
+      "related_qid": 7,
+      "related_pid": "7_P8"
+    },
+    {
+      "id": "card_8_8_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "MHC yol bileşenlerinin yola özgüllüğü",
+      "back": "<b>Cevap: E</b> · HLA-DM — MHC Sınıf I yolunda CLIP'i yarıktan çıkarır\n\nHLA-DM MHC Sınıf II yolundadır, sınıf-I değil. Endo-lizozomda CLIP'i MHC-II yarığından çıkarır ve gerçek antijenik peptid bağlanmasını sağlar. Diğer 4 eşleştirme doğru: TAP/Tapasin/β2-mikroglobulin → MHC-I yolu; CLIP →…",
+      "related_qid": 8,
+      "related_pid": "8_P1"
+    },
+    {
+      "id": "card_8_8_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "Hangi T hücresi hangi MHC ile etkileşir",
+      "back": "<b>Cevap: C</b> · MHC Sınıf I — CD8+ sitotoksik T hücresine sunulur, intrasellüler antijenler\n\nMHC-I → CD8+ → intrasellüler (virüs, sitozolik bakteri). MHC-II → CD4+ → ekstrasellüler (fagosite edilen bakteri). MHC-I her çekirdekli hücrede, MHC-II sadece profesyonel APC'lerde. Çapraz sunum dendritik hücrelerde yan…",
+      "related_qid": 8,
+      "related_pid": "8_P2"
+    },
+    {
+      "id": "card_8_8_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ MHC Sınıf I antijen sunum basamak sırası (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen 6 basamağın sıralamasının test edilmesi.",
+      "related_qid": 8,
+      "related_pid": "8_P3"
+    },
+    {
+      "id": "card_8_8_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ Çapraz sunum (cross-presentation) — notta birebir kavram — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Bazı dendritik hücreler (DC), fagositozla hücre içine aldığı antijenleri Sınıf I MHC molekülleri aracılığıyla CD8+ T lenfositlere sunabilir.\"",
+      "related_qid": 8,
+      "related_pid": "8_P4"
+    },
+    {
+      "id": "card_8_8_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ MHC Sınıf I yolu antijen kaynağı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"MHC Sınıf I YOLU (intrasellüler antijenler — sitozolik).\"",
+      "related_qid": 8,
+      "related_pid": "8_P5"
+    },
+    {
+      "id": "card_8_8_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "MHC Sınıf I yolu antijen kaynağı (notta birebir)",
+      "back": "<b>Cevap: B</b> · Sitoplazmada üretilen veya sitozole geçen yabancı/self proteinler (virüs proteinleri, sitozolik bakteri peptidleri, self peptidler)\n\nNotta birebir: MHC-I yolu intrasellüler/sitozolik antijenleri (virüs proteinleri, sitozolde çoğalan Listeria gibi bakteriler, hücrenin kendi self proteinleri) sunar. Ekstrasellüler ve fagosite edilmiş antijenler MHC-II…",
+      "related_qid": 8,
+      "related_pid": "8_P5"
+    },
+    {
+      "id": "card_8_8_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ MHC Sınıf II yolu basamakları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"MHC Sınıf II YOLU (ekstrasellüler antijenler — endo/fagolizozomal): endositoz → CLIP → HLA-DM → peptid yükleme → yüzey → CD4+.\"",
+      "related_qid": 8,
+      "related_pid": "8_P6"
+    },
+    {
+      "id": "card_8_8_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "MHC Sınıf II yolu basamakları (notta birebir)",
+      "back": "<b>Cevap: E</b> · MHC Sınıf II tüm çekirdekli hücrelerde eksprese edilir.\n\nNotta birebir: MHC Sınıf II sadece profesyonel APC'lerde (dendritik hücre, makrofaj, B lenfosit) eksprese edilir; tüm çekirdekli hücrelerde değil. MHC Sınıf I ise tüm çekirdekli hücrelerde bulunur. Diğer 4 ifade notla…",
+      "related_qid": 8,
+      "related_pid": "8_P6"
+    },
+    {
+      "id": "card_8_8_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ CLIP peptidinin görevi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"ER'de MHC-II sentezlenirken peptid yarığı CLIP ile kapatılır (yanlış peptid bağlanmasın diye).\"",
+      "related_qid": 8,
+      "related_pid": "8_P7"
+    },
+    {
+      "id": "card_8_8_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "CLIP peptidinin görevi (notta birebir)",
+      "back": "<b>Cevap: B</b> · CLIP, ER'de yeni sentezlenen MHC-II'nin yarığını geçici olarak kapatır ve sitozolik peptidlerin yanlış bağlanmasını engeller.\n\nNotta birebir: CLIP MHC Sınıf II yarığını geçici olarak kapatan ve yanlış peptid bağlanmasını engelleyen peptiddir. Endolizozomda HLA-DM enzimi CLIP'i çıkarır, gerçek antijenik peptid yerleşir. β2-mikroglobulin MHC-I'in…",
+      "related_qid": 8,
+      "related_pid": "8_P7"
+    },
+    {
+      "id": "card_8_8_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sınıf I Yolu",
+      "front": "⚠️ Listeria patogenezi ve sınıf-I sunum (notta birebir entegrasyon) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen MHC-I yolu + Listeria sitozolik kaçış patogenezi.",
+      "related_qid": 8,
+      "related_pid": "8_P8"
+    },
+    {
+      "id": "card_9_9_P1_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Virüs etkileşim tipi — tanım eşleştirme",
+      "back": "<b>Cevap: D</b> · Fenotipik maskeleme — bir virüsün genomunun diğerinin kapsidinde paketlenmesi\n\nFenotipik maskeleme = Transkapsidasyon: bir virüsün genomunun başka virüsün kapsidi içine paketlenmesi. Komplementasyon → defektli iki virüsün birbirini tamamlaması. İnterferans → birinin diğerini inhibesi. Reassortment…",
+      "related_qid": 9,
+      "related_pid": "9_P1"
+    },
+    {
+      "id": "card_9_9_P2_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Antijenik shift vs drift",
+      "back": "<b>Cevap: B</b> · Shift genetik reassortment ile, drift nokta mutasyonlarla oluşur.\n\nAntijenik DRIFT: nokta mutasyonlar (HA/NA glikoproteinlerinde) — küçük değişim — mevsimsel salgınlar. Antijenik SHIFT: genetik reassortment (örn. iki farklı influenza alt tipi domuzda karışır) — büyük değişim — pandemi…",
+      "related_qid": 9,
+      "related_pid": "9_P2"
+    },
+    {
+      "id": "card_9_9_P3_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Komplementasyon — defektli virüs detayı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen komplementasyon tanımı + örnek üzerinden akıl yürütme.",
+      "related_qid": 9,
+      "related_pid": "9_P3"
+    },
+    {
+      "id": "card_9_9_P4_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Transkapsidasyon vs Reassortment ayrımı — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen iki kavramı ayırt etme.",
+      "related_qid": 9,
+      "related_pid": "9_P4"
+    },
+    {
+      "id": "card_9_9_P5_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ İnterferans tanımı (sınav anahtarı birebir) — hoca neyi vurguladı?",
+      "back": "Notta/cevap anahtarında birebir: \"İNTERFERANS: bir konağın iki virüsle enfeksiyonu sırasında virüslerden birinin diğerinin çoğalmasını inhibe etmesidir.\"",
+      "related_qid": 9,
+      "related_pid": "9_P5"
+    },
+    {
+      "id": "card_9_9_P5_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "İnterferans tanımı (sınav anahtarı birebir)",
+      "back": "<b>Cevap: B</b> · İki virüsle birlikte enfekte olan bir konakta virüslerden birinin diğerinin çoğalmasını inhibe etmesidir.\n\nCevap anahtarında birebir: İnterferans = ko-enfekte bir konakta bir virüsün diğerinin çoğalmasını inhibe etmesi. A = komplementasyon, C = reassortment, D = transkapsidasyon, E = antijenik drift.",
+      "related_qid": 9,
+      "related_pid": "9_P5"
+    },
+    {
+      "id": "card_9_9_P6_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Antijenik shift mekanizması (sınav anahtarı birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Genetik reassortment segmentli RNA virüslerinde segment değişimi\" — antijenik shiftin temeli.",
+      "related_qid": 9,
+      "related_pid": "9_P6"
+    },
+    {
+      "id": "card_9_9_P6_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Antijenik shift mekanizması (sınav anahtarı birebir)",
+      "back": "<b>Cevap: B</b> · İki farklı influenza alt tipinin aynı hücreyi enfekte etmesi sonucu segmentlerin değiş tokuşu (reassortment) ile yeni alt tip oluşur ve pandemi potansiyeli ortaya çıkar.\n\nAntijenik shift segmentli RNA virüslerine (influenza A) özgüdür ve reassortment mekanizmasıyla oluşur: iki farklı virüs aynı hücrede karışır, yeni segment kombinasyonu = yeni alt tip = pandemi potansiyeli (1918, 1957,…",
+      "related_qid": 9,
+      "related_pid": "9_P6"
+    },
+    {
+      "id": "card_9_9_P7_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Transkapsidasyon klinik anlamı (sınav anahtarı birebir) — hoca neyi vurguladı?",
+      "back": "Notta/cevap anahtarında birebir: \"Çıplak virüste bir virüsün genomu diğer virüsün kapsid yapısı içine paket edilirse TRANSKAPSİDASYON denir.\"",
+      "related_qid": 9,
+      "related_pid": "9_P7"
+    },
+    {
+      "id": "card_9_9_P7_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Transkapsidasyon klinik anlamı (sınav anahtarı birebir)",
+      "back": "<b>Cevap: E</b> · Segmentli RNA virüslerine özgü bir mekanizmadır.\n\nTranskapsidasyon segmentli virüslere özgü değildir; çıplak virüslerde gözlenir. Segmentli RNA virüslerine özgü olan reassortmenttur. Diğer 4 ifade cevap anahtarındaki birebir tanıma uygundur. Transkapsidasyon kapsid…",
+      "related_qid": 9,
+      "related_pid": "9_P7"
+    },
+    {
+      "id": "card_9_9_P8_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Virüs etkileşimleri entegrasyon (sınav anahtarı birebir 4 kavram) — hoca neyi vurguladı?",
+      "back": "Zor: Cevap anahtarında birebir 4 kavramın (komplementasyon, transkapsidasyon, interferans, reassortment) entegre testi.",
+      "related_qid": 9,
+      "related_pid": "9_P8"
+    },
+    {
+      "id": "card_10_10_P1_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Kapsid simetrisi sınıflandırma",
+      "back": "<b>Cevap: D</b> · Herpesviridae — helikal\n\nHerpesviridae ikozahedral kapsid + zarflı. Helikal değil. Diğer eşleştirmeler doğru.",
+      "related_qid": 10,
+      "related_pid": "10_P1"
+    },
+    {
+      "id": "card_10_10_P2_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Zarflı vs zarfsız virüs özellikleri",
+      "back": "<b>Cevap: E</b> · Zarflı virüsler ısıya zarfsızlardan daha dirençlidir.\n\nZarflı virüsler ısıya ve dezenfektana DAHA DUYARLIDIR (zarf lipid yapıdadır, kolayca bozulur). Zarfsız virüsler ısıya, kurumaya, mide asidine daha dirençlidir (örn. enterovirüsler, rotavirüs fekal-oral).",
+      "related_qid": 10,
+      "related_pid": "10_P2"
+    },
+    {
+      "id": "card_10_10_P3_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Genom yapısı klinik etkileri (segmentli RNA virüs) — hoca neyi vurguladı?",
+      "back": "Zor: Genom yapısı + pandemi potansiyeli.",
+      "related_qid": 10,
+      "related_pid": "10_P3"
+    },
+    {
+      "id": "card_10_10_P3_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Genom yapısı klinik etkileri (segmentli RNA virüs)",
+      "back": "<b>Cevap: E</b> · Segmentli genom sayesinde virüsün replikasyon hızı ikozahedral virüslere göre belirgin yüksektir.\n\nSegmentli yapı replikasyon hızını belirgin artırmaz — virüs polimerazına bağlıdır. Diğer ifadeler doğru: segment değişimi = antijenik shift → pandemi potansiyeli (1918 H1N1, 1957 H2N2, 1968 H3N2, 2009 H1N1).",
+      "related_qid": 10,
+      "related_pid": "10_P3"
+    },
+    {
+      "id": "card_10_10_P4_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Negatif vs pozitif polariteli RNA virüsler — hoca neyi vurguladı?",
+      "back": "Zor: Genom polaritesi + replikasyon stratejisi.",
+      "related_qid": 10,
+      "related_pid": "10_P4"
+    },
+    {
+      "id": "card_10_10_P4_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Negatif vs pozitif polariteli RNA virüsler",
+      "back": "<b>Cevap: C</b> · Negatif polariteli RNA mRNA olarak işlev görmez; virion içinde RdRp taşımak zorundadır.\n\nNegatif polariteli RNA mRNA gibi kullanılamaz — önce komplementer pozitif zincir üretilmeli. Bu yüzden virion içinde önceden hazır RdRp (RNA-bağımlı RNA polimeraz) taşımalı. Pozitif polariteli RNA direkt mRNA olarak…",
+      "related_qid": 10,
+      "related_pid": "10_P4"
+    },
+    {
+      "id": "card_10_10_P5_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Helikal kapsid yapısal alt birimleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Kapsomer adı verilen PROTEİN alt birimleri tekrar eder (karbonhidrat değil).\"",
+      "related_qid": 10,
+      "related_pid": "10_P5"
+    },
+    {
+      "id": "card_10_10_P5_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Helikal kapsid yapısal alt birimleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Kapsid kapsomer adı verilen protein alt birimlerinin tekrarı ile oluşur.\n\nKapsidler kapsomer adı verilen protein alt birimlerinin tekrar eden yerleşimi ile oluşur. Karbonhidrat veya lipid değildir. Lipid yapı zarf (envelope) için geçerlidir; zarf kapsidin dış katmanıdır, kapsidin kendisi…",
+      "related_qid": 10,
+      "related_pid": "10_P5"
+    },
+    {
+      "id": "card_10_10_P6_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ İnsan helikal virüslerinin nükleik asit tipi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"İnsan helikal virüslerinin nükleik asiti RNA'dır. (DNA helikal insan virüsü yok)\"",
+      "related_qid": 10,
+      "related_pid": "10_P6"
+    },
+    {
+      "id": "card_10_10_P6_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "İnsan helikal virüslerinin nükleik asit tipi (notta birebir)",
+      "back": "<b>Cevap: C</b> · Tümünün nükleik asiti RNA'dır; DNA içeren helikal insan virüsü tanımlanmamıştır.\n\nİnsanlarda hastalık yapan helikal kapsidli virüslerin nükleik asiti yalnızca RNA'dır (Paramyxo, Ortomyxo, Rabdo, Corona, Filo, Bunya — tümü RNA). DNA içeren helikal kapsidli insan virüsü yoktur; DNA helikal yapı bazı…",
+      "related_qid": 10,
+      "related_pid": "10_P6"
+    },
+    {
+      "id": "card_10_10_P7_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ İnsan helikal virüslerinin zarf özellikleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"İnsan helikal virüsleri ZARFLIDIR (Tümü).\"",
+      "related_qid": 10,
+      "related_pid": "10_P7"
+    },
+    {
+      "id": "card_10_10_P7_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "İnsan helikal virüslerinin zarf özellikleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Tümü zarflıdır; helikal nükleokapsid lipid zarf ile çevrilidir.\n\nNotta birebir: insan helikal virüslerinin tümü zarflıdır (Paramyxoviridae, Orthomyxoviridae, Rhabdoviridae, Coronaviridae, Filoviridae, Bunyaviridae). Zarflı virüsler lipid yapısı nedeniyle çevresel koşullara, mide…",
+      "related_qid": 10,
+      "related_pid": "10_P7"
+    },
+    {
+      "id": "card_10_10_P8_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Segmentli vs tek molekül RNA virüs aileleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen segmentli ve tek molekül RNA virüs aileleri.",
+      "related_qid": 10,
+      "related_pid": "10_P8"
+    },
+    {
+      "id": "card_11_11_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Serolojik test - prensip eşleştirme",
+      "back": "<b>Cevap: E</b> · Nötralizasyon — antikor antijeni mantıksal olarak yok eder, sadece hayvan deneylerinde yapılır.\n\nNötralizasyon hücre kültüründe de yapılır: viral sitopatik etki engelleniyorsa antikor pozitif. Bakteriyel toksin nötralizasyonu (örn. tetanoz) deney hayvanında yapılabilir ama tek yöntem değil. ELISA, Western blot,…",
+      "related_qid": 11,
+      "related_pid": "11_P1"
+    },
+    {
+      "id": "card_11_11_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "IgG vs IgM serolojik anlam",
+      "back": "<b>Cevap: B</b> · IgM pozitif + IgG negatif → akut/yakın enfeksiyon (primer yanıt erken dönem)\n\nIgM erken/akut (primer yanıt 1-2 hafta), 1-3 ay sonra azalır. IgG geç/uzun süreli (sekonder yanıt, hafıza). IgM(+) IgG(-) → erken/akut. IgG(+) IgM(-) → geçirilmiş enfeksiyon veya aşı bağışıklığı. Akut tanıda IgM en…",
+      "related_qid": 11,
+      "related_pid": "11_P2"
+    },
+    {
+      "id": "card_11_11_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Afinite olgunlaşması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Sekonder immün yanıtta oluşturulan antikorların afinitesi yüksektir.\"",
+      "related_qid": 11,
+      "related_pid": "11_P3"
+    },
+    {
+      "id": "card_11_11_P3_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Afinite olgunlaşması (notta birebir)",
+      "back": "<b>Cevap: E</b> · Afinite olgunlaşması T hücrelerinde, TCR çeşitliliğini artırarak gerçekleşir.\n\nNotta birebir: afinite olgunlaşması antikorların (yani B hücresi ürünü Ig'lerin) antijen bağlama gücünün artması olayıdır. T hücrelerinin TCR'sinde gerçekleşmez. Diğer 4 ifade notta birebir geçer.",
+      "related_qid": 11,
+      "related_pid": "11_P3"
+    },
+    {
+      "id": "card_11_11_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Primer vs sekonder antikor yanıtı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: Primer yanıt erken IgM, sekonder yanıt geç ve yüksek IgG.",
+      "related_qid": 11,
+      "related_pid": "11_P4"
+    },
+    {
+      "id": "card_11_11_P4_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Primer vs sekonder antikor yanıtı (notta birebir)",
+      "back": "<b>Cevap: A</b> · Sekonder yanıt bellek hücrelerinin antijeni tanıması ile gerçekleşir; hızla ve yüksek düzeyde IgG salgılanır.\n\nNotta birebir: \"Bellek hücrelerinin antijeni tanıması ile gerçekleşir. Hızla ve yüksek düzeyde IgG salgılanır. Uzun süre devam eder.\" Primer yanıt ilk karşılaşmada zayıf ve geç; sekonder yanıt afinite olgunlaşmış…",
+      "related_qid": 11,
+      "related_pid": "11_P4"
+    },
+    {
+      "id": "card_11_11_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Antijen-antikor reaksiyon tipleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir listelenmiş: presipitasyon, flokülasyon, aglütinasyon, kompleman fiksasyon, nötralizasyon, ELISA, RIA.",
+      "related_qid": 11,
+      "related_pid": "11_P5"
+    },
+    {
+      "id": "card_11_11_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Antijen-antikor reaksiyon tipleri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Opsonizasyon antikorun fagositozu kolaylaştırma özelliğine dayanan bir in vitro serolojik tanı testidir.\n\nNotta birebir: opsonizasyon in vivo bir effektör fonksiyondur; serolojik (in vitro) tanı testlerinde kullanılmaz. Notta listelenen serolojik testler presipitasyon, flokülasyon, aglütinasyon, kompleman fiksasyon,…",
+      "related_qid": 11,
+      "related_pid": "11_P5"
+    },
+    {
+      "id": "card_11_11_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Opsonizasyonun serolojik tanıda yeri yokluğu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Opsonizasyon — in vivo bir effektör fonksiyondur; serolojik (laboratuvar) tanı testlerinde kullanılmaz.\"",
+      "related_qid": 11,
+      "related_pid": "11_P6"
+    },
+    {
+      "id": "card_11_11_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Opsonizasyonun serolojik tanıda yeri yokluğu (notta birebir)",
+      "back": "<b>Cevap: D</b> · Opsonizasyon\n\nOpsonizasyon antikorun mikrobu kaplayarak fagositik hücrelerin Fc reseptörü ile tanımasını sağlayan in vivo effektör fonksiyondur. Bu özellik in vitro laboratuvar tanısı için doğrudan kullanılan bir test prensibi…",
+      "related_qid": 11,
+      "related_pid": "11_P6"
+    },
+    {
+      "id": "card_11_11_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Katı faz immünolojik testler (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Katı faz immünolojik testler (ELISA, RIA).\"",
+      "related_qid": 11,
+      "related_pid": "11_P7"
+    },
+    {
+      "id": "card_11_11_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "Katı faz immünolojik testler (notta birebir)",
+      "back": "<b>Cevap: A</b> · Antikor antijene bağlanır ve bu bağlanma görsel veya ölçülebilir bir sinyale dönüştürülerek saptanır.\n\nNotta birebir: \"Bu testlerde antikorun bir özelliği kullanılır: Ag ile bağlanması ve görsel/ölçülebilir bir reaksiyon oluşturması.\" ELISA enzim-substrat dönüşümü ile renk; RIA radyoaktif sinyal ile ölçüm yapar. Mast…",
+      "related_qid": 11,
+      "related_pid": "11_P7"
+    },
+    {
+      "id": "card_11_11_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Serolojik Tanı",
+      "front": "⚠️ Afinite olgunlaşmasının moleküler temeli (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"somatik hipermutasyon ile gerçekleşir, in vivo bir süreçtir\" detayı.",
+      "related_qid": 11,
+      "related_pid": "11_P8"
+    },
+    {
+      "id": "card_12_12_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Hipersensitivite tipi - hastalık eşleştirme",
+      "back": "<b>Cevap: E</b> · Eritroblastosis fetalis (Rh uyumsuzluğu) — Tip III\n\nEritroblastosis fetalis Tip II'dir: anneden geçen IgG anti-Rh antikorları fetüs eritrositlerine bağlanır → opsonizasyon + kompleman + ADCC → hemoliz. Tip III değil (çözünür immün kompleks değil; hücre yüzey antijenine…",
+      "related_qid": 12,
+      "related_pid": "12_P1"
+    },
+    {
+      "id": "card_12_12_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Tip II vs Tip III mekanizma ayrımı",
+      "back": "<b>Cevap: B</b> · Tip II antijeni hücre/doku yüzeyine bağlıdır (lokalize hasar); Tip III ise çözünür antijen-antikor immün kompleksi olarak damarda birikir (sistemik hasar).\n\nAnahtar fark: antijenin lokalizasyonu. Tip II = sabit doku antijeni (hücre yüzeyi, doku) → lokal sitotoksisite. Tip III = çözünür antijen + antikor → immün kompleks → küçük damarlara birikir → vaskülit, glomerülonefrit,…",
+      "related_qid": 12,
+      "related_pid": "12_P2"
+    },
+    {
+      "id": "card_12_12_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ Tip II hipersensitivite mekanizması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Tip II Hipersensitivite — Doku/hücre antijenlerine karşı oluşan antikorlar, spesifik antijeni eksprese eden hücre/dokulara bağlanarak lokalize hasara neden olur.\"",
+      "related_qid": 12,
+      "related_pid": "12_P3"
+    },
+    {
+      "id": "card_12_12_P3_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Tip II hipersensitivite mekanizması (notta birebir)",
+      "back": "<b>Cevap: E</b> · Çözünür antijen-antikor immün komplekslerinin damar duvarlarında birikimi\n\nNotta birebir: çözünür immün kompleks birikimi Tip III hipersensitivitedir, Tip II değil. Tip II \"doku/hücre yüzeyine bağlı antijenlere karşı\" oluşur — lokalize hasar. Diğer 4 ifade notta birebir Tip II için listelenmiş.",
+      "related_qid": 12,
+      "related_pid": "12_P3"
+    },
+    {
+      "id": "card_12_12_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ Tip III hipersensitivite (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Tip III: Çözünür antijenlere karşı oluşan IgM ve IgG antikorlarının antijenlerle oluşturduğu immün komplekslerin doku damarlarında birikmesi ile oluşan enflamasyon ve doku hasarı.\"",
+      "related_qid": 12,
+      "related_pid": "12_P4"
+    },
+    {
+      "id": "card_12_12_P4_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Tip III hipersensitivite (notta birebir)",
+      "back": "<b>Cevap: E</b> · Mast hücre degranülasyonu ve IgE primer aracıdır.\n\nNotta birebir: Tip III için IgM/IgG ve immün kompleks. IgE + mast hücresi Tip I reaksiyonun aracılarıdır (anafilaksi, alerji). Diğer 4 ifade notla birebir uyumlu.",
+      "related_qid": 12,
+      "related_pid": "12_P4"
+    },
+    {
+      "id": "card_12_12_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ A grubu beta-hemolitik streptokok komplikasyonları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"A grubu beta-hemolitik streptokok: Akut eklem ROMATİZMASI (Tip II) — moleküler taklit, anti-M çapraz reaksiyonu kalbe; Akut GLOMERÜLONEFRİT (Tip III) — immün kompleks birikimi.\"",
+      "related_qid": 12,
+      "related_pid": "12_P5"
+    },
+    {
+      "id": "card_12_12_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "A grubu beta-hemolitik streptokok komplikasyonları (notta birebir)",
+      "back": "<b>Cevap: A</b> · ARA Tip II hipersensitivitedir; streptokok M proteinine karşı oluşan antikorlar kalp dokusu ile çapraz reaksiyon verir (moleküler taklit).\n\nNotta birebir: ARA = Tip II (moleküler taklit, anti-M çapraz reaksiyonu kalbe); APSGN = Tip III (çözünür antijen-antikor immün kompleksinin glomerül bazal membranında birikmesi). Tip I (IgE/mast hücresi) ve Tip IV (T…",
+      "related_qid": 12,
+      "related_pid": "12_P5"
+    },
+    {
+      "id": "card_12_12_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ Tip I hipersensitivite aracıları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Tip I: IgE + mast hücresi — ani sistemik (alerji, anafilaksi).\"",
+      "related_qid": 12,
+      "related_pid": "12_P6"
+    },
+    {
+      "id": "card_12_12_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Tip I hipersensitivite aracıları (notta birebir)",
+      "back": "<b>Cevap: B</b> · IgE antikorları mast hücreleri üzerinde Fc reseptörüne bağlanır; antijenle karşılaşmada degranülasyon ve ani sistemik reaksiyon oluşur (alerji, anafilaksi).\n\nNotta birebir: Tip I = IgE + mast hücresi, ani sistemik reaksiyon (alerji, anafilaksi). A = Tip II özelliği, C = Tip III özelliği, D = Tip IV özelliği, E = Tip II özelliği. Mast hücre degranülasyonu ile…",
+      "related_qid": 12,
+      "related_pid": "12_P6"
+    },
+    {
+      "id": "card_12_12_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ Tip IV gecikmiş hipersensitivite (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Tip IV: T hücre aracılı — gecikmiş (DTH).\"",
+      "related_qid": 12,
+      "related_pid": "12_P7"
+    },
+    {
+      "id": "card_12_12_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "Tip IV gecikmiş hipersensitivite (notta birebir)",
+      "back": "<b>Cevap: E</b> · IgE-mast hücre etkileşimi ile dakikalar içinde ani sistemik reaksiyon yapar.\n\nNotta birebir: IgE-mast hücre ani sistemik reaksiyonu Tip I'dir, Tip IV değil. Tip IV T hücre aracılı, gecikmiş (DTH) bir reaksiyondur; PPD testi ve kontakt dermatit klasik örnekleridir. Diğer 4 ifade Tip IV ile birebir…",
+      "related_qid": 12,
+      "related_pid": "12_P7"
+    },
+    {
+      "id": "card_12_12_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Hipersensitivite",
+      "front": "⚠️ Antikor aracılı (Tip II) hasar mekanizmaları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen Tip II hasar mekanizmaları (opsonizasyon, kompleman, ADCC) + örnek listesi.",
+      "related_qid": 12,
+      "related_pid": "12_P8"
+    },
+    {
+      "id": "card_13_13_P1_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Hücre kültürü temel gereksinimleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Ekim yapılacak hücre kültürünün tek tabakalı olması gerekir.\"",
+      "related_qid": 13,
+      "related_pid": "13_P1"
+    },
+    {
+      "id": "card_13_13_P1_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Hücre kültürü temel gereksinimleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Ekim yapılacak hücre kültürünün tek tabakalı (monolayer) olması gerekir.\n\nNotta birebir: \"Ekim yapılacak hücre kültürünün tek tabakalı olması gerekir.\" Tek tabakalı (monolayer) yapı virüsün her hücreyi enfekte edebilmesi ve CPE'nin mikroskop altında görülebilmesi için zorunludur.",
+      "related_qid": 13,
+      "related_pid": "13_P1"
+    },
+    {
+      "id": "card_13_13_P2_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Devamlı hücre kültürü kaynağı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Devamlı hücre kültürleri genellikle kanserli dokulardan hazırlanır.\"",
+      "related_qid": 13,
+      "related_pid": "13_P2"
+    },
+    {
+      "id": "card_13_13_P2_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Devamlı hücre kültürü kaynağı (notta birebir)",
+      "back": "<b>Cevap: B</b> · Devamlı hücre kültürleri genellikle kanserli dokulardan hazırlanır ve sonsuz pasaj kapasitesine sahiptir.\n\nNotta birebir: \"Devamlı hücre kültürleri genellikle kanserli dokulardan hazırlanır.\" Bu kültürler transformasyona uğramış oldukları için sınırsız pasaj yapabilirler. Rutin viroloji laboratuvarında en sık kullanılan tip.",
+      "related_qid": 13,
+      "related_pid": "13_P2"
+    },
+    {
+      "id": "card_13_13_P3_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Shell vial avantajı — klinik vinyet (CMV pnömoni) — hoca neyi vurguladı?",
+      "back": "Zor: Klinik + lab tanı + yöntem seçimi.",
+      "related_qid": 13,
+      "related_pid": "13_P3"
+    },
+    {
+      "id": "card_13_13_P4_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Shell vial avantajı (notta birebir detay) — hoca neyi vurguladı?",
+      "back": "Notta birebir geçen shell vial özellikleri.",
+      "related_qid": 13,
+      "related_pid": "13_P4"
+    },
+    {
+      "id": "card_13_13_P5_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Sitopatik etki (CPE) morfolojisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CPE morfolojisi: hücre yuvarlaklaşması, küme oluşumu, sinsisyum, hücre lizisi.\"",
+      "related_qid": 13,
+      "related_pid": "13_P5"
+    },
+    {
+      "id": "card_13_13_P5_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Sitopatik etki (CPE) morfolojisi (notta birebir)",
+      "back": "<b>Cevap: E</b> · Hücrelerde mitokondri sayısının iki katına çıkması ile karakterize hipertrofi\n\nNotta birebir CPE morfolojisi: hücre yuvarlaklaşması, küme oluşumu, sinsisyum, hücre lizisi. Mitokondri sayı artışı CPE bulgusu değildir. Sinsisyum özellikle paramyxoviruslar (RSV, kızamık) ve HSV'de tipiktir.",
+      "related_qid": 13,
+      "related_pid": "13_P5"
+    },
+    {
+      "id": "card_13_13_P6_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Primer ve yarı-devamlı (diploid) hücre kültürü pasaj sınırları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Primer hücre kültürü — taze dokudan, sınırlı pasaj sayısı. Yarı-devamlı (diploid) hücre kültürü — 50-100 pasaj.\"",
+      "related_qid": 13,
+      "related_pid": "13_P6"
+    },
+    {
+      "id": "card_13_13_P6_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Primer ve yarı-devamlı (diploid) hücre kültürü pasaj sınırları (notta birebir)",
+      "back": "<b>Cevap: E</b> · Primer hücre kültürleri rutin viroloji laboratuvarında en sık kullanılan tiptir.\n\nNotta birebir: \"Devamlı (continuous) hücre kültürü — Rutin viroloji laboratuvarında en sık kullanılan tip.\" Primer kültürün pasaj kapasitesi sınırlı olduğu için rutin kullanımda tercih edilmez. Diğer 4 ifade notla…",
+      "related_qid": 13,
+      "related_pid": "13_P6"
+    },
+    {
+      "id": "card_13_13_P7_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Klasik viral kültürde CPE gelişim süresi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"CPE gelişimi virüse göre günler-haftalar sürer.\"",
+      "related_qid": 13,
+      "related_pid": "13_P7"
+    },
+    {
+      "id": "card_13_13_P7_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Klasik viral kültürde CPE gelişim süresi (notta birebir)",
+      "back": "<b>Cevap: B</b> · CPE gelişimi virüse göre günler-haftalar sürebilir.\n\nNotta birebir: \"CPE gelişimi virüse göre günler-haftalar sürer.\" Bu nedenle hızlı tanıya ihtiyaç duyulan durumlarda shell vial (24-48 saat) veya moleküler yöntemler (PCR) tercih edilir.",
+      "related_qid": 13,
+      "related_pid": "13_P7"
+    },
+    {
+      "id": "card_13_13_P8_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Shell vial santrifüj basamağının amacı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen shell vial santrifüj amacı.",
+      "related_qid": 13,
+      "related_pid": "13_P8"
+    },
+    {
+      "id": "card_14_14_P1_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ EBV — CR2 (CD21) etkileşimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"EBV — gp350 + CD21 (CR2) ile etkileşim.\"",
+      "related_qid": 14,
+      "related_pid": "14_P1"
+    },
+    {
+      "id": "card_14_14_P1_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "EBV — CR2 (CD21) etkileşimi (notta birebir)",
+      "back": "<b>Cevap: B</b> · EBV B lenfositlerin yüzeyindeki CD21 (CR2) ile etkileşir.\n\nEBV B lenfositlerin yüzeyindeki CR2 (CD21) reseptörü ile etkileşir. CR2 aynı zamanda kompleman parçası C3d için reseptördür (notta birebir: \"B-lenfositlerin BCR ile mikrobiyal antijenleri tanıması ile eş zamanlı olarak…",
+      "related_qid": 14,
+      "related_pid": "14_P1"
+    },
+    {
+      "id": "card_14_14_P2_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Kızamık VAP — Hemaglütinin (notta birebir)",
+      "back": "<b>Cevap: A</b> · Kızamık VAP'i Hemaglütinin (H) proteinidir.\n\nKızamık virüsünün VAP'i Hemaglütinin (H) proteinidir; Fiber → Adenovirüs, Sigma 1 → Reovirüs, gp120 → HIV ile ilişkilidir.",
+      "related_qid": 14,
+      "related_pid": "14_P2"
+    },
+    {
+      "id": "card_14_14_P3_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ VAP genel kavramı (notta birebir) — hoca neyi vurguladı?",
+      "back": "VAP = Viral Attachment Protein, virüsün konak hücreye bağlanmasını sağlayan protein.",
+      "related_qid": 14,
+      "related_pid": "14_P3"
+    },
+    {
+      "id": "card_14_14_P4_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ VAP-konak hücre etkileşim mantığı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: bir virüsün hangi hücreyi enfekte edebileceği, hücrede uygun reseptörün bulunmasına bağlıdır.",
+      "related_qid": 14,
+      "related_pid": "14_P4"
+    },
+    {
+      "id": "card_14_14_P5_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Adenovirüs VAP — Fiber protein (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Adenovirüs — Fiber protein — CAR (Coxsackie-Adenovirus Receptor).\"",
+      "related_qid": 14,
+      "related_pid": "14_P5"
+    },
+    {
+      "id": "card_14_14_P5_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Adenovirüs VAP — Fiber protein (notta birebir)",
+      "back": "<b>Cevap: B</b> · Fiber protein — CAR (Coxsackie-Adenovirus Receptor)\n\nNotta birebir: Adenovirüs VAP'i Fiber proteindir, hedef reseptör CAR (Coxsackie-Adenovirus Receptor). Sigma-1 reovirüs, gp350 EBV, gp120 HIV, Hemaglütinin influenza/kızamık VAP'leridir.",
+      "related_qid": 14,
+      "related_pid": "14_P5"
+    },
+    {
+      "id": "card_14_14_P6_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HIV VAP — gp120 ve CD4 + ko-reseptör (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"HIV-1 — gp120 — CD4 + ko-reseptör (CCR5 veya CXCR4).\"",
+      "related_qid": 14,
+      "related_pid": "14_P6"
+    },
+    {
+      "id": "card_14_14_P6_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "HIV VAP — gp120 ve CD4 + ko-reseptör (notta birebir)",
+      "back": "<b>Cevap: E</b> · HIV-1'in birincil reseptörü CD21 (CR2)'dir.\n\nNotta birebir: HIV-1 birincil reseptörü CD4'tür, CD21 değil. CD21 (CR2) Epstein-Barr virüsünün reseptörüdür. gp120 önce CD4'e bağlanır, ardından ko-reseptör (CCR5/CXCR4) ile etkileşip füzyon başlar.",
+      "related_qid": 14,
+      "related_pid": "14_P6"
+    },
+    {
+      "id": "card_14_14_P7_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ İnfluenza VAP — Hemaglütinin ve sialik asit (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"İnfluenza — HA (Hemaglütinin) — sialik asit α-2,6 (insan) veya α-2,3 (kuş).\"",
+      "related_qid": 14,
+      "related_pid": "14_P7"
+    },
+    {
+      "id": "card_14_14_P7_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "İnfluenza VAP — Hemaglütinin ve sialik asit (notta birebir)",
+      "back": "<b>Cevap: B</b> · VAP'i Hemaglütinin (HA)'dir; insan suşları α-2,6 bağlı sialik aside, kuş suşları α-2,3 bağlı sialik aside yüksek afinite gösterir.\n\nNotta birebir: İnfluenza VAP'i Hemaglütinin (HA)dir; insan suşları α-2,6 sialik aside, kuş suşları α-2,3 sialik aside bağlanır. Nöraminidaz (NA) yeni virüslerin hücreden ayrılmasını sağlar, bağlanmayı değil.",
+      "related_qid": 14,
+      "related_pid": "14_P7"
+    },
+    {
+      "id": "card_14_14_P8_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ SARS-CoV-2 ve ACE2 reseptörü (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen SARS-CoV-2 VAP — ACE2 detayı.",
+      "related_qid": 14,
+      "related_pid": "14_P8"
+    },
+    {
+      "id": "card_15_15_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "MHC Sınıf I/II — sunum hedefi",
+      "back": "<b>Cevap: C</b> · MHC-I — sitozolik virüs proteini — CD8+ sitotoksik T\n\nMHC-I → hücre içi antijen → CD8+ Tc (hücresel sitotoksik yanıt). MHC-II → hücre dışı antijen → CD4+ Th (humoral yardım + makrofaj aktive).",
+      "related_qid": 15,
+      "related_pid": "15_P1"
+    },
+    {
+      "id": "card_15_15_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "MHC polimorfizm ve doku uyumu",
+      "back": "<b>Cevap: E</b> · MHC molekülleri popülasyonda tek bir varyantta bulunur, herkes aynıdır.\n\nMHC vücudun en polimorfik gen kümesidir (HLA lokusu, 100+ allel). Herkes farklı kombinasyonlardadır — bu kişisel kimlik kartı gibidir. Transplantasyonda en önemli engel; aynı zamanda popülasyonu farklı patojenlere karşı…",
+      "related_qid": 15,
+      "related_pid": "15_P2"
+    },
+    {
+      "id": "card_15_15_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ Çapraz sunum (cross-presentation) — klinik vinyet — hoca neyi vurguladı?",
+      "back": "Zor: Dendritik hücre + viral antijen + sitotoksik T aktivasyonu.",
+      "related_qid": 15,
+      "related_pid": "15_P3"
+    },
+    {
+      "id": "card_15_15_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ HLA Sınıf III genleri ürünleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: HLA Sınıf III genler antijen sunmaz, kompleman/sitokin/HSP kodlar.",
+      "related_qid": 15,
+      "related_pid": "15_P4"
+    },
+    {
+      "id": "card_15_15_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ MHC'nin temel işlevi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Edinsel immün yanıt için hücresel mi yoksa humoral mı yanıtın gerekli olduğunu BELİRLEMEK.\"",
+      "related_qid": 15,
+      "related_pid": "15_P5"
+    },
+    {
+      "id": "card_15_15_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "MHC'nin temel işlevi (notta birebir)",
+      "back": "<b>Cevap: B</b> · MHC, edinsel immün yanıtın hücresel mi yoksa humoral mı yönde gerçekleşeceğini belirler.\n\nNotta birebir: \"MHC'nin temel işlevi → edinsel immün yanıt için hücresel mi yoksa humoral mı yanıtın gerekli olduğunu belirlemektir.\" MHC-I hücre içi antijenleri CD8+ Tc'ye sunarak hücresel yanıt, MHC-II ekstrasellüler…",
+      "related_qid": 15,
+      "related_pid": "15_P5"
+    },
+    {
+      "id": "card_15_15_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ MHC Sınıf I ekspresyon yeri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"MHC Sınıf I — Tüm çekirdekli hücrelerde.\"",
+      "related_qid": 15,
+      "related_pid": "15_P6"
+    },
+    {
+      "id": "card_15_15_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "MHC Sınıf I ekspresyon yeri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Tüm çekirdekli hücrelerde bulunur.\n\nNotta birebir: MHC Sınıf I tüm çekirdekli hücrelerde bulunur. Bu sayede her hücre intraselüler patojenleri (özellikle virüsleri) CD8+ T hücrelerine sunabilir. Eritrositlerde çekirdek olmadığı için MHC-I bulunmaz (sıtma…",
+      "related_qid": 15,
+      "related_pid": "15_P6"
+    },
+    {
+      "id": "card_15_15_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ MHC Sınıf II eksprese eden hücreler (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"MHC Sınıf II — Sadece profesyonel APC'lerde (DC, makrofaj, B).\"",
+      "related_qid": 15,
+      "related_pid": "15_P7"
+    },
+    {
+      "id": "card_15_15_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "MHC Sınıf II eksprese eden hücreler (notta birebir)",
+      "back": "<b>Cevap: E</b> · Eritrositler de dahil olmak üzere vücuttaki tüm hücrelerde sürekli olarak eksprese edilir.\n\nNotta birebir: MHC Sınıf II sadece profesyonel antijen sunan hücrelerde (dendritik hücreler, makrofajlar, B lenfositleri) eksprese edilir. Eritrositler MHC-II içermez (zaten çekirdeksiz, MHC-I de yok). MHC-II…",
+      "related_qid": 15,
+      "related_pid": "15_P7"
+    },
+    {
+      "id": "card_15_15_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Sunumu",
+      "front": "⚠️ MHC Sınıf I antijen sunum sonucu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen MHC-I → CD8+ → enfekte hücreyi öldür sonuç zinciri.",
+      "related_qid": 15,
+      "related_pid": "15_P8"
+    },
+    {
+      "id": "card_16_16_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "Doğal vs edinsel — bireysel farklılık kaynağı",
+      "back": "<b>Cevap: B</b> · MHC (HLA) molekülleri — yüksek polimorfizm\n\nMHC (HLA) yüksek polimorfizm bireyler arası en belirgin immün varyasyon kaynağıdır. TLR'ler benzerdir (genelde herkeste aynı set). Bireysel varyasyon büyük ölçüde edinsel sistemin (özellikle MHC + BCR/TCR repertuvar)…",
+      "related_qid": 16,
+      "related_pid": "16_P1"
+    },
+    {
+      "id": "card_16_16_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "Aşı tasarımında HLA çeşitliliği",
+      "back": "<b>Cevap: C</b> · Birden çok ve çeşitli HLA allellerine bağlanabilen birden fazla epitop içeren bütün protein veya çoklu epitop havuzu kullanmak.\n\nHLA polimorfizmi nedeniyle tek peptid epitop popülasyonun küçük bir bölümünde etkili olur. Evrensel etki için çoklu epitop veya tüm protein (örn. tüm HA proteini) içeren aşılar tercih edilir — farklı HLA tiplerinde…",
+      "related_qid": 16,
+      "related_pid": "16_P2"
+    },
+    {
+      "id": "card_16_16_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ HLA lokus yapısı (notta birebir detay) — hoca neyi vurguladı?",
+      "back": "Zor: Notta detaylı geçen HLA Sınıf I/II/III gen yapısı.",
+      "related_qid": 16,
+      "related_pid": "16_P3"
+    },
+    {
+      "id": "card_16_16_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ MHC polimorfizm ve hastalık ilişkisi (notta vurgu) — hoca neyi vurguladı?",
+      "back": "Zor: Notta geçen MHC polimorfizm + bireysel immün yanıt farklılığı.",
+      "related_qid": 16,
+      "related_pid": "16_P4"
+    },
+    {
+      "id": "card_16_16_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ HLA lokus kromozom konumu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"HLA Lokusu — 6. kromozom kısa kol.\"",
+      "related_qid": 16,
+      "related_pid": "16_P5"
+    },
+    {
+      "id": "card_16_16_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "HLA lokus kromozom konumu (notta birebir)",
+      "back": "<b>Cevap: B</b> · 6. kromozom kısa kol\n\nNotta birebir: \"HLA Lokusu (6. kromozom kısa kol).\" Bu lokus Sınıf I (HLA-A, B, C), Sınıf II (HLA-DP, DQ, DR) ve Sınıf III (kompleman, sitokin, HSP) genlerini içerir.",
+      "related_qid": 16,
+      "related_pid": "16_P5"
+    },
+    {
+      "id": "card_16_16_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ HLA Sınıf I gen isimleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Sınıf I: HLA-A, HLA-B, HLA-C.\"",
+      "related_qid": 16,
+      "related_pid": "16_P6"
+    },
+    {
+      "id": "card_16_16_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "HLA Sınıf I gen isimleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · HLA-A, HLA-B, HLA-C'yi içerir.\n\nNotta birebir: \"Sınıf I: HLA-A, HLA-B, HLA-C.\" Bu üç gen yüksek polimorfik özelliktedir ve antijen sunum yarığına sahip MHC Sınıf I moleküllerini kodlar. HLA-DP, HLA-DQ, HLA-DR Sınıf II'ye aittir.",
+      "related_qid": 16,
+      "related_pid": "16_P6"
+    },
+    {
+      "id": "card_16_16_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ HLA-hastalık birliktelikleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Bazı HLA tipleri belirli hastalıklara yatkınlık (B27-AS, DQ2-çölyak vb.).\"",
+      "related_qid": 16,
+      "related_pid": "16_P7"
+    },
+    {
+      "id": "card_16_16_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "HLA-hastalık birliktelikleri (notta birebir)",
+      "back": "<b>Cevap: A</b> · HLA-B27 — ankilozan spondilit (AS)\n\nNotta birebir: \"Bazı HLA tipleri belirli hastalıklara yatkınlık (B27-AS, DQ2-çölyak vb.).\" HLA-B27 → ankilozan spondilit, HLA-DQ2 → çölyak hastalığı birlikteliği klasiktir. Diğer eşleştirmeler notta verilen kalıba uymaz.",
+      "related_qid": 16,
+      "related_pid": "16_P7"
+    },
+    {
+      "id": "card_16_16_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — MHC Polimorfizm",
+      "front": "⚠️ HLA polimorfizmi ve evrimsel koruma (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen evrimsel koruma argümanı + popülasyon düzeyi.",
+      "related_qid": 16,
+      "related_pid": "16_P8"
+    },
+    {
+      "id": "card_17_17_P1_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Eradikasyon kriterleri — notta olan ilkeler — hoca neyi vurguladı?",
+      "back": "Notta birebir geçen eradikasyon kriterleri ile uyumlu.",
+      "related_qid": 17,
+      "related_pid": "17_P1"
+    },
+    {
+      "id": "card_17_17_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "Eradikasyon kriterleri — notta olan ilkeler",
+      "back": "<b>Cevap: E</b> · Yüksek antijenik varyasyon ve T hücre enfeksiyon yeteneği eradikasyona kolaylık sağlar.\n\nTam tersi — yüksek antijenik varyasyon (drift/shift) ve T hücre enfeksiyonu eradikasyonu engeller (HIV, influenza örnekleri). Eradikasyona uygun patojen: sadece insan rezervuarlı, antijenik stabil, latent yapmayan,…",
+      "related_qid": 17,
+      "related_pid": "17_P1"
+    },
+    {
+      "id": "card_17_17_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "Aşı tipleri - immün yanıt özellikleri",
+      "back": "<b>Cevap: E</b> · mRNA — hücre içinde antijen üretimi, sadece RNA virüslerine karşı kullanılabilir.\n\nmRNA aşılar DNA ve RNA virüslerine karşı da yapılabilir — patojen hangi yapıda olursa olsun, antijen kodlayan mRNA hazırlanır. COVID-19 (RNA virüs) için kullanıldı; HIV, kanser, herpes için araştırılıyor. Sınırlama yok.",
+      "related_qid": 17,
+      "related_pid": "17_P2"
+    },
+    {
+      "id": "card_17_17_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Aşı sonrası immün yanıt — klinik vinyet — hoca neyi vurguladı?",
+      "back": "Zor: Aşı tipi + immün baskılanma + klinik karar.",
+      "related_qid": 17,
+      "related_pid": "17_P3"
+    },
+    {
+      "id": "card_17_17_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Aşı tipleri detay (notta birebir slayt sıralaması) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen aşı teknolojileri sınıflandırması — derinlemesine eşleştirme.",
+      "related_qid": 17,
+      "related_pid": "17_P4"
+    },
+    {
+      "id": "card_17_17_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Eradike edilen patojenler (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Tarihsel: Çiçek (1980), Sığır vebası (2011) eradike. Polio yaklaşıyor.\"",
+      "related_qid": 17,
+      "related_pid": "17_P5"
+    },
+    {
+      "id": "card_17_17_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "Eradike edilen patojenler (notta birebir)",
+      "back": "<b>Cevap: E</b> · İnfluenza, antijenik shift/drift göstermesine rağmen dünyadan tamamen eradike edilmiştir.\n\nNotta birebir: İnfluenza yüksek antijenik shift/drift nedeniyle eradike edilemez. Eradike edilmiş örnekler çiçek (1980) ve sığır vebası (2011); polio hedefe yaklaşıyor. Çiçek eradikasyonunun başarısının nedenleri tek…",
+      "related_qid": 17,
+      "related_pid": "17_P5"
+    },
+    {
+      "id": "card_17_17_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Latent enfeksiyon eradikasyon engeli (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"HSV, VZV, CMV: latent → konak rezervuarı içinde gizli. Bu virüsler vücutta uyuyarak yaşar → eradike edilemez.\"",
+      "related_qid": 17,
+      "related_pid": "17_P6"
+    },
+    {
+      "id": "card_17_17_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "Latent enfeksiyon eradikasyon engeli (notta birebir)",
+      "back": "<b>Cevap: A</b> · Latent virüs konağın hücresinde gizlenir ve immün sistemden kaçabilir; bu durum eradikasyonu zorlaştırır.\n\nNotta birebir: \"HSV, VZV, CMV gibi latent virüsler konak rezervuarı içinde gizli — vücutta uyuyarak yaşar → eradike edilemez.\" Latent virüs aşı ile temizlenemez; immün baskılanma durumunda reaktive olur. Bu nedenle aşı…",
+      "related_qid": 17,
+      "related_pid": "17_P6"
+    },
+    {
+      "id": "card_17_17_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Hayvan rezervuarı ve eradikasyon (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Sarı humma: maymun rezervuarı → eradike edilemez.\"",
+      "related_qid": 17,
+      "related_pid": "17_P7"
+    },
+    {
+      "id": "card_17_17_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "Hayvan rezervuarı ve eradikasyon (notta birebir)",
+      "back": "<b>Cevap: C</b> · Sarı humma (yellow fever)\n\nNotta birebir: \"Sarı humma: maymun rezervuarı → eradike edilemez.\" Çiçek, polio, kızamık ve difteri sadece insan rezervuarlıdır; eradikasyon teorik olarak mümkün. Sarı humma orman siklusunda maymun-sivrisinek arasında…",
+      "related_qid": 17,
+      "related_pid": "17_P7"
+    },
+    {
+      "id": "card_17_17_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Aşılama",
+      "front": "⚠️ Aşı ile eradikasyonu önleyen 4 özellik (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen eradikasyon engelleri sentezi.",
+      "related_qid": 17,
+      "related_pid": "17_P8"
+    },
+    {
+      "id": "card_18_18_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "B hücre alt tipi - işlev eşleştirme",
+      "back": "<b>Cevap: E</b> · Hafıza B hücresi — antijenle ilk karşılaşmadan bağımsız sürekli IgG salgılar.\n\nHafıza B hücresi antikor SALGILAMAZ; antijenle tekrar karşılaşıncaya kadar sessiz kalır. Karşılaşma sonrası hızla plazmablast/plazma hücresine farklılaşır ve sekonder yanıt sağlar.",
+      "related_qid": 18,
+      "related_pid": "18_P1"
+    },
+    {
+      "id": "card_18_18_P2_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ Splenektomi sonrası enfeksiyon riski (klinik kavşak) — hoca neyi vurguladı?",
+      "back": "Marjinal zon B + kapsüllü bakteriler.",
+      "related_qid": 18,
+      "related_pid": "18_P2"
+    },
+    {
+      "id": "card_18_18_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "Splenektomi sonrası enfeksiyon riski (klinik kavşak)",
+      "back": "<b>Cevap: B</b> · Dalağın marjinal zon B hücreleri kapsüllü polisakkarit antijenlere T-bağımsız hızlı IgM yanıtı veren önemli bir kaynaktır; ayrıca dalak opsonize bakterilerin temizlendiği başlıca filtredir.\n\nDalak iki kritik fonksiyon: (1) Marjinal zon B kapsüllü bakterilere T-bağımsız IgM yanıtı, (2) opsonize bakterilerin filtrelenmesi (özellikle IgG/C3b kaplı). Splenektomili hastalara pnömokok + Hib + meningokok aşıları…",
+      "related_qid": 18,
+      "related_pid": "18_P2"
+    },
+    {
+      "id": "card_18_18_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ B hücre olgunlaşma evreleri — hoca neyi vurguladı?",
+      "back": "Zor: Kemik iliği gelişim aşamaları + reseptör yeniden düzenlenmesi.",
+      "related_qid": 18,
+      "related_pid": "18_P3"
+    },
+    {
+      "id": "card_18_18_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ Hafıza T hücreleri — central vs effector (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen hafıza T hücre alt tipleri ayrımı.",
+      "related_qid": 18,
+      "related_pid": "18_P4"
+    },
+    {
+      "id": "card_18_18_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ Uzun ömürlü plazma hücresinin yerleşimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Uzun ömürlü Plazma Hücresi — Kemik iliğinde nişlerde yerleşir.\"",
+      "related_qid": 18,
+      "related_pid": "18_P5"
+    },
+    {
+      "id": "card_18_18_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "Uzun ömürlü plazma hücresinin yerleşimi (notta birebir)",
+      "back": "<b>Cevap: C</b> · Kemik iliğinde özel nişlerde yerleşir ve yıllarca antikor salgılar (özellikle IgG).\n\nNotta birebir: \"Uzun ömürlü plazma hücresi kemik iliğinde nişlerde yerleşir, yıllarca antikor (özellikle IgG) salgılar; sağlıklı bireyin serum IgG havuzunun ana kaynağıdır.\" Bu nedenle aşı sonrası uzun süreli koruyucu…",
+      "related_qid": 18,
+      "related_pid": "18_P5"
+    },
+    {
+      "id": "card_18_18_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ Foliküler B2 hücresi ve germinal merkez (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Foliküler B2 — T-bağımlı antijenlere yanıt verir; germinal merkez reaksiyonu → izotip dönüşümü, afinite olgunlaşması.\"",
+      "related_qid": 18,
+      "related_pid": "18_P6"
+    },
+    {
+      "id": "card_18_18_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "Foliküler B2 hücresi ve germinal merkez (notta birebir)",
+      "back": "<b>Cevap: E</b> · Foliküler B2 hücreleri tamamen T-bağımsız polisakkarit antijenlere yanıt verir; izotip dönüşümü yapmaz.\n\nNotta birebir: Foliküler B2 T-bağımlı antijenlere yanıt verir; germinal merkez reaksiyonu ile izotip dönüşümü ve afinite olgunlaşması gerçekleşir. T-bağımsız polisakkarit antijenlere yanıt veren marjinal zon B ve B1…",
+      "related_qid": 18,
+      "related_pid": "18_P6"
+    },
+    {
+      "id": "card_18_18_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ B1 lenfositleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"B1 Lenfosit — Peritoneal/plevral boşlukta; Doğal IgM antikorları (self-renewing); T-bağımsız antijenler.\"",
+      "related_qid": 18,
+      "related_pid": "18_P7"
+    },
+    {
+      "id": "card_18_18_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "B1 lenfositleri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Periton ve plevra boşluklarında yerleşir; doğal IgM antikorları üretir; T-bağımsız yanıt verir.\n\nNotta birebir: \"B1 Lenfosit — peritoneal/plevral boşlukta; doğal IgM antikorları (self-renewing); T-bağımsız antijenler.\" Bu hücreler doğal antikor havuzunu oluşturur ve kapsüllü bakterilere karşı hızlı IgM yanıtının…",
+      "related_qid": 18,
+      "related_pid": "18_P7"
+    },
+    {
+      "id": "card_18_18_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — B Hücre Alt Tipleri",
+      "front": "⚠️ Hafıza B hücresi sessiz fenotip (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen hafıza B hücresinin antijenle tekrar karşılaşana kadar antikor salgılamaması özelliği.",
+      "related_qid": 18,
+      "related_pid": "18_P8"
+    },
+    {
+      "id": "card_19_19_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "Primer immün yetmezlik örnekleri",
+      "back": "<b>Cevap: E</b> · AIDS — primer immün yetmezlik sınıfındadır, doğumda görülür.\n\nAIDS sekonder (edinsel) immün yetmezliktir — HIV enfeksiyonuna bağlı. Doğumda değil, enfeksiyon sonrası yıllar içinde gelişir. Primer immün yetmezlikler genetik kökenlidir.",
+      "related_qid": 19,
+      "related_pid": "19_P1"
+    },
+    {
+      "id": "card_19_19_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "X-bağlı kalıtım örnekleri",
+      "back": "<b>Cevap: E</b> · Ataxia-Telanjiektazi (ATM gen)\n\nAtaxia-Telanjiektazi otozomal resesiftir (ATM geni 11. kromozomda). Diğerleri klasik X-bağlı: Bruton (BTK), Wiskott-Aldrich (WAS), HIGM1 (CD40L), X-SCID (IL2RG/γc). Bu nedenle primer immün yetmezliklerin çoğu erkek…",
+      "related_qid": 19,
+      "related_pid": "19_P2"
+    },
+    {
+      "id": "card_19_19_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ Konjenital immün yetmezlik tedavisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: SCID için kemik iliği nakli, seçici B defektleri için IVIG.",
+      "related_qid": 19,
+      "related_pid": "19_P3"
+    },
+    {
+      "id": "card_19_19_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ Sekonder immün yetmezlik nedenleri — hoca neyi vurguladı?",
+      "back": "Zor: Multifaktöriyel + dünya genelinde dağılım.",
+      "related_qid": 19,
+      "related_pid": "19_P4"
+    },
+    {
+      "id": "card_19_19_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ Primer immün yetmezlik epidemiyolojisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"ABD/Avrupa'da her 500 kişiden 1'inde — 300+ farklı gen mutasyonu tanımlanmış.\"",
+      "related_qid": 19,
+      "related_pid": "19_P5"
+    },
+    {
+      "id": "card_19_19_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "Primer immün yetmezlik epidemiyolojisi (notta birebir)",
+      "back": "<b>Cevap: B</b> · ABD/Avrupa'da yaklaşık her 500 kişiden 1'inde görülür ve 300'den fazla farklı gen mutasyonu tanımlanmıştır.\n\nNotta birebir: \"ABD/Avrupa'da her 500 kişiden 1'inde; 300+ farklı gen mutasyonu tanımlanmış.\" Bu sayılar primer immün yetmezliklerin nadir değil, görece sık ve geniş bir hastalık grubu olduğunu gösterir.",
+      "related_qid": 19,
+      "related_pid": "19_P5"
+    },
+    {
+      "id": "card_19_19_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ Primer immün yetmezlik kalıtım kalıbı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Çoğunlukla X-bağlı veya otozomal resesif.\"",
+      "related_qid": 19,
+      "related_pid": "19_P6"
+    },
+    {
+      "id": "card_19_19_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "Primer immün yetmezlik kalıtım kalıbı (notta birebir)",
+      "back": "<b>Cevap: C</b> · Çoğunlukla X-bağlı veya otozomal resesif geçişlidir.\n\nNotta birebir: \"Çoğunlukla X-bağlı veya otozomal resesif.\" Bu nedenle primer immün yetmezlik tablolarının önemli kısmı (Bruton, Wiskott-Aldrich, X-SCID, Hiper-IgM Tip 1 vb.) erkek çocuklarda görülür; otozomal resesif…",
+      "related_qid": 19,
+      "related_pid": "19_P6"
+    },
+    {
+      "id": "card_19_19_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ Primer immün yetmezlik başlangıç dönemi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Doğumdan sonra erken dönemde ortaya çıkar (klasik olarak).\"",
+      "related_qid": 19,
+      "related_pid": "19_P7"
+    },
+    {
+      "id": "card_19_19_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "Primer immün yetmezlik başlangıç dönemi (notta birebir)",
+      "back": "<b>Cevap: A</b> · Doğum sonrası erken çocukluk döneminde ortaya çıkar; bazı hafif formlar erişkinlikte tespit edilebilir.\n\nNotta birebir: \"Doğumdan sonra erken dönemde ortaya çıkar (klasik olarak). Bazıları erişkinlikte tespit edilir (hafif formlar).\" Klasik prezentasyon yenidoğan döneminde tekrarlayan, ağır, atipik etkenlere bağlı…",
+      "related_qid": 19,
+      "related_pid": "19_P7"
+    },
+    {
+      "id": "card_19_19_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — İmmün Yetmezlik",
+      "front": "⚠️ İdeal tedavi: kusurlu genin değiştirilmesi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir: \"Tüm konjenital immün yetmezlikler için ideal tedavi → kusurlu genin değiştirilmesi olmasına rağmen, bu çoğu hastalık için uzak bir hedef olmaya devam etmektedir.\"",
+      "related_qid": 19,
+      "related_pid": "19_P8"
+    },
+    {
+      "id": "card_20_20_P1_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HIV ve CD4+ T tropizmi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"HIV başta CD4+ T lenfositler olmak üzere bağışıklık sistemi hücrelerini enfekte eder.\"",
+      "related_qid": 20,
+      "related_pid": "20_P1"
+    },
+    {
+      "id": "card_20_20_P1_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "HIV ve CD4+ T tropizmi (notta birebir)",
+      "back": "<b>Cevap: E</b> · HIV CD8+ sitotoksik T hücrelerini doğrudan ve tercihen enfekte ederek aşağı regüle eder.\n\nNotta birebir: HIV özellikle CD4+ T helper hücreleri enfekte eder, CD8+ değil. HIV ilerlemesinde CD4 sayısı belirgin düşer (klinik takipte ana parametre). E ifadesi tropizmi yanlış belirtir. Diğer 4 ifade notla birebir…",
+      "related_qid": 20,
+      "related_pid": "20_P1"
+    },
+    {
+      "id": "card_20_20_P2_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HIV → AIDS yıllar içinde gelişim (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Latent HIV'in aktive olması ve bağışıklık sistemi hücrelerini yok etmesiyle yıllar içinde AIDS gelişir.\"",
+      "related_qid": 20,
+      "related_pid": "20_P2"
+    },
+    {
+      "id": "card_20_20_P2_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "HIV → AIDS yıllar içinde gelişim (notta birebir)",
+      "back": "<b>Cevap: B</b> · Latent HIV'in aktive olması ve bağışıklık sistemi hücrelerini yok etmesiyle yıllar içinde AIDS gelişir.\n\nNotta birebir: \"Latent HIV'in aktive olması ve bağışıklık sistemi hücrelerini yok etmesiyle yıllar içinde AIDS gelişir.\" HIV primer değil, sekonder (edinsel) immün yetmezliğin en yaygın nedenidir.",
+      "related_qid": 20,
+      "related_pid": "20_P2"
+    },
+    {
+      "id": "card_20_20_P3_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HIV viral yük + CD4 izlem (klinik vinyet) — hoca neyi vurguladı?",
+      "back": "Zor: HIV monitoring + tedavi yanıtı.",
+      "related_qid": 20,
+      "related_pid": "20_P3"
+    },
+    {
+      "id": "card_20_20_P4_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HIV ve CD4+ T hücre yıkımı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta geçen HIV → AIDS patogenezi + immün yetmezlik mekanizması.",
+      "related_qid": 20,
+      "related_pid": "20_P4"
+    },
+    {
+      "id": "card_20_20_P5_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Retrovirüs replikasyonu — RNase H aktivitesi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"RT RNase H aktivitesi ile RNA degrade → DNA tek zincir kalır.\"",
+      "related_qid": 20,
+      "related_pid": "20_P5"
+    },
+    {
+      "id": "card_20_20_P5_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Retrovirüs replikasyonu — RNase H aktivitesi (notta birebir)",
+      "back": "<b>Cevap: C</b> · RNA-DNA hibridinden RNA zincirini parçalayarak tek sarmal DNA bırakır; daha sonra ikinci DNA zinciri sentezlenir.\n\nNotta birebir: \"RT RNase H aktivitesi ile RNA degrade → DNA tek zincir kalır.\" RT iki aktiviteye sahiptir: (1) RNA-bağımlı DNA polimeraz, (2) RNase H. İntegraz, proteaz ve giriş ayrı enzim/protein işlevleridir. Bu adım…",
+      "related_qid": 20,
+      "related_pid": "20_P5"
+    },
+    {
+      "id": "card_20_20_P6_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ İntegraz ve provirüs (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"İntegraz enzimi ile konak genomuna entegre olur (provirüs).\"",
+      "related_qid": 20,
+      "related_pid": "20_P6"
+    },
+    {
+      "id": "card_20_20_P6_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "İntegraz ve provirüs (notta birebir)",
+      "back": "<b>Cevap: A</b> · Çift sarmal cDNA'yı konak genomuna entegre ederek provirüsü oluşturur.\n\nNotta birebir: \"İntegraz enzimi ile konak genomuna entegre olur (provirüs).\" Provirüs konak DNA'sının bir parçası olur ve konak RNA polimeraz II tarafından transkripte edilir. INSTI sınıfı (raltegravir, dolutegravir) bu…",
+      "related_qid": 20,
+      "related_pid": "20_P6"
+    },
+    {
+      "id": "card_20_20_P7_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ Retrovirüs proteaz (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Proteinler sentezlenir; proteaz ile olgun virüs.\"",
+      "related_qid": 20,
+      "related_pid": "20_P7"
+    },
+    {
+      "id": "card_20_20_P7_mech",
+      "type": "mekanizma",
+      "topic": "Viroloji",
+      "front": "Retrovirüs proteaz (notta birebir)",
+      "back": "<b>Cevap: E</b> · Proteaz aslında HIV'in konak hücreye giriş enzimidir, replikasyon sonrası işlev görmez.\n\nNotta birebir: \"Proteaz ile olgun virüs\" — yani proteaz olgunlaşma adımında görev alır (giriş enzimi DEĞİL). Giriş gp120/gp41 aracılıdır. Proteaz inhibitörleri (lopinavir) olgunlaşmamış, enfeksiyöz olmayan virion…",
+      "related_qid": 20,
+      "related_pid": "20_P7"
+    },
+    {
+      "id": "card_20_20_P8_trap",
+      "type": "tuzak",
+      "topic": "Viroloji",
+      "front": "⚠️ HBV ve RT kullanımı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"HBV (Hepadnaviridae) — DNA virüsü ama replikasyonunda RT kullanır.\"",
+      "related_qid": 20,
+      "related_pid": "20_P8"
+    },
+    {
+      "id": "card_21_21_P1_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "Kompleman aktivasyon yolakları",
+      "back": "<b>Cevap: E</b> · Üç yol farklı C3 ürünlerine yol açar (3 farklı C3 izoformu vardır).\n\nÜç yol aynı C3'ü aynı şekilde parçalar (C3a + C3b). Farklı izoform yok. Tek farkları C3 konvertaz oluşum yoludur. Sonrası ortaktır.",
+      "related_qid": 21,
+      "related_pid": "21_P1"
+    },
+    {
+      "id": "card_21_21_P2_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "MAC (Membrane Attack Complex)",
+      "back": "<b>Cevap: E</b> · MAC zarflı virüsleri içeride saklayan hücreleri öldürür ama virüse direkt etki yapmaz.\n\nMAC zarflı virüslerin zarfını direkt parçalayabilir (zarf lipid yapıdadır, por açılır) → virüsü direkt nötralize eder. Aynı zamanda enfekte hücrelere de etki edebilir. Gram-negatif bakterilerde özellikle etkili;…",
+      "related_qid": 21,
+      "related_pid": "21_P2"
+    },
+    {
+      "id": "card_21_21_P3_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ C3 yıkım ürünlerinin 3 işlevi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen C3a/C3b/C3d üçlü işlev derinleştirme.",
+      "related_qid": 21,
+      "related_pid": "21_P3"
+    },
+    {
+      "id": "card_21_21_P4_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ Kompleman aktivasyon yolakları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Üç yolak (klasik/lektin/alternatif) detaylı eşleştirme.",
+      "related_qid": 21,
+      "related_pid": "21_P4"
+    },
+    {
+      "id": "card_21_21_P5_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ C3 — kompleman merkez molekülü (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"C3 — kompleman sistemininin MERKEZ MOLEKÜLÜ; tüm yolaklar (klasik, alternatif, lektin) C3'te birleşir.\"",
+      "related_qid": 21,
+      "related_pid": "21_P5"
+    },
+    {
+      "id": "card_21_21_P5_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "C3 — kompleman merkez molekülü (notta birebir)",
+      "back": "<b>Cevap: C</b> · Kompleman sisteminin merkez molekülüdür; tüm üç yol (klasik, alternatif, lektin) C3'te birleşir.\n\nNotta birebir: \"C3 — kompleman sistemininin merkez molekülü; tüm yolaklar (klasik, alternatif, lektin) C3'te birleşir.\" Bu nedenle herediter C3 eksikliği tüm kompleman aracılı işlevleri (opsonizasyon, enflamasyon,…",
+      "related_qid": 21,
+      "related_pid": "21_P5"
+    },
+    {
+      "id": "card_21_21_P6_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ C3a anaflatoksin etkileri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"C3a (anaflatoksin): Mast hücre degranülasyonu, histamin salınımı; Vazodilatasyon, damar geçirgenliği artışı; Kemotaksis.\"",
+      "related_qid": 21,
+      "related_pid": "21_P6"
+    },
+    {
+      "id": "card_21_21_P6_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "C3a anaflatoksin etkileri (notta birebir)",
+      "back": "<b>Cevap: E</b> · C3a doğrudan MAC oluşturarak hedef hücreyi lize eder.\n\nNotta birebir: C3a anaflatoksindir → enflamasyon (mast hücre degranülasyonu, vazodilatasyon, geçirgenlik artışı, kemotaksis). MAC C5b-9'dan oluşur; C3a MAC oluşumuna katılmaz. Diğer 4 ifade notla uyumlu.",
+      "related_qid": 21,
+      "related_pid": "21_P6"
+    },
+    {
+      "id": "card_21_21_P7_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ C3b opsonizasyon ve CR1 (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"C3b mikrobiyal yüzeylere kovalan bağlanır; fagositik hücrelerde CR1 (CD35) tanır → opsonizasyon, fagositoz artışı.\"",
+      "related_qid": 21,
+      "related_pid": "21_P7"
+    },
+    {
+      "id": "card_21_21_P7_mech",
+      "type": "mekanizma",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "C3b opsonizasyon ve CR1 (notta birebir)",
+      "back": "<b>Cevap: B</b> · C3b mikrobiyal yüzeylere kovalan bağlanır ve fagositik hücrelerdeki CR1 (CD35) reseptörü tarafından tanınır, böylece fagositoz artar.\n\nNotta birebir: \"C3b → mikrobiyal yüzeylere kovalan bağlanır; fagositik hücrelerde CR1 (CD35) tanır → opsonizasyon, fagositoz artışı.\" C3b'nin parçalanma ürünü olan C3d B lenfositlerin CR2 (CD21) reseptörüne bağlanarak…",
+      "related_qid": 21,
+      "related_pid": "21_P7"
+    },
+    {
+      "id": "card_21_21_P8_trap",
+      "type": "tuzak",
+      "topic": "İmmünoloji — Kompleman",
+      "front": "⚠️ C3d ve B hücresinin ikinci sinyali (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen C3d-CR2-BCR ikinci sinyali entegrasyonu.",
+      "related_qid": 21,
+      "related_pid": "21_P8"
+    },
+    {
+      "id": "card_22_22_P1_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar hücre duvarı bileşenleri",
+      "back": "<b>Cevap: D</b> · Peptidoglikan mantar hücre duvarının ana bileşenidir.\n\nPeptidoglikan BAKTERİ hücre duvarının bileşenidir, mantarda YOKTUR. Mantar duvar: kitin, glukan, mannan + glikoprotein. Bu fark mantarlara peptidoglikan inhibitörlerinin (penisilin gibi) etkisiz olmasının nedenidir.",
+      "related_qid": 22,
+      "related_pid": "22_P1"
+    },
+    {
+      "id": "card_22_22_P2_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar hücre duvarı bileşenleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Önemli polisakkaritler — Kitin (N-asetil glukozamin), Sellüloz (D-glukoz), Glukan (D-mannoz), Mannan.\"",
+      "related_qid": 22,
+      "related_pid": "22_P2"
+    },
+    {
+      "id": "card_22_22_P2_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar hücre duvarı bileşenleri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Kitin — fosfolipid\n\nNotta birebir: \"Kitin → N-asetil glukozamin.\" Kitin bir polisakkarittir, fosfolipid değil. Fosfolipidler mantar hücre membranında bulunur (steroller — ergosterol, zymosterol ile birlikte). Hücre duvarı %90 polisakkarit…",
+      "related_qid": 22,
+      "related_pid": "22_P2"
+    },
+    {
+      "id": "card_22_22_P3_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar vs bakteri ayırımı — hoca neyi vurguladı?",
+      "back": "Zor: Mikroskopta ayırım + Gram boyama.",
+      "related_qid": 22,
+      "related_pid": "22_P3"
+    },
+    {
+      "id": "card_22_22_P4_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar hücre membranı ve sterol içeriği (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen mantar membran detayı.",
+      "related_qid": 22,
+      "related_pid": "22_P4"
+    },
+    {
+      "id": "card_22_22_P5_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantarlar ökaryottur (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"MANTARLAR — ÖKARYOT ORGANİZMALAR; Çekirdek zarı VARDIR (ökaryot temel özelliği); Mitokondri, endoplazmik retikulum, Golgi, ribozom (80S) — tipik ökaryotik.\"",
+      "related_qid": 22,
+      "related_pid": "22_P5"
+    },
+    {
+      "id": "card_22_22_P5_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantarlar ökaryottur (notta birebir)",
+      "back": "<b>Cevap: B</b> · Ökaryottur; çekirdek zarı, mitokondri, endoplazmik retikulum, Golgi ve 80S ribozom içerir.\n\nNotta birebir: \"Mantarlar ÖKARYOT ORGANİZMALAR; çekirdek zarı vardır; mitokondri, endoplazmik retikulum, Golgi, 80S ribozom — tipik ökaryotik.\" Bakterilerden temel farkı budur ve antimikrobiyal seçiciliğin kaynağıdır.",
+      "related_qid": 22,
+      "related_pid": "22_P5"
+    },
+    {
+      "id": "card_22_22_P6_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar ribozomu 80S (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Mantarlar bakteri DEĞİL, çünkü: 80S ribozom (bakteri 70S).\"",
+      "related_qid": 22,
+      "related_pid": "22_P6"
+    },
+    {
+      "id": "card_22_22_P6_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar ribozomu 80S (notta birebir)",
+      "back": "<b>Cevap: B</b> · Mantarlar 80S, bakteriler 70S ribozom içerir.\n\nNotta birebir: \"Mantarlar bakteri değil, çünkü: 80S ribozom (bakteri 70S).\" Bu fark bakterilere etkili olan ribozomal antibiyotiklerin (aminoglikozid, makrolid, tetrasiklin) mantara etkisizliğinin temelidir.",
+      "related_qid": 22,
+      "related_pid": "22_P6"
+    },
+    {
+      "id": "card_22_22_P7_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar hücre duvarı işlevi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hücre Duvarı — Şekil verir, RİJİDİTE sağlar, osmotik şoktan korur.\"",
+      "related_qid": 22,
+      "related_pid": "22_P7"
+    },
+    {
+      "id": "card_22_22_P7_mech",
+      "type": "mekanizma",
+      "topic": "Mikoloji",
+      "front": "Mantar hücre duvarı işlevi (notta birebir)",
+      "back": "<b>Cevap: E</b> · Tek görevi DNA replikasyonunu sağlamaktır; yapısal işlevi yoktur.\n\nNotta birebir: \"Hücre Duvarı antijenik özellikte; şekil verir, rijidite sağlar, osmotik şoktan korur.\" DNA replikasyonu çekirdek/nükleoplazmada gerçekleşir, hücre duvarının işlevi değildir. Diğer 4 ifade notla uyumlu.",
+      "related_qid": 22,
+      "related_pid": "22_P7"
+    },
+    {
+      "id": "card_22_22_P8_trap",
+      "type": "tuzak",
+      "topic": "Mikoloji",
+      "front": "⚠️ Mantar ile bakteri ayrımı dört nokta (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen \"Mantarlar bakteri DEĞİL, çünkü...\" 4 maddelik liste.",
+      "related_qid": 22,
+      "related_pid": "22_P8"
+    },
+    {
+      "id": "card_23_23_P1_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Böbrek innervasyonu (hoca \"tuzak\" vurgusu) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Bu önemli, hoca birkaç kere bunu tuzak olarak sorduğunu söyledi.\"",
+      "related_qid": 23,
+      "related_pid": "23_P1"
+    },
+    {
+      "id": "card_23_23_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Böbrek innervasyonu (hoca \"tuzak\" vurgusu)",
+      "back": "<b>Cevap: E</b> · Üreter ve mesanede de parasempatik innervasyon yoktur.\n\nNotta birebir: \"üreter, mesane gibi bölümlerde parasempatik innervasyon VARDIR.\" E yanlış.",
+      "related_qid": 23,
+      "related_pid": "23_P1"
+    },
+    {
+      "id": "card_23_23_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "RAAS kaskadı sıralama",
+      "back": "<b>Cevap: A</b> · II – IV – III – I\n\nDoğru sıra: Renin sentezi (II) → ATojen→ATI (IV) → ACE ile ATII (III) → ATII etkisi (I).",
+      "related_qid": 23,
+      "related_pid": "23_P2"
+    },
+    {
+      "id": "card_23_23_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ RAAS düzenleyicileri arası ilişki (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: renin salgısını düzenleyen 5 bileşen ve ATII feedback.",
+      "related_qid": 23,
+      "related_pid": "23_P3"
+    },
+    {
+      "id": "card_23_23_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Renal arter stenozu — Goldblatt HT — hoca neyi vurguladı?",
+      "back": "Zor: Patofizyoloji + RAAS aktivasyonu.",
+      "related_qid": 23,
+      "related_pid": "23_P4"
+    },
+    {
+      "id": "card_23_23_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Renin sentez yeri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Renin: Afferent arteriol granüler hücreler.\"",
+      "related_qid": 23,
+      "related_pid": "23_P5"
+    },
+    {
+      "id": "card_23_23_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Renin sentez yeri (notta birebir)",
+      "back": "<b>Cevap: B</b> · Afferent arteriol granüler (jukstaglomerüler) hücreleri\n\nNotta birebir: \"Renin: Afferent arteriol granüler hücreler.\" Bu hücreler afferent arteriolün son kısmında modifiye düz kas hücreleridir; perfüzyon basıncı, makula densa NaCl ve sempatik β-uyarıyla renin salgılar.",
+      "related_qid": 23,
+      "related_pid": "23_P5"
+    },
+    {
+      "id": "card_23_23_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Aldosteron salgısının düzenleyicileri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"ALDOSTERON: Salgısı AT-II, plazma K⁺, natriüretik peptitler tarafından kontrol edilir.\"",
+      "related_qid": 23,
+      "related_pid": "23_P6"
+    },
+    {
+      "id": "card_23_23_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Aldosteron salgısının düzenleyicileri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Aldosteron salgısı sadece TSH tarafından kontrol edilir.\n\nNotta birebir: \"Aldosteron salgısı AT-II, plazma K⁺ ve natriüretik peptitler tarafından kontrol edilir.\" TSH tiroid bezini düzenleyen hormondur; aldosteron salgısıyla ilişkisi yoktur. Diğer 4 ifade notla birebir…",
+      "related_qid": 23,
+      "related_pid": "23_P6"
+    },
+    {
+      "id": "card_23_23_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Aldosteronun distal nefron etkisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Distal nefronda Na⁺ reabsorbsiyon ↑ ve K⁺ sekresyonu ↑.\"",
+      "related_qid": 23,
+      "related_pid": "23_P7"
+    },
+    {
+      "id": "card_23_23_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Aldosteronun distal nefron etkisi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Distal nefronda Na⁺ reabsorbsiyonunu ve K⁺ sekresyonunu artırır.\n\nNotta birebir: Aldosteron distal nefronda Na⁺ reabsorbsiyonunu ve K⁺ sekresyonunu artırır. Bu nedenle aldosteron fazlalığı (Conn sendromu) hipernatremi+hipokalemi+metabolik alkaloz, aldosteron yetmezliği (Addison)…",
+      "related_qid": 23,
+      "related_pid": "23_P7"
+    },
+    {
+      "id": "card_23_23_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ RAAS başlangıç basamağı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir: \"Tüm kaskat Renin senteziyle başlar → Anjiyotensinojen → AT-I → ACE ile ATII.\"",
+      "related_qid": 23,
+      "related_pid": "23_P8"
+    },
+    {
+      "id": "card_24_24_P1_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Leydig-Sertoli işbölümü (hoca \"bilmek önemli\") — hoca neyi vurguladı?",
+      "back": "Hoca dipnotu: \"FSH'ın sertoli'yi, LH'ın leydig'i uyardığını bilmek önemli.\"",
+      "related_qid": 24,
+      "related_pid": "24_P1"
+    },
+    {
+      "id": "card_24_24_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Leydig-Sertoli işbölümü (hoca \"bilmek önemli\")",
+      "back": "<b>Cevap: E</b> · İnhibin B Leydig hücrelerinden salgılanır ve LH'ı baskılar.\n\nİnhibin B Sertoli'den salgılanır (Leydig'den değil) ve FSH'ı baskılar (LH'ı değil).",
+      "related_qid": 24,
+      "related_pid": "24_P1"
+    },
+    {
+      "id": "card_24_24_P2_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ İnhibin B klinik anlamı — hoca neyi vurguladı?",
+      "back": "Notta \"spermatogenez indeksi\" olarak vurgulanmış.",
+      "related_qid": 24,
+      "related_pid": "24_P2"
+    },
+    {
+      "id": "card_24_24_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "İnhibin B klinik anlamı",
+      "back": "<b>Cevap: D</b> · Total sperm sayısı ve testiküler hacim ile korelasyon gösterir.\n\nNotta birebir: \"Negatif geri bildirim ile FSH'ı baskılar ve total sperm sayısı/testiküler hacim ile korelasyon, spermatogenez indeksi olarak kullanılır.\"",
+      "related_qid": 24,
+      "related_pid": "24_P2"
+    },
+    {
+      "id": "card_24_24_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Sertoli-Leydig işbölümü ve negatif feedback (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"FSH'ın sertoli'yi, LH'ın leydig'i uyardığını bilmek önemli.\"",
+      "related_qid": 24,
+      "related_pid": "24_P3"
+    },
+    {
+      "id": "card_24_24_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Sertoli-Leydig işbölümü ve negatif feedback (notta birebir)",
+      "back": "<b>Cevap: E</b> · İnhibin B LH üzerine direkt etki ederek LH sekresyonunu baskılar.\n\nNotta birebir: \"FSH sekresyonunun baskılanması: major inhibitör sinyal etkisini doğrudan ön hipofiz üzerine gösteren İNHİBİN'dir.\" İnhibin LH değil FSH'ı baskılar (selektif). LH baskılaması testosteron tarafından…",
+      "related_qid": 24,
+      "related_pid": "24_P3"
+    },
+    {
+      "id": "card_24_24_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Sertoli – Granüloza hücre benzerliği (hoca vurgusu) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen hoca dipnotu: \"Hoca burada erkek üreme sistemindeki sertoli hücresiyle kadın üreme sistemindeki granüloza hücreleri arasında bir benzerlik kurdu.\"",
+      "related_qid": 24,
+      "related_pid": "24_P4"
+    },
+    {
+      "id": "card_24_24_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Sertoli hücresinin sentezlediği ürünler (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"İnhibin B (Sertoli), ABP (Sertoli), Aromataz (Sertoli).\"",
+      "related_qid": 24,
+      "related_pid": "24_P5"
+    },
+    {
+      "id": "card_24_24_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Sertoli hücresinin sentezlediği ürünler (notta birebir)",
+      "back": "<b>Cevap: D</b> · Testosteron\n\nNotta birebir: Testosteron Leydig hücrelerinde kolesterolden sentezlenir; Sertoli'de değil. Sertoli'nin sentezlediği ürünler: İnhibin B (FSH baskılayan glikoprotein), ABP (testosteronu lokalde yüksek tutar), aromataz…",
+      "related_qid": 24,
+      "related_pid": "24_P5"
+    },
+    {
+      "id": "card_24_24_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ ABP (Androjen Bağlayıcı Protein) görevi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"ABP (Sertoli): testosteronu lokal yüksek tutar.\"",
+      "related_qid": 24,
+      "related_pid": "24_P6"
+    },
+    {
+      "id": "card_24_24_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "ABP (Androjen Bağlayıcı Protein) görevi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Testosteronu seminifer tübül lümeninde bağlayarak lokal androjen konsantrasyonunu yüksek tutar; spermatogenez için gereklidir.\n\nNotta birebir: ABP Sertoli'den salgılanır ve testosteronu seminifer tübül lümeninde yüksek konsantrasyonda tutarak spermatogenez için lokal androjen ortamını sağlar. ABP'nin böbrek atılımı, karaciğer metabolizması, FSH…",
+      "related_qid": 24,
+      "related_pid": "24_P6"
+    },
+    {
+      "id": "card_24_24_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Sertoli hücresinin kan-testis bariyeri ve diğer fonksiyonları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Sertoli ayrıca: fagositoz (spermiasyon artıkları), kan-testis bariyeri, seminifer tübül sıvısı.\"",
+      "related_qid": 24,
+      "related_pid": "24_P7"
+    },
+    {
+      "id": "card_24_24_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Sertoli hücresinin kan-testis bariyeri ve diğer fonksiyonları (notta birebir)",
+      "back": "<b>Cevap: E</b> · Erkek genital yolda spermin son maturasyonunu tamamladığı yer epididimis değil, Sertoli hücresidir.\n\nNotta birebir: spermin son maturasyonu (motilite kazanma) epididimiste tamamlanır, Sertoli hücresinde değil. Sertoli'nin görevleri: kan-testis bariyeri (sıkı bağlantılar), fagositoz (spermiasyon artıkları), seminifer…",
+      "related_qid": 24,
+      "related_pid": "24_P7"
+    },
+    {
+      "id": "card_24_24_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ FSH ve LH'ın testis hedef hücreleri (notta birebir entegrasyon) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen hoca dipnotu + Sertoli/Leydig sentez ürünleri entegrasyonu.",
+      "related_qid": 24,
+      "related_pid": "24_P8"
+    },
+    {
+      "id": "card_25_25_P1_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Aldosteron etki noktaları (\"ilk 3 madde çok önemli\") — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"(İlk üç madde çok önemli)\" — aldosteron 3 ana etki.",
+      "related_qid": 25,
+      "related_pid": "25_P1"
+    },
+    {
+      "id": "card_25_25_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Aldosteron etki noktaları (\"ilk 3 madde çok önemli\")",
+      "back": "<b>Cevap: E</b> · Apikal H⁺-ATPaz aktivitesini artırarak alkaloza yol açar.\n\nEsas hücrelerdeki 3 ana etki: Na-K-ATPaz, K kanal, ENaC. H-ATPaz interkale hücrelerde dolaylı; esas hücre etkisi değil.",
+      "related_qid": 25,
+      "related_pid": "25_P1"
+    },
+    {
+      "id": "card_25_25_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Hiperkalemi → aldosteron",
+      "back": "<b>Cevap: A</b> · Hiperkalemi adrenal korteksten aldosteron sekresyonunu artırır.\n\nNotta birebir: artıran hiperkalemi + AT-II; azaltan hipokalemi + natriüretik peptit.",
+      "related_qid": 25,
+      "related_pid": "25_P2"
+    },
+    {
+      "id": "card_25_25_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Hipertonik salin infüzyonu (klinik vinyet) — hoca neyi vurguladı?",
+      "back": "Zor: Sıvı kompartman + ADH yanıtı.",
+      "related_qid": 25,
+      "related_pid": "25_P3"
+    },
+    {
+      "id": "card_25_25_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Hipertonik salin infüzyonu (klinik vinyet)",
+      "back": "<b>Cevap: D</b> · ADH (AVP) salınımı baskılanır\n\nHipertonik salin osmolaritesi yükseltir → hücreden ESS'ye su (HIS azalır, ESS artar). Osmolarite yüksek → ADH ARTAR, baskılanmaz.",
+      "related_qid": 25,
+      "related_pid": "25_P3"
+    },
+    {
+      "id": "card_25_25_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Aldosteron akut vs kronik etki + tübüler akış (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Aldosteron akut dönemde (saatler içinde) K⁺ atılımı hemen artmaz; kronik dönemde baskın hale gelir.\"",
+      "related_qid": 25,
+      "related_pid": "25_P4"
+    },
+    {
+      "id": "card_25_25_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Natriüretik peptit afferent arteriol etkisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Natriüretik peptit: Afferent arteriol VAZODİLATASYON (GFR artırmak için), Aldosteron, renin baskılar.\"",
+      "related_qid": 25,
+      "related_pid": "25_P5"
+    },
+    {
+      "id": "card_25_25_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Natriüretik peptit afferent arteriol etkisi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Afferent arteriolde vazodilatasyon yaparak GFR'yi artırır; aynı zamanda renin ve aldosteron salgısını baskılar.\n\nNotta birebir: natriüretik peptit afferent arteriolde vazodilatasyon yaparak GFR'yi artırır; ayrıca renin ve aldosteron salgısını baskılayarak Na⁺ atılımını teşvik eder. Bu etkilerle ESS hacmini düşürür ve RAAS'a karşıt…",
+      "related_qid": 25,
+      "related_pid": "25_P5"
+    },
+    {
+      "id": "card_25_25_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ ESS hacminin birincil düzenleyicisi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Birincil değil — RAAS birincil.\"",
+      "related_qid": 25,
+      "related_pid": "25_P6"
+    },
+    {
+      "id": "card_25_25_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "ESS hacminin birincil düzenleyicisi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Renin-anjiyotensin-aldosteron sistemi (RAAS)\n\nNotta birebir: ESS hacminin birincil düzenleyicisi RAAS'tır; natriüretik peptit sekonder (karşı düzenleyici) rol oynar. ADH plazma osmolaritesini ve su dengesini, PTH kalsiyum dengesini, tiroid hormonları metabolizmayı…",
+      "related_qid": 25,
+      "related_pid": "25_P6"
+    },
+    {
+      "id": "card_25_25_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Aldosteron sekresyon kontrolü tam liste (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Artıran: hiperkalemi + AT-II; Azaltan: hipokalemi + natriüretik peptitler.\"",
+      "related_qid": 25,
+      "related_pid": "25_P7"
+    },
+    {
+      "id": "card_25_25_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Aldosteron sekresyon kontrolü tam liste (notta birebir)",
+      "back": "<b>Cevap: E</b> · Aldosteron sekresyonu yalnızca ön hipofizden salınan ACTH ile kontrol edilir; plazma K⁺ ve AT-II etkisi yoktur.\n\nNotta birebir: aldosteron sekresyonu hiperkalemi + AT-II ile artar; hipokalemi + natriüretik peptit ile azalır. ACTH aldosteron üzerine küçük katkı yapsa da birincil değildir; plazma K⁺ ve AT-II baskın…",
+      "related_qid": 25,
+      "related_pid": "25_P7"
+    },
+    {
+      "id": "card_25_25_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Konjestif kalp yetmezliği ve sıvı tutulumu (notta birebir entegrasyon) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir RAAS aktivasyonu + ESS hacmi düzenleyici entegrasyonu.",
+      "related_qid": 25,
+      "related_pid": "25_P8"
+    },
+    {
+      "id": "card_26_26_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Emisyon vs Ejakülasyon",
+      "back": "<b>Cevap: C</b> · Emisyon sırasında prostat ve seminal veziküller kasılarak salgılarını üretraya boşaltır.\n\nEmisyon: vaz deferens + prostat + seminal vezikül kasılması, salgıların üretraya boşalması. Ejakülasyon: semen üretradan dışarı atılması. Her ikisi sempatik.",
+      "related_qid": 26,
+      "related_pid": "26_P1"
+    },
+    {
+      "id": "card_26_26_P2_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Kapasitasyon (hoca \"son dönemde sorular geldi\") — hoca neyi vurguladı?",
+      "back": "Hoca dipnotu: \"Son dönemde burayla ilgili sorular geldiğini belirtti hocamız.\"",
+      "related_qid": 26,
+      "related_pid": "26_P2"
+    },
+    {
+      "id": "card_26_26_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Kapasitasyon (hoca \"son dönemde sorular geldi\")",
+      "back": "<b>Cevap: E</b> · Doğrudan ejakülasyon sırasında testislerde tamamlanır.\n\nKapasitasyon testis/ejakülasyon sırasında değil, kadın genital kanalında gerçekleşir. IVF in vitro yapar.",
+      "related_qid": 26,
+      "related_pid": "26_P2"
+    },
+    {
+      "id": "card_26_26_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Kapasitasyon-akrozom reaksiyonu sıralaması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Kapasitasyonu akrozom reaksiyonu izler. Akrozom reaksiyonu, spermin zona pellucidayı delebilmesi için önemli bir olaydır.\"",
+      "related_qid": 26,
+      "related_pid": "26_P3"
+    },
+    {
+      "id": "card_26_26_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Kapasitasyon-akrozom reaksiyonu sıralaması (notta birebir)",
+      "back": "<b>Cevap: B</b> · Kapasitasyondan sonra akrozom reaksiyonu izler; akrozom reaksiyonu zona pellucida penetrasyonu için önemlidir.\n\nNotta birebir: \"Kapasitasyon kadın genital kanalında gerçekleşir. Kapasitasyonu akrozom reaksiyonu izler. Akrozom reaksiyonu, spermin zona pellucidayı delebilmesi için önemli bir olaydır.\" Döllenme yeri notta: Fallop…",
+      "related_qid": 26,
+      "related_pid": "26_P3"
+    },
+    {
+      "id": "card_26_26_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Emisyon refleksinin sinir kontrolü (notta birebir T12-L2 detay) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen emisyon refleksi anatomi-fizyoloji.",
+      "related_qid": 26,
+      "related_pid": "26_P4"
+    },
+    {
+      "id": "card_26_26_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Ejakülat bileşim oranları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Spermler %10, fruktoz seminal vezikül, proteazlar (PSA) prostat, mukus Cowper bez, semen hafif ALKALİN.\"",
+      "related_qid": 26,
+      "related_pid": "26_P5"
+    },
+    {
+      "id": "card_26_26_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Ejakülat bileşim oranları (notta birebir)",
+      "back": "<b>Cevap: E</b> · Semen kuvvetli asidik (pH < 4) bir sıvıdır.\n\nNotta birebir: semen hafif alkalindir (pH ~7.2-7.8), kuvvetli asidik değil; bu sayede vajinal asidik ortamı (pH ~4) nötralize ederek sperm motilitesini ve canlılığını destekler. Diğer 4 ifade notla birebir uyumludur.",
+      "related_qid": 26,
+      "related_pid": "26_P5"
+    },
+    {
+      "id": "card_26_26_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Semenin alkalinitesinin fizyolojik anlamı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Semen hafif ALKALİN.\"",
+      "related_qid": 26,
+      "related_pid": "26_P6"
+    },
+    {
+      "id": "card_26_26_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Semenin alkalinitesinin fizyolojik anlamı (notta birebir)",
+      "back": "<b>Cevap: A</b> · Vajinal asidik ortamı nötralize ederek sperm motilitesi ve canlılığını destekler.\n\nVajinal pH ~4 (asit) sperm motilitesini ve canlılığını olumsuz etkiler. Notta birebir semen hafif alkalin olduğu için bu asidik ortamı nötralize eder ve sperm fonksiyonunu korur. Akrozom reaksiyonu, epididim maturasyonu…",
+      "related_qid": 26,
+      "related_pid": "26_P6"
+    },
+    {
+      "id": "card_26_26_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Ejakülat bezleri ve katkıları (notta birebir eşleştirme) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Fruktoz: seminal vezikül; Proteazlar (PSA): prostat; Mukus: Cowper bez.\"",
+      "related_qid": 26,
+      "related_pid": "26_P7"
+    },
+    {
+      "id": "card_26_26_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Ejakülat bezleri ve katkıları (notta birebir eşleştirme)",
+      "back": "<b>Cevap: E</b> · Fruktoz — Cowper bezinden salgılanır ve mukus özelliği taşır.\n\nNotta birebir: fruktoz seminal vezikül kaynaklıdır; Cowper (bulboüretral) bez mukus salgılar, fruktoz değil. Fruktoz sperme glikoliz yoluyla enerji sağlar. Diğer 4 eşleştirme notla birebir uyumludur.",
+      "related_qid": 26,
+      "related_pid": "26_P7"
+    },
+    {
+      "id": "card_26_26_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Kapasitasyonun in vivo ve in vitro yeri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir: \"Kapasitasyon kadın genital kanalında gerçekleşir. IVF'te in vitro yapılır.\"",
+      "related_qid": 26,
+      "related_pid": "26_P8"
+    },
+    {
+      "id": "card_27_27_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Doğumda hormon değişiklikleri",
+      "back": "<b>Cevap: E</b> · Progesteron doğum başlangıcında miyometriumda kontraksiyonu artıran ana hormondur.\n\nProgesteron uterus kontraksiyonunu BASKILAR (sessiz uterus — Evre 0). Kontraksiyonu artıranlar: oksitosin, prostaglandinler, östrojen (dolaylı). Progesteron baskınlığı düşünce kontraksiyonlar başlar.",
+      "related_qid": 27,
+      "related_pid": "27_P1"
+    },
+    {
+      "id": "card_27_27_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Plasental CRH pozitif feedback",
+      "back": "<b>Cevap: B</b> · Plasental CRH → fetal ACTH → fetal kortizol → plasental CRH artar (pozitif feedback).\n\nNotta birebir: \"Plasental CRH → fetal ACTH → fetal adrenal kortizol; kortizol plasental CRH sentezini uyarır = POZİTİF FEEDBACK.\" Plasental CRH ayrıca fetal akciğer matürasyonuna katkıda bulunur (kortizol surfaktan…",
+      "related_qid": 27,
+      "related_pid": "27_P2"
+    },
+    {
+      "id": "card_27_27_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Gebelik Evre 0 sessiz uterus — progesteron mekanizması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen Evre 0 ve hücre içi kalsiyum mekanizması.",
+      "related_qid": 27,
+      "related_pid": "27_P3"
+    },
+    {
+      "id": "card_27_27_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Gebelik Evre 0 sessiz uterus — progesteron mekanizması (notta birebir)",
+      "back": "<b>Cevap: E</b> · Bu evrede progesteron oksitosin reseptör sayısını maksimal seviyeye çıkararak kasılmaları başlatır.\n\nNotta birebir: \"Evre 0 — Progesteron etkisi sayesinde uterus kontraktilitesi zayıftır. cAMP ve cGMP konsantrasyonlarının artışıyla kalsiyumun hücre içi salınımı inhibe edilir.\" Progesteron oksitosin reseptörlerini…",
+      "related_qid": 27,
+      "related_pid": "27_P3"
+    },
+    {
+      "id": "card_27_27_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Laktasyon başlatma (klinik vinyet) — hoca neyi vurguladı?",
+      "back": "Zor: Hormonal kontrol + emzirme refleksi.",
+      "related_qid": 27,
+      "related_pid": "27_P4"
+    },
+    {
+      "id": "card_27_27_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Doğumu tetikleyen hormonal faktörler (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hormonal faktörler: progesteron, östrojen, oksitosin, relaksin, prostaglandinler.\"",
+      "related_qid": 27,
+      "related_pid": "27_P5"
+    },
+    {
+      "id": "card_27_27_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Doğumu tetikleyen hormonal faktörler (notta birebir)",
+      "back": "<b>Cevap: E</b> · Progesteron doğum sırasında miyometriyal kasılmaları başlatan asıl tetikleyici hormondur.\n\nNotta birebir: progesteron uterus kasılmasını engeller (sessiz uterus); doğum öncesi progesteron/östrojen oranı östrojen lehine kayar (progesteron azalır), bu da uterusu kontraktiliteye geçirir. Kontraksiyonu…",
+      "related_qid": 27,
+      "related_pid": "27_P5"
+    },
+    {
+      "id": "card_27_27_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Fetal stres - kortizol - plasental CRH aksı (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Fetal stres → fetal adrenal aks aktive → KORTİZOL artar. Plasental CRH sentezi uyarılır.\"",
+      "related_qid": 27,
+      "related_pid": "27_P6"
+    },
+    {
+      "id": "card_27_27_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Fetal stres - kortizol - plasental CRH aksı (notta birebir)",
+      "back": "<b>Cevap: E</b> · Fetal kortizol gebelik boyunca azalır ve doğum sırasında en düşük düzeye iner.\n\nNotta birebir: doğum sırasında fetal kortizol artar (azalmaz); plasental CRH ile pozitif feedback döngüsü kurar. Fetal kortizol ayrıca akciğer matürasyonunu (surfaktan üretimi) hızlandırır. Diğer 4 ifade notla birebir…",
+      "related_qid": 27,
+      "related_pid": "27_P6"
+    },
+    {
+      "id": "card_27_27_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Doğum evreleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Evre 1: Servikal silinme + dilatasyon. Evre 2: Bebek doğumu. Evre 3: Plasenta ayrılması. Evre 4: Doğum sonrası ilk saat.\"",
+      "related_qid": 27,
+      "related_pid": "27_P7"
+    },
+    {
+      "id": "card_27_27_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Doğum evreleri (notta birebir)",
+      "back": "<b>Cevap: E</b> · Evre 2 — plasenta ayrılması ve doğum sonrası ilk saat birleşik evredir.\n\nNotta birebir: doğum 4 evreye ayrılır. Evre 2 yalnızca bebeğin doğumudur; plasenta ayrılması Evre 3, doğum sonrası ilk saat Evre 4'tür. Bu iki evre birleşik tanımlanmaz. Diğer 4 eşleştirme notla birebir uyumludur.",
+      "related_qid": 27,
+      "related_pid": "27_P7"
+    },
+    {
+      "id": "card_27_27_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Doğumda artan hormonlar entegrasyonu (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen hormonlar (kortizol, oksitosin, relaksin, prolaktin, prostaglandinler) + progesteron istisnası.",
+      "related_qid": 27,
+      "related_pid": "27_P8"
+    },
+    {
+      "id": "card_28_28_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "IV solüsyon tonisitesi sınıflandırma",
+      "back": "<b>Cevap: E</b> · %5 Dekstroz (D5W) — başlangıçta hipertoniktir.\n\nD5W BAŞLANGIÇTA İZOTONİKTİR (osmolarite ~278). Hücrelere girdiğinde glikoz hızla metabolize olur → geriye sadece su kalır → sonuçta hipotonik etki. Bu nedenle hipernatremi tedavisinde ve serbest su sağlamak için…",
+      "related_qid": 28,
+      "related_pid": "28_P1"
+    },
+    {
+      "id": "card_28_28_P2_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ IV solüsyon kullanım alanları (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir geçen klinik kullanım yerleri.",
+      "related_qid": 28,
+      "related_pid": "28_P2"
+    },
+    {
+      "id": "card_28_28_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "IV solüsyon kullanım alanları (notta birebir)",
+      "back": "<b>Cevap: E</b> · %3 NaCl (hipertonik) — akut hemorajik şokta birincil tercih kristaloiddir.\n\nNotta hipertonik salin için bu kullanım belirtilmemiştir; akut hemorajik şokta birincil tercih izotonik kristaloid (%0.9 NaCl veya Ringer Laktat) olarak notta listelenmiştir. Diğer 4 ifade notla birebir geçen kullanım…",
+      "related_qid": 28,
+      "related_pid": "28_P2"
+    },
+    {
+      "id": "card_28_28_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Hipertonik infüzyon kompartman değişimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir verilen hipertonik infüzyon mekanizması.",
+      "related_qid": 28,
+      "related_pid": "28_P3"
+    },
+    {
+      "id": "card_28_28_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Hipertonik infüzyon kompartman değişimi (notta birebir)",
+      "back": "<b>Cevap: E</b> · İSS hacmi artar, çünkü hipertonik çözelti hücrelere giriş yapar.\n\nNotta birebir mekanizma: Hipertonik çözelti ESS osmolaritesini yükseltir → ozmotik gradyentle hücreden ESS'ye su çıkar → İSS hacmi azalır, ESS hacmi artar. Hipertonik çözelti hücrelere doğrudan girmez (E yanlış).",
+      "related_qid": 28,
+      "related_pid": "28_P3"
+    },
+    {
+      "id": "card_28_28_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ İzotonik çözelti infüzyonu (notta birebir mekanizma) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen izotonik infüzyon kompartman değişimi.",
+      "related_qid": 28,
+      "related_pid": "28_P4"
+    },
+    {
+      "id": "card_28_28_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Hipotonik infüzyon kompartman değişimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hipotonik çözelti ESS'ye eklenirse: ESS hacmi artar, osmolarite düşer; ESS'den İSS'ye su akışı → İSS de artar.\"",
+      "related_qid": 28,
+      "related_pid": "28_P5"
+    },
+    {
+      "id": "card_28_28_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Hipotonik infüzyon kompartman değişimi (notta birebir)",
+      "back": "<b>Cevap: E</b> · Hücre içine doğru su geçişi gözlenmez; sadece ESS hacmi artar.\n\nNotta birebir: hipotonik infüzyonda ESS'den İSS'ye su akışı gerçekleşir, hem ESS hem İSS hacmi artar. Bu nedenle %0.45 NaCl hücre içi dehidratasyon ve hipernatremi tedavisinde kullanılır. ESS hacmi artışı İSS'den…",
+      "related_qid": 28,
+      "related_pid": "28_P5"
+    },
+    {
+      "id": "card_28_28_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ D5W (%5 Dekstroz) tonisitesi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"%5 Dekstroz (D5W) — başlangıçta izotonik, glikoz metabolize olunca hipotonik.\"",
+      "related_qid": 28,
+      "related_pid": "28_P6"
+    },
+    {
+      "id": "card_28_28_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "D5W (%5 Dekstroz) tonisitesi (notta birebir)",
+      "back": "<b>Cevap: B</b> · Başlangıçta izotoniktir; ancak glikoz hücrelere alınıp metabolize edildikten sonra geriye serbest su kalır ve etki hipotonik hale dönüşür.\n\nNotta birebir: D5W başlangıçta izotoniktir (osmolarite ~278 mOsm/L); ancak glikoz hücrelere alınıp metabolize olduktan sonra geriye serbest su kalır ve net etki hipotonik olur. Bu nedenle hipernatremi tedavisinde ve…",
+      "related_qid": 28,
+      "related_pid": "28_P6"
+    },
+    {
+      "id": "card_28_28_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ Hipertonik çözelti örnekleri (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Hipertonik çözeltiler: %3 NaCl, %7.5 NaCl, mannitol, %50 dekstroz.\"",
+      "related_qid": 28,
+      "related_pid": "28_P7"
+    },
+    {
+      "id": "card_28_28_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "Hipertonik çözelti örnekleri (notta birebir)",
+      "back": "<b>Cevap: D</b> · %3 NaCl (konsantre salin)\n\nNotta birebir hipertonik çözeltiler listesi: %3 NaCl, %7.5 NaCl, mannitol, %50 dekstroz. %0.45 NaCl hipotonik; %0.9 NaCl ve LR izotonik; D5W başlangıçta izotonik (sonra hipotonik). %3 NaCl konsantre salin akut…",
+      "related_qid": 28,
+      "related_pid": "28_P7"
+    },
+    {
+      "id": "card_28_28_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Böbrek",
+      "front": "⚠️ HIS hacmini artırmak için solüsyon seçimi (notta birebir entegrasyon) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir hipotonik çözelti = HIS artırır mantığı.",
+      "related_qid": 28,
+      "related_pid": "28_P8"
+    },
+    {
+      "id": "card_29_29_P1_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Erkek vs Kadın gametogenezi temel farkları",
+      "back": "<b>Cevap: E</b> · Kadında her siklusta yeni oosit havuzu üretilir (oogenez devam eder).\n\nKadında doğumdan sonra yeni oosit üretilmez — havuz fetal hayatta belirlenir. Bu yaş ilerledikçe over rezervinin tükenmesinin nedeni. Erkekte spermatogenez devam eder (puberteden ölüme kadar).",
+      "related_qid": 29,
+      "related_pid": "29_P1"
+    },
+    {
+      "id": "card_29_29_P2_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "LH piki ve ovulasyon",
+      "back": "<b>Cevap: E</b> · LH piki luteal fazın en yüksek progesteron düzeyini gösterir.\n\nLH piki foliküler fazın sonunda (13-14. gün) oluşur. Luteal fazda progesteron yüksek (korpus luteum salgılar) ama LH değil. LH piki ovulasyonu tetikler, sonrasında düşer.",
+      "related_qid": 29,
+      "related_pid": "29_P2"
+    },
+    {
+      "id": "card_29_29_P3_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Dominant folikül seçimi mekanizması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen FSH-östrojen feedback dominant folikül seçimi.",
+      "related_qid": 29,
+      "related_pid": "29_P3"
+    },
+    {
+      "id": "card_29_29_P3_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Dominant folikül seçimi mekanizması (notta birebir)",
+      "back": "<b>Cevap: E</b> · Dominant folikül seçimi progesteron tarafından doğrudan yapılır; östrojen ve inhibin B etkisizdir.\n\nNotta birebir: \"Büyüyen foliküller östrojen ve inhibin B üretmeye başlar. Negatif feedback yapar. FSH azalır. FSH azalınca çoğu folikül gelişimine devam edemez ama FSH bağlama kapasitesi en yüksek olan bağlar ve…",
+      "related_qid": 29,
+      "related_pid": "29_P3"
+    },
+    {
+      "id": "card_29_29_P4_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Yaşam boyu oosit havuzu değişimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen oosit sayısı değişimi ve atrezi.",
+      "related_qid": 29,
+      "related_pid": "29_P4"
+    },
+    {
+      "id": "card_29_29_P5_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Folikül gelişim basamaklarının sıralaması (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Primordial → Primer → Sekonder → Tersiyer (antral) → Graafian.\"",
+      "related_qid": 29,
+      "related_pid": "29_P5"
+    },
+    {
+      "id": "card_29_29_P5_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Folikül gelişim basamaklarının sıralaması (notta birebir)",
+      "back": "<b>Cevap: A</b> · II – IV – I – V – III\n\nNotta birebir folikül gelişim sırası: Primordial (II) → Primer (IV) → Sekonder (I) → Tersiyer/Antral (V) → Graafian (III). FSH sekonder folikül evresinden itibaren etkili olur; antral folikül arası fazda dominant…",
+      "related_qid": 29,
+      "related_pid": "29_P5"
+    },
+    {
+      "id": "card_29_29_P6_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Granüloza hücresi ve FSH (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Granüloza hücreleri FSH reseptörü ekspresyonu artar (sekonder folikülde). Granüloza östrojen salgılar (aromataz ile).\"",
+      "related_qid": 29,
+      "related_pid": "29_P6"
+    },
+    {
+      "id": "card_29_29_P6_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Granüloza hücresi ve FSH (notta birebir)",
+      "back": "<b>Cevap: E</b> · Granüloza hücreleri sadece LH reseptörü taşır; FSH reseptörü hiç bulundurmaz.\n\nNotta birebir: granüloza hücreleri FSH reseptörü taşır ve sekonder folikül evresinde bu ekspresyon artar. LH reseptörü ise tekal hücrelerde ve geç dominant folikülde granülozada da artar. Aromataz ile östrojen üretimi…",
+      "related_qid": 29,
+      "related_pid": "29_P6"
+    },
+    {
+      "id": "card_29_29_P7_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ Luteal faz - korpus luteum (notta birebir) — hoca neyi vurguladı?",
+      "back": "Notta birebir: \"Korpus luteum progesteron salgılar. Progesteron endometriyumu sekretuar faza geçirir. Gebelik olmazsa korpus luteum dejenere → progesteron düşer → menstrüel kanama.\"",
+      "related_qid": 29,
+      "related_pid": "29_P7"
+    },
+    {
+      "id": "card_29_29_P7_mech",
+      "type": "mekanizma",
+      "topic": "Fizyoloji · Üreme",
+      "front": "Luteal faz - korpus luteum (notta birebir)",
+      "back": "<b>Cevap: E</b> · Korpus luteum ömür boyu fonksiyon görür ve düzenli her siklusta yeniden büyür.\n\nNotta birebir: gebelik olmazsa korpus luteum dejenere olur (her siklusta yeni korpus luteum oluşur, eski olan korpus albikans'a dönüşür); ömür boyu fonksiyon görmez. Gebelik durumunda hCG ile yaşamı uzar (gebeliğin ilk…",
+      "related_qid": 29,
+      "related_pid": "29_P7"
+    },
+    {
+      "id": "card_29_29_P8_trap",
+      "type": "tuzak",
+      "topic": "Fizyoloji · Üreme",
+      "front": "⚠️ FSH ve sekonder folikül gelişimi (notta birebir) — hoca neyi vurguladı?",
+      "back": "Zor: Notta birebir geçen FSH-granüloza-sekonder folikül entegrasyonu.",
+      "related_qid": 29,
+      "related_pid": "29_P8"
+    }
+  ]
+}
