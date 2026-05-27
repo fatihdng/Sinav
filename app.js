@@ -448,6 +448,7 @@ function renderDetail(q) {
     <div class="choices">${choicesHtml}</div>
     <div id="explain-area"></div>
 
+    ${q.prof_questions && q.prof_questions.length > 0 ? `
     <div class="prof-section">
       <div class="prof-section-title">👨‍🏫 Profesör Modu</div>
       <div class="prof-section-desc">Bu soruya benzer konularda hazırlanmış ek sorular</div>
@@ -457,6 +458,7 @@ function renderDetail(q) {
       </div>
       <div id="prof-list"></div>
     </div>
+    ` : ''}
   `;
 
   // Şık tıklama
@@ -483,11 +485,9 @@ function renderDetail(q) {
 function renderProfList(q, level) {
   const list = q.prof_questions.filter(p => p.level === level);
   const wrap = document.getElementById('prof-list');
+  if (!wrap) return;
   if (!list.length) {
-    wrap.innerHTML = `<div class="empty-state">
-      <div class="title">Bu seviyede soru yok</div>
-      <div class="desc">Yakında eklenecek</div>
-    </div>`;
+    wrap.innerHTML = '';
     return;
   }
   wrap.innerHTML = list.map(p => `
