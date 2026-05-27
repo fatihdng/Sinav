@@ -16,7 +16,20 @@ from data_fizyo_30_38 import QUESTIONS as Q7
 from data_histoloji_39_51 import QUESTIONS as Q8
 from data_biyokimya_52_63 import QUESTIONS as Q9
 from data_anatomi_64_100 import QUESTIONS as Q10
-ALL = Q1 + Q2 + Q3 + Q4 + Q5 + Q6 + Q7 + Q8 + Q9 + Q10
+from data_2028_modul4 import QUESTIONS as Q2028
+
+# 2029 D2M4 sorularına exam_source ekle (sonradan eklendiği için varsa atlama)
+Q2029 = Q1 + Q2 + Q3 + Q4 + Q5 + Q6 + Q7 + Q8 + Q9 + Q10
+for q in Q2029:
+    q.setdefault('exam_source', '2029-D2M4')
+    q.setdefault('exam_label', '2029 D2M4')
+
+# 2028 Mezunlar — agent zaten exam_source koymuş olmalı (kontrol amaçlı setdefault)
+for q in Q2028:
+    q.setdefault('exam_source', '2028-MEZUNLAR')
+    q.setdefault('exam_label', '2028 Mezunlar Modül 4')
+
+ALL = Q2029 + Q2028
 
 
 def derive_tags(q):
@@ -131,11 +144,13 @@ def convert_question(q, idx):
     return {
         'id': q['num'],
         'num': q['num'],
+        'exam_source': q.get('exam_source', '2029-D2M4'),
+        'exam_label': q.get('exam_label', '2029 D2M4'),
         'exam_page': q.get('source_page', 1),
         'topic': derive_topic(q),
         'title': q.get('title', ''),
         'stem': q['stem'],
-        'extra_block': q.get('extra_stem', ''),
+        'extra_block': q.get('extra_stem') or q.get('extra_block', ''),
         'choices': q['choices'],
         'correct': q['correct'],
         'explain': q['explain'],
@@ -143,7 +158,8 @@ def convert_question(q, idx):
         'note_full_passage': note_full,
         'note_ref': note_ref,
         'prof_questions': profs,
-        'similar_questions': [],  # 2028 cross-reference için sonra doldurulacak
+        'similar_top': q.get('similar_top', []),  # konu çatısı altında 5 benzer soru
+        'similar_questions': q.get('similar_questions', []),  # 2028 cross-reference
         'images': []
     }
 

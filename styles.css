@@ -132,6 +132,36 @@ button { cursor: pointer; }
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'><path fill='%238b95a3' d='M2 4l4 4 4-4'/></svg>");
   background-repeat: no-repeat; background-position: right 10px center; }
 
+.exam-chip-bar {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  margin: 0 0 10px 0;
+  position: sticky; top: 105px; z-index: 4;
+  background: var(--bg); padding: 4px 0 8px;
+}
+.exam-chip {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 999px; padding: 6px 12px;
+  font-size: 12px; font-weight: 600; color: var(--text);
+  cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+  transition: all 0.15s;
+}
+.exam-chip:hover { border-color: var(--primary); }
+.exam-chip.active {
+  background: var(--primary); border-color: var(--primary); color: #0f1419;
+}
+.exam-chip span {
+  background: rgba(255,255,255,0.15); padding: 1px 7px; border-radius: 8px;
+  font-size: 11px; font-weight: 700;
+}
+.exam-chip.active span { background: rgba(0,0,0,0.18); color: #0f1419; }
+
+.q-exam {
+  display: inline-block; margin-left: 8px;
+  font-size: 10px; color: var(--accent);
+  padding: 1px 6px; background: rgba(251,191,36,0.10);
+  border-radius: 4px; font-weight: 600;
+}
+
 /* ======== SORU LİSTESİ ======== */
 .question-list { display: flex; flex-direction: column; gap: 8px; padding-bottom: 20px; }
 .question-row {

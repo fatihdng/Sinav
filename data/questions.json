@@ -2,11 +2,13 @@
   "version": "1.0",
   "exam": "2029 D2M4 Çıkmışları",
   "last_updated": "2026-05-26",
-  "total_questions": 100,
+  "total_questions": 203,
   "questions": [
     {
       "id": 1,
       "num": 1,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "İmmünoloji — Doğal Bağışıklık",
@@ -331,12 +333,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 2,
       "num": 2,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Mikoloji",
@@ -660,12 +665,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 3,
       "num": 3,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Mikoloji",
@@ -985,12 +993,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 4,
       "num": 4,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Mikoloji",
@@ -1319,12 +1330,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 5,
       "num": 5,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "İmmünoloji — Antijen Reseptörleri",
@@ -1653,12 +1667,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 6,
       "num": 6,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "İmmünoloji — Antijen",
@@ -1984,12 +2001,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 7,
       "num": 7,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "İmmünoloji — T Lenfosit Aktivasyonu",
@@ -2310,12 +2330,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 8,
       "num": 8,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "İmmünoloji — MHC Sınıf I Yolu",
@@ -2646,12 +2669,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 9,
       "num": 9,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "Viroloji",
@@ -2970,12 +2996,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 10,
       "num": 10,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "Viroloji",
@@ -3294,12 +3323,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 11,
       "num": 11,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "İmmünoloji — Serolojik Tanı",
@@ -3620,12 +3652,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 12,
       "num": 12,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "İmmünoloji — Hipersensitivite",
@@ -3949,12 +3984,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 13,
       "num": 13,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "Viroloji",
@@ -4003,12 +4041,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 14,
       "num": 14,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "Viroloji",
@@ -4054,12 +4095,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 15,
       "num": 15,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 2,
       "topic": {
         "main": "İmmünoloji — MHC Sunumu",
@@ -4388,12 +4432,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 16,
       "num": 16,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "İmmünoloji — MHC Polimorfizm",
@@ -4716,12 +4763,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 17,
       "num": 17,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "İmmünoloji — Aşılama",
@@ -5044,12 +5094,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 18,
       "num": 18,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "İmmünoloji — B Hücre Alt Tipleri",
@@ -5373,12 +5426,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 19,
       "num": 19,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "İmmünoloji — İmmün Yetmezlik",
@@ -5703,12 +5759,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 20,
       "num": 20,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "Viroloji",
@@ -5860,12 +5919,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 21,
       "num": 21,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "İmmünoloji — Kompleman",
@@ -6191,12 +6253,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 22,
       "num": 22,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 3,
       "topic": {
         "main": "Mikoloji",
@@ -6520,12 +6585,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 23,
       "num": 23,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Böbrek",
@@ -6848,12 +6916,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 24,
       "num": 24,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Üreme",
@@ -7171,12 +7242,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 25,
       "num": 25,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Böbrek",
@@ -7501,12 +7575,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 26,
       "num": 26,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Üreme",
@@ -7827,12 +7904,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 27,
       "num": 27,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Üreme",
@@ -8161,12 +8241,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 28,
       "num": 28,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Böbrek",
@@ -8489,12 +8572,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 29,
       "num": 29,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 4,
       "topic": {
         "main": "Fizyoloji · Üreme",
@@ -8823,12 +8909,15 @@
           "note_ref": {}
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 30,
       "num": 30,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -9184,12 +9273,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 31,
       "num": 31,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -9545,12 +9637,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 32,
       "num": 32,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -9906,12 +10001,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 33,
       "num": 33,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -10267,12 +10365,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 34,
       "num": 34,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -10630,12 +10731,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 35,
       "num": 35,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -10991,12 +11095,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 36,
       "num": 36,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -11354,12 +11461,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 37,
       "num": 37,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -11718,12 +11828,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 38,
       "num": 38,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Fizyoloji",
@@ -12079,12 +12192,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 39,
       "num": 39,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -12440,12 +12556,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 40,
       "num": 40,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -12801,12 +12920,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 41,
       "num": 41,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -13162,12 +13284,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 42,
       "num": 42,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -13523,12 +13648,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 43,
       "num": 43,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -13886,12 +14014,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 44,
       "num": 44,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -14249,12 +14380,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 45,
       "num": 45,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -14610,12 +14744,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 46,
       "num": 46,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -14624,7 +14761,7 @@
       },
       "title": "\"Filtrasyon aralığı\" ile ilgili açıklamalardan hangisi/hangileri...",
       "stem": "\"Filtrasyon aralığı\" ile ilgili açıklamalardan hangisi/hangileri yanlıştır?",
-      "extra_block": "",
+      "extra_block": "I- Filtrasyon bariyerinin yapısına katılır.<br>II- Pediseller arasındadır.<br>III- Mesangiyum hücreleri arasındadır.<br>IV- Kesintili bazal membran üstüne oturur.",
       "choices": [
         {
           "letter": "A",
@@ -14971,12 +15108,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 47,
       "num": 47,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -14985,7 +15125,7 @@
       },
       "title": "Aşağıdaki yapılardan hangisi/hangileri sadece paramezonefrik kanallardan...",
       "stem": "Aşağıdaki yapılardan hangisi/hangileri sadece paramezonefrik kanallardan gelişir?",
-      "extra_block": "",
+      "extra_block": "I- Tuba uterina<br>II- Uterus<br>III- Vajina",
       "choices": [
         {
           "letter": "A",
@@ -15332,12 +15472,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 48,
       "num": 48,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -15693,12 +15836,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 49,
       "num": 49,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -16056,12 +16202,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 50,
       "num": 50,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -16417,12 +16566,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 51,
       "num": 51,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Histoloji",
@@ -16778,12 +16930,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 52,
       "num": 52,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -17139,12 +17294,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 53,
       "num": 53,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -17385,12 +17543,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 54,
       "num": 54,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -17746,12 +17907,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 55,
       "num": 55,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -17762,7 +17926,7 @@
       },
       "title": "Hepatosit zarında bulunan glukoz taşıyıcısı (GLUT)...",
       "stem": "Hepatosit zarında bulunan glukoz taşıyıcısı (GLUT) hakkında aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
-      "extra_block": "",
+      "extra_block": "I- GLUT2 olarak bilinir.<br>II- Glukoza afinitesi yüksektir.<br>III- İnsüline duyarlı glukoz taşıyıcısıdır.",
       "choices": [
         {
           "letter": "A",
@@ -18109,12 +18273,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 56,
       "num": 56,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -18238,12 +18405,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 57,
       "num": 57,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -18599,12 +18769,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 58,
       "num": 58,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -18923,12 +19096,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 59,
       "num": 59,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -18937,7 +19113,7 @@
       },
       "title": "Steroid hormonların reseptörleriyle ilgili aşağıdakilerden hangisi/hangileri...",
       "stem": "Steroid hormonların reseptörleriyle ilgili aşağıdakilerden hangisi/hangileri doğrudur?",
-      "extra_block": "",
+      "extra_block": "I- Hücre içinde ikincil haberci kullanmazlar.<br>II- Nükleer reseptör ailesindendirler.<br>III- DNA'ya bağlanarak gen transkripsiyonunu",
       "choices": [
         {
           "letter": "A",
@@ -19284,12 +19460,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 60,
       "num": 60,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -19645,12 +19824,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 61,
       "num": 61,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -20006,12 +20188,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 62,
       "num": 62,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -20022,7 +20207,7 @@
       },
       "title": "Kanda CO2'nin taşınmasıyla ilgili olarak aşağıdakilerden...",
       "stem": "Kanda CO2'nin taşınmasıyla ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?",
-      "extra_block": "",
+      "extra_block": "I- \"Klor kayması\" plazma ve eritrosit sitoplazması<br>II- \"Klor kayması\"nda eritrositlerdeki Cl-<br>III- Cl- ve HCO3-, kanda tamponlamada görev alan",
       "choices": [
         {
           "letter": "A",
@@ -20369,12 +20554,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 63,
       "num": 63,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Biyokimya",
@@ -20730,12 +20918,15 @@
           }
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 64,
       "num": 64,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -20778,12 +20969,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 65,
       "num": 65,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -21099,12 +21293,15 @@
           "note_ref": "Anatomi uyg6) Pelvik Vasküler Anatomi — Prof.Dr. Halil İbrahim Açar (PAGE 1, 3)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 66,
       "num": 66,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -21422,12 +21619,15 @@
           "note_ref": "Anatomi uyg1) Üriner Sistem Organları — Prof.Dr.H.İbrahim Açar (PAGE 17)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 67,
       "num": 67,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -21675,12 +21875,15 @@
           "note_ref": "Anatomi s1) Genital sistem lenfatiklerine gelişimsel yaklaşım ve pelvik otonomik innervasyon — Prof.Dr.Aysun Uz (PAGE 2)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 68,
       "num": 68,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -21691,7 +21894,7 @@
       },
       "title": "Aşağıdakilerden hangisi, organa genitalia feminina externa'nın...",
       "stem": "Aşağıdakilerden hangisi, organa genitalia feminina externa'nın arteriyel beslenmesine katkı sağlayan damarlarla ilgili doğru ifadeleri eksiksiz olarak içermektedir?",
-      "extra_block": "",
+      "extra_block": "I- Arteria bulbi vestibuli, bulbus vestibuli'yi besler.<br>II- Arteriae labiales posteriores, arteria perinealis'in<br>III- Arteria profunda clitoridis, arteria pudenda<br>IV- Arteria perinealis, spatium superficiale perinei'de<br>V- Arteria dorsalis clitoridis, arteria perinealis'in",
       "choices": [
         {
           "letter": "A",
@@ -21998,12 +22201,15 @@
           "note_ref": "Anatomi uyg5) Kadın Dış Genital Organları ve Urethra — Prof. Dr. İbrahim Tekdemir (PAGE 12)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 69,
       "num": 69,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -22319,12 +22525,15 @@
           "note_ref": "Anatomi uyg5) Kadın Dış Genital Organları ve Urethra — Prof. Dr. İbrahim Tekdemir (PAGE 14)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 70,
       "num": 70,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -22640,12 +22849,15 @@
           "note_ref": "Anatomi uyg4) Kadın İç Genital Organları — Prof. Dr. Aysun Uz (PAGE 6-7)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 71,
       "num": 71,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -22961,12 +23173,15 @@
           "note_ref": "Anatomi s1) Genital sistem lenfatiklerine gelişimsel yaklaşım ve pelvik otonomik innervasyon — Prof.Dr.Aysun Uz (PAGE 3)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 72,
       "num": 72,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -23282,12 +23497,15 @@
           "note_ref": "Anatomi uyg1) Üriner Sistem Organları — Prof.Dr.H.İbrahim Açar (PAGE 14)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 73,
       "num": 73,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -23603,12 +23821,15 @@
           "note_ref": "Genetik s7-s8) Kromozomal Hastalıkların Doğum Öncesi Tanısı 1 ve 2 — Prof.Dr.Hatice Ilgın Ruhi (PAGE 1)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 74,
       "num": 74,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -23924,12 +24145,15 @@
           "note_ref": "Genetik s2-s3) Kromozomal Hastalıklar — Prof.Dr. Hatice Ilgın Ruhi (PAGE 4)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 75,
       "num": 75,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -24211,12 +24435,15 @@
           "note_ref": "Genetik s1) Sayısal-Yapısal Kromozomal Düzensizlikler — Prof. Dr. Hatice Ilgın Ruhi (PAGE 7-8)"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 76,
       "num": 76,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -24532,12 +24759,15 @@
           "note_ref": "Genetik s4-s5) Konjenital Anomaliler, Teratoloji ve Dismorfoloji 1 ve 2.pdf, s.9"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 77,
       "num": 77,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -24853,12 +25083,15 @@
           "note_ref": "Genetik s2-s3) Kromozomal Hastalıklar.pdf, s.8"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 78,
       "num": 78,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -25174,12 +25407,15 @@
           "note_ref": "EGI Congenital Anomalies vÖ.pdf, s.13-14"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 79,
       "num": 79,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -25495,12 +25731,15 @@
           "note_ref": "Genetik s7-s8) Kromozomal Hastalıkların Doğum Öncesi Tanısı 1 ve 2.pdf, s.6"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 80,
       "num": 80,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -25818,12 +26057,15 @@
           "note_ref": "Genetik s2-s3) Kromozomal Hastalıklar.pdf, s.11"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 81,
       "num": 81,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26139,12 +26381,15 @@
           "note_ref": "Genetik s2-s3) Kromozomal Hastalıklar.pdf, s.14"
         }
       ],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 82,
       "num": 82,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26153,7 +26398,7 @@
       },
       "title": "Sağlıkta \"Nesnelerin Interneti (IoT)\" teknolojisi aşağıdaki...",
       "stem": "Sağlıkta \"Nesnelerin Interneti (IoT)\" teknolojisi aşağıdaki alanlardan hangisinde/hangilerinde kullanılmaktadır?",
-      "extra_block": "",
+      "extra_block": "I- Hastane yönetimi ve operasyonları<br>II- Hasta izleme ve teşhis<br>III- İlaç keşfi ve geliştirme<br>IV- Tıbbi araştırmalar ve klinik deneyler",
       "choices": [
         {
           "letter": "A",
@@ -26187,12 +26432,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 83,
       "num": 83,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26235,12 +26483,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 84,
       "num": 84,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26283,12 +26534,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 85,
       "num": 85,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26331,12 +26585,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 86,
       "num": 86,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26379,12 +26636,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 87,
       "num": 87,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26429,12 +26689,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 88,
       "num": 88,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26477,12 +26740,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 89,
       "num": 89,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26525,12 +26791,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 90,
       "num": 90,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26573,12 +26842,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 91,
       "num": 91,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26621,12 +26893,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 92,
       "num": 92,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26669,12 +26944,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 93,
       "num": 93,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26717,12 +26995,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 94,
       "num": 94,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26765,12 +27046,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 95,
       "num": 95,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26813,12 +27097,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 96,
       "num": 96,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26861,12 +27148,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 97,
       "num": 97,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26875,7 +27165,7 @@
       },
       "title": "Protozoonlarla ilgili olarak aşağıdaki ifadelerden hangisi/hangileri...",
       "stem": "Protozoonlarla ilgili olarak aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
-      "extra_block": "",
+      "extra_block": "I- Apicomplexa'lar eşeyli ve eşeysiz ürer<br>II- Sarcodina'ların belirgin bir hareketleri yoktur<br>III- Mastigophora'lardaki makronükleus çoğalma ile<br>IV- Apicomplexa lardaki kamçı parazitin hareketini",
       "choices": [
         {
           "letter": "A",
@@ -26909,12 +27199,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 98,
       "num": 98,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -26957,12 +27250,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 99,
       "num": 99,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -27005,12 +27301,15 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     },
     {
       "id": 100,
       "num": 100,
+      "exam_source": "2029-D2M4",
+      "exam_label": "2029 D2M4",
       "exam_page": 1,
       "topic": {
         "main": "Anatomi",
@@ -27057,6 +27356,5268 @@
         "pages": ""
       },
       "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 101,
+      "num": 101,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "b hücre",
+          "t hücre"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi B hücre reseptörlerinin sahip...",
+      "stem": "Aşağıdakilerden hangisi B hücre reseptörlerinin sahip olmadığı, sadece T hücre reseptörlerinin sahip olduğu bir özelliktir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağlı formu vardır."
+        },
+        {
+          "letter": "B",
+          "text": "Sinyal iletimi gerçekleştiremez."
+        },
+        {
+          "letter": "C",
+          "text": "Serbest formu vardır."
+        },
+        {
+          "letter": "D",
+          "text": "Lipid ve polisakkarit antijenleri tanır."
+        },
+        {
+          "letter": "E",
+          "text": "MHC molekülleri ile sunulan peptid antijenleri tanır."
+        }
+      ],
+      "correct": "E",
+      "explain": ") sorunun",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 102,
+      "num": 102,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi a. umblicalis'in dalıdır?",
+      "stem": "Aşağıdakilerden hangisi a. umblicalis'in dalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "A. epigastrica superficiales"
+        },
+        {
+          "letter": "B",
+          "text": "A. vesicalis superiores"
+        },
+        {
+          "letter": "C",
+          "text": "A. Cremastrica"
+        },
+        {
+          "letter": "D",
+          "text": "A. epigastrica inferior"
+        },
+        {
+          "letter": "E",
+          "text": "A. vesicalis inferior"
+        }
+      ],
+      "correct": "B",
+      "explain": ") sorunun",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 103,
+      "num": 103,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mantar",
+          "mikoloji"
+        ]
+      },
+      "title": "Mantarların hücre yapısı ile ilgili aşağıdakilerden...",
+      "stem": "Mantarların hücre yapısı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mannan polisakkarit içerirler."
+        },
+        {
+          "letter": "B",
+          "text": "Histopatolojik boyalarla boyanır."
+        },
+        {
+          "letter": "C",
+          "text": "Çekirdek zarı bulunur."
+        },
+        {
+          "letter": "D",
+          "text": "Hücre kapsülü bulunur."
+        },
+        {
+          "letter": "E",
+          "text": "Kapsül yapısı bulunmaz."
+        }
+      ],
+      "correct": "E",
+      "explain": ") sorunun",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 104,
+      "num": 104,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "lepra ( cüzzam) hastalığının ağır ya...",
+      "stem": "lepra ( cüzzam) hastalığının ağır ya da hafif geçeceğini belirleyen faktör aşağıdakilerden hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B lenfositlerin izotip dönüşümünün igE veya igG( ıgD diye yollayan da olmuş) yönünde olması olması"
+        },
+        {
+          "letter": "B",
+          "text": "th lenfositlerin th1 th2 yönünde farklanması"
+        },
+        {
+          "letter": "C",
+          "text": "th lenfositlerin makrofajları aktive edip edememesi"
+        },
+        {
+          "letter": "D",
+          "text": "t lenfositlerin cd4 cd8 yönünde farklanması"
+        },
+        {
+          "letter": "E",
+          "text": "t hücrelerine sınıf 1 ya da sınıf 2 MHC molekülleriyle sunum yapılması"
+        }
+      ],
+      "correct": "B",
+      "explain": ") sorunun",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 105,
+      "num": 105,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdaki yapılardan hangisi corpus clitoridis’in önüne...",
+      "stem": "aşağıdaki yapılardan hangisi corpus clitoridis’in önüne bulunur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "preputium clitoridis"
+        },
+        {
+          "letter": "B",
+          "text": "frenulum clitoridis"
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": ""
+        }
+      ],
+      "correct": "A",
+      "explain": ") sorunun",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 106,
+      "num": 106,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "segmental anazomi ile sonuçlanan kromozomal düzensizlik...",
+      "stem": "segmental anazomi ile sonuçlanan kromozomal düzensizlik nedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "parasentrik inversiyon"
+        },
+        {
+          "letter": "B",
+          "text": "ring kromozom"
+        },
+        {
+          "letter": "C",
+          "text": "duplikasyon"
+        },
+        {
+          "letter": "D",
+          "text": "perisentrik inversiyon"
+        },
+        {
+          "letter": "E",
+          "text": "insersiyon"
+        }
+      ],
+      "correct": "A",
+      "explain": ". Annenin konjenital kalp hastalığına sahip olması  %5-10 7. Paternal konjenital kalp hastalığı  %2-5 8. Konjenital kalp hastalığı olan çocuk varlığı  %2-5 Şimdi sorumuzun cevabına gelelim: alkol kullanımı %25 dedik, fenitoin %2-3 dedik, diyabete %3-5 dedik, paternal kkh %2-5 dedik ve KKH çocuk varlığına %2-5 dedik. Yani",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 107,
+      "num": 107,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji · Üreme",
+        "sub": "Fizyoloji-Üreme",
+        "tags": []
+      },
+      "title": "gonadotropinlerin testisler üzerinde etkisine dair eşleştirmelerden...",
+      "stem": "gonadotropinlerin testisler üzerinde etkisine dair eşleştirmelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "LH – androjen bağlayan globulin sentezi"
+        },
+        {
+          "letter": "B",
+          "text": "FSH – östrojen sentezi"
+        },
+        {
+          "letter": "C",
+          "text": "FSH – inhibin B sentezi"
+        },
+        {
+          "letter": "D",
+          "text": "LH – testosteron sentezi"
+        },
+        {
+          "letter": "E",
+          "text": "FSH – spermatogenez"
+        }
+      ],
+      "correct": "A",
+      "explain": ". soru Gonadotropinlerin testisler üzerindeki etkilerini sorumuş. Bu slaytı Emel hocanın spermatogenez ve testiküler fonksiyonlar dersinden aldım. Bu slayta göre sertoli hücrelerinde FSH reseptörü vardır. FSH sertoli hücrelerinde spermatogenezi uyarır. Ve bu hücrelerde testosterondan östrojen dönüşümü yapılır. Yani E ve B şıkkı doğru. Leydig hücrelerinde ise LH reseptörü var. Bunun etkisiyle de kolesterolden testosteron üretiliyor. Yani d şıkkı da doğru. Buraya sertoli hücrelerinin işlevleriyle ilgili bir slyat bırakıyorum. Buradaki etkiler FSH’ın sertoli hücresindeki reseptörüne bağlanmasıyla gerçekleşiyor. Yani",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 108,
+      "num": 108,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisinde fetal kardinal anomali gelişme...",
+      "stem": "aşağıdakilerden hangisinde fetal kardinal anomali gelişme riski en fazladır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "gebelikte alkol kullanımı"
+        },
+        {
+          "letter": "B",
+          "text": "gebelikte fenitoin kulanımı"
+        },
+        {
+          "letter": "C",
+          "text": "tip 1 diyabetik anne"
+        },
+        {
+          "letter": "D",
+          "text": "paternal konjenital kalp hastalığı"
+        },
+        {
+          "letter": "E",
+          "text": "önceki çocuklarında konjenital kalp hastalığı bulunması"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 109,
+      "num": 109,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 1,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": []
+      },
+      "title": "duktus epididiymis (epididimis) ile ilgili hangisi...",
+      "stem": "duktus epididiymis (epididimis) ile ilgili hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "baş, gövde, kuyruk kısmı vardır"
+        },
+        {
+          "letter": "B",
+          "text": "çevreleyen kas tabakası kalınlığı distale doğru artar"
+        },
+        {
+          "letter": "C",
+          "text": "mezonefroz borusundan gelişir"
+        },
+        {
+          "letter": "D",
+          "text": "yalancı çok katlı kinosilyalı epitelle döşelidir"
+        },
+        {
+          "letter": "E",
+          "text": "spermatozoonlar kuyruk kısmında depolanır"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 110,
+      "num": 110,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisi uterus histolojisiyle ilgili yanlış...",
+      "stem": "aşağıdakilerden hangisi uterus histolojisiyle ilgili yanlış bir ifadedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "en kalın tabakası miyometriumdur"
+        },
+        {
+          "letter": "B",
+          "text": "endometriyum yüzey epiteli yalancı çok katlı prizmatik yapıdadır"
+        },
+        {
+          "letter": "C",
+          "text": "endometriyal bezler sekresyon fazında kıvrıntrılı olarak izlenir"
+        },
+        {
+          "letter": "D",
+          "text": "adventisya ve seroza tabakası bulunur"
+        },
+        {
+          "letter": "E",
+          "text": "spiral arterlerin kasılmasına bağlı beslenme bozukluğu adet kanamasına (menş neden olur"
+        }
+      ],
+      "correct": "B",
+      "explain": ". soru uterus histolojisini hatırlayalım. 3 tabakadan oluşur. Dıştan içe doğru perimetriyum, mymoteryium, endometriyum. Perimetriyum en dıştaki seröz tabakadır. Mezotel ile çevrilidir. Tüm arkayı ve önü örter. Ön tarafta bir kısım adventisya ile örtülüdür. Myometrium en kalın tabakasıdır. 3 tabakaya ayrılır. İç ve dış tabakalarında uterusun uzun aksına paralel düz kas hücreleri izlenmektedir. Orta tabaka oldukça kalın stratum vaskulare dir. Çok sayıda kan damarı içerir. Endometriyum üreme hayatı boyunca değişiklikler gösterir, tek katlı prizmatik epitele sahiptir az sayıda silya içerebilir. 2 tabakadır. 1. Fonksiyonel bölümü lümene bakan en iç tabaka. Adet döngüsü boyunca işlev gösterir ve kalınlaşarak embriyonun yerleşmesine hazırlanır. Yerleşmezse dejenere olur. 2. Bazal tabaka fonksiyonel tabakayı alttan destekler ve myometriyuma komşu ve döngü süresince bütünlüğünü korur ve fonksiyonel tabakanın rejenerasyonundan sorumludur. Ayrıca spiral arterleri barındırır. Bu arterlerin kasılmasına bağlı beslenme bozukluğunda adet kanaması görülür. Yani",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 111,
+      "num": 111,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisi ADH için söylenemez?",
+      "stem": "aşağıdakilerden hangisi ADH için söylenemez?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "medullar toplama kanalında üre geri emilimini artırır"
+        },
+        {
+          "letter": "B",
+          "text": "medullar kan akımını artırır"
+        },
+        {
+          "letter": "C",
+          "text": "bazolateral membranda v2 reseptörlerine bağlanarak aktive olur"
+        },
+        {
+          "letter": "D",
+          "text": "apikal membranda henlede Na+ emilimini artırır"
+        },
+        {
+          "letter": "E",
+          "text": "çıkan kalın henlede Na+ geri emilimini artırır"
+        }
+      ],
+      "correct": "B",
+      "explain": ". soru Altını siyah kalemle çizdiğim bilgiler şıkları doğruluyor. Ancak kırmızı kalemle çizdiğim bilgi B şıkkının yanlış olduğunu gösteriyor. Yani",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 112,
+      "num": 112,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "cri du chat sendromu aşağıdaki kromozomal...",
+      "stem": "cri du chat sendromu aşağıdaki kromozomal düzensizliklerden hangisi ile ilgilidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "delesyon 7q"
+        },
+        {
+          "letter": "B",
+          "text": "delesyon 5p"
+        },
+        {
+          "letter": "C",
+          "text": "trizomi 16"
+        },
+        {
+          "letter": "D",
+          "text": "izokromozom X"
+        },
+        {
+          "letter": "E",
+          "text": "inversiyon 9"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 113,
+      "num": 113,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "uzamış açlıkta hangisi keton cisimlerini yakıt...",
+      "stem": "uzamış açlıkta hangisi keton cisimlerini yakıt olarak kullanamaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "nöron"
+        },
+        {
+          "letter": "B",
+          "text": "kalp kası hücresi"
+        },
+        {
+          "letter": "C",
+          "text": "iskelet kası hücresi"
+        },
+        {
+          "letter": "D",
+          "text": "bağırsak epiteli"
+        },
+        {
+          "letter": "E",
+          "text": "hepatosit"
+        }
+      ],
+      "correct": "E",
+      "explain": ") Biyokimya/Lipoliz ve Keton Cisimcikleri Nöron, kalp kası hücresi, iskelet kası hücresi, bağırsak epiteli keton cisimlerini yakıt olarak kullanabilirken hepatositlerde yani karaciğerde kullanılamaz. Karaciğer hücreleri, keton cisimlerini üretir ancak onları enerji kaynağı olarak kullanmaz. Karaciğer bu cisimleri diğer dokulara enerji kaynağı olarak göndermek için üretir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 114,
+      "num": 114,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisi eklemlerin ve kasların tam...",
+      "stem": "aşağıdakilerden hangisi eklemlerin ve kasların tam hareket açıklığında hareket etme yeteneğini belirtir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kas dayanıklılığı"
+        },
+        {
+          "letter": "B",
+          "text": "kas gücü"
+        },
+        {
+          "letter": "C",
+          "text": "esneklik"
+        },
+        {
+          "letter": "D",
+          "text": "güç"
+        },
+        {
+          "letter": "E",
+          "text": "çeviklik"
+        }
+      ],
+      "correct": "C",
+      "explain": ") Sağlıklı Yaşam/ Fiziksel Aktivitenin Sağlık Açısından Yararları Kas Dayanıklılığı: Bir kasın yorulmadan sürekli kasılabilme yeteneğidir. Kas Kuvveti: Kaslarımızın tek bir çabayla üretebileceği kuvvet miktarıdır. Esneklik: Eklemleri esnetme ve kasları tam hareket açıklığı boyunca germe yeteneğidir. Güç: Kuvvet ve hız kullanma yeteneğidir. Çeviklik: Vücudun pozisyonunu hızlı bir şekilde değiştirme ve vücudun hareketlerini kontrol etme yeteneğidir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 115,
+      "num": 115,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "skrotumda cremesterin derininde yer alan yapı...",
+      "stem": "skrotumda cremesterin derininde yer alan yapı nedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tunika Albugenia"
+        },
+        {
+          "letter": "B",
+          "text": "periorchium"
+        },
+        {
+          "letter": "C",
+          "text": "fascia spermatica externa"
+        },
+        {
+          "letter": "D",
+          "text": "fascia spermatica interna"
+        },
+        {
+          "letter": "E",
+          "text": "t. Dartos"
+        }
+      ],
+      "correct": "D",
+      "explain": ") Anatomi/Organa Genitalia Masculina Externa",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 116,
+      "num": 116,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji"
+        ]
+      },
+      "title": "menstrual siklusta rolü olmayan hormon aşağıdakilerden...",
+      "stem": "menstrual siklusta rolü olmayan hormon aşağıdakilerden hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "östron"
+        },
+        {
+          "letter": "B",
+          "text": "LH"
+        },
+        {
+          "letter": "C",
+          "text": "progesteron"
+        },
+        {
+          "letter": "D",
+          "text": "FSH"
+        },
+        {
+          "letter": "E",
+          "text": "östradiol"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Histoloji/ Menstrual Siklus Değişiklikleri, Vagina ve Dış Genitalya, İç ve Dış Genital Sistemin Gelişimi LH: Luteinize edici hormon (LH), ovulasyonun tetiklenmesinde ve korpus luteumun oluşumunda önemli rol oynar. Progesteron: Progesteron, luteal fazda salgılanır ve uterusun gebeliğe hazırlanmasına yardımcı olur. FSH: Folikül uyarıcı hormon (FSH), foliküllerin büyümesini ve gelişmesini uyarır. Aynı zamanda östrojen üretimini tetikler. Östradiol: Östradiol, östrojenin ana formudur ve menstrual siklus sırasında özellikle foliküler fazda önemli rol oynar. Endometriyal tabakanın kalınlaşmasına katkıda bulunur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 117,
+      "num": 117,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 2,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Toplumda kronik hastalıkların önlenmesi için en...",
+      "stem": "Toplumda kronik hastalıkların önlenmesi için en etkili uygulama aşağıdakilerden hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kronik hastalıklar için risk altındaki bireylerin belirlenmesi."
+        },
+        {
+          "letter": "B",
+          "text": "Risk altındaki bireylerin kronik hastalıklar açısından düzenli olarak taranması."
+        },
+        {
+          "letter": "C",
+          "text": "Toplumdaki tüm bireylerin kronik hastalıklar açısından düzenli olarak taranması."
+        },
+        {
+          "letter": "D",
+          "text": "Sağlıklı yaşam tarzı değişiklikleri konusunda toplumun eğitimi."
+        },
+        {
+          "letter": "E",
+          "text": "Kronik hastalıklara yönelik standart tanı, takip ve tedavi protokollerinin geliştirilmesi."
+        }
+      ],
+      "correct": "D",
+      "explain": ") Sağlıklı Yaşam/Türkiye’de Kronik Hastalıklar Önleme Programları Kronik hastalıkları ö nleme ve kontrol programlarının kapsamına baktığ ımız zaman 4 alan gö rü rü z. Bunlar: • Topluma Yö nelik Genel Ö nleme Yaklaş ımları • Risk Altındaki Kiş ilere Yö nelik Primer Ö nleme Yaklaş ımları • Erken Evre Hastalara Yö nelik Sekonder Ö nleme Yaklaş ımları • İleri Evre Hastalara Yö nelik Tersiyer Ö nleme Yaklaş ımları a-) Topluma Yö nelik Genel Ö nleme Yaklaş ımları: Sağ lıklı yaş am tarzı değ iş iklikleri konusunda topyekü n bir eğ itim yapılması ve bu yaş am tarzı değ iş ikliklerinin toplumun ö nemli bir kısmı tarafından benimsenmesi ve uygulanmasının sağ lanmasını amaç lar. Bu bağ lamda tuz tü ketiminin azaltılması, sağ lıklı beslenmenin sağ lanması, dü zenli egzersiz yapılması, ideal vü cut ağ ırlığ ının korunması, sigaradan ve aş ırı alkol tü ketiminden kaç ınılması vurgulanmaktadır. Bu ö nlemler son derece ö nemlidir ve uygulandığ ında toplumda kronik hastalıklar sıklığ ının %50’lere varan oranda azaltıldığ ını gö steren ç alış malar mevcuttur. Sonuç alınması uzun sü ren bir yaklaş ımdır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 118,
+      "num": 118,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": [
+          "gebelik",
+          "oksitosin"
+        ]
+      },
+      "title": "Gebelikte uterusun oksitosin reseptör artışında rolü...",
+      "stem": "Gebelikte uterusun oksitosin reseptör artışında rolü olan hormon hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "hCG"
+        },
+        {
+          "letter": "B",
+          "text": "prolaktin"
+        },
+        {
+          "letter": "C",
+          "text": "relaksin"
+        },
+        {
+          "letter": "D",
+          "text": "progesteron"
+        },
+        {
+          "letter": "E",
+          "text": "östrojen"
+        }
+      ],
+      "correct": "E",
+      "explain": ") M3 Fizyoloji/Gebelik Fizyolojisi Plasental östrojen Gebeliğin başat östrojen tipi estrioldur.Fetüse ve anneye ait kompartmanlar tarafından ortak olarak sentezlenir -Doğuma yakın dönemde normalin 30 katı artar. -Anne uterusunun gelişmesi, östrojen ve oksitosin reseptör sayısının artmasını sağlar. -Meme bezlerinde duktal yapının geliştirir. -Karaciğerde protein sentezi artışına yol açar. -Yağ dokusu artışı sağlar. -Genital organlarda genişleme, pelvik ligamentlerin gevşemesi sağlar -Embriyonun erken dönemlerinde büyümesi, hücrelerin çoğalması- embriyoya ait olan hücrelerin proliferasyonunu destekler. -Annede plazma, idrar veya amniyon sıvısı östriol düzeyi normal gelişim göstergesidir, fetal distreste azalır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 119,
+      "num": 119,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi doğrudur?",
+      "stem": "Aşağıdakilerden hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paramezonefrik tübüller duktuli efferentisteri oluşturur."
+        },
+        {
+          "letter": "B",
+          "text": "Kadın genital sistemi gelişimi için östrojen düzeyinin artması gerekir."
+        },
+        {
+          "letter": "C",
+          "text": "Y kromozomundan mülleri inhibe eden (MIF) protein salgılanır."
+        },
+        {
+          "letter": "D",
+          "text": "Testisler endodermal kökenli bir çift organdır"
+        },
+        {
+          "letter": "E",
+          "text": "Erkek genital sistem gelişimi 7. haftada başlar"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 120,
+      "num": 120,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Silyasız(peg..) hücreleri aşağıdaki yapıların hangisinin epitelinde...",
+      "stem": "Silyasız(peg..) hücreleri aşağıdaki yapıların hangisinin epitelinde izlenir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endometriyum"
+        },
+        {
+          "letter": "B",
+          "text": "Ektoserviks"
+        },
+        {
+          "letter": "C",
+          "text": "Endoserviks"
+        },
+        {
+          "letter": "D",
+          "text": "Vajina"
+        },
+        {
+          "letter": "E",
+          "text": "Fallopi tüpü"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 121,
+      "num": 121,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi immunoglobulinlerin efektör etkilerinden değildir?",
+      "stem": "Aşağıdakilerden hangisi immunoglobulinlerin efektör etkilerinden değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kompleman sistem aktivasyonu"
+        },
+        {
+          "letter": "B",
+          "text": "Sitotoksin salınımı"
+        },
+        {
+          "letter": "C",
+          "text": "Mast hücre degranülasyonu"
+        },
+        {
+          "letter": "D",
+          "text": "Toksinlerin nötralizasyonu"
+        },
+        {
+          "letter": "E",
+          "text": "bakteri fagositozu"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 122,
+      "num": 122,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "Aşağıdaki kromozomal düzensizliklerden hangisinin oluşum mekanizması...",
+      "stem": "Aşağıdaki kromozomal düzensizliklerden hangisinin oluşum mekanizması nondisjunction değildir ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Edwards Sendromu"
+        },
+        {
+          "letter": "B",
+          "text": "Down Sendromu"
+        },
+        {
+          "letter": "C",
+          "text": "Trizomi 20"
+        },
+        {
+          "letter": "D",
+          "text": "4p delesyon sendromu"
+        },
+        {
+          "letter": "E",
+          "text": "Patau sendromu"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 123,
+      "num": 123,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi düzenli bedensel etkinliğin metabolizmaya...",
+      "stem": "Aşağıdakilerden hangisi düzenli bedensel etkinliğin metabolizmaya yararlarından biridir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dinlenim kalp hızını arttırır."
+        },
+        {
+          "letter": "B",
+          "text": "Kan şekerini arttırır."
+        },
+        {
+          "letter": "C",
+          "text": "İnsülin duyarlılığını arttırır"
+        },
+        {
+          "letter": "D",
+          "text": "Toparlanma süresini iyileştirir"
+        },
+        {
+          "letter": "E",
+          "text": "Kan hacmini azaltır."
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 124,
+      "num": 124,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "t hücre",
+          "tcr"
+        ]
+      },
+      "title": "Hangisi T hücre reseptörünün (TCR) özeliğidir?",
+      "stem": "Hangisi T hücre reseptörünün (TCR) özeliğidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Enfeksiyon seyri sırasında antijen bağlama gücü artar."
+        },
+        {
+          "letter": "B",
+          "text": "Protein, karbonhidrat ve lipit yapıda antijenleri tanır."
+        },
+        {
+          "letter": "C",
+          "text": "Enfeksiyon seyri esnasında bağlı formdan salgınla forma geçiş olur."
+        },
+        {
+          "letter": "D",
+          "text": "Biri membrana demirlemiş olarak bulunan iki idantik peptit zincirden oluşur."
+        },
+        {
+          "letter": "E",
+          "text": "Antijene bağlanmayı takiben sinyal iletimi yardımcı moleküllerle gerçekleşir."
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 125,
+      "num": 125,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 3,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Üretra ile ilgili yanlış açıklamayı işaretleyiniz.",
+      "stem": "Üretra ile ilgili yanlış açıklamayı işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kadında membranöz üretra bulunmaz."
+        },
+        {
+          "letter": "B",
+          "text": "Her iki cinste Lamina Propriyasında Littre bezleri bulunur."
+        },
+        {
+          "letter": "C",
+          "text": "Erkekte corpus cavernosum penis içinde yer alır."
+        },
+        {
+          "letter": "D",
+          "text": "Her iki cinste dışa açılış epiteli çok katlı yassı keratinleşmeyen epiteldir."
+        },
+        {
+          "letter": "E",
+          "text": "İçte longitudinal, dışta sirküler kaslar içerir."
+        }
+      ],
+      "correct": "C",
+      "explain": "- Hangi not bulamadım Erkekte corpus spongiosum penis içerisinde bulunur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 126,
+      "num": 126,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Böbrek süzücü zarının negatif yüklü yapısından...",
+      "stem": "Böbrek süzücü zarının negatif yüklü yapısından hangisi sorumlu değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Heparan sülfat"
+        },
+        {
+          "letter": "B",
+          "text": "Lamina raradaki laminin ve fibronektin"
+        },
+        {
+          "letter": "C",
+          "text": "Endotel hücresi glikokaliksi"
+        },
+        {
+          "letter": "D",
+          "text": "Podosit hücresi glikokaliksi"
+        },
+        {
+          "letter": "E",
+          "text": "Kondrin sülfat"
+        }
+      ],
+      "correct": "B",
+      "explain": "- (Prof. Dr. Esra Erdemli-Histoloji- böbrek tüpleri ve toplama boruları) laminin ve ﬁbronektin içerirler çünkü kendine yapışan hücreyi bazal membrana yapıştırmalı. Perlekan, agrin, heparan sülfat ile negatif yüklerin geçişi engellenir. ENDOTEL : Negatif (-) yüklüdür. 200-400 nm kalınlığındaki glikokalikse sahiptir. Perlecan, syndecan ve rsican gibi proteoglikanlar ve heparan sülfat, kondritin sülfat gibi glikozaminler bunu sağlar.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 127,
+      "num": 127,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Tümör belirteçlerinden hangisinin kandaki seviyesi trofoblastik...",
+      "stem": "Tümör belirteçlerinden hangisinin kandaki seviyesi trofoblastik tümörlerde artar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kromogranin A"
+        },
+        {
+          "letter": "B",
+          "text": "hCG / human koryonik gonadotropin"
+        },
+        {
+          "letter": "C",
+          "text": "beta 2- mikroglobulin"
+        },
+        {
+          "letter": "D",
+          "text": "Karsinoembriyojenik antijen"
+        },
+        {
+          "letter": "E",
+          "text": "Skuamöz hücreli karsinoma antijeni"
+        }
+      ],
+      "correct": "B",
+      "explain": "-(Tümör belirteçleri Doç.Dr.Özlem Doğan) Her sene çıkan kolay bir soru. Trofoblastlardan hCG salgılandığı için tümörlünde de hCG kanda artar.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 128,
+      "num": 128,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "19 yaşında üniversite öğrencisi erkek hasta...",
+      "stem": "19 yaşında üniversite öğrencisi erkek hasta anksiyete ve depresyon belirtileri ile hekime başvuruyor. Yaklaşık 2 aydır Covid-19 nedeniyle evde kapalı kaldığı ve hiç dışarı çıkmadığı öğreniliyor. Uyku ve konsantrasyon sorunları da tanımlayan hastanın öyküsünde herhangi bir bedensek ve ruhsal hastalık bulunmamaktadır. Aşağıdakilerden hangisi bu belirtilerin olası nedenleri arasındadır ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevrimiçi eğitim"
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel inaktivite"
+        },
+        {
+          "letter": "C",
+          "text": "Nörogenez"
+        },
+        {
+          "letter": "D",
+          "text": "Aşırı egzersiz"
+        },
+        {
+          "letter": "E",
+          "text": "Ev yemekleri"
+        }
+      ],
+      "correct": "C",
+      "explain": "-(Egzersiz reçetesi Prof. Dr. Ali Murat ZERGEROĞLU) İNAKTİVİTE İLE: • %82 daha fazla Alzheimer riski • %22 daha fazla Parkinson riski • %150 depresyon riskinde artış<<<<——— • %38 anksiyetede artış <<<——— • %79 beyin fonksiyonlarında zayıﬂık • %54 intihar girişiminde artış • Kalp hastalıkları görülme riskinde %57 artış • Hipertansiyon görülme riskinde %23 artış • İnme görülme riskinde %37 artış • %82 daha fazla kalp krizi görülme riski • %56 osteoporozda kırık görülme riskinde artış • Kronik böbrek hastalığından ölüm riski %69 daha yüksek • Tip 2 diyabet gelişme riski %70 daha fazla",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 129,
+      "num": 129,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi hCG için yanlıştır?",
+      "stem": "Aşağıdakilerden hangisi hCG için yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Korpus luteumun işlevlerini sürdürmesini sağlar."
+        },
+        {
+          "letter": "B",
+          "text": "Trofoblastlar tarafından salgılanır"
+        },
+        {
+          "letter": "C",
+          "text": "Trofoblastlar üzerinde büyüme faktörü olarak etkide bulunur."
+        },
+        {
+          "letter": "D",
+          "text": "Gebeliğin 10-15. Haftalarında maksimum plazma düzeyine ulaşır."
+        },
+        {
+          "letter": "E",
+          "text": "Hipotalamik GnRH tarafından düzenlenir."
+        }
+      ],
+      "correct": "E",
+      "explain": "-(Gebelik Fizyolojisi Dr. Öğretim Üyesi Emel Güneş) İnsan koryonik gonadotropini (hCG) -alt bileşeni ßhCG Menstrual döngüde gördüğümüz hipoﬁz kökenli gonadotropinlerin (FSH, LH) dan LH’ a daha çok benzer. FSH TSH LH’ın α alt üniteleri aynı iken hCG daha çok LH ile benzerlik taşır. Blastosist trofoblastları tarafından salgılanmaya başlar, implantasyon öncesi ve sonrasındaki en önemli trofoblastik faktördür. İmplantasyon sonrası sinsityotrofoblastlar sentezi sürdürür. Erken evre gebeliğin anlaşılması açısından takibi klinikte önemlidir. Erken evrede 2-3 günde bir iki katına çıkar, 10-15. haftada maksimuma ulaşır ve azalmaya başlar, 20-25.haftada minimum değere ulaşır. Çoklu gebeliklerde artış daha fazladır çünkü daha çok trofoblast tabakası vardır. Bu soruda C ve E şıkkı arasında kalmıştım. E şıkkı kesin yanlış ancak C şıkkını doğrulayacak net tıbbi açıklama bulamadım.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 130,
+      "num": 130,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji",
+          "aldosteron"
+        ]
+      },
+      "title": "Hangileri plazma K+ düzeyinde azalmaya neden...",
+      "stem": "Hangileri plazma K+ düzeyinde azalmaya neden olur? ( bazıları da düşürmez diye atmış soruyu o yüzden siz iki türlü de bakın bence ) I.Alkaloz II.DM III.B2 adrenerjik stimülasyon IV.Hiperaldosteronizm",
+      "extra_block": "5. asidoz<br>6. insülin<br>7. osmolaritede azalma",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II, III, IV"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, IV"
+        },
+        {
+          "letter": "C",
+          "text": "I, II, III"
+        },
+        {
+          "letter": "D",
+          "text": "I, III, IV"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 131,
+      "num": 131,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi pozitif prediktif değer için...",
+      "stem": "Aşağıdakilerden hangisi pozitif prediktif değer için yanlıştır ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Prevslanstan etkilenir."
+        },
+        {
+          "letter": "B",
+          "text": "Sağlam bireyler arasından bulunan gerçek negatiflerin oranıdır."
+        },
+        {
+          "letter": "C",
+          "text": "Pozitif sonuçlar arasından bulunan gerçek pozitiflerin oranıdır."
+        },
+        {
+          "letter": "D",
+          "text": "Seçicilik ve hassasiyetten etkilenir."
+        },
+        {
+          "letter": "E",
+          "text": "Taramalarda prediktif değerin yüksek olması tercih edilir."
+        }
+      ],
+      "correct": "B",
+      "explain": ") Pozitif prediktif değer: Test sonucu pozitif çıkanlar arasında gerçek pozitiflerin oranıdır. Yani testin hasta dediklerinin gerçekte kaçının hasta olduğunun değeridir. Öngörü değerleri hastalığın prevalansından(bir hastalığın o toplumda görülme sıklığı), testin duyarlılık ve seçiciliğinden etkilenir. Bunlar yükseldikçe yükselir. Testin prediktif değeri ne kadar yüksekse o kadar başarılı bir testtir değir. B şıkkındaki ifade “seçicilik(özgünlük)” tanımıdır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 132,
+      "num": 132,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 4,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi pürin nükleotidinin yıkımında görev...",
+      "stem": "Aşağıdakilerden hangisi pürin nükleotidinin yıkımında görev yapmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipoksantin guanin fosforibozil transferaz"
+        },
+        {
+          "letter": "B",
+          "text": "Adenozin deaminaz"
+        },
+        {
+          "letter": "C",
+          "text": "Pürin nükleozid fosforilaz"
+        },
+        {
+          "letter": "D",
+          "text": "5-nükleotidaz"
+        },
+        {
+          "letter": "E",
+          "text": "Ksantin oksidaz"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Yukardaki görsel hocamızın slaytından. A şıkkındaki “Hipoksantin guanin fosforibozil transferaz(HGPRT)” enzimi guaninin kurtarma reaksiyonunu katalizler. Eksikliğinde Lesch-Nyhan Sendromu görülür.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 133,
+      "num": 133,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Menopozda görülen hormonal değişikliklerden hangisi yanlıştır...",
+      "stem": "Menopozda görülen hormonal değişikliklerden hangisi yanlıştır ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "GnRH düzeyi artar."
+        },
+        {
+          "letter": "B",
+          "text": "Östradiol düzeyi azalır"
+        },
+        {
+          "letter": "C",
+          "text": "Progesteron düzeyi azalır"
+        },
+        {
+          "letter": "D",
+          "text": "Inhibin düzeyi artar"
+        },
+        {
+          "letter": "E",
+          "text": "Androjenlerin periferik aromatizasyonu artar."
+        }
+      ],
+      "correct": "D",
+      "explain": ") Menopoz döneminde;  Östrojen, Progesteron ve inhibin düzeylerinde belirgin azalma meydana gelir.  Östradiol %90 kadar azalır.  Gonadotropinlere yanıtsızdık görülür. FSH ve LH artar. (FSH daha erken artar)  GnRH atım frekansı azalır, plazma düzeyi artar.  Androstenediondan perilerde aromataz ile östron yapımı.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 134,
+      "num": 134,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi paramezonefrik kanallardan gelişmez?",
+      "stem": "Aşağıdakilerden hangisi paramezonefrik kanallardan gelişmez?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vajinanın proksimal kısmı"
+        },
+        {
+          "letter": "B",
+          "text": "Endorserviks"
+        },
+        {
+          "letter": "C",
+          "text": "Tuba uterina"
+        },
+        {
+          "letter": "D",
+          "text": "Labium minus"
+        },
+        {
+          "letter": "E",
+          "text": "Ektoserviks"
+        }
+      ],
+      "correct": "D",
+      "explain": ") Erkekte paramezonefrik kanal dejenere olur. Testiste kordonlar gelişmeye başlamış. Etrafında primordial germ hücreleri yerleşir. Seminifer tübüller oluşur. Devamında reste testis oluşur. Ductuli eferentes mesonefrikten gelişir. Devamı epididimis, vas deferans ve seminal bez. Kadında ise paramezonefrik kanal gelişir. Kordon yapısı dağılır hücre adacıkları şeklinde. Ortasında da oksitler var. Bu da folikülü oluşturur. Mezonefrik kanal dejenere olur. Paramezonefrik kanal sonra oviducta dönüşür. O da fallopi tüpüne dönüşür. Daha sonra paramezonefrik kanallar birbirine yaklaşacak ve birleşecekler. Bu da Uterusu ve vajinanın üst tarafını oluşturacak. Ürogenital katlantılar labia minoraya dönüşecek. Labioscrotal swelling ise erkeklerde scrotumu, kadınlarda labium majusu oluşturacak.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 135,
+      "num": 135,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki durumlardan hangisinde solunum hızlandırılmasıyla kan...",
+      "stem": "Aşağıdaki durumlardan hangisinde solunum hızlandırılmasıyla kan pH’ının artacağı bir değişiklik olur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum asidozu"
+        },
+        {
+          "letter": "B",
+          "text": "Metabolik asidoz"
+        },
+        {
+          "letter": "C",
+          "text": "Metabolik alkaloz"
+        },
+        {
+          "letter": "D",
+          "text": "Böbrek yetmezliği"
+        },
+        {
+          "letter": "E",
+          "text": "Solunum alkalozu"
+        }
+      ],
+      "correct": "B",
+      "explain": ") Metabolik asidozun artmış anyon açığının eşlik ettiği formunda da anyon açığının normal olduğu formunda da plazma HCO3- seviyesi düşer. Doku tamponlamasına bağlı olarak plazma K+ seviyesi artabilir. Ancak metabolik asidoz süratla solunum hızını uyarır ve Pco2’yi düşürür. Bu durum solunum kasları yoruluncaya kadar sürebilir. Solunum asidozu, hücresel H+alımı ve hücre içi K+ kaybı ile tamponlanır. Metabolik alkaloz, solunum hızının belirli bir noktaya kadar azaltılması ve renal düzenleme ile kopmanse edilir. Solunum alkalozu, plazma K+u ile hücre içi H+’nin değişimi ile tamponlanır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 136,
+      "num": 136,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Arter kanı örneği değerleri aşağıda verilen...",
+      "stem": "Arter kanı örneği değerleri aşağıda verilen bir bireyde asit-baz bozukluğu açısından seçeneklerden hangisi doğrudur? pH= 7,46 (normal= 7,4) [HCO3]= 30 mEq/L (normal=24mEq/L) Pco2= 44 mmHg (normal=40 mmHg)",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunumsal alkaloz + metabolik kompensasyon"
+        },
+        {
+          "letter": "B",
+          "text": "Solunumsal asidoz + metabolik kompensasyon"
+        },
+        {
+          "letter": "C",
+          "text": "Metabolik asidoz + solunumsal kompensasyon"
+        },
+        {
+          "letter": "D",
+          "text": "Asit-baz bozukluğu yok"
+        },
+        {
+          "letter": "E",
+          "text": "Metabolik alkaloz + solunumsal kompensasyon"
+        }
+      ],
+      "correct": "E",
+      "explain": ") Önce pH’ı kontrol edelim. 7,46 yani artmış. Alkaloz. İkinci olarak HCO3- konsantrasyonuna bakalım. Artmış, yani metabolik. Zaten Pco2 artmış. Yani solunumsal da bir kompensasyon var.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 137,
+      "num": 137,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "Aşağıdaki fenotipik bulgulardan hangisi down sendromunda...",
+      "stem": "Aşağıdaki fenotipik bulgulardan hangisi down sendromunda görülür?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük kulaklar"
+        },
+        {
+          "letter": "B",
+          "text": "Hipertoni"
+        },
+        {
+          "letter": "C",
+          "text": "Dolikosefali"
+        },
+        {
+          "letter": "D",
+          "text": "Hipotelorizm"
+        },
+        {
+          "letter": "E",
+          "text": "Büyük ağız"
+        }
+      ],
+      "correct": "A",
+      "explain": "(kromozomal hastalıklar 1, Prof. Dr. Hatice Ilgın Ruhi) Down sendromlu bir çocuğun fenotipik bulguları arasında basık ve düz bir yüz, hipertelorizm (gözleri arasındaki mesafe uzamış), küçük burun, küçük ağız, dışarıda dil, düşük kulak, kısa bir boyun, düz oksiput, epikantus, brushfield lekeleri, brakisefali kafa yapısı.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 138,
+      "num": 138,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "rna"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi arteria Iliaca extrnanın dalıdır?",
+      "stem": "Aşağıdakilerden hangisi arteria Iliaca extrnanın dalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "a. Circumflexa iliaca profunda"
+        },
+        {
+          "letter": "B",
+          "text": "a. Pudenda externalis superficialis"
+        },
+        {
+          "letter": "C",
+          "text": "a. Circumflexa iliaca superficialis"
+        },
+        {
+          "letter": "D",
+          "text": "a. Epigastrica superior"
+        },
+        {
+          "letter": "E",
+          "text": "a. Pudenda externa profunda"
+        }
+      ],
+      "correct": "A",
+      "explain": "(A.iliaca communis dersi) A. İliaca externa’nın iki dalı var: -A. Epigastrica superior -A. Circumflexa ilium profunda",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 139,
+      "num": 139,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Kombine oral kontraseptiflerle ilgili aşağıdakilerden hangisi...",
+      "stem": "Kombine oral kontraseptiflerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Servikal mukoza kalınlaşır"
+        },
+        {
+          "letter": "B",
+          "text": "Ovulasyon engellenir"
+        },
+        {
+          "letter": "C",
+          "text": "Gonadotropin baskılanır"
+        },
+        {
+          "letter": "D",
+          "text": "Plazma fibrinojen miktarı azalır"
+        },
+        {
+          "letter": "E",
+          "text": "Endometrium proliferasyonu azalır"
+        }
+      ],
+      "correct": "D",
+      "explain": "(Kontrasepsiyon, Dr. Öğr. Üyesi Emel Güneş) Kombine Oral Kontraseptifler: Sentetik östrojen ve progesteronun çeşitli kombinasyonlarını içeren haplardan oluşur. FSH ve LH salınmasını inhibe ederek ovulasyonu engeller. Östrojen ve progesteron servikal mukusu kalınlaştırarak spermlerin serviksten geçişini de engeller. Bir diğer etkileri endometriyum proliferasyonunu azaltıp implantasyon için uygun olmayan ortam oluşturmalarıdır. Fallopi tüplerinin motilitesini de azaltırlar.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 140,
+      "num": 140,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Sağlıklı Yaşam",
+        "sub": "Sağlıklı Yaşam",
+        "tags": []
+      },
+      "title": "Kan basıncı yüksek bireylerde önerilecek aerobik...",
+      "stem": "Kan basıncı yüksek bireylerde önerilecek aerobik egzersiz haftalık süresi en az ne kadar olmalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30 dk"
+        },
+        {
+          "letter": "B",
+          "text": "60 dk"
+        },
+        {
+          "letter": "C",
+          "text": "90 dk"
+        },
+        {
+          "letter": "D",
+          "text": "150 dk"
+        },
+        {
+          "letter": "E",
+          "text": "300 dk"
+        }
+      ],
+      "correct": "D",
+      "explain": "(Yaşam tarzı değişikliklerinin kan basıncına etkisi, Dr. Kenan Ateş) Haftada en az 5 gün 30 dakikadan az olmamak üzere düzenli aerobik egzersiz yapılmalı",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 141,
+      "num": 141,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 5,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "Genetik danışmanlık ile ilgili aşağıdakilerden hangisi...",
+      "stem": "Genetik danışmanlık ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Danışmanın doğru karar vermesini sağlama sürecidir."
+        },
+        {
+          "letter": "B",
+          "text": "Test sonucuyla ilgili hastanın tüm yakınları bilgilendirmelidir."
+        },
+        {
+          "letter": "C",
+          "text": "Yönlendirme yapmadan bilimsel çerçevede verilir."
+        },
+        {
+          "letter": "D",
+          "text": "Sadece hasta bireylere danışmanlık verilir."
+        },
+        {
+          "letter": "E",
+          "text": "Test öncesi bilgi vermeye gerek yoktur"
+        }
+      ],
+      "correct": "C",
+      "explain": "Genetik Danışmanlıkta yönlendirme asla yapılmaz. Bilimsel çerçevede karşıdakinin anlayacağı dille anlatılmalıdır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 142,
+      "num": 142,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "A. Vaginalis’in erkeklerdeki karşılığı olan damar...",
+      "stem": "A. Vaginalis’in erkeklerdeki karşılığı olan damar hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "A. Profunda penis"
+        },
+        {
+          "letter": "B",
+          "text": "A. Bulbi penis"
+        },
+        {
+          "letter": "C",
+          "text": "A. Ductus deferentis"
+        },
+        {
+          "letter": "D",
+          "text": "A. Cremasterica"
+        },
+        {
+          "letter": "E",
+          "text": "a. Vesicalis inferior"
+        }
+      ],
+      "correct": "B",
+      "explain": "A. Vaginalisin erkeklerdeki karşılığı a.vesicalis inferiordur. Böyle bir soru sınavda çıkmadı, geçmiş yıldan soruyu kopyalayıp atmışlar. Cevap: E 43-Bedensel uygunluk( physical fitness): vücut sistemlerinin verimli çalışabilmesinin anlatan bir kavramdır. Özellikle egzersiz ve doğru beslenme sonucu iyi sağlık ve iyi fiziksel durumu anlatır. Bir kişinin dayanıklılık, kuvvet, denge ve esneklik gerektiren bedensel etkinlikler gerçekleştirme yeteneğinin bir ölçüsüdür. CEVAP C ( sağlık ve fiziksel egzersiz notundan) 44-Klinik örneklerde mantar lablarında direkt incelemede kullanılan maddeler şunlardır: KOH( %10-25): Maya yapılarında bozulma meydana getirmeden etrafındaki fibrin dokusunu ortadan kaldırır. Mantarın elemanlarının görülmesi için orayı temizler ve şeffaflaştırır. Keratin dokuyu eritir. Çini mürekkebi: kapsülü göstermek için kullanılır. Moleküler ağırlığı çok yüksek bir boyadır. Bu yüzden hücre içine giremez. Kapsüllü mantarlarda kullanılır. Kalkoflor Beyazı: Floresan boyadır. Mantarları boyamak için kullanılır. Floresan mürekkebi gerektirir. Laktofenol Pamuk Mavisi: Laktik asit, fenol ve mavi renkli boya içerir. Pahalı ve toksik olduğu için metilen mavisi kullanılır. Giemsa: Periferik yaymayı ve kemik iliği yaymasını boyamakta kullanılır. Histoplasma capsulatum maya formlarının içindeki makrofajları göstermek için kullanılır. PAS da lablarda kullanılan maddelerden biridir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 143,
+      "num": 143,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "Sağlıklı Yaşam",
+        "sub": "Sağlıklı Yaşam",
+        "tags": []
+      },
+      "title": "Hangisi bedensel uygunluk bileşeni değildir?",
+      "stem": "Hangisi bedensel uygunluk bileşeni değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Esneklik"
+        },
+        {
+          "letter": "B",
+          "text": "Denge"
+        },
+        {
+          "letter": "C",
+          "text": "Genetik faktörler"
+        },
+        {
+          "letter": "D",
+          "text": "Kas dayanıklılığı"
+        },
+        {
+          "letter": "E",
+          "text": "Kas gücü"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 144,
+      "num": 144,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mantar",
+          "mikoloji"
+        ]
+      },
+      "title": "Mantarların gösterilmesinde kullanılan floresan boya hangisidir?",
+      "stem": "Mantarların gösterilmesinde kullanılan floresan boya hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Metilen mavisi"
+        },
+        {
+          "letter": "B",
+          "text": "Kalkoflor beyazı"
+        },
+        {
+          "letter": "C",
+          "text": "Giemsa"
+        },
+        {
+          "letter": "D",
+          "text": "Gram"
+        },
+        {
+          "letter": "E",
+          "text": "Çini mürekkebi"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 145,
+      "num": 145,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": []
+      },
+      "title": "Hangi durumda fetal kardiyak anomali riski...",
+      "stem": "Hangi durumda fetal kardiyak anomali riski diğerlerine göre daha yüksektir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maternal difenilhidontoin kullanımı"
+        },
+        {
+          "letter": "B",
+          "text": "Maternal hipertansiyon"
+        },
+        {
+          "letter": "C",
+          "text": "çiftin önceki çocuğunda konjenital kalp hastalığı bulunması"
+        },
+        {
+          "letter": "D",
+          "text": "Maternal fenilketonüri"
+        },
+        {
+          "letter": "E",
+          "text": "Paternal konjenital kalp hastalığı"
+        }
+      ],
+      "correct": "D",
+      "explain": "- Fetal ekokardiyografi endikasyonları maternal kaynaklı olarak: Fenitoin alınması(%2-3) Paternal konjetinal kalp hastalığı (%2-5) Konjenital kalp hastalığı olan çocuk sahibi olmak (%2-5) Annenin diyabet (IDMM) olduğu durumda (%3-5) Annenin konjenital kalp hastalığı olması (%5-10) Annenin 20-30.gün civarında talidomid kullanması,teratojene maruz kalması(%10) Annenin fenilketonürik (PKÜ) olması ve diyetine dikkat etmemesi(%15) Alkol alınması(fetal alkol sendromuna yol açabilir(%25)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 146,
+      "num": 146,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": [
+          "ig"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi poligenik kalıtımın bir sonucu...",
+      "stem": "Aşağıdakilerden hangisi poligenik kalıtımın bir sonucu olarak ortaya çıkar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fetal valproat sendromu"
+        },
+        {
+          "letter": "B",
+          "text": "Kistik fibrosis"
+        },
+        {
+          "letter": "C",
+          "text": "Fenil ketonürili annenin mental retardasyonlu çocuğu"
+        },
+        {
+          "letter": "D",
+          "text": "Turner sendromu"
+        },
+        {
+          "letter": "E",
+          "text": "Kraniosinostoz"
+        }
+      ],
+      "correct": "C",
+      "explain": "- Fetal valproat sendromu ve fenilketonürili annenin mental retardasyonlu çocuğu olması teratojenin sebep olduğu hastalıklardır. Kistik fibrosis tek gen hastalığıdır. Turner sendromu kromozomal hastalıktır. Kraniosinostoz ise multifaktöriyel bir hastalıktır. CEVAP:E 47-Meme göğüs ön duvarında sağda ve dolda bilateral çıkıntılar olarak bulunur. 2 ve 6.kosta arasında yer alır. M.pectoralis major, M. serratus anterior ve bazen de M. Obliquus üzerinde bulunur. ( Yani meme yüzeyel fasya ve bu kaslar arasında bulunur.) Sağ memenin lenfatiği üst extremiteden gelen lenfle beraber truncus subclavicus dextere , sol memenin lenfatiği ise ductus thoracicusa açılır. Memenin dış üst kadranı pectoral lenf nodlarına bazen de subclavicular lenf nodlarına drene olur. Oradan centrale, apicale ve supra/infraclavicular lenf nodullerine açılır. Medial kısım ise parasternal lenf nodüllerine drene olur. Gl. Areolaris (montgomery bezleri) adı verilen salgı bezleri bebeğin süt emmesi sırasında bölgeye ıslaklık kazandırarak meme ucunun tahriş olmasını engeller ve bebeğin ağzının da bu bölgeye tutunabilmesini sağlar. Memenin areolası etrafında bir ven plexusu görülür. Buna plexus venosus areolaris ya da haller plexusu denir. Plexususn bir mediale bir de laterale açılan kısmı bulunur. Mediale açılan kısmı v. Thoracica interna ve onun perforan dallarına , laterale açılan kısmı v. Thoracica lateralis ve oaradan v.axillarise açılır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 147,
+      "num": 147,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Meme hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem": "Meme hakkında aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2-6.kaburgalar arasında bulunur."
+        },
+        {
+          "letter": "B",
+          "text": "Lateral lenfleri nodi lymphatici pectorales’e dökülür."
+        },
+        {
+          "letter": "C",
+          "text": "Areola mammae epiteli stratum corneum içermez."
+        },
+        {
+          "letter": "D",
+          "text": "Gl. Areolares gebelik ve laktasyon döneminde daha belirginleşir."
+        },
+        {
+          "letter": "E",
+          "text": "Venöz kanın bir bölümü v. Thoracica internum’a dökülür."
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 148,
+      "num": 148,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "Hangi taşıyıcı mekanizmanın bloke edilmesi tübüloglomerüler...",
+      "stem": "Hangi taşıyıcı mekanizmanın bloke edilmesi tübüloglomerüler feedback mekanizmasını inhibe eder?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epitelyal Na+ kanalı"
+        },
+        {
+          "letter": "B",
+          "text": "Na+/H+ antiport"
+        },
+        {
+          "letter": "C",
+          "text": "Na+/Cl- simport"
+        },
+        {
+          "letter": "D",
+          "text": "Pendrin"
+        },
+        {
+          "letter": "E",
+          "text": "Na+/K+/2Cl-"
+        }
+      ],
+      "correct": "E",
+      "explain": "- Tübüloglomerüler feedback mekanizması: Makula densaya ve ÇKH ulaşan tübüler sıvının NaCl düzeyindeki değişikliklerin aferent arteriol direncinde neden olduğu değişikliklere dayanır. Arter basıncı ve dolayısıyla GFH’nın artması makula densaya ulaşan tübüler sıvıda NaCl artmasına neden olur. Apikal hücre zarından Na/K/2Cl simport mekanizmasıyla NaCl transportu artar. Hücre içi Na ve Cl nin artması afferent arteriollerde daralmaya neden olan sinyalleri başlatır. Bu sinyallere makula densadan serbestlenen ATP ve adenozin aracılık eder. Adenozin aferent artetiolü çevreleyen düz kas hücrelerinin plazma membranındaki A1 reseptörünlerine bağlanır.(ATP ve PX2 reseptörlerine bağlanır) Hücre içi ca düzeyinde artışa neden olarak afferent arteriolde vazokonstrüksiyonu indükler. Bu nedenle eğer Na/K/2Cl taşıyıcı mekanizması bloke edilirse bu mekanizma inhibe olur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 149,
+      "num": 149,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Miksiyon refleksi hangisinde kontrol edilir?",
+      "stem": "Miksiyon refleksi hangisinde kontrol edilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medulla spinalis"
+        },
+        {
+          "letter": "B",
+          "text": "bulbus"
+        },
+        {
+          "letter": "C",
+          "text": "Pons"
+        },
+        {
+          "letter": "D",
+          "text": "serebral korteks"
+        },
+        {
+          "letter": "E",
+          "text": "hipotalamus"
+        }
+      ],
+      "correct": "A",
+      "explain": "- H3 Vücut potasyum dengesi ve Miksiyon Refleksi notunda veya Hakan hocanın Miksiyon Refleksi slaytında bulabilirsiniz. “Dertrusor kasının kasılması miksiyon sırasında mesanenin boşaltılması için esastır. Gerim reseptörlerinden kalkan DUYUSAL sinyaller PELVİK sinirlerle MEDULLA SPİNALİSİN SAKRAL bölgesine iletilir ve aynı sinir içinde geri dönen motor sinyallerle detrusor kasının kasılmasına iç sfinkterin gevşemesine neden olur.”",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 150,
+      "num": 150,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 6,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "enfeksiyon etkenini ortadan kaldırmaya en uygun...",
+      "stem": "enfeksiyon etkenini ortadan kaldırmaya en uygun edinsel bağışık yanıt tipini stimüle eden molekül hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "CDr3"
+        },
+        {
+          "letter": "B",
+          "text": "MHC"
+        },
+        {
+          "letter": "C",
+          "text": "PRR"
+        },
+        {
+          "letter": "D",
+          "text": "TCR"
+        },
+        {
+          "letter": "E",
+          "text": "BCR"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 151,
+      "num": 151,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "testisle ilgili hangisi yanlıştır?",
+      "stem": "testisle ilgili hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "loblardan oluşur"
+        },
+        {
+          "letter": "B",
+          "text": "halokrin salgı yapar"
+        },
+        {
+          "letter": "C",
+          "text": "ovaryuma göre tunika albuginea kalındır"
+        },
+        {
+          "letter": "D",
+          "text": "ara dokuda leydig hücreleri bulunur"
+        },
+        {
+          "letter": "E",
+          "text": "spermatogenik hücreler sertoli hücrelerinde üretilir"
+        }
+      ],
+      "correct": "E",
+      "explain": "- H2 Erkek Üreme Sistemi Histolojisi notunda bulabilişiniz. A-Loblardan oluşur *doğru* B-Holokrin salgı yapar *doğru* C-Ovaryuma göre tunika albuginea kalındır *doğru, Ovaryan tunica albuginea testisinki kadar kalın olmamakla birlikte gelişimini ovaryan epitel oturduktan sonra tamamlar.* D-Ara dokuda Leydig Hücreleri bulunur. *doğru* E- Spermatogenik hücreler sertoli hücrelerinde üretilir *YANLIŞ* sertoli hücreleri desteklik sağlar, kan-testis bariyerini oluşturur. Spermatojenik hücrelerin SPERMATOZOA’ya gelişmelerini sağlar. Spermatojenik hücreler ve sertoli hücreleri seminifer tübüllerde bulunur. Fakat spermatojenik hücreleri sertoli hücreleri üretmez.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 152,
+      "num": 152,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisi ksantin oksidaz için doğrudur?",
+      "stem": "aşağıdakilerden hangisi ksantin oksidaz için doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "hidrojen peroksit oluşumuna neden olur"
+        },
+        {
+          "letter": "B",
+          "text": "urasil yıkımında görev yapar"
+        },
+        {
+          "letter": "C",
+          "text": "kofaktörü selenyumdur"
+        },
+        {
+          "letter": "D",
+          "text": "inozini hipoksantine çevirir"
+        },
+        {
+          "letter": "E",
+          "text": "pürin kurtarma yolunun enzimlerinden biridir"
+        }
+      ],
+      "correct": "A",
+      "explain": "- Pürin Metabolizması notunda bulabilirsiniz Ksantin oksidaz hidrojen peroksit ürettiği için hücre içi strese neden olabilir.*",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 153,
+      "num": 153,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "aşağıdaki durumlardan hangisi öldürücü NK aktivasyonuna...",
+      "stem": "aşağıdaki durumlardan hangisi öldürücü NK aktivasyonuna neden olur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "MHC azalınca"
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": ""
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 154,
+      "num": 154,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Viroloji",
+        "tags": [
+          "virüs",
+          "viroloji"
+        ]
+      },
+      "title": "aşağıdaki ikililerden hangisi virüsler arasında genetik...",
+      "stem": "aşağıdaki ikililerden hangisi virüsler arasında genetik olmayan ilişkilerdir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "intramoleküler rekombinasyon – mozayik kapsid"
+        },
+        {
+          "letter": "B",
+          "text": "işaret kurtarımı – komplementasyon"
+        },
+        {
+          "letter": "C",
+          "text": "transkapsidasyon – genetik reassortment"
+        },
+        {
+          "letter": "D",
+          "text": "fenotipik maskeleme – heteroploidi"
+        },
+        {
+          "letter": "E",
+          "text": "interferans – multiplicity reaktivasyon"
+        }
+      ],
+      "correct": "D",
+      "explain": "- H3 Virüs genetiği notunda bulabilirsiniz. Virüsler arası genetik ilişkiler: İntramoleküler Rekombinasyon, Genetik Reassorment, Multiplicity Reaktivasyon, İşaret kurtarımı (Çapraz Reaktivasyon) Virüsler Arası Genetik Olmayan İlişkiler: Fenotipik karışım; transkapsidasyon, mozaik kapsid oluşumu, Poliploidi ve Heteroploidi, Komplementasyon.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 155,
+      "num": 155,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "hangi hipersensitive reaksiyonu hücre aracılı ve...",
+      "stem": "hangi hipersensitive reaksiyonu hücre aracılı ve organa spesifiktir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tip 3"
+        },
+        {
+          "letter": "B",
+          "text": "tip 4"
+        },
+        {
+          "letter": "C",
+          "text": "tip 2"
+        },
+        {
+          "letter": "D",
+          "text": "tip 1"
+        },
+        {
+          "letter": "E",
+          "text": "tip 5"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 156,
+      "num": 156,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "aşağıdaki resimde 1 2 3 ve...",
+      "stem": "aşağıdaki resimde 1 2 3 ve 4 olarak numaralandırılan 4 farklı aşı tipi, güvenlik ve efikasi skalasına yerleştirilmiştir. Bu aşı tipleri hangi seçenekte doğru sıra ile verilmiştir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Atenüe – inaktif – subunit – rekombinan"
+        },
+        {
+          "letter": "B",
+          "text": "Rekombinan – atenüe - inaktif – subunit"
+        },
+        {
+          "letter": "C",
+          "text": "Subunit – inaktif – atenüe – rekombinan"
+        },
+        {
+          "letter": "D",
+          "text": "Atenüe – rekombinan – inaktif – subunit"
+        },
+        {
+          "letter": "E",
+          "text": "Rekombinan – subunit – inaktif – atenüe"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 157,
+      "num": 157,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 7,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji"
+        ]
+      },
+      "title": "aşağıdakilerden hangileri GFHda azalmaya neden olabilir?",
+      "stem": "aşağıdakilerden hangileri GFHda azalmaya neden olabilir?",
+      "extra_block": "1. arter basıncında azalma<br>2. mezangiyal hücrelerde gevşeme<br>3. afferent arteriol kontraksiyonu",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,2,3"
+        },
+        {
+          "letter": "B",
+          "text": "1,2,4"
+        },
+        {
+          "letter": "C",
+          "text": "2,3,4"
+        },
+        {
+          "letter": "D",
+          "text": "1,3,4"
+        },
+        {
+          "letter": "E",
+          "text": "hepsi"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 158,
+      "num": 158,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "kapsülü düz kastan zengin, bileşik tübüloalveolar...",
+      "stem": "kapsülü düz kastan zengin, bileşik tübüloalveolar bez yapısına, fibrolizinden zengin salgı yapan erkek üremeye yardımcı bez hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "prostat bezi"
+        },
+        {
+          "letter": "B",
+          "text": "littre bezi"
+        },
+        {
+          "letter": "C",
+          "text": "vesikula seminalis"
+        },
+        {
+          "letter": "D",
+          "text": "cowper bezi"
+        },
+        {
+          "letter": "E",
+          "text": "bülboüretral bez"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 159,
+      "num": 159,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "Embriyoloji",
+        "sub": "Embriyoloji",
+        "tags": []
+      },
+      "title": "insanda kalıcı böbrek nereden gelişir?",
+      "stem": "insanda kalıcı böbrek nereden gelişir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "pronefroz ve mezonefroz"
+        },
+        {
+          "letter": "B",
+          "text": "üreter tomurcuğu ve metonefrik blastem"
+        },
+        {
+          "letter": "C",
+          "text": "üreter tomurcuğu ve mezonefroz"
+        },
+        {
+          "letter": "D",
+          "text": "mezonefroz borusu ve pronefroz"
+        },
+        {
+          "letter": "E",
+          "text": "metanefrik balstem ve ürogenital sinüs"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 160,
+      "num": 160,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "mhc"
+        ]
+      },
+      "title": "aşağıdaki hücrelerden hangileri sınıf 2 MHC...",
+      "stem": "aşağıdaki hücrelerden hangileri sınıf 2 MHC molekülleri ile T lenfositlere antijen sunmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "b-lenfosit"
+        },
+        {
+          "letter": "B",
+          "text": "makrofaj"
+        },
+        {
+          "letter": "C",
+          "text": "dendritik hücre"
+        },
+        {
+          "letter": "D",
+          "text": "foliküler dendritik hücre"
+        },
+        {
+          "letter": "E",
+          "text": "kupffer hücresi"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 161,
+      "num": 161,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Viroloji",
+        "tags": [
+          "virüs",
+          "viroloji"
+        ]
+      },
+      "title": "virüslerin morfolojik yapılarıyla ilgili hangileri doğrudur?",
+      "stem": "virüslerin morfolojik yapılarıyla ilgili hangileri doğrudur?",
+      "extra_block": "1. matriks proteini zarfsız virüslerin konak<br>2. zarflı virüste zarf üzerinde glikoprotein<br>3. pozitif RNA virüsleri hücrede kendi",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3,4"
+        },
+        {
+          "letter": "B",
+          "text": "1,3"
+        },
+        {
+          "letter": "C",
+          "text": "1,2"
+        },
+        {
+          "letter": "D",
+          "text": "2,3"
+        },
+        {
+          "letter": "E",
+          "text": "1,4"
+        }
+      ],
+      "correct": "D",
+      "explain": ") Hafta 4 - Virusların Genel Özellikleri ve Sınıflandırılması -Helikal simetrili virüsler zarflı veya çıplak olabilir. Bitki virüslerinin çoğu helikaldir ve helikal bir bitki virüsünün zarflı olması çok nadirdir. Tüm helikal hayvan virüsleri zarflıdır. ( 4 yanlış ) -Matriks proteini, zarf yapısının iç kısmını döşer. Glikoproteinler ise zardan dışarıya doğru çıkıntı şeklinde uzanmaktadırlar. ( 1 yanlış : zarfsız demiş ) ( 2 doğru) 3 de doğru. ( pozitif polariteli yazmalı aslında )",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 162,
+      "num": 162,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji"
+        ]
+      },
+      "title": "egzersizle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem": "egzersizle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "egzersiz yoğun ve uygunsuz bir biçimde yapıldığında dahi fiziksel ve ruhsal olumlu etkiler gösterir."
+        },
+        {
+          "letter": "B",
+          "text": "egzersiz kiloyu kontrol etmeye yardımcı olur"
+        },
+        {
+          "letter": "C",
+          "text": "egzersiz iyi uyumaya yardımcı olur"
+        },
+        {
+          "letter": "D",
+          "text": "egzersiz depresif belirtileri azaltır"
+        },
+        {
+          "letter": "E",
+          "text": ""
+        }
+      ],
+      "correct": "A",
+      "explain": ") Hafta 2 - Sağlık ve Fiziksel Egzersiz ,",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 163,
+      "num": 163,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "tübüler glukoz geri emilimi ile ilgili...",
+      "stem": "tübüler glukoz geri emilimi ile ilgili hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "taşıma maksimum (TM) değerini aşmadan idrarda glukoz görülmez"
+        },
+        {
+          "letter": "B",
+          "text": "proksimal tübülde yarıdan fazlası emilir"
+        },
+        {
+          "letter": "C",
+          "text": "glukozun apikal zarda taşınımı Na ile birlikte gerçekleşir"
+        },
+        {
+          "letter": "D",
+          "text": "glukozun plazma eşik değeri 200 mg/dL’dir"
+        },
+        {
+          "letter": "E",
+          "text": "glukozun bazolateral zarda kolaylaştırılmış difüzyona GLUT aracılık eder"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Hafta 2 - Tübüllerde geriemilim ve sekresyon Normal koşullarda filtre olan glikozun tamamı proksimal tübülden geri emilir ve idrarda ölçülebilir miktarda glikoz görülmez. Glukoz için Tm değeri yaklaşık olarak 400 mg/dL’dir. (Tam değer olarak 375 mg/dL’dir.) Ancak plazma glikoz düzeyi 200 mg/dL ve filtrasyon yükü 250 mg/dk’nin üzerine çıktığında idrarda glikoz görülmeye başlar. Bu plazma düzeyi glikoz için eşik değer olarak adlandırılır. Yani tm değerine gelmeden de idrarda glukoz görülebilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 164,
+      "num": 164,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mantar",
+          "mikoloji"
+        ]
+      },
+      "title": "maya mantarlarıyla ilgili aşağıda verilen özelliklerden...",
+      "stem": "maya mantarlarıyla ilgili aşağıda verilen özelliklerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "koloni rengi tür ayrımında belirteçtir"
+        },
+        {
+          "letter": "B",
+          "text": "yalancı hif yapısı bulunur"
+        },
+        {
+          "letter": "C",
+          "text": "mikroskopta oval şekillidirler"
+        },
+        {
+          "letter": "D",
+          "text": "bazı maya mantarlarının gerçek hifleri vardır"
+        },
+        {
+          "letter": "E",
+          "text": "tomurcuklanarak ürerler"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Hafta 4 - Mantarların Genel Özellikleri ve Sınıflandırılması Maya mantarları genellikle bej rengindedir. Koloni rengi maya mantarlarının değil küf mantarlarının ayrımında kullanılır. Her bir küfün özel rengi vardır, pigmenti vardır. Ayrıca Bazı maya mantarları gerçek hif oluşturulabilir. Gerçek hif oluşturabildikleri için virülansları daha yüksektir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 165,
+      "num": 165,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 8,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "klirensi 140 ml/dk olan bir madde...",
+      "stem": "klirensi 140 ml/dk olan bir madde için aşağıdakilerden hangisi söylenebilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "madde net olarak sekresyona uğrar"
+        },
+        {
+          "letter": "B",
+          "text": "madde net olarak geri emilir"
+        },
+        {
+          "letter": "C",
+          "text": "madde kesin olarak sekresyon olmaz"
+        },
+        {
+          "letter": "D",
+          "text": "madde kesin olarak geri emilemez"
+        },
+        {
+          "letter": "E",
+          "text": "madde sadece filtre edilir"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Hafta 2 - Böbrek kan akımı ve glomerül filtrasyon hızının regülasyonu, Renal klirens Çözünmüş Maddelerin Klirensleri ile İnülin Klirensinin Karşılaştırılması GFH ölçümünü gösteren inülin klirensi ile bir başka maddenin klirensinin karşılaştırılması yoluyla o madde için şu genellemer (nefronda net olarak geriemilime mi/ sekresyona mı tabi olduğu ) yapılabilir: Bir maddenin klirensi inülininkine eşit ise: Madde sadece filtre edilmektedir, geriemilime ve sekresyona uğramamaktadır. Bir maddenin klirensi inülin klirensinden daha az ise: Madde nefron tübüllerinden net geriemilmektedir. Bir maddenin klirensi inülininkinden daha fazla ise: Madde nefron tübüllerinden net sekresyona uğramaktadır. HATIRLATMA: GFH 125ml/dk kabul ediliyordu.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 166,
+      "num": 166,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Viroloji",
+        "tags": [
+          "virüs",
+          "viroloji",
+          "rna"
+        ]
+      },
+      "title": "aşağıdaki RNA virüslerinden hangisi diploittir?",
+      "stem": "aşağıdaki RNA virüslerinden hangisi diploittir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "pikornavirüsler"
+        },
+        {
+          "letter": "B",
+          "text": "retrovirüsler"
+        },
+        {
+          "letter": "C",
+          "text": "reovirüsler"
+        },
+        {
+          "letter": "D",
+          "text": "togavirüsler"
+        },
+        {
+          "letter": "E",
+          "text": "ortomiksovirüsler"
+        }
+      ],
+      "correct": "B",
+      "explain": ") Hafta 4 - Virus Genetiği Retrovirü sler hariç bü tü n virü sler haploiddir. (Retrovirü sler diploid)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 167,
+      "num": 167,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "aşağıdakilerden hangisi aşırı tuz tüketiminin önüne...",
+      "stem": "aşağıdakilerden hangisi aşırı tuz tüketiminin önüne geçmek için yapılan ilk uygulamadır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "işlenmiş gıdalarda tuz oranının azaltılması"
+        },
+        {
+          "letter": "B",
+          "text": "peynir ve zeytinlerdeki tuz oranı azaltılması"
+        },
+        {
+          "letter": "C",
+          "text": "ekmek tuzunun azaltılması"
+        },
+        {
+          "letter": "D",
+          "text": "lokantalarda tuzlukların kaldırılması"
+        },
+        {
+          "letter": "E",
+          "text": "okul kantinlerinde satılan yiyeceklerde tuz miktarının azalması"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 168,
+      "num": 168,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "sağlık verilerinin dijitalleşmesinde atılan en büyük...",
+      "stem": "sağlık verilerinin dijitalleşmesinde atılan en büyük adımlar ne zaman atılmıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "19. Yy"
+        },
+        {
+          "letter": "B",
+          "text": "orta çağ"
+        },
+        {
+          "letter": "C",
+          "text": "20. Yy"
+        },
+        {
+          "letter": "D",
+          "text": "21. Yy"
+        },
+        {
+          "letter": "E",
+          "text": "antik çağ"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 169,
+      "num": 169,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "arteriae vesicales superiores sıklıkla hangi arterin...",
+      "stem": "arteriae vesicales superiores sıklıkla hangi arterin dalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "a. Uterina"
+        },
+        {
+          "letter": "B",
+          "text": "a. Ovarica"
+        },
+        {
+          "letter": "C",
+          "text": "a. İliaca externa"
+        },
+        {
+          "letter": "D",
+          "text": "a. İliaca interna"
+        },
+        {
+          "letter": "E",
+          "text": "a. Umblicalis"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 170,
+      "num": 170,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "üreter pelvis duvarında hangi yapıyı üstten...",
+      "stem": "üreter pelvis duvarında hangi yapıyı üstten çaprazlamaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "obrurator arter"
+        },
+        {
+          "letter": "B",
+          "text": "ovaryan damarlar"
+        },
+        {
+          "letter": "C",
+          "text": "ductus deferens"
+        },
+        {
+          "letter": "D",
+          "text": "uterin arter"
+        },
+        {
+          "letter": "E",
+          "text": "a. Testicularis"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 171,
+      "num": 171,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Viroloji",
+        "tags": [
+          "viroloji"
+        ]
+      },
+      "title": "steroid hormonlar hangisinde üretilir?",
+      "stem": "steroid hormonlar hangisinde üretilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "böbrek"
+        },
+        {
+          "letter": "B",
+          "text": "pankreas"
+        },
+        {
+          "letter": "C",
+          "text": "hipofiz"
+        },
+        {
+          "letter": "D",
+          "text": "eşeysel bez"
+        },
+        {
+          "letter": "E",
+          "text": "karaciğer"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 172,
+      "num": 172,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Sağlıklı Yaşam",
+        "sub": "Sağlıklı Yaşam",
+        "tags": []
+      },
+      "title": "şiddetli egzersiz için haftalık önerilen süre...",
+      "stem": "şiddetli egzersiz için haftalık önerilen süre ne kadardır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "150 dk"
+        },
+        {
+          "letter": "B",
+          "text": "75 dk"
+        },
+        {
+          "letter": "C",
+          "text": "100 dk"
+        },
+        {
+          "letter": "D",
+          "text": "200 dk"
+        },
+        {
+          "letter": "E",
+          "text": "125 dk"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 173,
+      "num": 173,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "dünya sağlık örgütüne göre yetişkin bir...",
+      "stem": "dünya sağlık örgütüne göre yetişkin bir birey haftada en az kaç dk egzersiz yapmalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "150 dk"
+        },
+        {
+          "letter": "B",
+          "text": "100 dk"
+        },
+        {
+          "letter": "C",
+          "text": "60 dk"
+        },
+        {
+          "letter": "D",
+          "text": "200 dk"
+        },
+        {
+          "letter": "E",
+          "text": "300 dk"
+        }
+      ],
+      "correct": "E",
+      "explain": ") HAFTA 5 EGZERSİZ REÇETESİ NOTU 3)Filtrasyon fraksiyonu:Filtrasyon katsayısının azalması Süre: WHO ve ACSM haftada en az 150 dakika GFH’ı azaltır. orta şiddette veya 75 dakika yüksek şiddette öneriyor. -Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin *En az 20-30 dakika ile başlanmalı. kontraktilitesindeki değişikliklerden önemli ölçüde etkilenir *Zaman içinde 40-60 dakikaya çıkarılmalı. *Isınma (5-10 dk), yüklenme (15-40 dk) ve Bu bilgilere dayanarak tüm şıklar glomerül ﬁltrasyon hızın- soğuma (5-10 dk) periyodlarını içermeli. da azalmaya sebep olur. CEVAP:A CEVAP:E 75)HAFTA 4 MANTARLARIN ÜREME ÖZELLİKLERİ Yaşadığı ekolojik çevre koşullarında ve oda sıcaklığında (25°C) küf, in vivo koşullarda (insan vücudunda, 37°C) maya (Coccidioides immitis türünde maya yerine sferül) şeklinde bulunan mantarlara ısı dimorﬁzmi görülen mantarlar denir. CEVAP:A 76)HAFTA 3 PARAZİTLİK VE ÇEŞİTLERİ NOTU(2027) Soru tam olarak alınmadığı için tam olarak ne dediği anlaşılmıyor ancak anladığım kadarıyla sadece larvaları parazit yaşam sürdüreni soruyor. CEVAP:E 77)HAFTA 1 TÜBÜLLERDE GERİ EMİLİM NOTU Tabloda da görüldüğü gibi ADH etkisi en çok medullar toplama kanallarında görülür.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 174,
+      "num": 174,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "bir DM hastası haftalık kaç dk...",
+      "stem": "bir DM hastası haftalık kaç dk orta zorlu egzersiz yapmalıdır?",
+      "extra_block": "",
+      "choices": [],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 175,
+      "num": 175,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 9,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mantar",
+          "mikoloji"
+        ]
+      },
+      "title": "Mantarların doğal ortamlarında ve 25 °C'de...",
+      "stem": "Mantarların doğal ortamlarında ve 25 °C'de besiyerlerinde küf, 37 °C'de besiyerlerinde ve in- vivo koşullarda (insan vücudunda) maya şeklinde bulunmaları özelliği aşağıdakilerden hangisi ile tanımlanır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ısı dimorf"
+        },
+        {
+          "letter": "B",
+          "text": "protein dimorf"
+        },
+        {
+          "letter": "C",
+          "text": "lipit dimorf"
+        },
+        {
+          "letter": "D",
+          "text": "oksidasyon redüksiyon dimorf"
+        },
+        {
+          "letter": "E",
+          "text": "ozmotik basınç dimorf"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 176,
+      "num": 176,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Parazitoloji",
+        "tags": []
+      },
+      "title": "aşağıdakilerin hangisinde lavralar erişkin hale geçemez?...",
+      "stem": "aşağıdakilerin hangisinde lavralar erişkin hale geçemez? (helmintin lavrasının gelişemediği ama bulunduğu konağı sordu)",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "rezervuar"
+        },
+        {
+          "letter": "B",
+          "text": "partenik"
+        },
+        {
+          "letter": "C",
+          "text": "ara"
+        },
+        {
+          "letter": "D",
+          "text": "imogonal"
+        },
+        {
+          "letter": "E",
+          "text": "protetron"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 177,
+      "num": 177,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "yüksek plazma ADH düzeylerinde böbreklerde filtre...",
+      "stem": "yüksek plazma ADH düzeylerinde böbreklerde filtre edilen suyun en büyük bölümü nerede emilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "proksimal tübül"
+        },
+        {
+          "letter": "B",
+          "text": "henle kıvrımı"
+        },
+        {
+          "letter": "C",
+          "text": "distal tübül"
+        },
+        {
+          "letter": "D",
+          "text": "kortikal toplama borusu"
+        },
+        {
+          "letter": "E",
+          "text": "medullar toplama kanalı"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 178,
+      "num": 178,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Mikoloji",
+        "tags": [
+          "mikoloji"
+        ]
+      },
+      "title": "hangileri glomerül filtrasyon hızında azalmaya neden...",
+      "stem": "hangileri glomerül filtrasyon hızında azalmaya neden olabilecek nedenler arasında yer alır?",
+      "extra_block": "1. arter basıncında azalma<br>2. mezangiyal hücrelerde gevşeme<br>4. eferent arteriyollerde dilatasyon",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,2,3"
+        },
+        {
+          "letter": "B",
+          "text": "1,2,4"
+        },
+        {
+          "letter": "C",
+          "text": "1,3,4"
+        },
+        {
+          "letter": "D",
+          "text": "2,3,4"
+        },
+        {
+          "letter": "E",
+          "text": "hepsi"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 179,
+      "num": 179,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Parazitoloji",
+        "tags": []
+      },
+      "title": "sestodlarla ilgili hangisi yanlıştır?",
+      "stem": "sestodlarla ilgili hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cyclophilidea yumurtlama deliği yoktur"
+        },
+        {
+          "letter": "B",
+          "text": "pseudophilidea yumurtası kapaklıdır"
+        },
+        {
+          "letter": "C",
+          "text": "cyclophilidea yumurtası 3 çift çengellidir"
+        },
+        {
+          "letter": "D",
+          "text": "pseudophilidea yumurtası mirasidyum denir"
+        },
+        {
+          "letter": "E",
+          "text": "pseudophilidea proserkaid plöroserkaid larvası vardır"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 180,
+      "num": 180,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "mac"
+        ]
+      },
+      "title": "viral enfeksiyon laboratuvar tanısı amacıyla hastadan...",
+      "stem": "viral enfeksiyon laboratuvar tanısı amacıyla hastadan örnek alınması ve gönderilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "viral izolasyon için alınan örneğin dondurulmaması"
+        },
+        {
+          "letter": "B",
+          "text": "kan örnekleri antikoagülanlı tüplere alınmalı"
+        },
+        {
+          "letter": "C",
+          "text": "viral taşıma besiyerinde antibiyotik olmamalı"
+        },
+        {
+          "letter": "D",
+          "text": "örneğin laboratuvara nakli bir saati geçecekse taşıma besiyerine alınmalı"
+        },
+        {
+          "letter": "E",
+          "text": "sürüntü alımında tahta saplı kalsiyum ajinat uçlu eküvyon kullanılmalı"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 181,
+      "num": 181,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "hangisinin tekrarlama riski en yüksektir?",
+      "stem": "hangisinin tekrarlama riski en yüksektir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "funconi anemisi"
+        },
+        {
+          "letter": "B",
+          "text": "potter sekansı"
+        },
+        {
+          "letter": "C",
+          "text": "vacterl asosiyasyonları"
+        },
+        {
+          "letter": "D",
+          "text": "trizomi 13"
+        },
+        {
+          "letter": "E",
+          "text": "izole yarık damak dudak"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 182,
+      "num": 182,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "aşağıdaki testlerden hangisi enfeksiyon tanısının retrospektif...",
+      "stem": "aşağıdaki testlerden hangisi enfeksiyon tanısının retrospektif olarak konmasını sağlar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "serokonversiyonun gösterilmesi"
+        },
+        {
+          "letter": "B",
+          "text": "klinik örnekte etkenin çoğaltılması"
+        },
+        {
+          "letter": "C",
+          "text": "klinik örnekte antijen aranması"
+        },
+        {
+          "letter": "D",
+          "text": "serumda igG taranması"
+        },
+        {
+          "letter": "E",
+          "text": "klinik örnekte PCR ile amplifikasyonun sağlanması"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 183,
+      "num": 183,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "testisi en içten saran tabaka hangisidir?",
+      "stem": "testisi en içten saran tabaka hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tunika vaginalis"
+        },
+        {
+          "letter": "B",
+          "text": "fascia spermatica interna"
+        },
+        {
+          "letter": "C",
+          "text": "fascia cremasterica"
+        },
+        {
+          "letter": "D",
+          "text": "tunika dartos"
+        },
+        {
+          "letter": "E",
+          "text": "fascia Transversalis"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 184,
+      "num": 184,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 10,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "volum kontraksiyonuna karşı gelişen yanıt değildir?",
+      "stem": "volum kontraksiyonuna karşı gelişen yanıt değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "plazma natriüretik peptid azalır"
+        },
+        {
+          "letter": "B",
+          "text": "peritübüller kapiller onkotik basıncı artar"
+        },
+        {
+          "letter": "C",
+          "text": "Na filtrsyon yükkünde azalma olur"
+        },
+        {
+          "letter": "D",
+          "text": "asidoz"
+        },
+        {
+          "letter": "E",
+          "text": "plazma agü"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 185,
+      "num": 185,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "sitokin"
+        ]
+      },
+      "title": "doğal bağışıklık reseptörlerinden hangisinin aktivasyonu akut...",
+      "stem": "doğal bağışıklık reseptörlerinden hangisinin aktivasyonu akut inflamasyona yol açan sitokin salgılanmasını sağlar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "TLR3"
+        },
+        {
+          "letter": "B",
+          "text": "TLR1"
+        },
+        {
+          "letter": "C",
+          "text": "NOD1"
+        },
+        {
+          "letter": "D",
+          "text": "NOD2"
+        },
+        {
+          "letter": "E",
+          "text": "NLRP3"
+        }
+      ],
+      "correct": "E",
+      "explain": "-)m4h1 ceren hocanın doğal bağışıklık slaytından yararlandım.slayttaki bilgiyi ekliyorum.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 186,
+      "num": 186,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Parazitoloji",
+        "tags": []
+      },
+      "title": "bir paraziti ile enfekte olan kişinin...",
+      "stem": "bir paraziti ile enfekte olan kişinin aynı parazitle tekrar enfekte olması",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "süperparazitlik"
+        },
+        {
+          "letter": "B",
+          "text": "hiperparazitlik"
+        },
+        {
+          "letter": "C",
+          "text": "protelan"
+        },
+        {
+          "letter": "D",
+          "text": "şaşkın parazitlik"
+        },
+        {
+          "letter": "E",
+          "text": "multiparazitlik"
+        }
+      ],
+      "correct": "A",
+      "explain": "-)m4h3 parazitlik, parazitler ve çeşitleri notu Şıkların ne anlama geldiğine tek tek bakalım; a)süperparazitlik:Bir canlı bir parazitle enfekteyken tekrar o paraziti alması durumu. b)hiperparazitlik:parazit bir canlının vücuduna yerleşen parazit. c)protelan:erişkin dönemleri serbest larva dönemleri parazit olan parazitler d)şaşkın parazitlik:normalde yaşadığı konakta başka bir canlıda yaşayan parazit. e)multiparazitlik:insanın birden fazla cinste parazitle enjekte olması. f)rastgele parazitlik:serbest yaşayan bir canlının parazit olarak yaşaması.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 187,
+      "num": 187,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "hangisi funiculus spermaticusta bulunmaz",
+      "stem": "hangisi funiculus spermaticusta bulunmaz",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "n ilioinguinalis"
+        },
+        {
+          "letter": "B",
+          "text": "n genitofemoralisin r genitalisi"
+        },
+        {
+          "letter": "C",
+          "text": "ductus deferens"
+        },
+        {
+          "letter": "D",
+          "text": "a testicularis"
+        },
+        {
+          "letter": "E",
+          "text": "plexus pampiniformis"
+        }
+      ],
+      "correct": "A",
+      "explain": "-)m4h8 organa genitelia masculina İnterna Nottaki bilgiyi direkt ekleyeceğim çünkü kaynaktan kaynağa değişebiliyor ama mutlaka ezberlemeniz gereken bir yer illaki soru geliyor.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 188,
+      "num": 188,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "aşağıdakilerden hangisi insülin artışı etkilerinden değildir...",
+      "stem": "aşağıdakilerden hangisi insülin artışı etkilerinden değildir ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "karaciğerde keton cisimleri sentezinin azalması"
+        },
+        {
+          "letter": "B",
+          "text": "iskelet kas hücresinde protein sentezinin azalması"
+        },
+        {
+          "letter": "C",
+          "text": "karaciğerde glukoneogenezin azalması"
+        },
+        {
+          "letter": "D",
+          "text": "karaciğerde glikojen sentezinin artması"
+        },
+        {
+          "letter": "E",
+          "text": "karaciğerde yağ asidi sentezinin artması"
+        }
+      ],
+      "correct": "B",
+      "explain": "-)m4h6 metabolizmanın entegrasyonu Nota mutlaka göz atmanızı öneririm son haftalarda olan bir not olmasına rağmen çok fazla soru gelebiliyor.insulinin etkileri sadece bu modül için değil diğer modüller için de sık sorgulanan bilgiler arasında oluyor.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 189,
+      "num": 189,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "hangisi fossa ischioanaliste bulunmaz",
+      "stem": "hangisi fossa ischioanaliste bulunmaz",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "a. scoratalis (labialis) posterior"
+        },
+        {
+          "letter": "B",
+          "text": "n. Scoratalis (labialis) posterior"
+        },
+        {
+          "letter": "C",
+          "text": "n. Sscoratalis (labialis) anterior"
+        },
+        {
+          "letter": "D",
+          "text": "a. rectalis inferior"
+        },
+        {
+          "letter": "E",
+          "text": "plexus pudendalisin perineal dalları"
+        }
+      ],
+      "correct": "C",
+      "explain": "-)m4h6 diaphragma pelvis Yine bu derste anatomi soruları için önemli bir ders kısa bir ders olsa da içindeki bilgiler çok sorgulanıyor",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 190,
+      "num": 190,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "yağ dokusunda bulunan glikoz taşıycısı hakkında...",
+      "stem": "yağ dokusunda bulunan glikoz taşıycısı hakkında hangisi / hangileri doğrudur? 1. GLUT 4 olark adlandırılır 2. glikoza afinitesi düşüktür 3. insülin bağımlıdır / insüline duyarlıdır",
+      "extra_block": "",
+      "choices": [],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 191,
+      "num": 191,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi doğal bağışıklık sistemi için...",
+      "stem": "Aşağıdakilerden hangisi doğal bağışıklık sistemi için stres altındaki hücrelerden kaynaklanan bir tehlike sinyalidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beta glukan"
+        },
+        {
+          "letter": "B",
+          "text": "Ürik asit"
+        },
+        {
+          "letter": "C",
+          "text": "Lipopolisakkarit"
+        },
+        {
+          "letter": "D",
+          "text": "Lipoteikoik asit"
+        },
+        {
+          "letter": "E",
+          "text": "Peptidoglikan"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 192,
+      "num": 192,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi b lenfosit aktivasyonu sonucu...",
+      "stem": "Aşağıdakilerden hangisi b lenfosit aktivasyonu sonucu değildir",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Igd ekspirasyonu"
+        },
+        {
+          "letter": "B",
+          "text": "Afinite olgunlaşması"
+        },
+        {
+          "letter": "C",
+          "text": "İzotip dönüşümü"
+        },
+        {
+          "letter": "D",
+          "text": "Hafıza hücrelerine dönüşme"
+        },
+        {
+          "letter": "E",
+          "text": "Plazma hücrelerine farklılaşma"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 193,
+      "num": 193,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 11,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Sağlıkta yapay zeka uygulamalarının en riskli...",
+      "stem": "Sağlıkta yapay zeka uygulamalarının en riskli yanı nedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hukuki eksiklik"
+        },
+        {
+          "letter": "B",
+          "text": "Tıbbi uzmanların yerini alması"
+        },
+        {
+          "letter": "C",
+          "text": "Veri gizliliği ve güvenliği"
+        },
+        {
+          "letter": "D",
+          "text": "Etik ve ahlak kuralları"
+        },
+        {
+          "letter": "E",
+          "text": "Kaynak ve altyapıya sahip olma"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 194,
+      "num": 194,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": []
+      },
+      "title": "Böbrekte ultrafiltrasyon bariyerinin yapısına hangisi katılır?",
+      "stem": "Böbrekte ultrafiltrasyon bariyerinin yapısına hangisi katılır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Perisit Benzeri Mezengiyal Hücreler"
+        },
+        {
+          "letter": "B",
+          "text": "Ekstraglomerüler Mezengiyal Hücreler"
+        },
+        {
+          "letter": "C",
+          "text": "Bowman Kapsülü Pariyetal Yaprağı"
+        },
+        {
+          "letter": "D",
+          "text": "Filtrasyon Aralıkları"
+        },
+        {
+          "letter": "E",
+          "text": "Podosit Hücreleri İri Gövde Kısımları"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 195,
+      "num": 195,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-İmmünoloji",
+        "tags": [
+          "mhc"
+        ]
+      },
+      "title": "MHC molekülleri ile ilgili aşağıdaki ifadelerden...",
+      "stem": "MHC molekülleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır ?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İleri derecede polimorfizm gösterirler"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece peptit yapıda antijenleri bağlayarak sunarlar"
+        },
+        {
+          "letter": "C",
+          "text": "Ko-dominant olarak eksprese edilirler"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece çekirdekli hücrelerde eksprese edilirler"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece konağa ait olmayan antijenleri sunarlar"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 196,
+      "num": 196,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Viroloji",
+        "tags": [
+          "virüs",
+          "viroloji"
+        ]
+      },
+      "title": "Virüs hücresel reseptör eşleştirmelerinden hangisi doğrudur?",
+      "stem": "Virüs hücresel reseptör eşleştirmelerinden hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rhinovirus - CD21"
+        },
+        {
+          "letter": "B",
+          "text": "Parvovirüs B19 - CD46"
+        },
+        {
+          "letter": "C",
+          "text": "Influenza A - sialik asit"
+        },
+        {
+          "letter": "D",
+          "text": "poliovirus - ACE2"
+        },
+        {
+          "letter": "E",
+          "text": "Rabiesvirus - eritrosit p antijeni"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 197,
+      "num": 197,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki enzimlerin hangisinin eksikliği pirimidin sentezini...",
+      "stem": "Aşağıdaki enzimlerin hangisinin eksikliği pirimidin sentezini hızlandırarak orotik asitüri oluşumuna sebep olur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ksantin oksidaz"
+        },
+        {
+          "letter": "B",
+          "text": "Ornitin transkarbomilaz"
+        },
+        {
+          "letter": "C",
+          "text": "Adenozin deaminaz"
+        },
+        {
+          "letter": "D",
+          "text": "Ribonükleotid redüktaz"
+        },
+        {
+          "letter": "E",
+          "text": "Aspartat transkarbomilaz"
+        }
+      ],
+      "correct": "A",
+      "explain": ") Primidin sentezi notundan Cevap B seçeneğidir. 98)Böbrek Filtrasyonu ve Glomerül Filtrasyon Hızının Regülasyonu, Böbreklerin Fizyolojik Anatomisi ve Glomerül Filtrasyonu notlarından.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 198,
+      "num": 198,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aferent arteriyol dilitasyonu aşağıdakilerden hangisinde artışa...",
+      "stem": "Aferent arteriyol dilitasyonu aşağıdakilerden hangisinde artışa neden olmaz",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "filtrasyon fraksiyonu"
+        },
+        {
+          "letter": "B",
+          "text": "Glomerül filtrasyon hızı"
+        },
+        {
+          "letter": "C",
+          "text": "Böbrek plazma akımı"
+        },
+        {
+          "letter": "D",
+          "text": "Glomerül kapiller hidrostarik basıncı"
+        },
+        {
+          "letter": "E",
+          "text": "Net filtrasyon basıncı"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 199,
+      "num": 199,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Toplama borularıyla ilgili hangisi doğrudur?",
+      "stem": "Toplama borularıyla ilgili hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Korteks ve medullada çapı değişmeden ilerler."
+        },
+        {
+          "letter": "B",
+          "text": "Esas hücreler su emiliminden sorunludur."
+        },
+        {
+          "letter": "C",
+          "text": "Papiller toplama kanalları koyu boyanan a interkalar hücre içerir"
+        },
+        {
+          "letter": "D",
+          "text": "Üromodulin sentezler."
+        },
+        {
+          "letter": "E",
+          "text": "Nefronun bir parçasıdır."
+        }
+      ],
+      "correct": "B",
+      "explain": ") Böbrek tübülleri ve toplama boruları notundan",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 200,
+      "num": 200,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "ANP, aşağıdaki nefron bölümlerinden hangisini NaCl...",
+      "stem": "ANP, aşağıdaki nefron bölümlerinden hangisini NaCl geriemilimini sağlar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "distal tübül"
+        },
+        {
+          "letter": "B",
+          "text": "proximal tübül"
+        },
+        {
+          "letter": "C",
+          "text": "meduller toplama kanalı"
+        },
+        {
+          "letter": "D",
+          "text": "çıkan kalın henle"
+        },
+        {
+          "letter": "E",
+          "text": "inen ince henle"
+        }
+      ],
+      "correct": "C",
+      "explain": ") Tübüler Geri Emilimin Düzenlenmesi Notundan",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 201,
+      "num": 201,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "İmmünoloji",
+        "sub": "Mikrobiyoloji-Parazitoloji",
+        "tags": []
+      },
+      "title": "Protozoonlarla ilgili hangisi yanlıştır?",
+      "stem": "Protozoonlarla ilgili hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çekirdek proliferasyonu görülür"
+        },
+        {
+          "letter": "B",
+          "text": "Kontraktil vakuolle beslenme görülür"
+        },
+        {
+          "letter": "C",
+          "text": "Protozoonlar ökaryotik mikroorganizmalardır"
+        },
+        {
+          "letter": "D",
+          "text": "Eşeyli/eşeysiz üreme gösterebilir"
+        },
+        {
+          "letter": "E",
+          "text": "Parazitik protozoonların tamamı heterotroftur"
+        }
+      ],
+      "correct": "B",
+      "explain": ") Parazitlerin Sınıflandırılması 1 Notundan,",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 202,
+      "num": 202,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 12,
+      "topic": {
+        "main": "Genetik",
+        "sub": "Genetik",
+        "tags": []
+      },
+      "title": "Hangi izole defekt anormal karyotipte olur?...",
+      "stem": "Hangi izole defekt anormal karyotipte olur? 1-kalp anomalisi 2-ense ödemi 3-eksomfalos",
+      "extra_block": "",
+      "choices": [],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 203,
+      "num": 203,
+      "exam_source": "2028-MEZUNLAR",
+      "exam_label": "2028 Mezunlar Modül 4",
+      "exam_page": 13,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Testin hassasiyeti ne anlama gelir?",
+      "stem": "Testin hassasiyeti ne anlama gelir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm test sonucu tüm doğru"
+        },
+        {
+          "letter": "B",
+          "text": "Tüm vaka negatif"
+        },
+        {
+          "letter": "C",
+          "text": "Negatif içindeki gerçek negatif"
+        },
+        {
+          "letter": "D",
+          "text": "Pozitif içindeki gerçek pozitif"
+        },
+        {
+          "letter": "E",
+          "text": "Tüm sonuç içindeki gerçek negatif"
+        }
+      ],
+      "correct": "?",
+      "explain": "",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_top": [],
       "similar_questions": [],
       "images": []
     }

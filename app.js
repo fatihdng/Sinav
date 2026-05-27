@@ -373,12 +373,17 @@ function renderQuestionList() {
     });
   }
 
+  // Kaynak chip filtresi (lazy render — tek kere)
+  renderExamSourceChips();
+
   const search = document.getElementById('search-input').value.toLowerCase();
   const topic = sel.value;
+  const examFilter = state.examFilter || '';
   const list = document.getElementById('question-list');
   list.innerHTML = '';
 
   let filtered = state.data.questions;
+  if (examFilter) filtered = filtered.filter(q => q.exam_source === examFilter);
   if (topic) filtered = filtered.filter(q => q.topic.main === topic);
   if (search) filtered = filtered.filter(q =>
     q.stem.toLowerCase().includes(search) ||
@@ -401,16 +406,51 @@ function renderQuestionList() {
     row.className = 'question-row';
     if (p) row.classList.add('answered');
     if (p && !p.correct) row.classList.add('wrong');
+    const examTag = q.exam_label ? `<span class="q-exam">🎓 ${escapeHtml(q.exam_label)}</span>` : '';
     row.innerHTML = `
       <div class="q-num">${q.num}</div>
       <div class="q-info">
         <div class="q-title">${escapeHtml(q.title || q.stem.slice(0,80))}</div>
-        <div class="q-tag">${escapeHtml(q.topic.main)}</div>
+        <div class="q-tag">${escapeHtml(q.topic.main)} ${examTag}</div>
       </div>
       <div class="q-status">${p ? (p.correct ? '✓' : '✗') : '›'}</div>
     `;
     row.addEventListener('click', () => openDetail(q.id));
     list.appendChild(row);
+  });
+}
+
+function renderExamSourceChips() {
+  let bar = document.getElementById('exam-chip-bar');
+  if (bar) return; // bir kere render edilir
+  const filterBar = document.querySelector('#view-questions .filter-bar');
+  if (!filterBar) return;
+  // Sayım
+  const all = state.data.questions;
+  const counts = {};
+  all.forEach(q => { counts[q.exam_source] = (counts[q.exam_source] || 0) + 1; });
+  const sources = Object.keys(counts).sort();
+  const labelMap = {
+    '2029-D2M4': '2029 D2M4',
+    '2028-MEZUNLAR': '2028 Mezunlar',
+  };
+  bar = document.createElement('div');
+  bar.id = 'exam-chip-bar';
+  bar.className = 'exam-chip-bar';
+  bar.innerHTML = `
+    <button class="exam-chip active" data-src="">Tümü <span>${all.length}</span></button>
+    ${sources.map(s => `
+      <button class="exam-chip" data-src="${s}">${escapeHtml(labelMap[s] || s)} <span>${counts[s]}</span></button>
+    `).join('')}
+  `;
+  filterBar.insertAdjacentElement('afterend', bar);
+  bar.addEventListener('click', e => {
+    const btn = e.target.closest('.exam-chip');
+    if (!btn) return;
+    bar.querySelectorAll('.exam-chip').forEach(x => x.classList.remove('active'));
+    btn.classList.add('active');
+    state.examFilter = btn.dataset.src;
+    renderQuestionList();
   });
 }
 
