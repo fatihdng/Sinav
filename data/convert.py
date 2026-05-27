@@ -12,7 +12,11 @@ from data_mikro_13_17 import QUESTIONS as Q3
 from data_mikro_18_22 import QUESTIONS as Q4
 from data_fizyo_23_26 import QUESTIONS as Q5
 from data_fizyo_27_29 import QUESTIONS as Q6
-ALL = Q1 + Q2 + Q3 + Q4 + Q5 + Q6
+from data_fizyo_30_38 import QUESTIONS as Q7
+from data_histoloji_39_51 import QUESTIONS as Q8
+from data_biyokimya_52_63 import QUESTIONS as Q9
+from data_anatomi_64_100 import QUESTIONS as Q10
+ALL = Q1 + Q2 + Q3 + Q4 + Q5 + Q6 + Q7 + Q8 + Q9 + Q10
 
 
 def derive_tags(q):
@@ -40,15 +44,24 @@ def derive_tags(q):
 def derive_topic(q):
     """Ana konu/alt konu çıkar."""
     konu = q.get('konu', '')
-    if 'mikrobiyoloji' in konu.lower() or 'immün' in konu.lower():
+    k_low = konu.lower()
+    if k_low == 'fizyoloji':
+        main = 'Fizyoloji'
+    elif k_low == 'histoloji':
+        main = 'Histoloji'
+    elif k_low == 'biyokimya':
+        main = 'Biyokimya'
+    elif k_low == 'anatomi':
+        main = 'Anatomi'
+    elif 'mikrobiyoloji' in k_low or 'immün' in k_low:
         main = 'İmmünoloji'
-    elif 'mikoloji' in konu.lower() or 'mantar' in konu.lower():
+    elif 'mikoloji' in k_low or 'mantar' in k_low:
         main = 'Mikoloji'
-    elif 'virol' in konu.lower():
+    elif 'virol' in k_low:
         main = 'Viroloji'
-    elif 'böbrek' in konu.lower() or 'raas' in konu.lower() or 'elektro' in konu.lower() or 'tonisite' in konu.lower():
+    elif 'böbrek' in k_low or 'raas' in k_low or 'elektro' in k_low or 'tonisite' in k_low:
         main = 'Fizyoloji · Böbrek'
-    elif 'üreme' in konu.lower() or 'sertoli' in konu.lower() or 'ejakül' in konu.lower() or 'oogen' in konu.lower() or 'gebelik' in konu.lower() or 'doğum' in konu.lower():
+    elif 'üreme' in k_low or 'sertoli' in k_low or 'ejakül' in k_low or 'oogen' in k_low or 'gebelik' in k_low or 'doğum' in k_low:
         main = 'Fizyoloji · Üreme'
     else:
         main = q.get('konu', 'Genel')

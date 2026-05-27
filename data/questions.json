@@ -2,7 +2,7 @@
   "version": "1.0",
   "exam": "2029 D2M4 Çıkmışları",
   "last_updated": "2026-05-26",
-  "total_questions": 29,
+  "total_questions": 100,
   "questions": [
     {
       "id": 1,
@@ -8678,6 +8678,3449 @@
           "note_ref": {}
         }
       ],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 30,
+      "num": 30,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Aşağıdaki \"asit-baz dengesi\" ifadelerinden hangisi yanlıştır?",
+      "stem": "Aşağıdaki \"asit-baz dengesi\" ifadelerinden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bikarbonat geri emiliminde hücre içerisinde  oluşturulan bikarbonat dolaşıma girerken H tübüler  sıvıya salgılanır."
+        },
+        {
+          "letter": "B",
+          "text": "B-interkalat hücreler gerekli olursa ve tübüler  sıvıya HCO, sekrete edebilir."
+        },
+        {
+          "letter": "C",
+          "text": "Bikarbonat, metabolizmanın ihtiyaçlarına göre  proksimal tübül hücreleri tarafından hem yeniden  emilebilir hem de salgılanabilir."
+        },
+        {
+          "letter": "D",
+          "text": "Bikarbonatın çoğu proksimal tübül tarafından geri  emilir."
+        },
+        {
+          "letter": "E",
+          "text": "Hücre içi pH'daki değişiklikler, membran  taşıyıcılarının taşıma kinetiğini değiştirebilir."
+        }
+      ],
+      "correct": "C",
+      "explain": "En fazla HCO3- reabsorbsiyonu proksimal tübülde gerçekleşir. Nefronun son kesiminde (distal tübül ve toplayıcı kanallar) reabsorbsiyon dinamikleri regüle edilebilir. α-interkalat hücreler (H+ sekrete eder, HCO3- reabsorbe eder.) β-interkalat hücreler (H+ reabsorbe eder, HCO3- sekrete eder.) C yanlış, proksimal tüpte sadece reabsorbsiyon olur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 31,
+      "num": 31,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kortikal nefronlar juxtamedüller nefronlara kıyasla  daha bol miktarda bulunur."
+        },
+        {
+          "letter": "B",
+          "text": "Juxtamedüller nefronların Henle Kulpu daha  uzundur."
+        },
+        {
+          "letter": "C",
+          "text": "Juxtamedüller nefronlar vasa recta adı verilen özel  bir damar ağına sahiptir."
+        },
+        {
+          "letter": "D",
+          "text": "Juxtamedüller nefronların renal korpüskülü kortikal  kısımda bulunur."
+        },
+        {
+          "letter": "E",
+          "text": "Kortikal nefronlar tamamen renal medullanın  dışında yer alır."
+        }
+      ],
+      "correct": "E",
+      "explain": "Nefronlar böbreklerin en küçük fonksiyonel birimleridir. Kortikal ve jukstamedullar olmak üzere iki tip nefron bulunur. Kortikal nefronlar jukstamedullar nefronlara göre daha fazla sayıda bulunurlar (%90 Kortikal %10 jukstamedullar). Kortikal nefronlar daha çok kortekste yerleşmelerine rağmen medullada yerleşen kısımları da vardır. Henle kulbu bu nefronlarda daha kısadır ve bir kısmı medulla içine girer. Bu kısımlar medulladan uzanan medulla uzantıları içinde de bulunabilirler. Renal korpüskül yapısı tüm nefronlarda kortekste bulunur korteksi ayırt etmemizi sağlar. Jukstamedullar nefronlar uzun henle kulplarına sahiptirler ve bu sayede idrarın daha da konsantre olmasını sağlarlar. Henle kulplarının etrafında vasa recta renis adında özel bir damar sistemi bulunur. Kortikal nefronlarda sadece peritübüler kapillerler vardır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 32,
+      "num": 32,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem": "Aşağıdaki ifadelerden hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "AVP proteini hipofiz bezinde sentezlenir."
+        },
+        {
+          "letter": "B",
+          "text": "Kan basıncında bir artış, \"Osmolalite-AVP seviyesi  eğrisini\" sağa kaydırır."
+        },
+        {
+          "letter": "C",
+          "text": "Kan basıncında küçük bir düşüş (%1-2), AVP  salgılanmasını artırır."
+        },
+        {
+          "letter": "D",
+          "text": "Plazma ozmolalitesi eşik seviyesini geçerse AV  salgılanması durur."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece düşük basınçlı baroreseptörler AVP  salgılanmasının düzenlenmesinden sorumludur."
+        }
+      ],
+      "correct": "B",
+      "explain": "AVP/ Arginin Vazopressin / Antidiüretik hormon / ADH hipotalamusun paraventriküler ve supraoptik çekirdeklerinde sentezlenir ve aksonal transportla hipofizin posterior lobuna gelir, buradan salgılanır. AVP sekresyonu iki ana düzenleyici mekanizmanın kontrolü altındadır: ESS osmolaritesi ve vasküler sistemdeki hacim ve artışlar (hemodinamik düzenleme). AVP salgılanması plazmadaki osmotik değişimlere karşı daha duyardır. ESS osmolaritesindeki %1 ilk bir artış AVP sekresyonunun artması için yeterlidir. Buna karşılık kan hacmindeki %10’luk bir azalma plazma AVP düzeyini artırabilir. Plazma osmolaritesinin eşik seviyesini geçmesi demek osmolaritenin artması demektir. Bu da AVP sekresyonunu artırır. Dolaşımın yüksek ve düşük basınç bölgelerinde bulunan baroreseptörler ve supraoptik nukleus, paraventriküler nukleus, anterior hipotalamusta bulunan osmoreseptörler AVP salgılanmasını düzenlerler. Kan basıncında artış osmolarite-AVP seviyesi eğrisini sağa kaydırır. Yüksek kan basıncı AVP eşiğini daha yüksek osmolarite değerlerine kaydırır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 33,
+      "num": 33,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parasempatik innervasyon renin salgısını azaltır."
+        },
+        {
+          "letter": "B",
+          "text": "Böbrekleri innerve eden sempatik sinir lifleri çölyak  pleksusundan kaynaklanır."
+        },
+        {
+          "letter": "C",
+          "text": "Sempatik uyarı GFH'yi azaltır."
+        },
+        {
+          "letter": "D",
+          "text": "Üreterler hem sempatik hem de parasempatik  sinirlerle innerve edilir."
+        },
+        {
+          "letter": "E",
+          "text": "Üreterorenal refleksin sempatik bir bölümü vardır."
+        }
+      ],
+      "correct": "A",
+      "explain": "Sempatik innervasyon renin sentezini artırır ifadesi doğrudur ancak parasempatik innervasyon için tersi geçerli değildir çünkü üreter ve mesanenin aksine böbrekler için parasempatik innervasyondan söz edilemez. Böbrekleri innerve eden motor sinirler sadece çölyak pleksustan çıkan sempatik sinir liflerinden oluşur. Böbreğin hem afferent hem efferent arteriyolleri sempatik sistem tarafından innerve edilir. Normal ESS hacimlerinde sempatik sistem görece sessizdir. Alfa adrenerjik reseptörler üzerinden (daha çok afferent arteriyolde) vazokonstriksüyon yaparlar. GFH’yi azaltırlar. Üreterlerde ve mesanede hem sempatik hem parasempatik innervasyon bulunur. Üreterorenal refleks ağrılı uyaranların sempatik sistemi etkilemesiyle renal arteriyollerin daralması ve GFH’nin azalmasıyla oluşur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 34,
+      "num": 34,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": [
+          "lh"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi menstrüel siklusta görülen LH...",
+      "stem": "Aşağıdakilerden hangisi menstrüel siklusta görülen LH piki ile ilgili olarak yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eş zamanlı FSH da artar."
+        },
+        {
+          "letter": "B",
+          "text": "Ovulasyonu tetikler."
+        },
+        {
+          "letter": "C",
+          "text": "Siklusun 13-14. gününde meydana gelir."
+        },
+        {
+          "letter": "D",
+          "text": "Plazma östrojen düzeyinde belirgin artış olmazsa  meydana gelmez."
+        },
+        {
+          "letter": "E",
+          "text": "Siklus boyunca plazma progesteron düzeyinin en  yüksek olduğu evredir."
+        }
+      ],
+      "correct": "E",
+      "explain": "LH piki döngünün 13-14. günlerinde plazma östrojen düzeyindeki belirgin artışla meydana gelir. LH kadar olmasa da FSH da artar. Artan LH miktarı ovulasyonu tetikler. Progestronun artması ise ovulasyon sonucu oluşan korpus luteumun bu hormonun salgılamasıyla artacaktır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 35,
+      "num": 35,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Nefrondan glikozun geri emilimi ile ilgili...",
+      "stem": "Nefrondan glikozun geri emilimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proksimal tübülde glikoz geri emilimi bir tür  sekonder aktif taşımadır."
+        },
+        {
+          "letter": "B",
+          "text": "Glikoz, bazolateral membrandan SGLT2 ile taşınır."
+        },
+        {
+          "letter": "C",
+          "text": "GLUT2, glikoza düşük affinitesi olan bir glikoz  taşıyıcısıdır."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrelenmiş glikoz yükü çok fazla artarsa geri  emilim kapasitesini satüre eder."
+        },
+        {
+          "letter": "E",
+          "text": "Na-K pompasının aktivitesi glikoz geri emilim  hızını da etkiler."
+        }
+      ],
+      "correct": "B",
+      "explain": "Böbrekte glikoz geri emilimi apikal membranda bulunan Na-glukoz transporter (SGLT2) (sekonder aktif taşıma) taşıyıcısı ile, bazolateral membranda ise Glucose transporter (GLUT2) (pasif transport mekanizması) ile gerçekleşir. GLUT2’nin glikoza affinitesi düşüktür. Glikoz için bir emilim kapasitesi vardır ve bu aşıldığında idrarda glikoz görülebilir. Glikoz apikal membranda Na ile beraber emildiği için Na/K pompasının aktivitesi glikoz geri emilimini etkiler.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 36,
+      "num": 36,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": [
+          "östrojen"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisinde kombine oral kontraseptiflerin bileşimindeki...",
+      "stem": "Aşağıdakilerden hangisinde kombine oral kontraseptiflerin bileşimindeki östrojenin etkisi yoktur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gonadotropinlerin baskılanması"
+        },
+        {
+          "letter": "B",
+          "text": "Servikal mukusun kalınlaşması"
+        },
+        {
+          "letter": "C",
+          "text": "Ovulasyonun engellenmesi"
+        },
+        {
+          "letter": "D",
+          "text": "Endometriyum proliferasyonunun azalması"
+        },
+        {
+          "letter": "E",
+          "text": "Menstrüel kanama miktarının azalması"
+        }
+      ],
+      "correct": "B",
+      "explain": "Servikal mukusun kalınlaşması progesteronun etkisidir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 37,
+      "num": 37,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": [
+          "progesteron",
+          "gebelik"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi gebelikte annede progesteron artışının...",
+      "stem": "Aşağıdakilerden hangisi gebelikte annede progesteron artışının rol aldığı değişikliklerden biri değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alveolar ventilasyonun artması"
+        },
+        {
+          "letter": "B",
+          "text": "Endometriyumda desidual dokunun gelişmesi"
+        },
+        {
+          "letter": "C",
+          "text": "Periferik direncin azalması"
+        },
+        {
+          "letter": "D",
+          "text": "Miyometriyumda oksitosin reseptörlerinin artması"
+        },
+        {
+          "letter": "E",
+          "text": "Gastro-özofageal reflünün gelişmesi"
+        }
+      ],
+      "correct": "D",
+      "explain": "Miyometriyumda oksitosin reseptörlerinin artması östrojen hormonunun etkisiyledir. Progestronun damarları gevşetici etkisinden dolayı sfinkterlerde gevşeme gastroözofageal reflüye neden olur. Bu vazodalitasyon periferik direncin düşmesine sebep olur. Alveolar ventilasyonun artması ve desidual dokunun gelişmesi de progestron sayesindedir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 38,
+      "num": 38,
+      "exam_page": 1,
+      "topic": {
+        "main": "Fizyoloji",
+        "sub": "Fizyoloji",
+        "tags": []
+      },
+      "title": "Sistemik kan basıncı arttığında, miyojenik mekanizma...",
+      "stem": "Sistemik kan basıncı arttığında, miyojenik mekanizma normal glomerüler filtrasyon hızını korumak için nasıl yanıt verir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Afferent arteriol genişler."
+        },
+        {
+          "letter": "B",
+          "text": "Efferent arteriol daralır."
+        },
+        {
+          "letter": "C",
+          "text": "Afferent arteriol daralır."
+        },
+        {
+          "letter": "D",
+          "text": "Efferent arteriol genişler."
+        },
+        {
+          "letter": "E",
+          "text": "Her iki arteriol de daralır."
+        }
+      ],
+      "correct": "C",
+      "explain": "Miyojenik mekanizma basınç sensitif mekanizmadır. Damar duvarında bulunan düz kaslar duvar gerimi artınca kasılma eğilimindedir. Bu etki afferent arteriyol üzerinden görülür. Afferent arteriyol daralır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 39,
+      "num": 39,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Epididimis aşağıdakilerden hangisinden gelişir?",
+      "stem": "Epididimis aşağıdakilerden hangisinden gelişir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ürogenital sinus"
+        },
+        {
+          "letter": "B",
+          "text": "Paramezonefrik kanallar"
+        },
+        {
+          "letter": "C",
+          "text": "Mezonefrik tübüller"
+        },
+        {
+          "letter": "D",
+          "text": "Mezonefrik kanallar"
+        },
+        {
+          "letter": "E",
+          "text": "Yolk kesesi"
+        }
+      ],
+      "correct": "D",
+      "explain": "Mezonefrik tübülden: Ductuli efferentes Mezonefrik kanaldan: Epididimis, vas deferens ve vesicula seminalis Ürogenital sinüsten: Mesane, üretra, prostat, bulboüretral bez ve utriculus prostaticus gelişir",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 40,
+      "num": 40,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Duktuli effErentes ile ilgili yanış açıklamayı...",
+      "stem": "Duktuli effErentes ile ilgili yanış açıklamayı işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kinosilyalı yalancı çok katlı epitelle döşelidir."
+        },
+        {
+          "letter": "B",
+          "text": "Mezonefroz borusundan gelişir."
+        },
+        {
+          "letter": "C",
+          "text": "Testis dışı boşaltım yoludur."
+        },
+        {
+          "letter": "D",
+          "text": "Lümen girintili çıkıntılıdır."
+        },
+        {
+          "letter": "E",
+          "text": "İnce bir kas tabakası çevreler."
+        }
+      ],
+      "correct": "B",
+      "explain": "Ductuli efferentes tunica albuginea’nın yani testisin dışında bulunur. Lümeni uzun prizmatik kinosilyumlu hücreler ve kısa boylu, kübik mikrovilluslu hücreler nedeniyle kesitlerde girintili çıkıntılı izlenir. Bu tüplerin etrafında küçük küçük sirküler düz kaslar ve elastik lifler bulunur. Bunların amacı ise içindeki maddeyi bir sonraki kompartmana iletmektir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 41,
+      "num": 41,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Makula densa hücresiyle ilgili yanlışı işaretleyiniz.",
+      "stem": "Makula densa hücresiyle ilgili yanlışı işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksek prizmatik hücrelerden oluşur."
+        },
+        {
+          "letter": "B",
+          "text": "İnfranüklear golgi kompleksi içerir."
+        },
+        {
+          "letter": "C",
+          "text": "Bazal membran kesintilidir."
+        },
+        {
+          "letter": "D",
+          "text": "Salgı granülleri içerir."
+        },
+        {
+          "letter": "E",
+          "text": "Apikal yüzey mikrovillusludur."
+        }
+      ],
+      "correct": "D",
+      "explain": "Her distal tübün kendine ait glomerulusunun damar kutbuna geldiğinde distal tüp hücreleri farklanarak macula densa hücrelerini oluşturur. Bazal laminası kesintili olan bu hücreler bazalde ekstraglomerüler mezangiyal hücrelerle bağlantı kurarlar. Hücreler arası bağlantıları gevşek olup apikal yüzeyinde daha iyi sinyal alabilmek için mikrovilluslar vardır. Tipik bir hücrede golgi cisimciği hücrenin apikal kısmında yer alırken makula densa hücrelerinde golgi cisimciği hücrede infranükleer yerleşimlidir. Çünkü bu hücrelerin asıl iletişime geçmek istedikleri yer bazaldeki ekstraglomerüler mezangiyal hücrelerdir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 42,
+      "num": 42,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Metanefrozun gelişiminde böbrek tübülüslerinin oluşumunda aktif...",
+      "stem": "Metanefrozun gelişiminde böbrek tübülüslerinin oluşumunda aktif olan transkripsiyon faktörü hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "BMP-7"
+        },
+        {
+          "letter": "B",
+          "text": "PAX2"
+        },
+        {
+          "letter": "C",
+          "text": "FGF"
+        },
+        {
+          "letter": "D",
+          "text": "TGF-B"
+        },
+        {
+          "letter": "E",
+          "text": "Hox genler"
+        }
+      ],
+      "correct": "B",
+      "explain": "WT-1 metanefrik blastemdeki hücreleri aktive eder. Bu bölgeden GDNF (glial cell line derived neurotropic factor) ve HGF (hepatosit growth factor) üreter tomurcuğundaki Ret ve Met reseptörlerine bağlanır. Üreter tomurcuğu metanefrik blasteme doğru hareket eder. PAX 2, tübüler formasyon için mezenşimal kümelenmeyi ve epitelyal yapının oluşmasını sağlar. Wnt 4, epitelyal gelişimi sağlar.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 43,
+      "num": 43,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": [
+          "folikül"
+        ]
+      },
+      "title": "Oositin etrafinda birden fazla sayıda sıralanmış...",
+      "stem": "Oositin etrafinda birden fazla sayıda sıralanmış şekilde izlenen granüloza hücrelerine sahip bir ovaryum folikülü, gelişim sürecinin hangi aşamasındadır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Primordiyal"
+        },
+        {
+          "letter": "B",
+          "text": "Tek katlı primer"
+        },
+        {
+          "letter": "C",
+          "text": "Erken sekonder"
+        },
+        {
+          "letter": "D",
+          "text": "Geç sekonder"
+        },
+        {
+          "letter": "E",
+          "text": "Çok katlı primer"
+        }
+      ],
+      "correct": "E",
+      "explain": "(Cevap anahtarında açıklama yer almıyor.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 44,
+      "num": 44,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": [
+          "sertoli"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi sertoli hücrelerinin görevlerinden değildir?",
+      "stem": "Aşağıdakilerden hangisi sertoli hücrelerinin görevlerinden değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anti-Müllerian hormon yapımı"
+        },
+        {
+          "letter": "B",
+          "text": "Fagositoz"
+        },
+        {
+          "letter": "C",
+          "text": "Kan-testis bariyerini oluşturmak"
+        },
+        {
+          "letter": "D",
+          "text": "Androjen bağlayıcı protein salgılamak"
+        },
+        {
+          "letter": "E",
+          "text": "Testesteron salgılamak"
+        }
+      ],
+      "correct": "E",
+      "explain": "Testosteron üretimini LH ile uyarılan leydig hücreleri yapar. Sertoli hücresinde ise bu testosteron aromataz ile östradiole çevrilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 45,
+      "num": 45,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Penisle ilgili yanlış açıklamayı işaretleyiniz.",
+      "stem": "Penisle ilgili yanlış açıklamayı işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Postkavernöz venler yastıkcık içerir."
+        },
+        {
+          "letter": "B",
+          "text": "Kavernler endotel ile çevrilidir."
+        },
+        {
+          "letter": "C",
+          "text": "Üç kavernoz cisimden oluşur."
+        },
+        {
+          "letter": "D",
+          "text": "Yağ dokusu içermez."
+        },
+        {
+          "letter": "E",
+          "text": "Ara doku kas dokusu ve elastik liflerden zengindir."
+        }
+      ],
+      "correct": "C",
+      "explain": "İki adet corpus cavernosum ve bir adet corpus spongiosum’dan oluşan peniste bu yapıları tunica albuginea çevreler. Penisi dıştan ince birçok katlı yassı keratinleşmeyen epitel sarar. Epitelin altında gevşek bağ dokusu bulunur. Bu gevşek bağ dokusu içinde: ter bezleri, yağ bezleri, arter, ven ve serbest sinir uçları vardır. Yağ dokusu içermez sadece yağ bezi vardır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 46,
+      "num": 46,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "\"Filtrasyon aralığı\" ile ilgili açıklamalardan hangisi/hangileri...",
+      "stem": "\"Filtrasyon aralığı\" ile ilgili açıklamalardan hangisi/hangileri yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I ve IV"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II ve III"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II, III ve IV"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız IV"
+        }
+      ],
+      "correct": "E",
+      "explain": "Pediseller arasındaki açıklıklar filtrasyon aralığın olarak tanımlanır ve bu aralıklar diyaframla kaplıdır. Filtrasyon aralığının oturduğu bazal membran kesintisizdir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 47,
+      "num": 47,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Aşağıdaki yapılardan hangisi/hangileri sadece paramezonefrik kanallardan...",
+      "stem": "Aşağıdaki yapılardan hangisi/hangileri sadece paramezonefrik kanallardan gelişir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III"
+        },
+        {
+          "letter": "D",
+          "text": "I ve II"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi"
+        }
+      ],
+      "correct": "D",
+      "explain": "Tuba uterina’yı oluşturan her iki paramezonefrik kanal birleşerek uterusu ve vajinanın üst kısmını oluşturur. Vajinanın kalan kısmı ise ürogenital sinüsten gelişir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 48,
+      "num": 48,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi gebeliğin devamı için gerekli...",
+      "stem": "Aşağıdakilerden hangisi gebeliğin devamı için gerekli hormon salgısı için korpus luteumu uyarır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinsityotrofoblast"
+        },
+        {
+          "letter": "B",
+          "text": "Ön hipofiz"
+        },
+        {
+          "letter": "C",
+          "text": "Arka hipofiz"
+        },
+        {
+          "letter": "D",
+          "text": "Adrenal korteks"
+        },
+        {
+          "letter": "E",
+          "text": "Sitotrofoblast"
+        }
+      ],
+      "correct": "A",
+      "explain": "Embriyonun sinsityotrofoblastlarından salgılanan hCG, corpus luteumu destekleyip devamlılığını sağlar, bu sayede progesteron ve östrojen hormon seviyesi düşmeden devam eder.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 49,
+      "num": 49,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": [
+          "sertoli"
+        ]
+      },
+      "title": "Sertoli hücreleri ile ilgili yanlışı işaretleyiniz.",
+      "stem": "Sertoli hücreleri ile ilgili yanlışı işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kan-testis bariyerini oluşturur."
+        },
+        {
+          "letter": "B",
+          "text": "Radyoterapi ve kemoterapiye dirençsizdir."
+        },
+        {
+          "letter": "C",
+          "text": "Puberteden sonra çoğalmaz."
+        },
+        {
+          "letter": "D",
+          "text": "Testis kordonlarından gelişir."
+        },
+        {
+          "letter": "E",
+          "text": "Fagositoz ve salgı fonksiyonu vardır."
+        }
+      ],
+      "correct": "B",
+      "explain": "Testis gelişimi esnasında mezodermal yüzey epiteli testis mezenşimine invajine olarak kordonlar oluşturur. Bu kordon duvarlarında sertoli hücreleri bulunur, devamında ise kıvrımlı ve düz seminifer tübüller ile rete testis oluşur. Puberteye kadar çoğalan sertoli hücreleri puberteden sonra çoğalmaz ve sperm hücrelerinin aksine radyoterapi ve kemoterapiye dirençlidirler. Aralarındaki sıkı bağlantılarla kan-testis bariyeri oluşturan sertoli hücreleri, otoimmüniteyi engeller.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 50,
+      "num": 50,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi uterus ile ilgili yanlış...",
+      "stem": "Aşağıdakilerden hangisi uterus ile ilgili yanlış bir ifadedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endometriyum yüzey epiteli tekk katı prizmatik  yapıdadır."
+        },
+        {
+          "letter": "B",
+          "text": "Endometriyum bezleri döngünün sekresyon  fazında içi salgı dolu kalın düz borular şeklinde  izlenir."
+        },
+        {
+          "letter": "C",
+          "text": "Orta tabakası myometriyum adıyla anılır."
+        },
+        {
+          "letter": "D",
+          "text": "Adventisya ve seroza tabakaları izlenir."
+        },
+        {
+          "letter": "E",
+          "text": "Spiral arterler endometriyuma kadar uzanır."
+        }
+      ],
+      "correct": "B",
+      "explain": "Sekresyon fazında endometriyum bezleri içi salgı dolu, tirbüşon benzeri kıvrımlı görünür.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 51,
+      "num": 51,
+      "exam_page": 1,
+      "topic": {
+        "main": "Histoloji",
+        "sub": "Histoloji",
+        "tags": []
+      },
+      "title": "Papilla renalis'de hangisi bulunmaz?",
+      "stem": "Papilla renalis'de hangisi bulunmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplama boruları"
+        },
+        {
+          "letter": "B",
+          "text": "Makula densa"
+        },
+        {
+          "letter": "C",
+          "text": "Intertisiyel hücreler"
+        },
+        {
+          "letter": "D",
+          "text": "İnce parça"
+        },
+        {
+          "letter": "E",
+          "text": "Çok katlı değişici minör kaliks epiteli"
+        }
+      ],
+      "correct": "B",
+      "explain": "Toplama boruları korteksten başlar papilla renalise doğru uzanır. İnce parça ise kortikal nefronlarda 1-2 mm uzunluğundadır, jukstamedullar nefronlarda 9-10mm’dir, papillaya uzanır. Macula densa ise distal tübün glomerül damar kutbuna geldiğinde farklandığı bir hücre tipi olarak papillada bulunmaz.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 52,
+      "num": 52,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Aşağıdaki bilgilerden hangisi fosforibozil pirofosfat (PRPP)...",
+      "stem": "Aşağıdaki bilgilerden hangisi fosforibozil pirofosfat (PRPP) için geçerli değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "De novo primidin biyosentezinde kullanılır."
+        },
+        {
+          "letter": "B",
+          "text": "Sentezi pürin nükleotidleriyle kontrol edilir."
+        },
+        {
+          "letter": "C",
+          "text": "De novo pürin biyosentezinde kullanılır."
+        },
+        {
+          "letter": "D",
+          "text": "Riboz 1-pirofosfatın fosforilasyonu ile oluşur."
+        },
+        {
+          "letter": "E",
+          "text": "Pürinlerin kurtarma yolunda kullanılır."
+        }
+      ],
+      "correct": "D",
+      "explain": "De novo pirimidin biyosentezinde kullanılır. (Doğru) PRPP, hem de novo pürin hem de pirimidin biyosentezinde önemli bir substrattır. Sentezi pürin nükleotidleriyle kontrol edilir. (Doğru) PRPP sentezini yapan PRPP sentetaz enzimi, pürin nükleotidleri (AMP, ADP, GMP, GDP) tarafından geri beslemeyle inhibe edilir. Bu, PRPP üretiminin hücrenin pürin ihtiyacına göre düzenlenmesini sağlar. De novo pürin biyosentezinde kullanılır. (Doğru) PRPP, pürinlerin de novo sentezinin başlangıç molekülüdür ve riboz-5-fosfat iskeletini sağlar. Riboz 1-pirofosfatın fosforilasyonu ile oluşur. (Yanlış) PRPP, riboz 5-fosfattan oluşur, riboz 1-pirofosfattan değil. Bu reaksiyonu PRPP sentetaz enzimi gerçekleştirir ve ATP’yi fosfat vericisi olarak kullanır. Pürinlerin kurtarma yolunda kullanılır. (Doğru) PRPP, pürin kurtarma yolunda esastır. Bu yolda serbest pürin bazlarıyla reaksiyona girerek pürin nükleotidleri oluşturur ve böylece bazlar tekrar kullanıma sunulur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 53,
+      "num": 53,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": [
+          "testosteron"
+        ]
+      },
+      "title": "Testosteron hormonu ile ilgili olarak aşağıdaki...",
+      "stem": "Testosteron hormonu ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "LH sentez hızını düzenlemektedir"
+        },
+        {
+          "letter": "B",
+          "text": "Kolesterolden sentezlenmektedir."
+        },
+        {
+          "letter": "C",
+          "text": "Dihidrotestosteron testosterondan daha az  potenttir."
+        },
+        {
+          "letter": "D",
+          "text": "Dokularda 5α-redüktaz ile potent metabolitine  dönüşmektedir."
+        },
+        {
+          "letter": "E",
+          "text": "Dihidrotestosteron testosteronun bir metabolitidir."
+        }
+      ],
+      "correct": "C",
+      "explain": "Kolesterolden sentezlenen bir steroid hormon olan testosteron negatif feedback ile LH sentez hızını düzenler. Dokularda 5 alfa – redüktaz enzimiyle daha potent (etkili) bir metaboliti olan Dihidrotestosterona (DHT) dönüşür.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 54,
+      "num": 54,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisinin reseptörü hücre içerisindedir?",
+      "stem": "Aşağıdakilerden hangisinin reseptörü hücre içerisindedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "FSH"
+        },
+        {
+          "letter": "B",
+          "text": "TRH"
+        },
+        {
+          "letter": "C",
+          "text": "ACTH"
+        },
+        {
+          "letter": "D",
+          "text": "Androjenler"
+        },
+        {
+          "letter": "E",
+          "text": "LH"
+        }
+      ],
+      "correct": "D",
+      "explain": "Protein/peptit hormonların ve katekolaminlerin reseptörü hücre zarında, steroid hormonlar ve tiroid hormonlarının reseptörü hücre içinde bulunur. FSH (Folikül uyarıcı hormon): Bir glikoprotein hormondur. Reseptörü hücre yüzeyindedir. TRH (Tirotropin salgılatıcı hormon): Bir peptit hormondur. Reseptörü hücre yüzeyindedir. ACTH (Adrenokortikotropik hormon): Bir peptit hormondur. Reseptörü hücre yüzeyindedir. Androjenler: Steroid hormonlardır. Reseptörleri hücre içi (sitoplazmada veya çekirdekte) yer alır. LH (Luteinize edici hormon): Bir glikoprotein hormondur. Reseptörü hücre yüzeyindedir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 55,
+      "num": 55,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "Hepatosit zarında bulunan glukoz taşıyıcısı (GLUT)...",
+      "stem": "Hepatosit zarında bulunan glukoz taşıyıcısı (GLUT) hakkında aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I ve III"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I"
+        }
+      ],
+      "correct": "E",
+      "explain": "I- GLUT2 olarak bilinir. (Doğru) Karaciğer (hepatosit) hücrelerinde bulunan başlıca glukoz taşıyıcısı GLUT2’dir. II- Glukoza afinitesi yüksektir. (Yanlış) GLUT2’nin glukoza afinitesi düşüktür (yüksek Km değeri). Bu, karaciğerin yüksek glukoz konsantrasyonlarında bile glukozu hücre içine almasını veya dışarı vermesini sağlar ve kandaki glukoz seviyesinin ayarlanmasına yardımcı olur. Diğer bir deyişle, sadece kan glukoz seviyesi yüksek olduğunda glukoz taşınmasında aktif rol oynar. III- İnsüline duyarlı glukoz taşıyıcısıdır. (Yanlış) GLUT2, insüline duyarlı değildir. İnsüline duyarlı olan ve insülin varlığında hücre yüzeyine çıkan glukoz taşıyıcısı GLUT4’tür (kas ve yağ dokusunda bulunur). GLUT2, insülin seviyelerinden bağımsız olarak çalışır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 56,
+      "num": 56,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": [
+          "plasenta"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi plasentadan geçemez?",
+      "stem": "Aşağıdakilerden hangisi plasentadan geçemez?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etanol"
+        },
+        {
+          "letter": "B",
+          "text": "Konjuge olmayan steroidler"
+        },
+        {
+          "letter": "C",
+          "text": "Serbest yağ asitleri"
+        },
+        {
+          "letter": "D",
+          "text": "Anne IgM'i"
+        },
+        {
+          "letter": "E",
+          "text": "Üre"
+        }
+      ],
+      "correct": "D",
+      "explain": "Geçebilenler: Etanol (alkol), konjuge olmayan steroidler, serbest yağ asitleri, üre. Bunlar küçük moleküller veya yağda çözünür maddelerdir. Geçemeyen: Anne IgM’si. IgM büyük bir antikor molekülüdür ve plasenta bariyerini geçemez. Sadece IgG antikorları geçebilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 57,
+      "num": 57,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Kanda insülin/glukagon oranı arttığı zaman aşağıdaki...",
+      "stem": "Kanda insülin/glukagon oranı arttığı zaman aşağıdaki enzimlerden hangisinin aktivitesi artar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fosforilaz kinaz"
+        },
+        {
+          "letter": "B",
+          "text": "Hormona duyarlı lipaz"
+        },
+        {
+          "letter": "C",
+          "text": "HMG-KoA redüktaz"
+        },
+        {
+          "letter": "D",
+          "text": "Glikojen fosforilaz"
+        },
+        {
+          "letter": "E",
+          "text": "Fosfoenolpirüvat karboksikinaz"
+        }
+      ],
+      "correct": "C",
+      "explain": "İnsülin/glukagon oranı arttığında, insülinin etkisi baskın demektir (genellikle yemek sonrası, kan şekeri yüksekken). İnsülin, enerji depolamasını (anabolik süreçler) teşvik eder. Fosforilaz kinaz: Glikojen yıkımını (glikojenoliz) artırır. İnsülin, glikojen yıkımını azaltır. Hormona duyarlı lipaz: Yağ dokusunda trigliseritlerin yıkımını (lipoliz) artırır. İnsülin, lipolizi azaltır (yağ depolamayı teşvik eder). HMG-CoA redüktaz: Kolesterol sentezinde hız kısıtlayıcı enzimdir. İnsülin, kolesterol sentezini artırır. Glikojen fosforilaz: Glikojen yıkımını (glikojenoliz) sağlayan anahtar enzimdir. İnsülin, glikojen yıkımını azaltır. Fosfoenolpirüvat karboksikinaz (PEPCK): Glikoneogenezde (glukoz sentezi) önemli bir enzimdir. İnsülin, glikoneogenezi azaltır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 58,
+      "num": 58,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "Aşağıdaki hormonlardan hangisi hidrofobik yapısından dolayı...",
+      "stem": "Aşağıdaki hormonlardan hangisi hidrofobik yapısından dolayı kanda proteine bağlı olarak taşınmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kortizol"
+        },
+        {
+          "letter": "B",
+          "text": "Östrojen"
+        },
+        {
+          "letter": "C",
+          "text": "İnsülin"
+        },
+        {
+          "letter": "D",
+          "text": "Testosteron"
+        },
+        {
+          "letter": "E",
+          "text": "Androjenler"
+        }
+      ],
+      "correct": "C",
+      "explain": "Hidrofobik hormonlar, suda çözünen kan plazmasında serbestçe dolaşamazlar. Bu nedenle, genellikle taşıyıcı proteinlere (örn. albümin, spesifik taşıyıcı globulinler) bağlanarak taşınırlar. Sadece hidrofilik (suyu seven) hormonlar kanda serbestçe taşınır. Kortizol, östrojen, testosteron ve androjenler steroid hormonlardır (hidrofobik). İnsülin bir peptit hormondur (hidrofilik) ve kanda taşıyıcıya ihtiyaç duymadan serbestçe taşınır. Yazarın notu: Bizce soru kökünde hidrofobik yerine hidrofilik yazmalıydı ancak sınavdaki sorunun aynısını koymak için bu haliyle bıraktık.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 59,
+      "num": 59,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Steroid hormonların reseptörleriyle ilgili aşağıdakilerden hangisi/hangileri...",
+      "stem": "Steroid hormonların reseptörleriyle ilgili aşağıdakilerden hangisi/hangileri doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I ve III"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I ve II"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II ve III"
+        }
+      ],
+      "correct": "D",
+      "explain": "(Cevap anahtarında açıklama yer almıyor.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 60,
+      "num": 60,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Böbreklerden asit atılımı ile ilgili aşağıdakilerden...",
+      "stem": "Böbreklerden asit atılımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proksimal tübül lümeni ile hücre içi sıvı arasında 1  pH ünitesinden daha fazla H+ gradyanı sürdürülemez."
+        },
+        {
+          "letter": "B",
+          "text": "Distal tübülde oluşan H2PO4- idrar pH'ını  maksimum 4,4' e kadar asitleştirir."
+        },
+        {
+          "letter": "C",
+          "text": "Na+/H+ değişimi ile distal tübüler lümende  H3PO4’ten H2PO4- oluşur."
+        },
+        {
+          "letter": "D",
+          "text": "İdrarda bulunan H2PO4- e \"titre edilebilir asitlik\"  denir."
+        },
+        {
+          "letter": "E",
+          "text": "İdrardaki H2PO4- miktarına ilişkin normal değer  aralığı, fosfat yüküne bağlı olarak 16-60 mEq/24  saattir."
+        }
+      ],
+      "correct": "C",
+      "explain": " Na+/H+ değişimi lümendeki HPO42- den H2PO4 oluşumuna da eşlik edebilir.  Distal tübüldeki bu birleşme önemlidir ve idrarı pH’sını maksimum 4,4 olacak şekilde asitlendirir.  Proksimal tübül lümeni ve intrasellüler sıvı arasında 1 pH ünitesinden daha fazla H+ gradiyenti sürdürülemez.  İdrarda bulunan H2PO4- ye “titre edilebilir asidite” adı verilir.  Titre edilebilir asidite için normal değer aralığı fosfat yüküne bağlı olmak üzere 16-60 mEq/24 saattir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 61,
+      "num": 61,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangi tümör belirteci, yalnızca belirli...",
+      "stem": "Aşağıdakilerden hangi tümör belirteci, yalnızca belirli Lewis kan gruplarına sahip kanser hastalarında pozitif çıkar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanser Antijen 125 (CA 125)"
+        },
+        {
+          "letter": "B",
+          "text": "α-Fetoprotein (AFP)"
+        },
+        {
+          "letter": "C",
+          "text": "β2-Mikroglobulin (β2M)"
+        },
+        {
+          "letter": "D",
+          "text": "Kanser Antijen 19-9 (CA 19-9)"
+        },
+        {
+          "letter": "E",
+          "text": "Kanser Antijen 15-3 (CA 15-3)"
+        }
+      ],
+      "correct": "D",
+      "explain": "CA 125= Over tümör belirteci AFP = KC ile ilgili patojenik durumlar (gebelik dışında artıyorsa karaciğerden şüpheleniriz ama genelde benign durumlar.) B2M = Nonspesifik tümör belirteci çünkü sadece solid tümörlerde artmaz aynı zamanda lenfoproliferatif gibi hastalıklarda da artar. CA 19-9 = Lewis kan grupları ile ilişkili, pankreatik ve gastrik kanserlere duyarlıdır. CA 15-3 = Meme kanseri tedavisi ve takibinde kullanılır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 62,
+      "num": 62,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "Kanda CO2'nin taşınmasıyla ilgili olarak aşağıdakilerden...",
+      "stem": "Kanda CO2'nin taşınmasıyla ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I ve II"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I ve III"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III"
+        }
+      ],
+      "correct": "C",
+      "explain": "1 doğru. 2 yanlış plazmaya HCO3- çıkar. 3 yanlış.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 63,
+      "num": 63,
+      "exam_page": 1,
+      "topic": {
+        "main": "Biyokimya",
+        "sub": "Biyokimya",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi nükleotid metabolizmasında kofaktör olarak...",
+      "stem": "Aşağıdakilerden hangisi nükleotid metabolizmasında kofaktör olarak tiyoredoksin kullanan reaksiyonu katalizleyen enzimdir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dihidroorotat dehidrogenaz"
+        },
+        {
+          "letter": "B",
+          "text": "Orotat fosforibozil transferaz"
+        },
+        {
+          "letter": "C",
+          "text": "Aspartat transkarbamoilaz"
+        },
+        {
+          "letter": "D",
+          "text": "Ribonükleotid redüktaz"
+        },
+        {
+          "letter": "E",
+          "text": "Timidilat sentaz"
+        }
+      ],
+      "correct": "D",
+      "explain": "(Cevap anahtarında açıklama yer almıyor.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 64,
+      "num": 64,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki yapılardan hangisi pelvik çıkımı sınırlandıran...",
+      "stem": "Aşağıdaki yapılardan hangisi pelvik çıkımı sınırlandıran yapılardan değildir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Coccyx"
+        },
+        {
+          "letter": "B",
+          "text": "Ramus ossis ischii"
+        },
+        {
+          "letter": "C",
+          "text": "Ramus superior ossis pubis"
+        },
+        {
+          "letter": "D",
+          "text": "Tuber ischiadicum"
+        },
+        {
+          "letter": "E",
+          "text": "Ligamentum sacrotuberale"
+        }
+      ],
+      "correct": "C",
+      "explain": "Pelvik çıkım veya apertura pelvis inferior arkadan öne doğru coccyx, ligamentum sacrotuberale, tuber ischiadicum, ramus ossis ischii ve devamındaki ramus inferior ossis pubis, symphysis pubisin alt kısmı tarafından sınırlanmıştır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 65,
+      "num": 65,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Corona mortis olarak da isimlendirilen ve...",
+      "stem": "Corona mortis olarak da isimlendirilen ve pubis bölgesinde gerçekleşen arteriel anastomoz genellikle hangi damarlar arasında gerçekleşir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arteria obturatoria – Arteria epigastrica inferior"
+        },
+        {
+          "letter": "B",
+          "text": "Arteria circumflexa iliaca profunda – Arteria  circumflexa iliaca superficialis"
+        },
+        {
+          "letter": "C",
+          "text": "Arteria umbilicalis – Arteria obturatoria"
+        },
+        {
+          "letter": "D",
+          "text": "Arteria epigastrica inferior – Arteria epigastrica  superior"
+        },
+        {
+          "letter": "E",
+          "text": "Arteria obturatoria – Arteria pudenda interna"
+        }
+      ],
+      "correct": "A",
+      "explain": "Corona mortis olarak bilinen ve fıtık cerrahilerinde kesildiğinde her iki arterin de bağlanmasını gerektiren anostomoz a. iliaca externa dalı a. epigastrica inferior’un r. pubicus’u ile a. iliaca interna dalı a. obturatoria’nın r. pubicus’unun birleşmesi ile oluşur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 66,
+      "num": 66,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "ig"
+        ]
+      },
+      "title": "Trigonum vesicae, aşağıdaki yapılardan hangileri arasında...",
+      "stem": "Trigonum vesicae, aşağıdaki yapılardan hangileri arasında yer alır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ostium ureteris dextrum, ostium ureteris sinistrum,  colliculus seminalis"
+        },
+        {
+          "letter": "B",
+          "text": "Ostium ureteris dextrum, ostium ureteris sinistrum,  ostium urethrae internum"
+        },
+        {
+          "letter": "C",
+          "text": "Apex vesicae, ostium urethrae internum, ostium  ureteris dextrum"
+        },
+        {
+          "letter": "D",
+          "text": "Ostium urethrae externum, ostium ureteris  dextrum, ostium ureteris sinistrum"
+        },
+        {
+          "letter": "E",
+          "text": "Ostium urethrae internum, ostium urethrae  externum, uvula vesicae"
+        }
+      ],
+      "correct": "B",
+      "explain": "Trigonum vesicae, mesanenin arka alt kısmında bulunan, embriyolojik köken farklılığı sebebiyle düz yapıda seyreden, üreter açıklıkları ile üretranın iç açıklığı köşelerine oturan anatomik bir üçgendir. Üçgeni sınırlayan arka kenar plica interureterica olarak isimlendirilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 67,
+      "num": 67,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Testisler ile ilgili verilen ifadelerden yanlış...",
+      "stem": "Testisler ile ilgili verilen ifadelerden yanlış olanını işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İskeletini tunica albuginea oluşturur."
+        },
+        {
+          "letter": "B",
+          "text": "Tunica vaginalis testis, cavum scroti'yi sınırlar."
+        },
+        {
+          "letter": "C",
+          "text": "Sempatikleri plexus testicularis ile gelir."
+        },
+        {
+          "letter": "D",
+          "text": "Sol vena testicularis, vena renalis'e dökülür"
+        },
+        {
+          "letter": "E",
+          "text": "Beslenmesi arteria iliaca interna'dan sağlanır."
+        }
+      ],
+      "correct": "E",
+      "explain": "Testisler tunica albuginea adı verilen sıkı bağ dokusu yapısında bir kılıf ile sarılıdır. Bu kılıfın üzerinde peritonun devamı olup scrotumu içerden ve testisleri dışından saran 2 ayrı yapraktan oluşan tunica vaginalis bulunur. Bu iki yaprak cavum scrotiyi sınırlar ve iki yaprak (epiorchium ve periorchium) arasında su birikmesi sonucu hidrosel denilen klinik tablo ortaya çıkar. Testislerin sinirleri plexus testicularisten gelir. Arteri a. testicularis aorta abdominalisin dalıdır (Basit bilgidir ama çıkmışlarda çok sorgulanmıştır.). Venleri sağ ve solda farklılık gösterir. VCI orta hattın sağında seyrettiğinden sağ v. testicularis direkt VCI’a açılırken sol v. testicularis, v. renalise açılır. Lenfatikleri arterlerini takip ederek lateral aortik diğer adıyla paraaortik lenf nodlarına drene olur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 68,
+      "num": 68,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "rna"
+        ]
+      },
+      "title": "Aşağıdakilerden hangisi, organa genitalia feminina externa'nın...",
+      "stem": "Aşağıdakilerden hangisi, organa genitalia feminina externa'nın arteriyel beslenmesine katkı sağlayan damarlarla ilgili doğru ifadeleri eksiksiz olarak içermektedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III ve V"
+        },
+        {
+          "letter": "B",
+          "text": "II, III ve IV"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve IV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III ve IV"
+        },
+        {
+          "letter": "E",
+          "text": "I, II, III, IV ve V"
+        }
+      ],
+      "correct": "D",
+      "explain": "Kadın dış genital organları temel olarak a. pudenda interna ve onun yüzeyel dalı a. perinealis tarafından beslenir. Genel itibari ile a. pudenda interna derin perinei aralığını, a. perinalis yüzeyel perinei aralığını besler. A. perineinin bilinmesi gereken tek dalı vardır: aa. labiales/scrotales posteriores. Varyasyonel olarak a. bulbi vestibuli, a. perineinin dalı olabilir (Detaydır.). Soruda geçmese de aa. labiales/scrotales anteriores, a. pudenda externanın dalıdır. Bu 2 dal hariç dalların hepsi a. pudenda internadan gelir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 69,
+      "num": 69,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Kadın genital sistemine ait organlar ve...",
+      "stem": "Kadın genital sistemine ait organlar ve lenf akımının ilk ulaştığı lenf düğümleri verilmiştir. Yanlış seçeneği işaretleyiniz.",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ovarium – Nodi lumbales"
+        },
+        {
+          "letter": "B",
+          "text": "Cornu uteri – Nodi inguinales superficiales"
+        },
+        {
+          "letter": "C",
+          "text": "Labium majus pudendi – Nodi inguinales  superficiales"
+        },
+        {
+          "letter": "D",
+          "text": "Isthmus tubae uterinae – Nodi inguinales profundi"
+        },
+        {
+          "letter": "E",
+          "text": "Clitoris – Nodi inguinales profundi"
+        }
+      ],
+      "correct": "D",
+      "explain": "Ovarium lenfatikleri arterlerini takip ederek nodi lumbales (paraaortik-lateral aortik ve preaortik) lenf nodlarına drene olur. Cornu uteri ve bu kısma yakın isthmus tubae uterinalar, gubernaculum artığı olan lig. teres uterinin sonlandığı labium majuslarla aynı lenf noduna yani nodi inguinales superficiales (superomediales) grubuna drene olurlar. Dış genitallerden istisnalar hariç geri kalan hepsi nodi inguinales superficialese drene olur. İstisna erkekte glans penis, dişide clitoridis ve labium minusların nodi inguinales profundiye drene olmasıdır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 70,
+      "num": 70,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Cornu uteri'de aşağıdaki yapılardan hangisi bulunmaz?",
+      "stem": "Cornu uteri'de aşağıdaki yapılardan hangisi bulunmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Perimetrium"
+        },
+        {
+          "letter": "B",
+          "text": "Ligametum teres uteri"
+        },
+        {
+          "letter": "C",
+          "text": "Tuba uterina"
+        },
+        {
+          "letter": "D",
+          "text": "Ligamentum ovarii proprium"
+        },
+        {
+          "letter": "E",
+          "text": "Ligamentum uterosacrale"
+        }
+      ],
+      "correct": "E",
+      "explain": "Cornu uteriye önden arkaya lig. teres uteri, tuba uterina ve lig. ovarii proprium tutunur. Perimetrium uterusu dıştan saran seröz tabakadır, cornu uteride de bulunmaktadır. Lig. uterosacrale uterusun stabilizasyonunu sağlayan ve cervix çevresine tutunan bir ligamenttir, cornu uteri ile ilişkisi yoktur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 71,
+      "num": 71,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Glans penis'deki bir enfeksiyonun öncelikli olarak...",
+      "stem": "Glans penis'deki bir enfeksiyonun öncelikli olarak hangi lenf nodlarında bir reaksiyona neden olmasını beklersiniz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nodi inguinales superficiales, superomedial grup"
+        },
+        {
+          "letter": "B",
+          "text": "Nodi iliaci interni"
+        },
+        {
+          "letter": "C",
+          "text": "Nodi iliaci externi"
+        },
+        {
+          "letter": "D",
+          "text": "Nodi inguinales superficiales, inferior grup"
+        },
+        {
+          "letter": "E",
+          "text": "Nodi inguinales profundi"
+        }
+      ],
+      "correct": "E",
+      "explain": "Glans penis dış genitaller içinde istisnadır. Nodi inguinales superficiales yerine nodi inguinales profundiye drene olur. Dişide aynı istisna clitoridis ve labium minuslar için geçerlidir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 72,
+      "num": 72,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi ureter için yanlıştır?",
+      "stem": "Aşağıdakilerden hangisi ureter için yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arteria uterina'ları aşağıdan çaprazlar."
+        },
+        {
+          "letter": "B",
+          "text": "İdrar yollarının pelvis renalis'ten sonraki  bölümüdür."
+        },
+        {
+          "letter": "C",
+          "text": "Retroperitoneal yerleşimlidir."
+        },
+        {
+          "letter": "D",
+          "text": "Arteria testicularis'leri önden çaprazlar."
+        },
+        {
+          "letter": "E",
+          "text": "En dar yeri mesaneye açıldığı kısmıdır.       Genetik"
+        }
+      ],
+      "correct": "D",
+      "explain": "Üreter:  ODTU’yü arkadan/alttan çaprazlar. (Overian arter, Ductus deferens, Testicular arter, Uterin arter).  EGO’yu önden çaprazlar (Eksternal iliak arter, Genitofemoral sinir, Obturator arter).  Böbrekler gibi retroperitoneal yerleşimlidir.  Pelvis renalisin devamıdır.  3 darlığından en darı mesaneye açıldığı kısımdır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 73,
+      "num": 73,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Yirmi üç haftalık bir gebenin ultrasonografik...",
+      "stem": "Yirmi üç haftalık bir gebenin ultrasonografik değerlendirmesinde duodenal atrezi saptanmıştır. Öncelikle önerilecek prenatal tanı yöntemi aşağıdakilerden hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ultrasonografik izlem"
+        },
+        {
+          "letter": "B",
+          "text": "Kordosentez"
+        },
+        {
+          "letter": "C",
+          "text": "Dörtlü tarama testi"
+        },
+        {
+          "letter": "D",
+          "text": "Amniyosentez"
+        },
+        {
+          "letter": "E",
+          "text": "Noninvazif prenatal tarana (NIPT)"
+        }
+      ],
+      "correct": "B",
+      "explain": "Dörtlü tarama testi = 16-20. hf, Amniyosentez=16-20. hf, NIPT = DNA’ya yönelik test Kordosentez = 20. hf ve sonraki",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 74,
+      "num": 74,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıda tanımlanan kişilerden hangisinin periferik kan...",
+      "stem": "Aşağıda tanımlanan kişilerden hangisinin periferik kan örneğinden kromozom analizi yapılması için endikasyon vardır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4p delesyon sendromlu çocuk sahibi olan çift"
+        },
+        {
+          "letter": "B",
+          "text": "47,XY, +21 tanıdı çocuk sahibi olan çift"
+        },
+        {
+          "letter": "C",
+          "text": "45 yaşında gebe kadın"
+        },
+        {
+          "letter": "D",
+          "text": "46,X,i(X)(q) tanılı çocuk sahibi olan kadın"
+        },
+        {
+          "letter": "E",
+          "text": "Anensefalik çocuk doğuran kadın"
+        }
+      ],
+      "correct": "B",
+      "explain": "Sayısal anomalilere bakılır, Trizomi 13, 18, 21 gibi.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 75,
+      "num": 75,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki karyotiplerden hangisi infertilite dışında bir...",
+      "stem": "Aşağıdaki karyotiplerden hangisi infertilite dışında bir sağlık sorunu olmayan erkekte saptanabilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "46,XY,del (11)(q)"
+        },
+        {
+          "letter": "B",
+          "text": "45,XY,1(15:22)"
+        },
+        {
+          "letter": "C",
+          "text": "47,XY, +12"
+        },
+        {
+          "letter": "D",
+          "text": "46,XY,(3)(p)"
+        },
+        {
+          "letter": "E",
+          "text": "46,XY,1(9,22) (Ph+)"
+        }
+      ],
+      "correct": "B",
+      "explain": "Kısırlık dışında bir sağlık sorununun olmaması için dengeli bir değişiklik olması gerekir. B şıkkında 15 ve 22. Kromozomlarda oluşması Robertsonian translokasyonu akla getiriyor ve o da dengeli bir değişikliktir. E şıkkı da dengeli bir değişikliktir fakat hastalarda en ağır kanser tablolarını yaşatır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 76,
+      "num": 76,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki malformasyonların hangisinin oluşumu etkin uygulamalar...",
+      "stem": "Aşağıdaki malformasyonların hangisinin oluşumu etkin uygulamalar ile engellenebilmektedir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Spina bifida"
+        },
+        {
+          "letter": "B",
+          "text": "Atriyal septal defekt"
+        },
+        {
+          "letter": "C",
+          "text": "Radiyal aks defektleri"
+        },
+        {
+          "letter": "D",
+          "text": "Kistik higroma"
+        },
+        {
+          "letter": "E",
+          "text": "Hidrosefali"
+        }
+      ],
+      "correct": "A",
+      "explain": "Spina bifida, folik asit alınımını ile tedavi edilebilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 77,
+      "num": 77,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerin hangisinde down sendromu tekrarlama riski...",
+      "stem": "Aşağıdakilerin hangisinde down sendromu tekrarlama riski en yüksektir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mozaik trizomi 21'li çocuk öyküsü"
+        },
+        {
+          "letter": "B",
+          "text": "Regüler trizomi 21'li çocuk öyküsü, ebeveyn  karyotipleri normal"
+        },
+        {
+          "letter": "C",
+          "text": "Regüler trizomi 21'li abortus öyküsü"
+        },
+        {
+          "letter": "D",
+          "text": "Baba rob(14;21) translokasyon taşıyıcısı"
+        },
+        {
+          "letter": "E",
+          "text": "Anne rob(14:21) translokasyon taşıyıcısı"
+        }
+      ],
+      "correct": "E",
+      "explain": "(Cevap anahtarında açıklama yer almıyor.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 78,
+      "num": 78,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki konjenital anomalilerden hangisi VACTERL asosiyasyonunda...",
+      "stem": "Aşağıdaki konjenital anomalilerden hangisi VACTERL asosiyasyonunda genellikle izlenmez?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hidrosel"
+        },
+        {
+          "letter": "B",
+          "text": "Oligodaktili"
+        },
+        {
+          "letter": "C",
+          "text": "Atrioventriküler septal defekt"
+        },
+        {
+          "letter": "D",
+          "text": "Hemivertebra"
+        },
+        {
+          "letter": "E",
+          "text": "Hipoplastik sol böbrek"
+        }
+      ],
+      "correct": "A",
+      "explain": "Oligodaktili: El veya ayak parmaklarından bir ya da birkaçının eksik olması durumu (limb)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 79,
+      "num": 79,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Preimplantasyon genetik tanı için blastomer biyopsisi...",
+      "stem": "Preimplantasyon genetik tanı için blastomer biyopsisi ile alman tek hücrede FISH yöntemi uygulandığında aşağıdaki tanılardan hangisinin atlanma olasılığı en yüksektir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Triploidi"
+        },
+        {
+          "letter": "B",
+          "text": "Mozaik Patau sendromu"
+        },
+        {
+          "letter": "C",
+          "text": "Monozomi X"
+        },
+        {
+          "letter": "D",
+          "text": "49,XXXXY"
+        },
+        {
+          "letter": "E",
+          "text": "48,XXY,+21"
+        }
+      ],
+      "correct": "B",
+      "explain": "FISH yöntemi dengeli değişiklikleri yakalayamaz.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 80,
+      "num": 80,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "rna"
+        ]
+      },
+      "title": "Aşağıdaki anöploidilerin nedenleri paternal kaynaklı olmaları...",
+      "stem": "Aşağıdaki anöploidilerin nedenleri paternal kaynaklı olmaları açısından hangi seçenekte en fazladan en aza doğru sıralanmıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "45,X > 47,XXY > 47,XXX"
+        },
+        {
+          "letter": "B",
+          "text": "47,XXX > 47,XXY > 45,X"
+        },
+        {
+          "letter": "C",
+          "text": "47,XYY > 45,X > 47,XXY"
+        },
+        {
+          "letter": "D",
+          "text": "45,X > 47,XXX > 47,XYY"
+        },
+        {
+          "letter": "E",
+          "text": "47,XXY > 47,XXX > 45,X"
+        }
+      ],
+      "correct": "C",
+      "explain": "47,XYY paternal mayoz 2 kaynaklı 45,X %80 paternal X kaybı 47,XXX maternal mayoz 1 kaynaklı",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 81,
+      "num": 81,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki kromozomal düzensizliklerden hangisi mikroarray yöntemi...",
+      "stem": "Aşağıdaki kromozomal düzensizliklerden hangisi mikroarray yöntemi ile saptanamaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "45,XX,rob(14q:21q)"
+        },
+        {
+          "letter": "B",
+          "text": "45,X"
+        },
+        {
+          "letter": "C",
+          "text": "4p delesyonu"
+        },
+        {
+          "letter": "D",
+          "text": "46,X,i(X)(q)"
+        },
+        {
+          "letter": "E",
+          "text": "46,XX,rob(21q219)                               Sağlıklı Yaşam/KDT"
+        }
+      ],
+      "correct": "E",
+      "explain": "Dengeli yapısal değişiklikler, mikroarray ile saptanamaz. A dengesiz ise saptanabilir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 82,
+      "num": 82,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Sağlıkta \"Nesnelerin Interneti (IoT)\" teknolojisi aşağıdaki...",
+      "stem": "Sağlıkta \"Nesnelerin Interneti (IoT)\" teknolojisi aşağıdaki alanlardan hangisinde/hangilerinde kullanılmaktadır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, III"
+        },
+        {
+          "letter": "C",
+          "text": "I, II, III ve IV"
+        },
+        {
+          "letter": "D",
+          "text": "I ve II"
+        },
+        {
+          "letter": "E",
+          "text": "II, III ve IV"
+        }
+      ],
+      "correct": "C",
+      "explain": "Sensörler sayesinde bulundukları ortamdan veri toplayan ve bu veriyi internet erişimi sayesinde birbirlerine veya sunucuya ileten kendi içinde ve sunucuyla iletişim ve etkileşim içinde olan cihazlardır. • Uzaktan sağlık takibi • Fitness programları • Kronik hastalıklar • Yaşlı bakımı • İlaç takibi • FTR uygulamaları Gerçek zamanlı takip ve analiz (artan yaşlı ve engelli sayısı nedeniyle önlenebilir ölümlerden kaçınma) sensör verileri: EKG, vücut sıcaklığı, oksijen miktarı, uyku kan basıncı, hareket sensörleri, giyilebilir teknoloji verileri, akıllı lens.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 83,
+      "num": 83,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "100 hastanın hemoglobin(g/dl) değerlerine ait tanımlayıcı...",
+      "stem": "100 hastanın hemoglobin(g/dl) değerlerine ait tanımlayıcı değerler verilirken aşağıdaki ölçütlerden hangisi kullanılmaz?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tepe değeri"
+        },
+        {
+          "letter": "B",
+          "text": "Standart sapma"
+        },
+        {
+          "letter": "C",
+          "text": "Ortanca (medyan)"
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama"
+        },
+        {
+          "letter": "E",
+          "text": "Dağılım genişliği"
+        }
+      ],
+      "correct": "A",
+      "explain": "Tepe değeri (mod), özellikle sürekli (örn. hemoglobin gibi) ve normal dağılmış verilerde genellikle pek kullanılmaz çünkü tek bir değerin öne çıkması nadirdir. Örneğin 100 hemoglobin değerinde aynı değerin çok kez tekrar etmesi düşük ihtimaldir. Bu nedenle tepe değeri, sürekli ve geniş verilerde genelde anlamlı veya kullanışlı değildir. İncelenen veri türü “Sınıflanabilir nitel veri” ise, konum ölçüsü olarak sadece “tepe değeri” kullanılabilir. • İncelenen veri türü “Sıralanabilir nitel veri” ise, en yaygın kullanılan konum ölçüsü “ortanca”dır. Fakat bazı durumlarda “tepe değeri” de kullanılabilir. • İncelenen veri türü “Kesikli/Sürekli nicel veri” ise -verilerin dağılımı simetrikse ve aşırı değer yoksa- en uygun konum ölçüsü “aritmetik ortalama” dır. Fakat verilerin dağılımı çarpıksa ya da aşırı değer varsa “ortanca” nın kullanılması daha uygundur. Sıralanabilir Nitel Veri: Veriler nitel (kalitatif) olmakla birlikte, bu kategoriler arasında belirli bir sıralama ilişkisi vardır. Ancak bu sıralama arasındaki farkların büyüklüğü sayısal olarak anlamlı değildir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 84,
+      "num": 84,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Yapılan bir araştırmada; ailelerin sahip olduğu...",
+      "stem": "Yapılan bir araştırmada; ailelerin sahip olduğu çocuk sayısı için tanımlayıcı değer olarak medyan (minimum-maksimum) değerler 2 (0-16) olarak bulunmuştur. Bu bilgiden yararlanarak çocuk sayısının dağılımı hakkında aşağıdakilerden hangisi söylenebilir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağa çarpık bir dağılım"
+        },
+        {
+          "letter": "B",
+          "text": "Simetrik bir dağılım"
+        },
+        {
+          "letter": "C",
+          "text": "Standart sapması küçük bir dağılım"
+        },
+        {
+          "letter": "B",
+          "text": "Sola çarpık bir dağılım"
+        },
+        {
+          "letter": "E",
+          "text": "Dağılım hakkında bir şey söylenemez."
+        }
+      ],
+      "correct": "A",
+      "explain": "Medyanı 2 ise değerlerin yarısı 2’den küçüktür. Bu durumda da grafik sağa çarpık olur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 85,
+      "num": 85,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Ölçü birimleri farklı iki nicel değişkenin...",
+      "stem": "Ölçü birimleri farklı iki nicel değişkenin yaygınlıklarının karşılaştırması aşağıdaki ölçütlerden hangisi ile yapılır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standart sapma"
+        },
+        {
+          "letter": "B",
+          "text": "Artimetik ortalama"
+        },
+        {
+          "letter": "C",
+          "text": "Ortanca (medyan)"
+        },
+        {
+          "letter": "D",
+          "text": "Varyans"
+        },
+        {
+          "letter": "E",
+          "text": "Varyasyon (değişim) katsayısı"
+        }
+      ],
+      "correct": "E",
+      "explain": "Varyans ve standart sapma karışmasın minik bir açıklayalım: Standart sapma dağılımdaki tüm değerleri dikkate alır ve “dağılımdaki tüm değerlerin ortalamaya olan uzaklıklarının ortalama göstergesi” olarak tanımlanır. Standart sapma “S” ile gösterilir ve birimi, incelenen değişkenin birimiyle aynıdır. Standart sapmanın karesi (S2) varyans olarak adlandırılır. Dağılım Aralığı: Dağılım aralığı en basit yaygınlık ölçüsüdür. Dağılımdaki en büyük değerden en küçük değerin çıkartılması ile bulunur ve “R” ile gösterilir. Değişim Katsayısı: Ölçüm birimleri farklı olan iki ya da daha fazla dağılımın yaygınlığı karşılaştırılmak istenildiğinde, standart sapma doğrudan kullanılmaz. Bu nedenle, dağılımların göreceli değişkenliklerine gereksinim duyulur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 86,
+      "num": 86,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdaki sağlık ölçütlerinden hangisi ülkelerarası karşılaştırmalar...",
+      "stem": "Aşağıdaki sağlık ölçütlerinden hangisi ülkelerarası karşılaştırmalar yapıldığında en az öneme sahiptir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "En çok öldüren 10 hastalık listesi"
+        },
+        {
+          "letter": "B",
+          "text": "Kaba ölüm hızı"
+        },
+        {
+          "letter": "C",
+          "text": "Anne ölüm hızı"
+        },
+        {
+          "letter": "D",
+          "text": "Bebek ölüm hızı"
+        },
+        {
+          "letter": "E",
+          "text": "Yıllık doğal artış hızı"
+        }
+      ],
+      "correct": "E",
+      "explain": "Bölgesel gelişmişliği de gösteren bu ölçütler şunlardır:  Kaba ölüm hızı  Bebek ölüm hızı  Anne ölüm hızı  50+ yaş grubu ölenlerin tüm ölümlere oranı  En çok öldüren 10 hastalık listesi  Doğuştan beklenen yaşam süresi",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 87,
+      "num": 87,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "aşı"
+        ]
+      },
+      "title": "Aşağıdaki grafik türlerinden hangisi tablo olmadan...",
+      "stem": "Aşağıdaki grafik türlerinden hangisi tablo olmadan da tek başına açıklayıcılık özelliğine sahiptir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çubuk (Sütun) grafiği"
+        },
+        {
+          "letter": "B",
+          "text": "Hata çubukları grafiği"
+        },
+        {
+          "letter": "C",
+          "text": "Daire dilimleri grafiği"
+        },
+        {
+          "letter": "D",
+          "text": "Saçılım grafiği"
+        },
+        {
+          "letter": "E",
+          "text": "Çizgi grafiği"
+        }
+      ],
+      "correct": "A",
+      "explain": "Sütun Grafiği: Kategorik verilerin frekanslarını gösterir. Her çubuğun yüksekliği kategorinin büyüklüğünü açıkça gösterir. Sayısal eksen etiketleri varsa, tabloya ihtiyaç duymadan bilgi verir. En açıklayıcı grafik türlerinden biridir. (Notlar da dahil olmak üzere tartışılmasına rağmen net bir cevaba varılamadı. ChatGPT çözümüne göre bu şekilde.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 88,
+      "num": 88,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Çapraz tablo düzeninde satır ve sütunlarda...",
+      "stem": "Çapraz tablo düzeninde satır ve sütunlarda yer alacak değişkenlerin tipi ne olmalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Satırda nitel, sütunda nitel"
+        },
+        {
+          "letter": "B",
+          "text": "Satırda nicel, sütunda nitel"
+        },
+        {
+          "letter": "C",
+          "text": "Satırda nitel, sütunda nicel"
+        },
+        {
+          "letter": "D",
+          "text": "Satırda nicel, sütunda nicel"
+        },
+        {
+          "letter": "E",
+          "text": "Satırda sıralı, sütunda nicel"
+        }
+      ],
+      "correct": "A",
+      "explain": "Derste böyle bir örnek verilmiş çapraz tablolar için: Bazen tek bir değişkene ilişkin dağıtım yerine, bu değişkenin başka değişkenin alt kategorilerindeki frekans dağılımı araştırma konusu ise çapraz tablolarda bu iş oluşturulur. Bu tablolar birden fazla değişken arasındaki ilişkiyi daha iyi görebilmemizi sağlar. Hem sütunda hem satırda nitel değişkenler yer alır.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 89,
+      "num": 89,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Tanı testleri ile ilgili olarak aşağıda...",
+      "stem": "Tanı testleri ile ilgili olarak aşağıda belirtilenlerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geçerliliğin birleşenleri hassasiyet ve seçiciliktir."
+        },
+        {
+          "letter": "B",
+          "text": "Seçicilik, testin pozitif dediklerinin ne kadarının  gerçek pozitif olduğunu gösterir."
+        },
+        {
+          "letter": "C",
+          "text": "Hassasiyet, hastalar içinde testin bulduğu gerçek  pozitiflerin oranıdır."
+        },
+        {
+          "letter": "D",
+          "text": "Testin geçerliliği, hastaya test (+), sağlama test (-)  diyebilmesidir."
+        },
+        {
+          "letter": "E",
+          "text": "Doğruluk oranı, tüm test sonuçları içinde tüm  doğru sonuçların oranıdır."
+        }
+      ],
+      "correct": "B",
+      "explain": "Testin geçerliliği, hassasiyet ve seçicilikle ölçülür. Duyarlılık: Tüm olgular içinde testin bulduğu gerçek pozitiflerin oranıdır. Duyarlılığı çok yüksek bir testin sonucu negatif gelirse kişinin hasta olmadığını belirtir ve hastalık rahatlıkla dışlanır. (Hassasiyet, ’hastaların’ yakalanma yeteneği) İlk kolondaki verilerle hesaplanır. Yapılan testte bulunan hasta sayısının altın standarttaki gerçek hasta sayısına oranlanmasıyla bulunur. Duyarlılık = GP / (GP+YN) x 100 Seçicilik: Hastalıksız kişinin sağlam çıkma olasılığıdır. Hastalıksız kişilere bakarken ne kadar spesifik/özgül olduğunu gösterir. (Sağlamların yakalanma yeteneği) Seçiciliği yüksek bir test pozitif sonuç verirse kişinin hasta olduğunu kuvvetle düşündürür. İkinci kolondan hesaplanır. Yapılan testteki sağlam kişi sayısının gerçek sağlam kişi sayısına oranlanmasıdır. Toplam= GP+YN Seçicilik= GN / (YP+GN) x 100 Soruyu çözmek için bunlar yeterli ama sadece çıkmıştan KDT çalışan benim gibi gönül dostları için biraz bilgi…",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 90,
+      "num": 90,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi egzersizin etkilerindendir?",
+      "stem": "Aşağıdakilerden hangisi egzersizin etkilerindendir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orta ile şiddetli düzeydeki tek bir egzersiz seansı  depresif belirtileri arttırabilir."
+        },
+        {
+          "letter": "B",
+          "text": "Şizofreni gibi nörogelişimsel hastalıkların gelişme  riskini azaltır."
+        },
+        {
+          "letter": "C",
+          "text": "Egzersiz sonucu aksonlarda budanma ve  nöronlarda apopitoz gelişebilir."
+        },
+        {
+          "letter": "D",
+          "text": "Egzersizin beyin üzerindeki etkileri kronik stresin  etkisine benzer."
+        },
+        {
+          "letter": "E",
+          "text": "Beyin işlevleri üzerinde kısa ve uzun vadeli olumlu  etkileri vardır."
+        }
+      ],
+      "correct": "E",
+      "explain": "A şıkkıyla ilgili slaytları yukarıdan bulabilirsiniz. Orta şiddetli egzersiz depresyonu azaltırken şiddetli egzersiz arttırıyor. Bir de anoreksiya nervoza hastalarına egzersiz olumsuz etkilidir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 91,
+      "num": 91,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi vücudumuzdaki kas miktarının vücudumuzdaki...",
+      "stem": "Aşağıdakilerden hangisi vücudumuzdaki kas miktarının vücudumuzdaki yağ miktarına oranını tanımlar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücut Kompozisyonu"
+        },
+        {
+          "letter": "B",
+          "text": "Esneklik"
+        },
+        {
+          "letter": "C",
+          "text": "Kas gücü"
+        },
+        {
+          "letter": "D",
+          "text": "Kas Dayanıklılığı"
+        },
+        {
+          "letter": "E",
+          "text": "Kardiyovasküler Dayanıklılık"
+        }
+      ],
+      "correct": "A",
+      "explain": "Vücut Kompozisyonu:",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 92,
+      "num": 92,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi kasın belli bir süre...",
+      "stem": "Aşağıdakilerden hangisi kasın belli bir süre boyunca yorulmadan görevleri yerine getirme yeteneğini tanımlar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kas gücü"
+        },
+        {
+          "letter": "B",
+          "text": "Çeviklik"
+        },
+        {
+          "letter": "C",
+          "text": "Kas dayanıklılığı"
+        },
+        {
+          "letter": "D",
+          "text": "Kardiyovasküler dayanıklılık"
+        },
+        {
+          "letter": "E",
+          "text": "Esneklik"
+        }
+      ],
+      "correct": "C",
+      "explain": "Kas Dayanıklılığı Periferik Yol: Bir kasın yorulmadan sürekli kasılabilme yeteneğidir. • Yorulmadan günlük etkinlikleri gerçekleştirme gücünü verir. • Daha iyi postur ve daha az sırt problemi sağlar. Nedir peki kas dayanıklılık etkinlikleri? Mesela yürümek en çok tercih edilen etkinliktir ve beceri, kıyafet veya ekipman gerektirmez.  Yürümek ayrıca evrimsel olarak insanın en sık yaptığı etkinliktir!  Öyle ki Homo Sapiens atalarımız günde ortalama 15-20 km yürürken günümüz insanında bu nicelik 500m’ye kadar düşmüş vaziyette. Kardiyovasküler Dayanıklılık ve Kas Dayanıklılığı Etkinlikleri: • Uzun süre yapılabilen kassal etkinliklere dayanıklılık egzersizleri denir. • Koşu, yüzme ve bisiklet gibi aerobik etkinlikler kardiyovasküler ve kas dayanıklılığını geliştirmeye yardımcı olabilir. Bir de hoca bu derste kardiyovasküler dayanıklık diye bir kavramdan bahsetmiş onu da ekliyorum ek bilgi olsun hepimize: Kardiyovasküler Dayanıklılık: • Tüm vücudun uzun süre bedensel etkinlik yapabilme yeteneği. Kalbin tüm vücuda oksijen taşıyabilme yeteneğiyle ilişkilidir. • Uzun süren orta/yüksek şiddetli kassal eforlarda kalbin, akciğerlerin ve kan damarlarının vücut dokularına yakıt ve oksijen gönderme yeteneğidir. Sadece oksijen değil aynı zamanda serbest yağ asitleri ve glikozun da kasılan kaslara iletilmesi gerekiyor ki kaslarda mitokondrilerde ATP üretilebilsin, üretilen ATP de kas miyoflamanlarında kasılmayı sağlasın. • Kardiyovasküler sağlığı korumak için kardiyovasküler dayanıklılık gereklidir. Özellikle kalp damar sisteminde bunun önemi büyüktür.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 93,
+      "num": 93,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Aşağıdakilerden hangisi düzenli bedensel etkinliğin kardiyovasküler...",
+      "stem": "Aşağıdakilerden hangisi düzenli bedensel etkinliğin kardiyovasküler sisteme yararlarından biridir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dinlenim kalp atım hızını artırır"
+        },
+        {
+          "letter": "B",
+          "text": "Kan hacmi azaltır"
+        },
+        {
+          "letter": "C",
+          "text": "Kılcal dolaşım azaltır"
+        },
+        {
+          "letter": "D",
+          "text": "Kan basıncını artırır"
+        },
+        {
+          "letter": "E",
+          "text": "Kalp daha verimli şekilde daha fazla kanı  pompalayabilir"
+        }
+      ],
+      "correct": "E",
+      "explain": "Egzersiz sonucu kalbin atım hacmi artar (stroke volume), bu da daha az çabayla daha fazla kan pompalaması anlamına gelir. Kardiyak output (kalp debisi) da artar.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 94,
+      "num": 94,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Erektil disfonksiyon tedavisinde kullanılan ajan hangisidir?",
+      "stem": "Erektil disfonksiyon tedavisinde kullanılan ajan hangisidir?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beta-blokerler"
+        },
+        {
+          "letter": "B",
+          "text": "Antidepresanlar"
+        },
+        {
+          "letter": "C",
+          "text": "Fosfodiesteraz tip 5 inhibitörleri"
+        },
+        {
+          "letter": "D",
+          "text": "Antipsikotikler"
+        },
+        {
+          "letter": "E",
+          "text": "Anksiyolitikler"
+        }
+      ],
+      "correct": "C",
+      "explain": "Cinsel İlişki Bozuklukları:  Orgazm bozuklukları: Özellikle kadınlarda primer  Ejekülat Azlığı: Erkeklerde  Cinsel İsteksizlik: Özellikle erkeklerde  Erektil Disfonksiyon: Farmakolojik tedavi ile düzelebilir (Sadece bu bozukluk). Tedavisinde fosfodiesteraz tip5 inhibitörleri kullanılır. Yaşam tarzı sonucu erektil bozukluk ortaya çıkabilir. Sigara, alkol kullanımı, sedanter yaşam stili sebep olabilir. Sadece bu bozukluk için, diğerlerine etkileri çok yoktur. Çünkü erektil bozukluk genelde erkeklerde kalp damar sistemi sorunlarına bağlı gelişir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 95,
+      "num": 95,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "0-5 yaş arası çocuklar günde en...",
+      "stem": "0-5 yaş arası çocuklar günde en az ne kadar süre ile fiziksel aktivite yapmalıdır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 saat"
+        },
+        {
+          "letter": "B",
+          "text": "2 saat"
+        },
+        {
+          "letter": "C",
+          "text": "3 saat"
+        },
+        {
+          "letter": "D",
+          "text": "4 saat"
+        },
+        {
+          "letter": "E",
+          "text": "5 saat"
+        }
+      ],
+      "correct": "C",
+      "explain": " 0-5 yaş arası çocuklar en az 3 saat fiziksel aktif olmalı (Özellikle 0-3 yaş ekrandan uzak olmalı.).  5-18 yaş arası çocuklar günde en az 60 dakika egzersiz yapmalı  Erişkinler haftada en az 150 dakika orta şiddette veya 75 dakika yüksek şiddette egzersiz yapmalı.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 96,
+      "num": 96,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Düzenli fiziksel egzersizin merkezi sinir sistemi...",
+      "stem": "Düzenli fiziksel egzersizin merkezi sinir sistemi üzerindeki etkilerinden hangisi doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Serotonin düzeyini azaltarak depresyon riskini  artırır"
+        },
+        {
+          "letter": "B",
+          "text": "Nöronal iletim hızını azaltarak bilişsel süreçleri  yavaşlatır"
+        },
+        {
+          "letter": "C",
+          "text": "Hipokampusta nörogenezi destekleyerek öğrenme  ve hafızayı geliştirir"
+        },
+        {
+          "letter": "D",
+          "text": "Prefrontal korteks aktivitesini baskılayarak karar  verme süreçlerini yavaşlatır"
+        },
+        {
+          "letter": "E",
+          "text": "Endorfin salınımını artırarak anksiyete belirtilerini  tetikleyebilir      Parazitoloji"
+        }
+      ],
+      "correct": "C",
+      "explain": "(Cevap anahtarında açıklama yer almıyor.)",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 97,
+      "num": 97,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Protozoonlarla ilgili olarak aşağıdaki ifadelerden hangisi/hangileri...",
+      "stem": "Protozoonlarla ilgili olarak aşağıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I ve II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II ve IV"
+        }
+      ],
+      "correct": "B",
+      "explain": "I- Apicomplexa’lar eşeyli ve eşeysiz ürer. (Doğru) Apicomplexa (Sporozoa) sınıfındaki parazitler (örneğin Plasmodium – sıtma etkeni), yaşam döngülerinde hem eşeyli (gametogoni/sporogoni) hem de eşeysiz (şizogoni) üremeyi gösterirler. II- Sarcodina’ların belirgin bir hareketleri yoktur. (Yanlış) Sarcodina (Amoeboidler) sınıfındaki protozoonlar (örneğin Entamoeba histolytica), yalancı ayaklar (psödopodlar) aracılığıyla belirgin bir şekilde hareket ederler. III- Mastigophora’lardaki makronükleus çoğalma ile ilişkilidir. (Yanlış) Mastigophora (Kamçılılar) sınıfındaki protozoonlarda (örneğin Trypanosoma, Leishmania, Giardia), genellikle makronükleus bulunmaz. Makronükleus, genellikle Ciliophora (Silliler) sınıfındaki protozoonlarda (örneğin Paramecium) görülür ve vegetatif fonksiyonlar ve eşeysiz çoğalma ile ilişkilidir. Kamçılılarda çekirdek (nükleus) tek ve genelde üreme ile ilişkilidir. IV- Apicomplexa’larda kamçı parazitin hareketini sağlar. (Yanlış) Apicomplexa sınıfındaki protozoonlar, genel olarak hareketli değillerdir veya kamçı ile hareket etmezler. Bazı yaşam evrelerinde gliding motility (kayma hareketi) görülebilir, ancak kamçı, Mastigophora sınıfının karakteristik hareket organelidir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 98,
+      "num": 98,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Nematodlarla ilgili olarak aşağıdaki ifadelerden hangisi...",
+      "stem": "Nematodlarla ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nematodların vücut boşlukları bulunmaktadır"
+        },
+        {
+          "letter": "B",
+          "text": "Dişi ve erkekler eşeyleri ayrıdır"
+        },
+        {
+          "letter": "C",
+          "text": "Embriyo gelişmiş yumurta yumurtlayanlar  ovipardır"
+        },
+        {
+          "letter": "D",
+          "text": "Vücutları tek parça olup iki uca doğru  incelmektedir"
+        },
+        {
+          "letter": "E",
+          "text": "Erkeklerin arka ucu kıvrık yapıdadır"
+        }
+      ],
+      "correct": "C",
+      "explain": "Ovipar içinde embriyo gelişmemiş yumurta yumurtlayanlara denir. Yumurtanın içinde embriyo gelişmişse ovovivipar adı alır. Diğer şıklar doğrudur.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 99,
+      "num": 99,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": []
+      },
+      "title": "Dipylidium caninum'un insanlarda enfeksiyona neden olması...",
+      "stem": "Dipylidium caninum'un insanlarda enfeksiyona neden olması aşağıda verilen tanımlardan hangisine uyar?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şaşkın parazitlik"
+        },
+        {
+          "letter": "B",
+          "text": "Süperparazitlik"
+        },
+        {
+          "letter": "C",
+          "text": "Geçici parazitlik"
+        },
+        {
+          "letter": "D",
+          "text": "Hiperparazitlik"
+        },
+        {
+          "letter": "E",
+          "text": "Rastgele parazitlik                  Olgu Sunumu"
+        }
+      ],
+      "correct": "A",
+      "explain": "Şaşkın parazitlik: Parazitin doğal konağı veya yerinin dışındaki bir konakta/yerde bulunması. (Doğru çünkü D. Caninum’un doğal konağı köpek/kedi, insan değil.) Süperparazitlik: Aynı konakta aynı türden birden çok parazit olması. Geçici parazitlik: Parazitin konakta sadece beslenmek için kısa süre kalması. Hiperparazitlik: Bir parazitin başka bir parazit üzerinde yaşaması. Rastgele parazitlik: “Şaşkın” ile benzer, tesadüfi konaklama.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
+      "similar_questions": [],
+      "images": []
+    },
+    {
+      "id": 100,
+      "num": 100,
+      "exam_page": 1,
+      "topic": {
+        "main": "Anatomi",
+        "sub": "Anatomi",
+        "tags": [
+          "mac",
+          "aşı",
+          "doğum"
+        ]
+      },
+      "title": "41 yaşında, yaşayan 3 çocuğu bulunan...",
+      "stem": "41 yaşında, yaşayan 3 çocuğu bulunan hasta tarafınıza kontrasepsiyon danışmanlığı amacıyla başvuruyor. Epilepsi dışında bilinen hastalığı bulunmayan ve tüm doğumlarını vajinal yol ile gerçekleştiren hasta herhangi bir hormon içeren ilaç veya preparat kullanmak istemediğini belirtiyor. Partnerinin de korunma yöntemi kullanımına çekinceli olduğunu belirten hastaya aşağıdaki kontraseptif yöntemlerden hangisi uygundur?",
+      "extra_block": "",
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Levonorgestrel içeren rahim içi araç"
+        },
+        {
+          "letter": "B",
+          "text": "Cilt altı implant"
+        },
+        {
+          "letter": "C",
+          "text": "Bilateral tüp ligasyonu"
+        },
+        {
+          "letter": "D",
+          "text": "Kombine oral kontraseptif"
+        },
+        {
+          "letter": "E",
+          "text": "Depot enjeksiyonlar                                                         1- A  26- D   51- B   76- A   2- E   27- C   52- D   77- E   3- E  28- E   53- C   78- A   4- A   29- A   54- D   79- B  5- B   30- C   55- E   80- C   6- E   31- E   56- D   81- E   7- D   32- B   57- C   82- C   8- C   33- A   58- C   83- A   9- E   34- E   59- D   84- A   10- B   35- B   60- C   85- E   11- B   36- B   61- D   86- E   12- E   37- D   62- C   87- A   13- D   38- C   63- D   88- A   14- B   39- D   64- C   89- B   15- E   40- B   65- A   90- E   16- E   41- D   66- B   91- A   17- E   42- B   67- E   92- C   18- C   43- E   68- D   93- E   19- C   44- E   69- D   94- C   20- A   45- C   70- E   95- C   21- D   46- E   71- E   96- C   22- C   47- D   72- D   97- B   23- B   48- A   73- B   98- C   24- C   49- B   74- B   99- A   25- D   50- B   75- B  100- C     Hazırlayanlar:  Alp Baki GÜLŞEN  Batuhan YILDIZ                               Bizlere soruların ulaşmasını sağlayan Abas ALİYEV ve diğer  arkadaşlarımıza, aynı zamanda soruların çözümünde rol alan, vakitlerinden  feragat eden Gönüllü Soru Çözüm Grubumuza teşekkür ederiz…    2029 Gönüllü Soru Çözüm Grubu ve Katkıda Bulunanlar  Abas ALİYEV  Batuhan YILDIZ  Nisa Nur AYAŞ  Kübra OK  Ayşe GÜZELOĞLU  Ilgın YILDIRIM  Sümeyye YETİM  Reyyan UYSAL  Bora ÇELİK   Duru GÜNDOĞDU  Mısranur YAPICIOĞLU"
+        }
+      ],
+      "correct": "C",
+      "explain": "Levonorgestrel içeren rahim içi araç (RİA): Bu RİA’lar progestin hormonu içerir. Hasta, hormon içeren hiçbir ilacı kullanmak istemediğini açıkça belirtmiştir. Cilt altı implant: Deri altına yerleştirilen bu implantlar da sürekli olarak progestin hormonu salgılayarak etki eder. Hastanın hormon kullanmama talebiyle çelişmektedir. Bilateral tüp ligasyonu: Bu yöntem, kadının fallop tüplerinin kalıcı olarak bağlanması veya kesilmesi işlemidir. Hormon içermeyen, kalıcı ve son derece etkili bir yöntem olup, hastanın hormon kullanmama isteğiyle ve aile planlamasını tamamlama potansiyeliyle uyumludur. Kombine oral kontraseptif: Bu haplar hem östrojen hem de progestin olmak üzere iki farklı hormon içerir. Hastanın hormon içeren yöntemleri reddetmesi nedeniyle uygun değildir. Depot enjeksiyonlar: Bu enjeksiyonlar da progestin hormonu içerir ve düzenli aralıklarla yapılması gerekir. Hastanın hormon kullanmama prensibi bu yöntemi de elemektedir.",
+      "note_quote": "",
+      "note_full_passage": "",
+      "note_ref": {
+        "file": "",
+        "week": "",
+        "type": "",
+        "pages": ""
+      },
+      "prof_questions": [],
       "similar_questions": [],
       "images": []
     }
