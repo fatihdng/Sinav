@@ -91,7 +91,7 @@
           "id": "1_P2",
           "level": "orta",
           "subtopic": "CGH (kronik granülomatöz hastalık) — fagosit oksidaz eksikliği",
-          "note": "",
+          "note": "Notta birebir: fagosit oksidaz eksikliği → CGH; mikroplar fagosite edilir ama öldürülemez; granülom oluşur.",
           "stem": "Kronik granülomatöz hastalık (CGH) ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -118,8 +118,13 @@
           ],
           "correct": "E",
           "explain": "CGH <b>fagosit oksidaz</b> (ROS üretimi) eksikliğidir. Fagositler mikrobu alır ama oksidatif öldürme yapamaz → granülom oluşur. iNOS ayrı bir öldürme yolağıdır, CGH ile ilgisizdir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Fagosit oksidaz enziminin kalıtsal eksikliği, kronik granülomatöz hastalık (CGH) adı verilen bir immünyetmezliğine neden olur: Fagositler fagosite ettikleri mikropları öldüremez, enfeksiyonu sınırlamak için olay yerine daha fazla makrofaj ve lenfositler toplanır, mikropların etrafında hücrelerden oluşan granülom adı verilen yapılar oluşur.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s7) Doğal Bağışıklık-Enflasyon ve Viral Yanıt.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "3"
+          }
         },
         {
           "id": "1_P3",
@@ -381,7 +386,7 @@
           "id": "2_P1",
           "level": "orta",
           "subtopic": "Mantar tanı yöntemleri — genel",
-          "note": "",
+          "note": "Notta birebir: KOH keratini eritir; Galaktomannan Aspergillus için; Sabouraud (SDA) mantar kültürü besiyeri; Histoplasma için hücre içi maya boyası kullanılır.",
           "stem": "Mantar enfeksiyonlarının laboratuvar tanısı ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -408,8 +413,13 @@
           ],
           "correct": "D",
           "explain": "<b>Galaktomannan Aspergillus</b> için kullanılır, Cryptococcus için değil. Cryptococcus'ta <b>kapsül polisakkarit antijeni</b> (lateks aglütinasyonu) ve çini mürekkebi preparatı kullanılır.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "KOH (%10-25): İncelenecek örnekte keratin, fibrin gibi dokuları eritir ve mantara ait yapıların-sporların daha iyi görülmesini sağlar — Çini mürekkebi: Kapsüllü mantarların negatif boyanmasında kullanılır. — Galaktomannan(GM) antijeni — 1,3-glukan (Limulus testi)(Aspergillus). — Kültür: Sabouraud dextrose agar(SDA). — En sık Histoplasma capsulatum enfeksiyonunda alınan kemik iliği örneğinde makrofajlar içinde maya hücrelerinin gösterilmesinde yararlanılır.",
+          "note_ref": {
+            "file": "D2M4- 2025 MANTAR ENFEKSİYONLARININ LABORATUVAR TANISI.pdf",
+            "week": "M4H2",
+            "type": "Slayt",
+            "pages": "9, 11, 13, 22"
+          }
         },
         {
           "id": "2_P2",
@@ -1030,7 +1040,7 @@
           "id": "4_P1",
           "level": "orta",
           "subtopic": "Mantar üreme yolu sınıflandırması",
-          "note": "",
+          "note": "Notta birebir: eşeyli üreme mayoz, eşeysiz üreme mitoz; telemorf eşeyli, anamorf eşeysiz; klinikte eşeysiz adlar kullanılır.",
           "stem": "Mantarların üreme şekilleriyle ilgili aşağıdakilerden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -1057,14 +1067,19 @@
           ],
           "correct": "E",
           "explain": "Notta birebir: \"Eşeysiz üreme — mitoz — aseksüel sporlar\". Eşeyli üreme mayozla, telemorf eşeyli şekildir, klinikte ANAMORF (eşeysiz) adlar kullanılır, sporangiospor aseksüeldir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Eşeyli üreme- mayoz- seksüel sporlar. Eşeysiz üreme- mitoz- aseksüel sporlar. Mantarların eşeyli spor oluşturan şekline telemorf denir. Eşeysiz spor oluşturanlarına anamorf denir. Klinikte izole edilen mantarların eşeysiz adları kullanılır.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s2) Mantarların Üreme Özellikleri.pdf",
+            "week": "M4H3",
+            "type": "Not",
+            "pages": "6"
+          }
         },
         {
           "id": "4_P2",
           "level": "orta",
           "subtopic": "Aseksüel spor tipleri — yapı eşleştirme",
-          "note": "",
+          "note": "Notta birebir: Eşeysiz spor listesi — Sporangiospor + Konidyum (Artro/Klamidiyo/Blasto/Makro/Mikro); konidyumlar blastik (tomurcuklanma) ya da tallik (artrokonidyum) şekilde oluşur; Candida maya yavru hücresine blastokonidiyum denir.",
           "stem": "Aşağıdaki aseksüel spor tipi — özellik eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -1091,8 +1106,13 @@
           ],
           "correct": "E",
           "explain": "<b>Mikrokonidyum TEK HÜCRELİ küçük spordur</b>. Büyük çok hücreli olan <b>makrokonidyumdur</b>. Diğer eşleştirmeler doğrudur.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Eşeysiz üremede sporlar: Sporangiospor, Konidyum (Artrokonidyum, Klamidiokonidyum, Blastokonidyum, Makrokonidyum, Mikrokonidyum). Konidyumlar blastik (tomurcuklanma) ya da tallik şekilde oluşur. Tallik şekildeki tek hücre olacak şekilde ayrılır (artrokonidyum). Tomurcuklanarak ya da fizyonla ürerler (yavru hücrelerine blastokonidiyum denir).",
+          "note_ref": {
+            "file": "Mikrobiyoloji s2) Mantarların Üreme Özellikleri.pdf",
+            "week": "M4H3",
+            "type": "Not",
+            "pages": "3, 4, 6"
+          }
         },
         {
           "id": "4_P3",
@@ -1354,7 +1374,7 @@
           "id": "5_P1",
           "level": "orta",
           "subtopic": "Sinyal iletimi yardımcı molekülleri (notta birebir)",
-          "note": "",
+          "note": "Notta birebir: TCR yardımcı moleküllere (CD3 kompleksi) ihtiyaç duyar; BCR ise Igα ve Igβ sinyal iletim moleküllerine.",
           "stem": "Aşağıdaki sinyal iletim molekül eşleştirmelerinden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -1381,14 +1401,19 @@
           ],
           "correct": "C",
           "explain": "Notta birebir: BCR sinyal iletimi <b>Igα/Igβ</b> heterodimeri ile. TCR sinyal iletimi <b>CD3 kompleksi</b> ile. CR2 (CD21) B hücresinin C3d bağlayan ko-reseptörüdür (notta birebir geçer). BCR ve TCR sinyal için yardımcı moleküle ihtiyaç duyar (notta vurgulanmış).",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "TCR'nin birlikte bulunduğu bu yardımcı moleküllere CD3 kompleksi denir. BCR ise Igα ve Igβ adı verilen iki adet sinyal iletim molekülü ile bir arada bulunur. Reseptörler sinyalleri tanır ama hücre içine sinyali kendileri iletemez; BCR Igα ve β kullanırken TCR, CD3 kompleksini kullanır.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s9) İmmünglobülinler ve T hücre Reseptörü.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "17, 18"
+          }
         },
         {
           "id": "5_P2",
           "level": "orta",
           "subtopic": "B hücresine özgü süreçler",
-          "note": "",
+          "note": "Notta birebir: BCR/Ig'lerde salgısal form VAR, TCR'de YOK; izotip dönüşümü ve afinite olgunlaşması B'ye özgüdür (TCR'de YOK).",
           "stem": "Aşağıdaki immün süreçlerden hangisi <b>SADECE B lenfositlerinde</b> gerçekleşir?",
           "extra_block": "",
           "choices": [
@@ -1415,8 +1440,13 @@
           ],
           "correct": "B",
           "explain": "Salgısal Ig + izotip dönüşümü (IgM → IgG/A/E) sadece B hücresinde. MHC üzerinde peptid tanıma TCR'nin işidir. Sitotoksik granüller CD8+ T ve NK'da. CD4/CD8 T hücre ko-reseptörleridir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Salgısal form YOK / VAR. İzotip dönüşümü YOK / VAR. Afinite olgunlaşması YOK / VAR. (TCR / BCR karşılaştırması) Ig ler savaş sırasında salgısal forma geçebilir, sınıf değiştirebilir (izotip dönüşümü).",
+          "note_ref": {
+            "file": "Mikrobiyoloji s9) İmmünglobülinler ve T hücre Reseptörü.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "18"
+          }
         },
         {
           "id": "5_P3",
@@ -1675,7 +1705,7 @@
           "id": "6_P1",
           "level": "orta",
           "subtopic": "Antijen tipi tanımları",
-          "note": "",
+          "note": "Notta birebir: monovalan tek epitop; multivalan aynı epitoptan çok tekrar; polivalan farklı tip+çok epitop.",
           "stem": "Aşağıdaki antijen tip — tanım eşleştirmelerinden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -1702,14 +1732,19 @@
           ],
           "correct": "C",
           "explain": "Notta birebir: \"Multivalan antijenler tek epitoptan çok sayıda tekrar epitop içerir.\" Hapten tek başına immünojen değildir; monovalan tek epitop; polivalan farklı tipte çok sayıda epitop.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Multivalan antijenler: Tek epitoptan çok sayıda tekrar epitop içerir. Polivalan antijenler: Farklı tip epitop ve bu farklı epitopların farklı çeşitlerini çok sayıda içerir. Monovalan antijenler: Tek bir epitop taşır. Hapten tek başına uyaramayan ancak bir taşıyıcıyla birleştikten sonra immünojen hale gelebilen moleküller.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s5) Patojen ilişkili moleküler motifler(PAMP) ve Antijenler .pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "3, 5"
+          }
         },
         {
           "id": "6_P2",
           "level": "orta",
           "subtopic": "İmmünojeniteyi belirleyen faktörler",
-          "note": "",
+          "note": "Notta birebir: immünojeniteyi belirleyen faktörler: konak antijenlerine benzerlik (yabancılık), molekül ağırlığı (>10 kDa iyi, >100 kDa çok iyi), elektrik yükü, vücutta kaldığı süre, karmaşıklık, doz, giriş yolu.",
           "stem": "Bir molekülün immünojenitesini belirleyen faktörler arasında aşağıdakilerden hangisi <b>yer almaz</b>?",
           "extra_block": "",
           "choices": [
@@ -1736,8 +1771,13 @@
           ],
           "correct": "E",
           "explain": "Renk/koku immünojenite ile ilgisizdir. Diğer 4 ifade temel immünojenite belirleyicileridir: büyüklük, kompleksite, yabancılık, HLA + doz, yol, adjuvan.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Bir Antijenin İmmünojenitesini Belirleyen Faktörler: 1. Konak antijenlerine benzerlik — Ne kadar farklıysa o kadar iyi! 2. Molekül Ağırlığı — İyi: >10 kDa, Çok iyi: >100 kDa. 3. Elektrik Yükü — Yüklü olması iyi. 4. Vücutta Kaldığı Süre. 5. Karmaşıklığı — Proteinler > Karbonhidratlar > Steroidler > Lipitler > Haptenler. 6. Dozu — Yeterli olmalı. 7. Giriş Yolu — Uygun yoldan vücuda girmeli.",
+          "note_ref": {
+            "file": "1-İmmünolojiye giriş.pdf",
+            "week": "M4H1",
+            "type": "Slayt",
+            "pages": "31, 33, 34, 35"
+          }
         },
         {
           "id": "6_P3",
@@ -1996,7 +2036,7 @@
           "id": "7_P1",
           "level": "orta",
           "subtopic": "T hücre aktivasyon basamakları",
-          "note": "",
+          "note": "Notta birebir: Sinyal 1 = TCR/MHC + CD4/CD8 ko-reseptör; Sinyal 2 = CD28-B7 ko-stimülasyon (zorunlu); Sinyal 3 = APC sitokinleri (IL-12, IL-1, IL-6) farklılaşma.",
           "stem": "T lenfosit aktivasyonu için 3 temel sinyal vardır. Bu sinyal-molekül eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -2023,8 +2063,13 @@
           ],
           "correct": "E",
           "explain": "CD8 sinyal 2 (ko-stimülasyon) değil, <b>ko-reseptördür</b> (MHC-I'i tanır, TCR ile birlikte sinyal 1'i destekler). Ko-stimülasyon (sinyal 2) için CD28-B7 etkileşimi gerekir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "T-lenfositlerde eksprese edilen B7 proteini reseptörü: CD28. CD28:B7 etkileşimi olmazsa, TCR tarafından antijen tanınması, T-lenfositleri aktive etmeye yetmez! İkinci sinyali alamazsa silik, sönük bir yanıt oluşur. 2. DC ve makrofajlar sitokin salgılar (IL-12, IL-1, IL-6) → toy T-lenfositlerin efektör hücrelere farklılaşmasını uyarır. CD4/CD8 (ko-reseptörler) → MHC molekülleri (Sınıf-II/Sınıf-I).",
+          "note_ref": {
+            "file": "Mikrobiyoloji s10) Hücresel Bağışıklık.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "2, 3, 4"
+          }
         },
         {
           "id": "7_P2",
@@ -2322,7 +2367,7 @@
           "id": "8_P1",
           "level": "orta",
           "subtopic": "MHC yol bileşenlerinin yola özgüllüğü",
-          "note": "",
+          "note": "Notta birebir: TAP/Tapasin sınıf-I yolunda; HLA-DM sınıf-II yolunda CLIP'i ayırır.",
           "stem": "Aşağıdaki molekül — MHC sunum yolu eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -2349,14 +2394,19 @@
           ],
           "correct": "E",
           "explain": "<b>HLA-DM MHC Sınıf II yolundadır</b>, sınıf-I değil. Endo-lizozomda CLIP'i MHC-II yarığından çıkarır ve gerçek antijenik peptid bağlanmasını sağlar. Diğer 4 eşleştirme doğru: TAP/Tapasin/β2-mikroglobulin → MHC-I yolu; CLIP → MHC-II yolu.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "TAP, bir pompa gibi çalışarak sitoplazmadaki peptitleri tanır, alır ve endoplazmik retikuluma aktarır. TAP tarafından ER'ye taşınan bu peptitler, burada MHC Sınıf I moleküllerinin bağlanma oluğuna yerleşir. Tapasin, MHC I ve TAP arasındaki fiziksel teması kurarak peptit sunumunun verimliliğini artırır. Endozomal veziküllerde bulunan \"HLA-DM\" enzimi, Sınıf II MHC moleküllerinden CLIP'i ayırır. Boşalan yarığa uygun mikrobiyal peptid bağlanır.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "6, 7, 11"
+          }
         },
         {
           "id": "8_P2",
           "level": "orta",
           "subtopic": "Hangi T hücresi hangi MHC ile etkileşir",
-          "note": "",
+          "note": "Notta birebir: MHC-I intraselüler antijenleri CD8+ T'ye sunar; MHC-II ekstraselüler antijenleri CD4+ T'ye sunar.",
           "stem": "Aşağıdaki eşleştirmelerden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -2383,8 +2433,13 @@
           ],
           "correct": "C",
           "explain": "<b>MHC-I → CD8+ → intrasellüler (virüs, sitozolik bakteri)</b>. <b>MHC-II → CD4+ → ekstrasellüler (fagosite edilen bakteri).</b> MHC-I her çekirdekli hücrede, MHC-II sadece profesyonel APC'lerde. Çapraz sunum dendritik hücrelerde yan yol.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Hücre içinde bulunan antijenleri CD8+ (sitotoksik) T lenfositlere sunar. Çekirdekli tüm hücrelerde Sınıf I MHC molekülleri eksprese edilir. Sınıf II MHC molekülleri profesyonel APC'lerde (dendritik hücre, makrofajlar ve B lenfosit) eksprese edilir. Mikroorganizmaların protein antijenlerinin işlenmesiyle elde edilen peptidler: MHC sınıf I molekülleri ile CD8+ T hücrelere sunulur; MHC sınıf II molekülleri ile CD4+ T hücrelere sunulur.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "3, 4, 8"
+          }
         },
         {
           "id": "8_P3",
@@ -3325,7 +3380,7 @@
           "id": "11_P2",
           "level": "orta",
           "subtopic": "IgG vs IgM serolojik anlam",
-          "note": "",
+          "note": "Notta birebir: IgM yüksek = akut/yeni enfeksiyon; IgG yüksek = geçirilmiş enfeksiyon/sekonder yanıt. IgM antijenle ilk karşılaşmadan 5-7 gün sonra pozitifleşir, 3-6 ay içinde kaybolur; IgG 7-15 günde pozitifleşir, yıllarca kalır.",
           "stem": "Bir enfeksiyonun aşamasını saptamada IgM ve IgG titresinin kullanımı ile ilgili aşağıdakilerden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -3352,8 +3407,13 @@
           ],
           "correct": "B",
           "explain": "<b>IgM erken/akut</b> (primer yanıt 1-2 hafta), 1-3 ay sonra azalır. <b>IgG geç/uzun süreli</b> (sekonder yanıt, hafıza). IgM(+) IgG(-) → erken/akut. IgG(+) IgM(-) → geçirilmiş enfeksiyon veya aşı bağışıklığı. Akut tanıda IgM en değerli marker.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "KLİNİK İPUCU: Hastanın kan tahlilinde IgM nin yüksek çıkması etkenin vücuda yeni girdiğini gösterir.(akut durum). Hastanın kan tahlilinde IgG nin yüksek çıkması etkenin vücuda daha önce girdiğini, vücudun bu etkenle savaşıp hafızaya attığını gösterir.(geçirilmiş enfeksiyon/sekonder yanıt). Antijenle ilk karşılaşmadan yaklaşık 5-7 gün sonra kanda ilk olarak IgM antikorları pozitifleşir ve bu antikorlar genellikle 3-6 ay içinde kaybolur. İlk karşılaşmadan 7-15 gün sonra ise IgG antikorları pozitifleşmeye başlar ve bu antikorlar kanda yıllarca pozitif kalır.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s9) İmmünglobülinler ve T hücre Reseptörü.pdf · Mikrobiyoloji s21) Serolojik testler.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "s9:7; s21:17"
+          }
         },
         {
           "id": "11_P3",
@@ -3649,7 +3709,7 @@
           "id": "12_P2",
           "level": "orta",
           "subtopic": "Tip II vs Tip III mekanizma ayrımı",
-          "note": "",
+          "note": "Notta birebir: Tip II = hücre/doku antijenleri (lokal sitotoksik); Tip III = çözünür antijenler + IgM/IgG → immün kompleks damar duvarında birikir (sistemik).",
           "stem": "Tip II ve Tip III hipersensitivite reaksiyonlarını birbirinden ayıran en temel özellik aşağıdakilerden hangisidir?",
           "extra_block": "",
           "choices": [
@@ -3676,8 +3736,13 @@
           ],
           "correct": "B",
           "explain": "Anahtar fark: <b>antijenin lokalizasyonu</b>. Tip II = sabit doku antijeni (hücre yüzeyi, doku) → lokal sitotoksisite. Tip III = çözünür antijen + antikor → immün kompleks → küçük damarlara birikir → vaskülit, glomerülonefrit, artrit, alveolit (sistemik). Her ikisinde de IgM/IgG ve kompleman rol oynar.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Tip II: Doku/hücre antijenlerine karşı oluşan IgM ve IgG antikorları ile ortaya çıkan sitotoksik reaksiyonlar. Dokuya/organa spesifik. Tip III: Çözünür antijenlere karşı oluşan IgM ve IgG antikorlarının, antijenlerle oluşturduğu immün komplekslerin doku damarlarında birikmesi ile oluşan enflamasyon ve doku hasarı ile karakterize sistemik reaksiyonlar. Dolaşan serbest antijenlerin antikor ile bağlanması sonucu immün kompleksler oluşur. Bu kompleksler damarların duvarlarında biriker.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s16) Aşırı Duyarlılık Reaksiyonları.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "1, 4"
+          }
         },
         {
           "id": "12_P3",
@@ -4044,7 +4109,7 @@
           "id": "15_P1",
           "level": "orta",
           "subtopic": "MHC Sınıf I/II — sunum hedefi",
-          "note": "",
+          "note": "Notta birebir: MHC-I intrasellüler antijenleri CD8+ T'ye, MHC-II ekstrasellüler antijenleri CD4+ T'ye sunar.",
           "stem": "Aşağıdaki MHC — antijen kaynağı — hedef T hücre eşleştirmelerinden hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -4071,14 +4136,19 @@
           ],
           "correct": "C",
           "explain": "<b>MHC-I → hücre içi antijen → CD8+ Tc</b> (hücresel sitotoksik yanıt). <b>MHC-II → hücre dışı antijen → CD4+ Th</b> (humoral yardım + makrofaj aktive).",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Hücrelerin sitoplazmalarında bulunan intraselüler proteinler işlendikten sonra MHC Sınıf I molekülleri aracılığıyla CD8+ T lenfositlere sunulurlar. Profesyonel APC'ler (makrofajlar) tarafından fagositoz yolu ile veziküller içerisine alınan ekstraselüler proteinler işlendikten sonra Sınıf II MHC molekülleri ile CD4+ T hücrelerine sunulur.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "5"
+          }
         },
         {
           "id": "15_P2",
           "level": "orta",
           "subtopic": "MHC polimorfizm ve doku uyumu",
-          "note": "",
+          "note": "Notta birebir: HLA Sınıf I ve Sınıf II genleri ileri derecede polimorfiktir ve 100'den fazla gen taşır; bu polimorfizm türün devamlılığını sağlar.",
           "stem": "MHC moleküllerinin <b>yüksek polimorfizmi</b> ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -4105,8 +4175,13 @@
           ],
           "correct": "E",
           "explain": "MHC <b>vücudun en polimorfik gen kümesidir</b> (HLA lokusu, 100+ allel). Herkes farklı kombinasyonlardadır — bu kişisel kimlik kartı gibidir. Transplantasyonda en önemli engel; aynı zamanda popülasyonu farklı patojenlere karşı koruyan evrimsel avantaj.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "HLA Lokusu — Sınıf I ve Sınıf II genler: İleri derecede polimorfiktir ve 100'den fazla gen taşır. İleri derecede polimorfiktir. Türün devamlılığını sağlar. Sadece peptid yapıda antijenleri sunabilir. 1 molekül 1 seferde sadece 1 peptid sunabilir. Self/non-self ayrımı yapmaz.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "1, 2"
+          }
         },
         {
           "id": "15_P3",
@@ -4367,7 +4442,7 @@
           "id": "16_P1",
           "level": "orta",
           "subtopic": "Doğal vs edinsel — bireysel farklılık kaynağı",
-          "note": "",
+          "note": "Notta birebir: MHC moleküllerinin yüksek polimorfizmi — Sınıf I ve II genler 100'den fazla gen taşır, ileri derecede polimorfiktir; türün devamlılığı için hayati.",
           "stem": "İki sağlıklı bireyin aynı yeni patojene farklı immün yanıt vermesi en çok hangi sistem bileşeninin <b>çeşitliliğine</b> bağlıdır?",
           "extra_block": "",
           "choices": [
@@ -4394,8 +4469,13 @@
           ],
           "correct": "B",
           "explain": "<b>MHC (HLA) yüksek polimorfizm</b> bireyler arası en belirgin immün varyasyon kaynağıdır. TLR'ler benzerdir (genelde herkeste aynı set). Bireysel varyasyon büyük ölçüde edinsel sistemin (özellikle MHC + BCR/TCR repertuvar) düzeyindedir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "HLA Lokusu — Sınıf I ve Sınıf II genler: İleri derecede polimorfiktir ve 100'den fazla gen taşır. İleri derecede polimorfiktir. Türün devamlılığını sağlar. Bireyler için, çok geniş bir antijen yelpazesini tanımak ve daha önce karşılaşılmamış bir enfeksiyon etkenine karşı güçlü bir bağışıklık yanıtı geliştirebilmek açısından son derece önemlidir.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "1, 2"
+          }
         },
         {
           "id": "16_P2",
@@ -4724,7 +4804,7 @@
           "id": "17_P2",
           "level": "orta",
           "subtopic": "Aşı tipleri - immün yanıt özellikleri",
-          "note": "",
+          "note": "Notta birebir: canlı atenue aşılar doğal enfeksiyonu en iyi taklit eder, güçlü uzun süreli hücresel ve humoral bağışıklık sağlar; immün yetmezlikte kontrendike. mRNA aşıları (örn. COVID-19) hastanın kendi hücrelerine viral antijen üretimi için genetik talimat verir.",
           "stem": "Aşağıdaki aşı tipi — özellik eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -4751,8 +4831,13 @@
           ],
           "correct": "E",
           "explain": "<b>mRNA aşılar DNA ve RNA virüslerine karşı da yapılabilir</b> — patojen hangi yapıda olursa olsun, antijen kodlayan mRNA hazırlanır. COVID-19 (RNA virüs) için kullanıldı; HIV, kanser, herpes için araştırılıyor. Sınırlama yok.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Canlı zayıflatılmış aşılar: Mekanizma: patojenin hastalık yapıcı etkisi (virülansı) zayıflatılmıştır, ancak antijenik yapısı korunur ve vücutta çoğalabilir. Avantaj: doğal enfeksiyonu en iyi taklit eden aşıdır. Çok güçlü uzun süreli hücresel ve hümoral bağışıklık sağlar. Dezavantaj: immün yetmezlikli bireylerde hastalık yapma riski taşır. Dna/mRna aşıları: Hastanın kendi hücrelerine, viral antijeni üretmesi için genetik bir talimat setinin iletilmesidir. (örneğin COVID-19 mRna).",
+          "note_ref": {
+            "file": "Mikrobiyoloji s15) Aşılar ve Pasif Bağışıklama.pdf · S15)+AŞILAR ve PASİF BAĞIŞIKLAMA.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "s15:7-8, 10; slayt:13"
+          }
         },
         {
           "id": "17_P3",
@@ -5014,7 +5099,7 @@
           "id": "18_P1",
           "level": "orta",
           "subtopic": "B hücre alt tipi - işlev eşleştirme",
-          "note": "",
+          "note": "Notta birebir: foliküler B2 T-bağımlı protein antijenlere, marjinal zon B dalakta T-bağımsız polisakkarit/lipit antijenlere, B1 mukozal/periton T-bağımsız antijenlere yanıt verir; uzun ömürlü plazma + hafıza B germinal merkezden çıkar.",
           "stem": "Aşağıdaki B hücre alt tipi — işlev eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -5041,8 +5126,13 @@
           ],
           "correct": "E",
           "explain": "Notta birebir: <b>\"Hafıza B hücresi sessiz fenotipte kalır\"</b> — antijenle tekrar karşılaşıncaya kadar antikor salgılamaz. Karşılaşma sonrası hızla plazma hücresine farklılaşır ve sekonder yanıt sağlar. D şıkkı notla uyumludur (uzun ömürlü plazma hücresi kemik iliği).",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Foliküler B2 hücreleri: Periferik lenfoid organların foliküllerinde yerleşir. Protein antijenlere karşı izotip dönüşümü gerçekleşmiş yüksek afiniteli antikor üretir. Uzun ömürlü plazma hücrelerine dönüşürler. Marjinal zon B hücreleri: Dalak beyaz pulpasının periferal bölümünde yerleşirler. Dolaşımla dalağa ulaşan polisakkarit ve lipit yapıdaki T bağımsız antijenlere karşı antikor üretirler.(Kapsüllü bakteri). B1 hücreleri: Mukozal dokular ve peritonda bulunan T bağımsız antijenlere karşı antikor üretir. Spontan olarak IgM salgılarlar. En yüksek afiniteye sahip B hücreler farklılaşarak hafıza B-hücrelerine ve uzun ömürlü plazma hücrelerine dönüşür.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s12+s13) Hümoral bağışıklık.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "3, 5"
+          }
         },
         {
           "id": "18_P2",
@@ -5339,7 +5429,7 @@
           "id": "19_P1",
           "level": "orta",
           "subtopic": "Primer immün yetmezlik örnekleri",
-          "note": "",
+          "note": "Notta birebir: Konjenital (primer) immün yetmezlik genetik kusurdan; AIDS ise sekonder (edinsel) immün yetmezliktir (HIV → AIDS yıllar içinde gelişir). Bruton X'e bağlı agammaglobulinemi BTK gen mutasyonu; SCID T ve B hücre defekti.",
           "stem": "Aşağıdaki primer immün yetmezlik — defekt eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -5366,8 +5456,13 @@
           ],
           "correct": "E",
           "explain": "<b>AIDS sekonder (edinsel) immün yetmezliktir</b> — HIV enfeksiyonuna bağlı. Doğumda değil, enfeksiyon sonrası yıllar içinde gelişir. Primer immün yetmezlikler genetik kökenlidir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "1. Konjenital (primer) immün yetmezlik: İmmün sisteminin farklı bileşenlerinin olgunlaşmasında veya işlevinde bozulmaya yol açan genetik kusurlardan kaynaklanır. 2. Edinsel (sekonder) immün yetmezlik: Genetik olmayan, yaşam sırasında edinilen anormallikler nedeniyle meydana gelir. Dünya çapındaki bu anormalliklerin en ciddisi → HIV enf. 3. Edinsel İmmün Yetmezlik Sendromu: HIV enfeksiyon → AIDS. AIDS Latent HIV'in aktive olması ve bağışıklık sistemi hücrelerini yok etmesiyle yıllar içinde gelişir. Seçici B Hücre Eksikliği — En sık X'e bağlı agammaglobulinemi (Bruton). Bruton tirozin kinazı (BTK) kodlayan gende mutasyon.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s17) İmmün yetmezlik ve Otoimmünite.pdf · s17 slayt",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "12, 13; slayt 38, 48, 60, 63"
+          }
         },
         {
           "id": "19_P2",
@@ -5822,7 +5917,7 @@
           "id": "21_P1",
           "level": "orta",
           "subtopic": "Kompleman aktivasyon yolakları",
-          "note": "",
+          "note": "Notta birebir: Kompleman 3 kaskad üzerinden aktive olur — klasik yol (antikor aracılı, edinsel), lektin yolu (MBL ile, doğal), alternatif yol (mikrobiyal yüzeyde, doğal). Lektin yolu klasik yolun proteinlerini aktive eder ama antikor olmaksızın doğal bağışıklığın elemanıdır.",
           "stem": "Kompleman sisteminin 3 aktivasyon yolağı ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -5849,8 +5944,13 @@
           ],
           "correct": "E",
           "explain": "<b>Üç yol aynı C3'ü aynı şekilde parçalar</b> (C3a + C3b). Farklı izoform yok. Tek farkları C3 konvertaz oluşum yoludur. Sonrası ortaktır.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Kompleman Sistemi: Çoğu proteolitik enzim. Sistem üç kaskad üzerinden aktive olur: Klasik yol (edinsel bağışıklık), Alternatif yol (doğal bağışıklık), Lektin yolu (doğal bağışıklık). Lektin, klasik yolun kompleman proteinlerini aktive eder ANCAK doğrudan mikrobiyal ürünler tarafından aktive olduğundan (antikor olmaksızın) doğal bağışıklığın elemanıdır!",
+          "note_ref": {
+            "file": "2-Doğal Bağışıklık.pdf",
+            "week": "M4H1",
+            "type": "Slayt",
+            "pages": "36, 39"
+          }
         },
         {
           "id": "21_P2",
@@ -6146,7 +6246,7 @@
           "id": "22_P1",
           "level": "orta",
           "subtopic": "Mantar hücre duvarı bileşenleri",
-          "note": "",
+          "note": "Notta birebir: Mantarlar ökaryotik; hücre duvarı kitin ve glukandan oluşur; hücre zarında ergosterol bulunur. Peptidoglikan bakteri duvarı bileşenidir.",
           "stem": "Mantar hücre duvarı bileşenleri ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -6173,8 +6273,13 @@
           ],
           "correct": "D",
           "explain": "<b>Peptidoglikan BAKTERİ hücre duvarının bileşenidir, mantarda YOKTUR</b>. Mantar duvar: kitin, glukan, mannan + glikoprotein. Bu fark mantarlara peptidoglikan inhibitörlerinin (penisilin gibi) etkisiz olmasının nedenidir.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Kitin ve glukandan oluşan sert hücre duvarları vardır. Glukan mantar enfeksiyonlarının tanısında yararlandığımız maddelerden biridir. Hücre zarında ergosterol bulunur. Mantar hücre duvarındaki en önemli polisakkaritler — Polimer: Kitin, Sellüloz, Mannan, Glukan. Monomer: N-Asetil glukozamin, D-glukoz, D-mannoz.",
+          "note_ref": {
+            "file": "Mikrobiyoloji s1) Mantarların Genel Özellikleri ve Sınıflandırılması.pdf · slayt mikoloji",
+            "week": "M4H3",
+            "type": "Not",
+            "pages": "s1:3; slayt:18, 41"
+          }
         },
         {
           "id": "22_P2",
@@ -6503,7 +6608,7 @@
           "id": "23_P2",
           "level": "orta",
           "subtopic": "RAAS kaskadı sıralama",
-          "note": "",
+          "note": "Notta birebir: RAAS kaskadı renin sentezi ile başlar; karaciğerde üretilen anjiyotensinojeni anjiyotensin I (ATI) yapar; ACE ile ATII'ye dönüşür; ATII vazokonstrüksiyon + aldosteron etkileri gösterir.",
           "stem": "Renin-anjiyotensin-aldosteron sistemi (RAAS) kaskadının basamakları aşağıda verilmiştir. Hangi seçenekte doğru sıra ile verilmiştir?",
           "extra_block": "I. ATII vazokonstriksiyon ve aldosteron salınımı<br>II. Renin sentezi (afferent arteriol granüler hücreler)<br>III. ACE ile ATI → ATII dönüşümü<br>IV. Anjiyotensinojen → Anjiyotensin I dönüşümü",
           "choices": [
@@ -6530,8 +6635,13 @@
           ],
           "correct": "A",
           "explain": "Doğru sıra: <b>Renin sentezi (II) → ATojen→ATI (IV) → ACE ile ATII (III) → ATII etkisi (I)</b>.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Renin-anjiyotensin-aldosteron sistemi (RAAS), arter kan basıncının uzun süreli düzenleme sistemidir. Tüm kaskat Renin senteziyle başlar, Kc de üretilen Anjiyotensinojeni Anjiyotensin I(ATI) yapar, o da Anjiyotensin Converting Enzyme (ACE) tarafından ATII ye dönüşür. ATII de kısa vadede vazokonstrüksiyonla, uzun vadede böbrekten su ve tuz tutulumu (aldosteron) ile etki gösterir.",
+          "note_ref": {
+            "file": "Fizyoloji s6) Sodyum Dengesi ve ekstraselüler sıvı hacmi.pdf",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "1"
+          }
         },
         {
           "id": "23_P3",
@@ -7151,7 +7261,7 @@
           "id": "25_P2",
           "level": "orta",
           "subtopic": "Hiperkalemi → aldosteron",
-          "note": "",
+          "note": "Notta birebir: Aldosteron sekresyonu hiperkalemi ve anjiyotensin II tarafından artırılır; hipokalemi ve natriüretik peptidler tarafından azaltılır.",
           "stem": "Hiperkalemi ile aldosteron salgısı arasındaki ilişki ile ilgili hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -7178,8 +7288,13 @@
           ],
           "correct": "A",
           "explain": "Notta birebir: artıran hiperkalemi + AT-II; azaltan hipokalemi + natriüretik peptit.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Hiperkalemi adrenal korteksten aldosteron sekresyonunu arttırır. Aldosteron sekresyonu hiperkalemi ve anjiyotensin II tarafından arttırılır. Aldosteron sekresyonu hipokalemi ve natriüretik peptidler tarafından azaltılır.",
+          "note_ref": {
+            "file": "Fizyoloji s7) Potasyum dengesi ve miksiyon.pdf · D7_Potasyum Dengesi ve Miksiyon.pdf",
+            "week": "M4H2",
+            "type": "Not",
+            "pages": "s7:3; slayt:16, 19"
+          }
         },
         {
           "id": "25_P3",
@@ -7438,7 +7553,7 @@
           "id": "26_P1",
           "level": "orta",
           "subtopic": "Emisyon vs Ejakülasyon",
-          "note": "",
+          "note": "Notta birebir: Emisyon = epididimis/vaz deferens, prostat, seminal vezikül düz kaslarının kasılması ve üretranın semen sıvısı ile dolmasıdır (T12-L2, hipogastrik sempatik); Ejakülasyon = semenin üretradan dışarı atılması.",
           "stem": "Emisyon ile ejakülasyon arasındaki fark ile ilgili hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -7465,8 +7580,13 @@
           ],
           "correct": "C",
           "explain": "Emisyon: vaz deferens + prostat + seminal vezikül kasılması, salgıların üretraya boşalması. Ejakülasyon: semen üretradan dışarı atılması. Her ikisi <b>sempatik</b>.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Emisyon: Peniste bulunan ve mekanik uyarıya duyarlı reseptörlerin uyarılması ile refleks yanıt başlar. T12-L2 merkezlidir. Efferenti hipogastrik sinirler, adrenerjik sempatik lifler, effektör organları epididimis ve Vas deferens düz kasları, prostat bezi kaslı kılıfı ve seminal vezikül düz kasıdır. Üretranın semen sıvısı ile dolmasıyla sonuçlanır. Sempatik uyarım internal üretral sfinkteri kapatır. (Ejakülasyon — Semenin üretradan dışarı atılmasıdır. Spinal bir reflekstir.)",
+          "note_ref": {
+            "file": "Fizyoloji s9) Spermatogenez ve testiküler fonksiyonlar.pdf · ÜREME_2025.pdf",
+            "week": "M4H3",
+            "type": "Not",
+            "pages": "s9:8; slayt:23-24"
+          }
         },
         {
           "id": "26_P2",
@@ -7762,7 +7882,7 @@
           "id": "27_P1",
           "level": "orta",
           "subtopic": "Doğumda hormon değişiklikleri",
-          "note": "",
+          "note": "Notta birebir: Progesteron uterusun miyometriyumunu stabilize ederek kontraktiliteyi azaltır (Evre 0 — sessiz uterus). Doğuma yakın progesteron düşer; östrojen, oksitosin ve prostaglandinler doğumu başlatır.",
           "stem": "Doğum öncesi ve sırasında hormonal değişikliklerle ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -7789,14 +7909,19 @@
           ],
           "correct": "E",
           "explain": "<b>Progesteron uterus kontraksiyonunu BASKILAR</b> (sessiz uterus — Evre 0). Kontraksiyonu artıranlar: oksitosin, prostaglandinler, östrojen (dolaylı). Progesteron baskınlığı düşünce kontraksiyonlar başlar.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Progesteron, düz kas hücrelerinin uyarılabilirliğini azaltarak uterusun miyometriyumunu stabilize eder. Hormonal faktörler arasında; progesteron, östrojen, oksitosin, relaksin ve prostaglandinleri sayabiliriz. Progesteronun tam doğum öncesinde düşmesi gerekir. Çünkü doğum için yoğun kasılmalara ihtiyaç vardır. Evre 0: Progesteron etkisi sayesinde uterus kontraktilitesi zayıftır. cAMP ve cGMP konsantrasyonlarının artışıyla kalsiyumun hücre içi salınımı inhibe edilir.",
+          "note_ref": {
+            "file": "Fizyoloji s12) Doğum ve Laktasyon Mekanizmaları.pdf · Fizyoloji s11) Gebelik Fizyolojisi.pdf",
+            "week": "M4H5",
+            "type": "Not",
+            "pages": "s12:1-3; s11:9"
+          }
         },
         {
           "id": "27_P2",
           "level": "orta",
           "subtopic": "Plasental CRH pozitif feedback",
-          "note": "",
+          "note": "Notta birebir: fetal stres → fetal adrenal aks aktivasyonu → annede kortizol artışı → plasental CRH sentezi uyarılır → fetal hipofizden ACTH → fetal adrenal kortizol; bu pozitif feedback döngüsü doğumu başlatır. Plasental CRH hipotalamus CRH ile benzer yapıdadır ve gebeliğin sonlarında belirgin artar.",
           "stem": "Doğumun başlangıcında plasental CRH-kortizol arasındaki ilişki ile ilgili hangisi <b>doğrudur</b>?",
           "extra_block": "",
           "choices": [
@@ -7823,8 +7948,13 @@
           ],
           "correct": "B",
           "explain": "Notta birebir: \"Plasental CRH → fetal ACTH → fetal adrenal kortizol; kortizol plasental CRH sentezini uyarır = POZİTİF FEEDBACK.\" Plasental CRH ayrıca <b>fetal akciğer matürasyonuna</b> katkıda bulunur (kortizol surfaktan üretimi). Hipotalamus CRH ile benzer yapıdadır.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Doğuma yakın dönemde fetüsün büyümesi ve sıkışmışlık hissi fetal stres oluşumuna neden olabilir. Bu stres de fetal adrenal aksı aktive eder. Annede artmaya başlayan kortizol düzeyi ile birlikte plasental CRH (Corticotropin Releasing Hormone) sentezi uyarılır. Artan plasental CRH düzeyleri ise fetal hipofizden ACTH salınımına neden olur, bu da fetal adrenal kortizol üretimini uyarır. Plasental CRH: Hipotalamus kökenli CRH ile benzer yapıdadır. Gebeliğin sonlarına doğru düzeyinde belirgin artış olur. Uterus'un prostaglandinler ve oksitosine duyarlılığı artar.",
+          "note_ref": {
+            "file": "Fizyoloji s12) Doğum ve Laktasyon Mekanizmaları.pdf",
+            "week": "M4H5",
+            "type": "Not",
+            "pages": "2"
+          }
         },
         {
           "id": "27_P3",
@@ -8085,7 +8215,7 @@
           "id": "28_P1",
           "level": "orta",
           "subtopic": "IV solüsyon tonisitesi sınıflandırma",
-          "note": "",
+          "note": "Notta birebir: Tonisite hücre hacmine etkisiyle tanımlanır (izotonik/hipotonik/hipertonik). D5W çözeltisi izotonik olarak başlar ancak dekstroz metabolize edildikçe hipotonik hale gelir; bu nedenle serbest su sağlamak ve hipernatremi tedavisi için kullanılır.",
           "stem": "Aşağıdaki IV solüsyon — tonisite eşleştirmelerinden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -8112,8 +8242,13 @@
           ],
           "correct": "E",
           "explain": "<b>D5W BAŞLANGIÇTA İZOTONİKTİR</b> (osmolarite ~278). Hücrelere girdiğinde glikoz hızla metabolize olur → geriye sadece su kalır → sonuçta <b>hipotonik etki</b>. Bu nedenle hipernatremi tedavisinde ve serbest su sağlamak için kullanılır.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Hücre hacmini değiştirmeyen solüsyonlar izotonik çözelti, hücrelerin şişmesine neden olan solüsyonlar hipotonik çözelti, hücrelerin büzülmesine neden olan solüsyon hipertonik çözelti olarak isimlendirilir. 5% Dekstroz (D5W) — çözelti izotonik olarak başlar ancak dekstroz (glikoz) metabolize edildikçe hipotonik hale gelir. Böbreklerden çözünen maddelerin atılımına yardımcı olmak için serbest su sağlar, hipernatremi ve bazı dekstroz takviyeleri.",
+          "note_ref": {
+            "file": "Fizyoloji s1) Vücut Sıvıları ve Vücut Sıvı Kompartmanları.pdf · D1 slayt",
+            "week": "M4H1",
+            "type": "Not",
+            "pages": "s1:4; slayt:13, 22"
+          }
         },
         {
           "id": "28_P2",
@@ -8409,7 +8544,7 @@
           "id": "29_P1",
           "level": "orta",
           "subtopic": "Erkek vs Kadın gametogenezi temel farkları",
-          "note": "",
+          "note": "Notta birebir: Erkeklerde spermatogonyumlar mitozla çoğalmaya devam ederken, kadınlarda oogonyumlar daha doğmadan önce mitozla çoğalma işini bitirir ve mayoza başlar; mayozun profaz I evresinde duraklarlar.",
           "stem": "Erkek spermatogenezi ile kadın oogenezi arasındaki temel farklarla ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -8436,14 +8571,19 @@
           ],
           "correct": "E",
           "explain": "<b>Kadında doğumdan sonra yeni oosit üretilmez</b> — havuz fetal hayatta belirlenir. Bu yaş ilerledikçe over rezervinin tükenmesinin nedeni. Erkekte spermatogenez devam eder (puberteden ölüme kadar).",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "Oogenez: Gelişmekte olan bir yumurtanın olgun bir yumurta hücresine (oosit) dönüşme sürecidir. Erkeklerdeki spermatogenezin karşılığıdır fakat birtakım farklılıklar bulunur. Erkeklerde kan-testis bariyerinin bazal kısmında spermatogonyumlar mitozla çoğalmaya devam ederken kadınlar daha doğmadan önce oogonyumlar mitozla çoğalma işini bitirip mayoza başlarlar ve mayozun profaz 1 evresinde duraklarlar.",
+          "note_ref": {
+            "file": "Fizyoloji s10) Menstrual Siklus Kontrolü.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "1"
+          }
         },
         {
           "id": "29_P2",
           "level": "orta",
           "subtopic": "LH piki ve ovulasyon",
-          "note": "",
+          "note": "Notta birebir: foliküler fazın sonunda östrojen 12. günde pik yapar, bu da LH pikini tetikler ve ovulasyon gerçekleşir; eş zamanlı FSH artışı da olur ama daha az belirgin. Pik olmazsa siklus anovulatuardır.",
           "stem": "Menstrüel siklusta LH piki ile ilgili aşağıdakilerden hangisi <b>yanlıştır</b>?",
           "extra_block": "",
           "choices": [
@@ -8470,8 +8610,13 @@
           ],
           "correct": "E",
           "explain": "LH piki <b>foliküler fazın sonunda</b> (13-14. gün) oluşur. <b>Luteal fazda</b> progesteron yüksek (korpus luteum salgılar) ama LH değil. LH piki ovulasyonu tetikler, sonrasında düşer.",
-          "note_quote": "",
-          "note_ref": {}
+          "note_quote": "12. günde zirve yapan bu artış LH pikini tetikleyerek ovülasyonu sağlar. Aslında FSH seviyelerinde de bir artış gözlemlenir; ancak, ovulasyon için kritik öneme sahip olan LH'ın pik yapmasıdır. Döngü sırasında bir pik meydana gelmezse, o döngü anovulatuardır ve bu da ovulasyonun gerçekleşemediği anlamına gelir.",
+          "note_ref": {
+            "file": "Fizyoloji s10) Menstrual Siklus Kontrolü.pdf",
+            "week": "M4H4",
+            "type": "Not",
+            "pages": "6, 7"
+          }
         },
         {
           "id": "29_P3",
