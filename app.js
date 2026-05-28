@@ -519,10 +519,20 @@ function renderDetail(q) {
       <div class="prof-level-tabs">
         <div class="prof-level-tab active" data-level="orta">Orta zorluk<span class="count">${orta.length} soru</span></div>
         <div class="prof-level-tab" data-level="zor">Zor<span class="count">${zor.length} soru</span></div>
+        ${q.similar_top && q.similar_top.length > 0 ? `<div class="prof-level-tab" data-level="similar">🔮 Olası Sorular<span class="count">${q.similar_top.length} soru</span></div>` : ''}
       </div>
       <div id="prof-list"></div>
     </div>
-    ` : ''}
+    ` : (q.similar_top && q.similar_top.length > 0 ? `
+    <div class="prof-section">
+      <div class="prof-section-title">🔮 Olası Sorular</div>
+      <div class="prof-section-desc">Hocanın bu konuda sorabileceği farklı kavramlar</div>
+      <div class="prof-level-tabs">
+        <div class="prof-level-tab active" data-level="similar">🔮 Olası Sorular<span class="count">${q.similar_top.length} soru</span></div>
+      </div>
+      <div id="prof-list"></div>
+    </div>
+    ` : '')}
     ${similarHtml}
   `;
 
@@ -556,9 +566,19 @@ function renderDetail(q) {
 }
 
 function renderProfList(q, level) {
-  const list = q.prof_questions.filter(p => p.level === level);
   const wrap = document.getElementById('prof-list');
   if (!wrap) return;
+  // "similar" seviyesi: q.similar_top
+  let list;
+  if (level === 'similar') {
+    list = (q.similar_top || []).map((p, i) => ({
+      ...p,
+      id: p.id || `${q.num}_S${i+1}`,
+      level: 'similar'
+    }));
+  } else {
+    list = q.prof_questions.filter(p => p.level === level);
+  }
   if (!list.length) {
     wrap.innerHTML = '';
     return;
@@ -567,13 +587,13 @@ function renderProfList(q, level) {
     <div class="prof-card level-${p.level}" data-pid="${p.id}">
       <div class="prof-card-head">
         <span class="prof-id">${p.id}</span>
-        <span class="prof-level-badge ${p.level}">${p.level === 'zor' ? 'Zor' : 'Orta'}</span>
+        <span class="prof-level-badge ${p.level}">${p.level === 'zor' ? 'Zor' : (p.level === 'similar' ? '🔮 Olası' : 'Orta')}</span>
       </div>
       <div class="prof-subtopic">${escapeHtml(p.subtopic || p.stem.slice(0,80))}</div>
     </div>
   `).join('');
   wrap.querySelectorAll('.prof-card').forEach(el => {
-    el.addEventListener('click', () => openProf(q.id, el.dataset.pid));
+    el.addEventListener('click', () => openProf(q.id, el.dataset.pid, level === 'similar'));
   });
 }
 
@@ -658,17 +678,28 @@ function openNoteModal(qId) {
 }
 
 /* ======================= PROF SORU AÇ ======================= */
-function openProf(qId, pId) {
+function openProf(qId, pId, isSimilar) {
   const q = state.data.questions.find(x => x.id === qId);
-  const p = q.prof_questions.find(x => x.id === pId);
+  let p;
+  if (isSimilar) {
+    // similar_top'tan bul (id yoksa index ile)
+    const idx = (q.similar_top || []).findIndex((x, i) => (x.id || `${q.num}_S${i+1}`) === pId);
+    if (idx >= 0) {
+      const s = q.similar_top[idx];
+      p = { ...s, id: pId, level: 'similar' };
+    }
+  } else {
+    p = q.prof_questions.find(x => x.id === pId);
+  }
   if (!p) return;
 
   const modal = document.createElement('div');
   modal.className = 'modal active';
+  const levelLabel = p.level === 'zor' ? 'Zor' : (p.level === 'similar' ? '🔮 Olası Soru' : 'Orta');
   modal.innerHTML = `
     <div class="modal-content" style="max-height: 92vh">
       <div class="modal-header">
-        <div class="modal-title">${p.id} · ${p.level === 'zor' ? 'Zor' : 'Orta'}</div>
+        <div class="modal-title">${p.id} · ${levelLabel}</div>
         <button class="modal-close">×</button>
       </div>
       <div class="modal-body" style="font-family: -apple-system, system-ui, sans-serif; color: var(--text)">
