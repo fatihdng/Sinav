@@ -28408,45 +28408,6 @@
         {
           "id": "82_P6",
           "level": "zor",
-          "subtopic": "IoT — gerçek zamanlı takip amacı",
-          "note": "Notta birebir: \"Gerçek zamanlı takip ve analiz (artan yaşlı ve engelli sayısı nedeniyle önlenebilir ölümlerden kaçınma)\"",
-          "stem": "IoT temelli gerçek zamanlı takip ve analiz sistemlerinin başlıca amacı nedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Sadece maliyet düşürmek"
-            },
-            {
-              "letter": "B",
-              "text": "Önlenebilir ölümlerden kaçınma"
-            },
-            {
-              "letter": "C",
-              "text": "Hastane personel sayısını azaltmak"
-            },
-            {
-              "letter": "D",
-              "text": "Ekonomik analiz yapmak"
-            },
-            {
-              "letter": "E",
-              "text": "Reklam verilerini toplamak"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Gerçek zamanlı takip ve analiz (artan yaşlı ve engelli sayısı nedeniyle önlenebilir ölümlerden kaçınma)\"</b>",
-          "note_quote": "Gerçek zamanlı takip ve analiz (artan yaşlı ve engelli sayısı nedeniyle önlenebilir ölümlerden kaçınma) sensör verileri: EKG, vücut sıcaklığı, oksijen miktarı, uyku kan basıncı, hareket sensörleri...",
-          "note_ref": {
-            "file": "KDT s5) Tıp Bilişimi ve Sağlık Bilgi Sistemleri",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "82_P7",
-          "level": "zor",
           "subtopic": "IoT — klinik karar destek sistemi",
           "note": "Notta birebir: \"KKDS (Klinik Karar Destek Sistemleri)ni kısaca önceden belirlenmiş durumlar için algoritma yardımıyla belirli ve uzmanlık alanındaki sorunların çözümünde doktora yardımcı olan bilgisayar sistemi olarak tanımlayabiliriz.\"",
           "stem": "Klinik Karar Destek Sistemleri (KKDS) için aşağıdakilerden hangisi doğrudur?",
@@ -28484,7 +28445,7 @@
           }
         },
         {
-          "id": "82_P8",
+          "id": "82_P7",
           "level": "zor",
           "subtopic": "IoT — büyük sağlık verisi kaynakları",
           "note": "Notta birebir: \"Büyük Sağlık Verisi: e-nabız gibi resmi kurumlardan elde edilen verilerden, hasta portallarından, elektronik sağlık kayıtlarından, arama motor verileri, giyilebilir teknolojiler, akıllı telefonlardan gelen bilgiler gibi pek çok çeşitli veriden oluşmakta.\"",
@@ -29886,84 +29847,6 @@
             "type": "Not",
             "pages": "3"
           }
-        },
-        {
-          "id": "86_P4",
-          "level": "orta",
-          "subtopic": "Sağlık ölçütleri — bölgesel gelişmişlik",
-          "note": "Notta birebir: \"Bölgesel gelişmişliği de gösteren bu ölçütler şunlardır: Kaba ölüm hızı, Bebek ölüm hızı, Anne ölüm hızı...\"",
-          "stem": "Bölgesel gelişmişliği gösteren sağlık ölçütlerinden biri aşağıdakilerden hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Yıllık doğal artış hızı"
-            },
-            {
-              "letter": "B",
-              "text": "Anne ölüm hızı"
-            },
-            {
-              "letter": "C",
-              "text": "Toplam gelir"
-            },
-            {
-              "letter": "D",
-              "text": "Asgari ücret"
-            },
-            {
-              "letter": "E",
-              "text": "Üretim hızı"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Bölgesel gelişmişliği de gösteren bu ölçütler şunlardır: Kaba ölüm hızı, Bebek ölüm hızı, Anne ölüm hızı...\"</b>",
-          "note_quote": "Bölgesel gelişmişliği de gösteren bu ölçütler şunlardır: Kaba ölüm hızı, Bebek ölüm hızı, Anne ölüm hızı, 50+ yaş grubu ölenlerin tüm ölümlere oranı, En çok öldüren 10 hastalık listesi, Doğuştan beklenen yaşam süresi.",
-          "note_ref": {
-            "file": "data_anatomi_64_100",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": "soru 86 açıklaması"
-          }
-        },
-        {
-          "id": "86_P5",
-          "level": "zor",
-          "subtopic": "Yıllık doğal artış hızı — yetersizlik",
-          "note": "Notta birebir: \"Bölgesel gelişmişliği de gösteren bu ölçütler şunlardır: Kaba ölüm hızı, Bebek ölüm hızı, Anne ölüm hızı, 50+ yaş grubu ölenlerin tüm ölümlere oranı, En çok öldüren 10 hastalık listesi, Doğuştan beklenen yaşam süresi\"",
-          "stem": "Aşağıdaki sağlık ölçütlerinden hangisi ülkelerarası karşılaştırma yapıldığında en az öneme sahiptir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "En çok öldüren 10 hastalık listesi"
-            },
-            {
-              "letter": "B",
-              "text": "Kaba ölüm hızı"
-            },
-            {
-              "letter": "C",
-              "text": "Anne ölüm hızı"
-            },
-            {
-              "letter": "D",
-              "text": "Bebek ölüm hızı"
-            },
-            {
-              "letter": "E",
-              "text": "Yıllık doğal artış hızı"
-            }
-          ],
-          "correct": "E",
-          "explain": "Notta birebir: <b>\"Bölgesel gelişmişliği de gösteren bu ölçütler: Kaba ölüm hızı, Bebek ölüm hızı, Anne ölüm hızı, 50+ yaş grubu ölenlerin tüm ölümlere oranı, En çok öldüren 10 hastalık listesi, Doğuştan beklenen yaşam süresi\"</b> Yıllık doğal artış hızı bu listede yer almamaktadır.",
-          "note_quote": "Yıllık doğal artış hızı bu sağlık ölçütleri listesinde yer almamaktadır.",
-          "note_ref": {
-            "file": "data_anatomi_64_100",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": "soru 86 açıklaması"
-          }
         }
       ],
       "similar_top": [],
@@ -30925,45 +30808,6 @@
         {
           "id": "89_P4",
           "level": "orta",
-          "subtopic": "Yüksek sensitivite — klinik anlam",
-          "note": "Notta birebir: \"yüksek sensitivitesi olan testlerde... negatif sonuç hastalığı dışlar demek sen negatif çıktıysan hasta değilsindir hastalığı dışlarız çünkü test hassas...\"",
-          "stem": "Yüksek duyarlılığa sahip bir testin negatif sonucu ne anlama gelir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Hastalığı kesinleştirir"
-            },
-            {
-              "letter": "B",
-              "text": "Hastalığı dışlar"
-            },
-            {
-              "letter": "C",
-              "text": "Belirsizdir"
-            },
-            {
-              "letter": "D",
-              "text": "Anlamsızdır"
-            },
-            {
-              "letter": "E",
-              "text": "Prevalansa eşittir"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Duyarlılığı çok yüksek bir testin sonucu negatif gelirse kişinin hasta olmadığını belirtir ve hastalık rahatlıkla dışlanır.\"</b>",
-          "note_quote": "Duyarlılığı çok yüksek bir testin sonucu negatif gelirse kişinin hasta olmadığını belirtir ve hastalık rahatlıkla dışlanır.",
-          "note_ref": {
-            "file": "KDT s2) Tanı Testleri",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": "2"
-          }
-        },
-        {
-          "id": "89_P5",
-          "level": "orta",
           "subtopic": "Yüksek spesifite — klinik anlam",
           "note": "Notta birebir: \"Seçiciliği yüksek bir test pozitif sonuç verirse kişinin hasta olduğunu kuvvetle düşündürür.\"",
           "stem": "Yüksek seçiciliğe sahip bir testin pozitif sonucu ne anlama gelir?",
@@ -31001,7 +30845,7 @@
           }
         },
         {
-          "id": "89_P6",
+          "id": "89_P5",
           "level": "orta",
           "subtopic": "Doğruluk oranı — tanım",
           "note": "Notta birebir: \"Doğruluk dediğimiz gerçek pozitifle gerçek negatifin toplamının toplam kişi sayısına oranı.\"",
@@ -31040,7 +30884,7 @@
           }
         },
         {
-          "id": "89_P7",
+          "id": "89_P6",
           "level": "orta",
           "subtopic": "Geçerlilik — sensitivite ve spesifite",
           "note": "Notta birebir: \"Testin geçerliliği, hassasiyet ve seçicilikle ölçülür.\"",
@@ -31079,7 +30923,7 @@
           }
         },
         {
-          "id": "89_P8",
+          "id": "89_P7",
           "level": "zor",
           "subtopic": "Yanlış seçicilik tanımı — soruda",
           "note": "Notta birebir: \"Seçicilik, hastalar içinde testin bulduğu gerçek pozitiflerin oranıdır\" YANLIŞ — bu duyarlılığın tanımıdır.",
@@ -32797,84 +32641,6 @@
         {
           "id": "94_P2",
           "level": "orta",
-          "subtopic": "PDE5 inhibitörü — etki mekanizması",
-          "note": "Notta birebir: \"fosfodiesteraz 5 inhibitörleri kullanılarak nitrik oksit (NO) miktarı arttırılır vazodilatasyonla beraber kan akışı hızlanır.\"",
-          "stem": "Erektil disfonksiyon tedavisinde kullanılan fosfodiesteraz tip 5 inhibitörlerinin etki mekanizması nedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Nitrik oksit miktarını arttırarak vazodilatasyon ve kan akışı artışı"
-            },
-            {
-              "letter": "B",
-              "text": "Adrenalin salınımını arttırma"
-            },
-            {
-              "letter": "C",
-              "text": "Sempatik aktivasyonu artırma"
-            },
-            {
-              "letter": "D",
-              "text": "Vazokonstriksiyon"
-            },
-            {
-              "letter": "E",
-              "text": "Testosteron sentezini engelleme"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"fosfodiesteraz 5 inhibitörleri kullanılarak nitrik oksit (NO) miktarı arttırılır vazodilatasyonla beraber kan akışı hızlanır.\"</b>",
-          "note_quote": "Erektil disfonksiyon tedavisinde fosfodiesteraz tip 5 inhibitörleri kullanılır.",
-          "note_ref": {
-            "file": "Sağlıklı Yaşam s5) Sağlıklı Cinsel Yaşam",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": "1"
-          }
-        },
-        {
-          "id": "94_P3",
-          "level": "orta",
-          "subtopic": "Erkeklerde cinsel bozukluklar",
-          "note": "Notta birebir: \"Erkeklerde: Sertleşme bozukluğu, Erken veya geç boşalma\"",
-          "stem": "Aşağıdakilerden hangisi erkeklere özgü cinsel bozukluk DEĞİLDİR?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Sertleşme bozukluğu"
-            },
-            {
-              "letter": "B",
-              "text": "Erken veya geç boşalma"
-            },
-            {
-              "letter": "C",
-              "text": "Ejekülat azlığı"
-            },
-            {
-              "letter": "D",
-              "text": "Vajinismus"
-            },
-            {
-              "letter": "E",
-              "text": "Cinsel isteksizlik (özellikle erkeklerde)"
-            }
-          ],
-          "correct": "D",
-          "explain": "Notta birebir: <b>\"Erkeklerde: Sertleşme bozukluğu, Erken veya geç boşalma. Kadınlarda: Vajinismus, Orgazm bozukluğu.\"</b>",
-          "note_quote": "Cinsel isteksizlik: Özellikle erkeklerde.",
-          "note_ref": {
-            "file": "Sağlıklı Yaşam s5) Sağlıklı Cinsel Yaşam",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": "1"
-          }
-        },
-        {
-          "id": "94_P4",
-          "level": "orta",
           "subtopic": "Kadınlarda cinsel bozukluklar",
           "note": "Notta birebir: \"Kadınlarda: Vajinismus, Orgazm bozukluğu\"",
           "stem": "Aşağıdakilerden hangisi kadınlarda görülen cinsel bozukluktur?",
@@ -32912,7 +32678,7 @@
           }
         },
         {
-          "id": "94_P5",
+          "id": "94_P3",
           "level": "orta",
           "subtopic": "Her iki cinste görülen cinsel bozukluklar",
           "note": "Notta birebir: \"Her iki cinsiyette görülenler: Cinsel isteksizlik, Disparoni (ağrılı cinsel ilişki)\"",
@@ -32951,7 +32717,7 @@
           }
         },
         {
-          "id": "94_P6",
+          "id": "94_P4",
           "level": "orta",
           "subtopic": "Cinsel yolla bulaşan hastalıklar",
           "note": "Notta birebir: \"cinsel yolla bulaşan hastalıklara örnekler: Hiv, Hpv, Hepatitler, Bel soğukluğu, Sifiliz (frengi)\"",
@@ -32987,84 +32753,6 @@
             "week": "M4H6",
             "type": "Not",
             "pages": "1"
-          }
-        },
-        {
-          "id": "94_P7",
-          "level": "orta",
-          "subtopic": "Erektil disfonksiyon — yaşam tarzı risk faktörleri",
-          "note": "Notta birebir: \"Yaşam tarzı sonucu erektil bozukluk ortaya çıkabilir. Sigara, alkol kullanımı, sedanter yaşam stili sebep olabilir.\"",
-          "stem": "Erektil disfonksiyonun yaşam tarzına bağlı risk faktörleri arasında DEĞİLDİR?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Sigara kullanımı"
-            },
-            {
-              "letter": "B",
-              "text": "Alkol kullanımı"
-            },
-            {
-              "letter": "C",
-              "text": "Sedanter yaşam stili"
-            },
-            {
-              "letter": "D",
-              "text": "Düzenli egzersiz"
-            },
-            {
-              "letter": "E",
-              "text": "Kalp damar sistemi sorunları"
-            }
-          ],
-          "correct": "D",
-          "explain": "Notta birebir: <b>\"Yaşam tarzı sonucu erektil bozukluk ortaya çıkabilir. Sigara, alkol kullanımı, sedanter yaşam stili sebep olabilir.\"</b>",
-          "note_quote": "Çünkü erektil bozukluk genelde erkeklerde kalp damar sistemi sorunlarına bağlı gelişir.",
-          "note_ref": {
-            "file": "data_anatomi_64_100",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": "soru 94"
-          }
-        },
-        {
-          "id": "94_P8",
-          "level": "zor",
-          "subtopic": "Cinsel bozukluk farmakolojik tedavi — özgünlük",
-          "note": "Notta birebir: \"Sadece bu bozukluk için, diğerlerine etkileri çok yoktur.\"",
-          "stem": "Cinsel ilişki bozuklukları arasında PDE5 inhibitörlerinin etkili olduğu hastalık hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Tüm bozukluklar"
-            },
-            {
-              "letter": "B",
-              "text": "Sadece erektil disfonksiyon"
-            },
-            {
-              "letter": "C",
-              "text": "Sadece vajinismus"
-            },
-            {
-              "letter": "D",
-              "text": "Sadece orgazm bozukluğu"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece cinsel isteksizlik"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Sadece bu bozukluk için, diğerlerine etkileri çok yoktur. Erektil Disfonksiyon: Farmakolojik tedavi ile düzelebilir (Sadece bu bozukluk).\"</b>",
-          "note_quote": "Erektil Disfonksiyon: Farmakolojik tedavi ile düzelebilir (Sadece bu bozukluk).",
-          "note_ref": {
-            "file": "data_anatomi_64_100",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": "soru 94 açıklaması"
           }
         }
       ],
@@ -39215,45 +38903,6 @@
             "week": "M4H4",
             "type": "Slayt",
             "pages": 10
-          }
-        },
-        {
-          "id": "110_P8",
-          "level": "orta",
-          "subtopic": "Endometriyum tek katlı prizmatik epitel",
-          "note": "Notta birebir: \"Endometriyum üreme hayatı boyunca değişiklikler gösterir, tek katlı prizmatik epitele sahiptir az sayıda silya içerebilir.\"",
-          "stem": "Endometriyum yüzey epiteli hangi epitel tipindedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Yalancı çok katlı prizmatik"
-            },
-            {
-              "letter": "B",
-              "text": "Tek katlı prizmatik"
-            },
-            {
-              "letter": "C",
-              "text": "Çok katlı yassı keratinize"
-            },
-            {
-              "letter": "D",
-              "text": "Geçici (urotelyum)"
-            },
-            {
-              "letter": "E",
-              "text": "Tek katlı yassı"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"tek katlı prizmatik epitele sahiptir az sayıda silya içerebilir.\"</b>",
-          "note_quote": "Endometriyum üreme hayatı boyunca değişiklikler gösterir, tek katlı prizmatik epitele sahiptir az sayıda silya içerebilir.",
-          "note_ref": {
-            "file": "Disi_Ureme_2.pdf",
-            "week": "M4H4",
-            "type": "Slayt",
-            "pages": null
           }
         }
       ],
@@ -48969,45 +48618,6 @@
         },
         {
           "id": "136_P5",
-          "level": "orta",
-          "subtopic": "Asit-baz okuma yaklaşımı — önce pH",
-          "note": "Notta birebir: \"Önce pH’ı kontrol edelim. 7,46 yani artmış. Alkaloz.\"",
-          "stem": "Arter kanı analizinde asit-baz değerlendirmesinde ilk olarak hangi parametreye bakılmalıdır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "pCO2"
-            },
-            {
-              "letter": "B",
-              "text": "HCO3-"
-            },
-            {
-              "letter": "C",
-              "text": "pH"
-            },
-            {
-              "letter": "D",
-              "text": "Anyon açığı"
-            },
-            {
-              "letter": "E",
-              "text": "Baz açığı"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"Önce pH’ı kontrol edelim. 7,46 yani artmış. Alkaloz.\"</b>",
-          "note_quote": "Önce pH’ı kontrol edelim. 7,46 yani artmış. Alkaloz. İkinci olarak HCO3- konsantrasyonuna bakalım. Artmış, yani metabolik. Zaten Pco2 artmış. Yani solunumsal da bir kompensasyon var.",
-          "note_ref": {
-            "file": "D8_Asit Baz Dengesinin Düzenlenmesi.pdf",
-            "week": "M4H2",
-            "type": "Slayt",
-            "pages": 13
-          }
-        },
-        {
-          "id": "136_P6",
           "level": "kolay",
           "subtopic": "Normal arter pH değeri",
           "note": "Notta birebir: \"Normal pH ... pH = 7.4\"",
@@ -49046,7 +48656,7 @@
           }
         },
         {
-          "id": "136_P7",
+          "id": "136_P6",
           "level": "kolay",
           "subtopic": "Yaşamla bağdaşan pH aralığı",
           "note": "Notta birebir: \"İnsan yaşamı pH 6.8 ve 7.8 ... değerleri arasında mümkündür.\"",
@@ -49082,45 +48692,6 @@
             "week": "M4H3",
             "type": "Not",
             "pages": 1
-          }
-        },
-        {
-          "id": "136_P8",
-          "level": "zor",
-          "subtopic": "Asit-baz okuma — verilen olguda yorum",
-          "note": "Notta birebir: \"İkinci olarak HCO3- konsantrasyonuna bakalım. Artmış, yani metabolik. Zaten Pco2 artmış. Yani solunumsal da bir kompensasyon var.\"",
-          "stem": "pH↑, HCO3-↑ ve pCO2↑ olan bir arter kan gazı en uygun şekilde nasıl yorumlanır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Respiratuar asidoz + metabolik kompansasyon"
-            },
-            {
-              "letter": "B",
-              "text": "Metabolik asidoz + respiratuar kompansasyon"
-            },
-            {
-              "letter": "C",
-              "text": "Metabolik alkaloz + respiratuar kompansasyon"
-            },
-            {
-              "letter": "D",
-              "text": "Respiratuar alkaloz + metabolik kompansasyon"
-            },
-            {
-              "letter": "E",
-              "text": "Asit-baz bozukluğu yok"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"HCO3- ... Artmış, yani metabolik. Zaten Pco2 artmış. Yani solunumsal da bir kompensasyon var.\"</b>",
-          "note_quote": "Önce pH’ı kontrol edelim. 7,46 yani artmış. Alkaloz. İkinci olarak HCO3- konsantrasyonuna bakalım. Artmış, yani metabolik. Zaten Pco2 artmış. Yani solunumsal da bir kompensasyon var.",
-          "note_ref": {
-            "file": "D8_Asit Baz Dengesinin Düzenlenmesi.pdf",
-            "week": "M4H2",
-            "type": "Slayt",
-            "pages": 13
           }
         }
       ],
@@ -53012,320 +52583,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "147_P1",
-          "level": "orta",
-          "subtopic": "Memenin yerleşimi — 2. ve 6. kosta arası",
-          "note": "Notta birebir: \"Meme göğüs ön duvarında sağda ve solda bilateral çıkıntılar olarak bulunur. 2 ve 6.kosta arasında yer alır.\"",
-          "stem": "Meme aşağıdaki kosta aralıklarından hangisinde yerleşir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "1-3. kostalar arasında"
-            },
-            {
-              "letter": "B",
-              "text": "2-6. kostalar arasında"
-            },
-            {
-              "letter": "C",
-              "text": "4-8. kostalar arasında"
-            },
-            {
-              "letter": "D",
-              "text": "6-10. kostalar arasında"
-            },
-            {
-              "letter": "E",
-              "text": "8-12. kostalar arasında"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Meme ... 2 ve 6.kosta arasında yer alır.\"</b>",
-          "note_quote": "47-Meme göğüs ön duvarında sağda ve dolda bilateral çıkıntılar olarak bulunur. 2 ve 6.kosta arasında yer alır.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P2",
-          "level": "orta",
-          "subtopic": "Memenin alt kasları",
-          "note": "Notta birebir: \"M.pectoralis major, M. serratus anterior ve bazen de M. Obliquus üzerinde bulunur.\"",
-          "stem": "Memenin altında genellikle bulunan kaslar aşağıdakilerden hangileridir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "M. trapezius ve M. latissimus dorsi"
-            },
-            {
-              "letter": "B",
-              "text": "M. pectoralis major ve M. serratus anterior"
-            },
-            {
-              "letter": "C",
-              "text": "M. deltoideus ve M. rhomboideus"
-            },
-            {
-              "letter": "D",
-              "text": "M. sternocleidomastoideus ve M. omohyoideus"
-            },
-            {
-              "letter": "E",
-              "text": "M. transversus abdominis ve M. rectus abdominis"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"M.pectoralis major, M. serratus anterior ve bazen de M. Obliquus üzerinde bulunur.\"</b>",
-          "note_quote": "M.pectoralis major, M. serratus anterior ve bazen de M. Obliquus üzerinde bulunur. ( Yani meme yüzeyel fasya ve bu kaslar arasında bulunur.)",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P3",
-          "level": "orta",
-          "subtopic": "Dış üst kadran lenfatik drenajı — pektoral lenf nodları",
-          "note": "Notta birebir: \"Memenin dış üst kadranı pectoral lenf nodlarına bazen de subclavicular lenf nodlarına drene olur.\"",
-          "stem": "Memenin dış üst kadranı öncelikle hangi lenf nodlarına drene olur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Parasternal lenf nodları"
-            },
-            {
-              "letter": "B",
-              "text": "İnguinal lenf nodları"
-            },
-            {
-              "letter": "C",
-              "text": "Pektoral lenf nodları (nodi lymphatici pectorales)"
-            },
-            {
-              "letter": "D",
-              "text": "Mediastinal lenf nodları"
-            },
-            {
-              "letter": "E",
-              "text": "Paraaortik lenf nodları"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"Memenin dış üst kadranı pectoral lenf nodlarına bazen de subclavicular lenf nodlarına drene olur.\"</b> Soruda B şıkkı (lateral lenflerin nodi lymphatici pectorales’e dökülmesi) doğru bir ifadedir; dolayısıyla yanlış olan seçenek değildir.",
-          "note_quote": "Memenin dış üst kadranı pectoral lenf nodlarına bazen de subclavicular lenf nodlarına drene olur. Oradan centrale, apicale ve supra/infraclavicular lenf nodullerine açılır.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P4",
-          "level": "orta",
-          "subtopic": "Medial kısım — parasternal lenf nodları",
-          "note": "Notta birebir: \"Medial kısım ise parasternal lenf nodüllerine drene olur.\"",
-          "stem": "Memenin medial kısmı hangi lenf nodüllerine drene olur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Parasternal lenf nodülleri"
-            },
-            {
-              "letter": "B",
-              "text": "Pektoral lenf nodülleri"
-            },
-            {
-              "letter": "C",
-              "text": "Aksiller apikal lenf nodülleri"
-            },
-            {
-              "letter": "D",
-              "text": "Servikal lenf nodülleri"
-            },
-            {
-              "letter": "E",
-              "text": "İnguinal lenf nodülleri"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Medial kısım ise parasternal lenf nodüllerine drene olur.\"</b>",
-          "note_quote": "Medial kısım ise parasternal lenf nodüllerine drene olur.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P5",
-          "level": "orta",
-          "subtopic": "Gl. areolaris (Montgomery bezleri)",
-          "note": "Notta birebir: \"Gl. Areolaris (montgomery bezleri) adı verilen salgı bezleri bebeğin süt emmesi sırasında bölgeye ıslaklık kazandırarak meme ucunun tahriş olmasını engeller...\"",
-          "stem": "Gl. areolares (Montgomery bezleri) ile ilgili aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Süt emme sırasında bölgeye ıslaklık kazandırır ve meme ucu tahrişini önler"
-            },
-            {
-              "letter": "B",
-              "text": "Ter bezi olarak işlev görür"
-            },
-            {
-              "letter": "C",
-              "text": "Serbest yağ asitleri salgılar"
-            },
-            {
-              "letter": "D",
-              "text": "Yalnızca menopozda aktiftir"
-            },
-            {
-              "letter": "E",
-              "text": "Mukus salgılar"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Gl. Areolaris (montgomery bezleri) ... bölgeye ıslaklık kazandırarak meme ucunun tahriş olmasını engeller.\"</b>",
-          "note_quote": "Gl. Areolaris (montgomery bezleri) adı verilen salgı bezleri bebeğin süt emmesi sırasında bölgeye ıslaklık kazandırarak meme ucunun tahriş olmasını engeller ve bebeğin ağzının da bu bölgeye tutunabilmesini sağlar.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P6",
-          "level": "orta",
-          "subtopic": "Areola venöz pleksusu — Haller pleksusu",
-          "note": "Notta birebir: \"Memenin areolası etrafında bir ven plexusu görülür. Buna plexus venosus areolaris ya da haller plexusu denir.\"",
-          "stem": "Areola çevresinde bulunan venöz pleksusun diğer adı aşağıdakilerden hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Pampiniform pleksus"
-            },
-            {
-              "letter": "B",
-              "text": "Plexus venosus areolaris (Haller pleksusu)"
-            },
-            {
-              "letter": "C",
-              "text": "Plexus venosus pterygoideus"
-            },
-            {
-              "letter": "D",
-              "text": "Plexus vesicalis"
-            },
-            {
-              "letter": "E",
-              "text": "Plexus prostaticus"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Plexus venosus areolaris ya da haller plexusu denir.\"</b>",
-          "note_quote": "Memenin areolası etrafında bir ven plexusu görülür. Buna plexus venosus areolaris ya da haller plexusu denir.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P7",
-          "level": "orta",
-          "subtopic": "Mediale açılan ven — v. thoracica interna",
-          "note": "Notta birebir: \"Mediale açılan kısmı v. Thoracica interna ve onun perforan dallarına ...\"",
-          "stem": "Memenin venöz drenajında mediale açılan kısım aşağıdaki venlerden hangisine drene olur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "V. axillaris"
-            },
-            {
-              "letter": "B",
-              "text": "V. thoracica lateralis"
-            },
-            {
-              "letter": "C",
-              "text": "V. thoracica interna ve perforan dalları"
-            },
-            {
-              "letter": "D",
-              "text": "V. cephalica"
-            },
-            {
-              "letter": "E",
-              "text": "V. subclavia"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"Mediale açılan kısmı v. Thoracica interna ve onun perforan dallarına\"</b> drene olur.",
-          "note_quote": "Mediale açılan kısmı v. Thoracica interna ve onun perforan dallarına , laterale açılan kısmı v. Thoracica lateralis ve oaradan v.axillarise açılır.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "147_P8",
-          "level": "zor",
-          "subtopic": "Memenin lenfatik drenajı — taraf farkı",
-          "note": "Notta birebir: \"Sağ memenin lenfatiği üst extremiteden gelen lenfle beraber truncus subclavicus dextere, sol memenin lenfatiği ise ductus thoracicusa açılır.\"",
-          "stem": "Sol memenin lenfatiği nihai olarak hangi büyük lenf yapısına dökülür?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Truncus subclavius dexter"
-            },
-            {
-              "letter": "B",
-              "text": "Truncus lumbalis dexter"
-            },
-            {
-              "letter": "C",
-              "text": "Ductus thoracicus"
-            },
-            {
-              "letter": "D",
-              "text": "Cisterna chyli"
-            },
-            {
-              "letter": "E",
-              "text": "Truncus intestinalis"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"sol memenin lenfatiği ise ductus thoracicusa açılır.\"</b>",
-          "note_quote": "Sağ memenin lenfatiği üst extremiteden gelen lenfle beraber truncus subclavicus dextere , sol memenin lenfatiği ise ductus thoracicusa açılır.",
-          "note_ref": {
-            "file": "2028 Mezunlar Modül 4 — Soru 146 explain (anatomi notu)",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": "6"
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -53407,45 +52665,6 @@
       "prof_questions": [
         {
           "id": "148_P1",
-          "level": "zor",
-          "subtopic": "Tübüloglomerüler feedback — Na/K/2Cl simport",
-          "note": "Notta birebir: \"Apikal hücre zarından Na/K/2Cl simport mekanizmasıyla NaCl transportu artar.\"",
-          "stem": "Tübüloglomerüler feedback mekanizmasında makula densa hücrelerinin apikal membranında NaCl transportunu sağlayan asıl taşıyıcı hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Epitelyal Na+ kanalı (ENaC)"
-            },
-            {
-              "letter": "B",
-              "text": "Na+/H+ antiport"
-            },
-            {
-              "letter": "C",
-              "text": "Na+/Cl- simport"
-            },
-            {
-              "letter": "D",
-              "text": "Pendrin (Cl-/HCO3- exchanger)"
-            },
-            {
-              "letter": "E",
-              "text": "Na+/K+/2Cl- simport"
-            }
-          ],
-          "correct": "E",
-          "explain": "Notta birebir: <b>\"Apikal hücre zarından Na/K/2Cl simport mekanizmasıyla NaCl transportu artar.\"</b> Bu taşıyıcının blokajı tübüloglomerüler feedbacki inhibe eder.",
-          "note_quote": "Apikal hücre zarından Na/K/2Cl simport mekanizmasıyla NaCl transportu artar. Hücre içi Na ve Cl nin artması afferent arteriollerde daralmaya neden olan sinyalleri başlatır.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "148_P2",
           "level": "orta",
           "subtopic": "Makula densa sinyal molekülleri — ATP ve adenozin",
           "note": "Notta birebir: \"Makula densa hücrelerinden adenozin trifosfat (ATP) ve adenozin (ADO) salınır.\"",
@@ -53484,124 +52703,7 @@
           }
         },
         {
-          "id": "148_P3",
-          "level": "orta",
-          "subtopic": "NaCl artışı → afferent arteriol vazokonstriksiyonu",
-          "note": "Notta birebir: \"Hücre içi Na ve Cl nin artması afferent arteriollerde daralmaya neden olan sinyalleri başlatır.\"",
-          "stem": "Makula densaya ulaşan tübüler sıvıda NaCl artışı aferent arteriolde hangi yanıta yol açar?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Vazokonstriksiyon (daralma)"
-            },
-            {
-              "letter": "B",
-              "text": "Vazodilatasyon (genişleme)"
-            },
-            {
-              "letter": "C",
-              "text": "Endotel hiperplazisi"
-            },
-            {
-              "letter": "D",
-              "text": "Damar duvarı kalcifikasyonu"
-            },
-            {
-              "letter": "E",
-              "text": "Yapısal değişiklik olmaz"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Hücre içi Na ve Cl nin artması afferent arteriollerde daralmaya neden olan sinyalleri başlatır.\"</b>",
-          "note_quote": "Hücre içi Na ve Cl nin artması afferent arteriollerde daralmaya neden olan sinyalleri başlatır.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "148_P4",
-          "level": "orta",
-          "subtopic": "GFR↑ → Makula densaya NaCl artışı",
-          "note": "Notta birebir: \"Arter basıncı ve dolayısıyla GFH’nın artması makula densaya ulaşan tübüler sıvıda NaCl artmasına neden olur.\"",
-          "stem": "Arter basıncı ve GFH arttığında tübüloglomerüler feedback sürecinde ilk gözlenen değişiklik nedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Distal tübülde glikoz emiliminin azalması"
-            },
-            {
-              "letter": "B",
-              "text": "Makula densaya ulaşan tübüler sıvıda NaCl artışı"
-            },
-            {
-              "letter": "C",
-              "text": "Renin sekresyonunda büyük artış"
-            },
-            {
-              "letter": "D",
-              "text": "Efferent arteriol vazodilatasyonu"
-            },
-            {
-              "letter": "E",
-              "text": "Proksimal tübül atrofisi"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"GFH’nın artması makula densaya ulaşan tübüler sıvıda NaCl artmasına neden olur.\"</b>",
-          "note_quote": "Arter basıncı ve dolayısıyla GFH’nın artması makula densaya ulaşan tübüler sıvıda NaCl artmasına neden olur.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "148_P5",
-          "level": "zor",
-          "subtopic": "Adenozin A1 reseptörü — afferent düz kas Ca↑",
-          "note": "Notta birebir: \"Adenozin aferent artetiolü çevreleyen düz kas hücrelerinin plazma membranındaki A1 reseptörünlerine bağlanır.\"",
-          "stem": "Tübüloglomerüler feedbackte adenozin afferent arteriol düz kasında etkisini hangi reseptör üzerinden gerçekleştirir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "A1 reseptörü"
-            },
-            {
-              "letter": "B",
-              "text": "P2X reseptörü (yalnızca ATP için)"
-            },
-            {
-              "letter": "C",
-              "text": "β2-adrenerjik reseptör"
-            },
-            {
-              "letter": "D",
-              "text": "AT1 reseptörü"
-            },
-            {
-              "letter": "E",
-              "text": "M3 muskarinik reseptör"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Adenozin ... A1 reseptörünlerine bağlanır. (ATP ve PX2 reseptörlerine bağlanır.) Hücre içi ca düzeyinde artışa neden olarak afferent arteriolde vazokonstrüksiyonu indükler.\"</b>",
-          "note_quote": "Adenozin aferent artetiolü çevreleyen düz kas hücrelerinin plazma membranındaki A1 reseptörünlerine bağlanır.(ATP ve PX2 reseptörlerine bağlanır) Hücre içi ca düzeyinde artışa neden olarak afferent arteriolde vazokonstrüksiyonu indükler.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "148_P6",
+          "id": "148_P2",
           "level": "orta",
           "subtopic": "Otoregülasyonun çalışma aralığı",
           "note": "Notta birebir: \"Otoregülasyon arter basıncının 90 mmHg’nin altında düştüğü durumlarda çalışmaz. 90 – 180 mmHg arasında anlamlı düzenleme yapabilir.\"",
@@ -53640,46 +52742,7 @@
           }
         },
         {
-          "id": "148_P7",
-          "level": "zor",
-          "subtopic": "Tübüloglomerüler feedback inhibisyonu — Na/K/2Cl bloku",
-          "note": "Notta birebir: \"Bu nedenle eğer Na/K/2Cl taşıyıcı mekanizması bloke edilirse bu mekanizma inhibe olur.\"",
-          "stem": "Loop diüretiklerinin (örn. furosemid) Na/K/2Cl simportunu bloke etmesi tübüloglomerüler feedback üzerinde nasıl bir etki oluşturur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Mekanizmayı güçlendirir"
-            },
-            {
-              "letter": "B",
-              "text": "Mekanizmayı inhibe eder (devre dışı bırakır)"
-            },
-            {
-              "letter": "C",
-              "text": "Aldosteron salınımını engeller"
-            },
-            {
-              "letter": "D",
-              "text": "Efferent arteriolü genişletir"
-            },
-            {
-              "letter": "E",
-              "text": "Etkisizdir"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Eğer Na/K/2Cl taşıyıcı mekanizması bloke edilirse bu mekanizma inhibe olur.\"</b>",
-          "note_quote": "Bu nedenle eğer Na/K/2Cl taşıyıcı mekanizması bloke edilirse bu mekanizma inhibe olur.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": "6"
-          }
-        },
-        {
-          "id": "148_P8",
+          "id": "148_P3",
           "level": "orta",
           "subtopic": "Miyojenik mekanizma — afferent arteriol daralması",
           "note": "Notta birebir: \"Afferent arteriolde kan basıncı artınca düz kas gerimi artar ve kasılma eğilimi artar.\"",
@@ -55745,123 +54808,6 @@
       "prof_questions": [
         {
           "id": "154_P1",
-          "level": "orta",
-          "subtopic": "Genetik olmayan ilişkiler — fenotipik karışım",
-          "note": "Açıklamada birebir: \"Virüsler Arası Genetik Olmayan İlişkiler: Fenotipik karışım; transkapsidasyon, mozaik kapsid oluşumu, Poliploidi ve Heteroploidi, Komplementasyon.\"",
-          "stem": "Aşağıdakilerden hangisi virüsler arasında genetik olmayan bir ilişkidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "İntramoleküler rekombinasyon"
-            },
-            {
-              "letter": "B",
-              "text": "Genetik reassortment"
-            },
-            {
-              "letter": "C",
-              "text": "İşaret kurtarımı"
-            },
-            {
-              "letter": "D",
-              "text": "Komplementasyon"
-            },
-            {
-              "letter": "E",
-              "text": "Multiplicity reaktivasyon"
-            }
-          ],
-          "correct": "D",
-          "explain": "Açıklamadan: <b>\"Komplementasyon\"</b> genetik olmayan ilişkidir.",
-          "note_quote": "Virüsler Arası Genetik Olmayan İlişkiler: Fenotipik karışım; transkapsidasyon, mozaik kapsid oluşumu, Poliploidi ve Heteroploidi, Komplementasyon.",
-          "note_ref": {
-            "file": "Hafta 3 - Virüs Genetiği",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "154_P2",
-          "level": "orta",
-          "subtopic": "Genetik ilişkiler — rekombinasyon",
-          "note": "Açıklamada birebir: \"Virüsler arası genetik ilişkiler: İntramoleküler Rekombinasyon, Genetik Reassorment, Multiplicity Reaktivasyon, İşaret kurtarımı (Çapraz Reaktivasyon)\"",
-          "stem": "Aşağıdakilerden hangisi virüsler arası genetik bir ilişkidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Fenotipik karışım"
-            },
-            {
-              "letter": "B",
-              "text": "Transkapsidasyon"
-            },
-            {
-              "letter": "C",
-              "text": "Mozaik kapsid oluşumu"
-            },
-            {
-              "letter": "D",
-              "text": "İntramoleküler rekombinasyon"
-            },
-            {
-              "letter": "E",
-              "text": "Poliploidi"
-            }
-          ],
-          "correct": "D",
-          "explain": "Açıklamadan: <b>\"İntramoleküler Rekombinasyon\"</b> genetik ilişkilerdendir.",
-          "note_quote": "Virüsler arası genetik ilişkiler: İntramoleküler Rekombinasyon, Genetik Reassorment, Multiplicity Reaktivasyon, İşaret kurtarımı (Çapraz Reaktivasyon)",
-          "note_ref": {
-            "file": "Hafta 3 - Virüs Genetiği",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "154_P3",
-          "level": "orta",
-          "subtopic": "Mozaik kapsid — genetik olmayan",
-          "note": "Açıklamada birebir: \"mozaik kapsid oluşumu\" genetik olmayan ilişkilerdendir.",
-          "stem": "Mozaik kapsid oluşumu virüsler arası hangi tür ilişkidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Genetik rekombinasyon"
-            },
-            {
-              "letter": "B",
-              "text": "Genetik olmayan ilişki"
-            },
-            {
-              "letter": "C",
-              "text": "Reassortment"
-            },
-            {
-              "letter": "D",
-              "text": "Multiplicity reaktivasyon"
-            },
-            {
-              "letter": "E",
-              "text": "İşaret kurtarımı"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"mozaik kapsid oluşumu\"</b> genetik olmayan ilişkidir.",
-          "note_quote": "Virüsler Arası Genetik Olmayan İlişkiler: Fenotipik karışım; transkapsidasyon, mozaik kapsid oluşumu, Poliploidi ve Heteroploidi, Komplementasyon.",
-          "note_ref": {
-            "file": "Hafta 3 - Virüs Genetiği",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "154_P4",
           "level": "zor",
           "subtopic": "Genetik reassortment — segmentli virüsler",
           "note": "Notta birebir: \"Yüzey glikoproteinleri, T-hücre epitoplarında değişim; Genetik reassortment ve nokta mutasyonlar sonucu Örn: İnfluenzavirus, Rhinovirus, Rotavirus, HIV\"",
@@ -55897,84 +54843,6 @@
             "week": "M4H4",
             "type": "Not",
             "pages": 13
-          }
-        },
-        {
-          "id": "154_P5",
-          "level": "orta",
-          "subtopic": "İşaret kurtarımı — çapraz reaktivasyon",
-          "note": "Açıklamada birebir: \"İşaret kurtarımı (Çapraz Reaktivasyon)\" genetik ilişkilerdendir.",
-          "stem": "Aşağıdakilerden hangisi virüsler arası genetik bir ilişkidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Komplementasyon"
-            },
-            {
-              "letter": "B",
-              "text": "Transkapsidasyon"
-            },
-            {
-              "letter": "C",
-              "text": "Mozaik kapsid oluşumu"
-            },
-            {
-              "letter": "D",
-              "text": "İşaret kurtarımı (Çapraz Reaktivasyon)"
-            },
-            {
-              "letter": "E",
-              "text": "Heteroploidi"
-            }
-          ],
-          "correct": "D",
-          "explain": "Açıklamadan: <b>\"İşaret kurtarımı (Çapraz Reaktivasyon)\"</b>.",
-          "note_quote": "Virüsler arası genetik ilişkiler: İntramoleküler Rekombinasyon, Genetik Reassorment, Multiplicity Reaktivasyon, İşaret kurtarımı (Çapraz Reaktivasyon)",
-          "note_ref": {
-            "file": "Hafta 3 - Virüs Genetiği",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "154_P6",
-          "level": "orta",
-          "subtopic": "Komplementasyon — kalıcı genetik değişim yok",
-          "note": "Açıklamada birebir: Komplementasyon genetik olmayan ilişkilerden biridir; iki virüsten birinin eksik fonksiyonunu diğeri tamamlar ama kalıcı genetik değişiklik olmaz.",
-          "stem": "Bir virüsün ürün fonksiyonunun başka bir virüs tarafından kalıcı genetik değişiklik olmaksızın tamamlanmasına ne ad verilir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Rekombinasyon"
-            },
-            {
-              "letter": "B",
-              "text": "Reassortment"
-            },
-            {
-              "letter": "C",
-              "text": "Komplementasyon"
-            },
-            {
-              "letter": "D",
-              "text": "İşaret kurtarımı"
-            },
-            {
-              "letter": "E",
-              "text": "Multiplicity reaktivasyon"
-            }
-          ],
-          "correct": "C",
-          "explain": "Açıklamadan: <b>\"Komplementasyon\"</b> genetik olmayan ilişkidir.",
-          "note_quote": "Virüsler Arası Genetik Olmayan İlişkiler: Fenotipik karışım; transkapsidasyon, mozaik kapsid oluşumu, Poliploidi ve Heteroploidi, Komplementasyon.",
-          "note_ref": {
-            "file": "Hafta 3 - Virüs Genetiği",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
           }
         }
       ],
@@ -56567,45 +55435,6 @@
         {
           "id": "156_P4",
           "level": "orta",
-          "subtopic": "Rekombinan aşı — Hepatit B örneği",
-          "note": "Notta birebir: \"Örnekler: Tetanoz, difteri, hepatit B (Rekombinant protein).\"",
-          "stem": "Rekombinant protein temelli aşıya en bilinen örnek hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Polio (Salk)"
-            },
-            {
-              "letter": "B",
-              "text": "MMR"
-            },
-            {
-              "letter": "C",
-              "text": "BCG"
-            },
-            {
-              "letter": "D",
-              "text": "Hepatit B"
-            },
-            {
-              "letter": "E",
-              "text": "Tetanoz toksoidi"
-            }
-          ],
-          "correct": "D",
-          "explain": "Notta birebir: <b>\"hepatit B (Rekombinant protein)\"</b>.",
-          "note_quote": "Örnekler: Tetanoz, difteri, hepatit B (Rekombinant protein).",
-          "note_ref": {
-            "file": "Mikrobiyoloji s15) Aşılar ve Pasif Bağışıklama.pdf",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": 9
-          }
-        },
-        {
-          "id": "156_P5",
-          "level": "orta",
           "subtopic": "Canlı atenüe örnekleri",
           "note": "Notta birebir: \"Örnekler: Polio (Sabin/OPV), Kızamık, kabakulak, kızamıkçık (MMR) = Canlı attenüe virüs aşıları. BCG = Canlı attenüe bakteri aşıları.\"",
           "stem": "Aşağıdakilerden hangisi canlı atenüe aşı değildir?",
@@ -56643,7 +55472,7 @@
           }
         },
         {
-          "id": "156_P6",
+          "id": "156_P5",
           "level": "orta",
           "subtopic": "İnaktif aşı örnekleri",
           "note": "Notta birebir: \"Örnekler: Polio (Salk/IPV), Hepatit A, Kuduz.\"",
@@ -56682,7 +55511,7 @@
           }
         },
         {
-          "id": "156_P7",
+          "id": "156_P6",
           "level": "orta",
           "subtopic": "İmmün yetmezliklerde canlı aşı kontrendike",
           "note": "Notta birebir: \"İmmün yetmezlikli hastalarda canlı attenüe aşılar kullanılmaz, bu hastalarda ölü aşılar tercih edilir!\"",
@@ -56718,45 +55547,6 @@
             "week": "M4H4",
             "type": "Not",
             "pages": 8
-          }
-        },
-        {
-          "id": "156_P8",
-          "level": "orta",
-          "subtopic": "mRNA aşıları — yeni nesil",
-          "note": "Notta birebir: \"DNA/mRNA aşıları: Hastanın kendi hücrelerine, viral antijeni üretmesi için genetik bir talimat setinin iletilmesidir. Vücut kendi aşısını kendi üretir. (örneğin COVID-19 mRna)\"",
-          "stem": "COVID-19 için kullanılan mRNA aşıları için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Canlı virüs içerir"
-            },
-            {
-              "letter": "B",
-              "text": "Vücut kendi hücrelerinde viral antijeni üretir"
-            },
-            {
-              "letter": "C",
-              "text": "Polisakkarit içerir"
-            },
-            {
-              "letter": "D",
-              "text": "Toksoid temellidir"
-            },
-            {
-              "letter": "E",
-              "text": "Ölü virüs partikülleri içerir"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"Vücut kendi aşısını kendi üretir.\"</b>",
-          "note_quote": "Dna/ mRna aşıları: Hastanın kendi hücrelerine, viral antijeni üretmesi için genetik bir talimat setinin iletilmesidir. Vücut kendi aşısını kendi üretir. (örneğin COVID-19 mRna).",
-          "note_ref": {
-            "file": "Mikrobiyoloji s15) Aşılar ve Pasif Bağışıklama.pdf",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": 10
           }
         }
       ],
@@ -56919,45 +55709,6 @@
         },
         {
           "id": "157_P3",
-          "level": "zor",
-          "subtopic": "Mezangiyal hücre kontraksiyonu — Kf azalır → GFH azalır",
-          "note": "Notta birebir (explain): \"Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin kontraktilitesindeki değişikliklerden önemli ölçüde etkilenir\"",
-          "stem": "Mezangiyal hücre kontraksiyonu GFH üzerinde nasıl bir etki gösterir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Kf'yi azaltarak GFH'yı düşürür"
-            },
-            {
-              "letter": "B",
-              "text": "Kf'yi artırarak GFH'yı yükseltir"
-            },
-            {
-              "letter": "C",
-              "text": "Etkisi yoktur"
-            },
-            {
-              "letter": "D",
-              "text": "Sadece RPA'yı artırır"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece Bowman basıncını artırır"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin kontraktilitesindeki değişikliklerden... etkilenir.\"</b> Mezangiyal kontraksiyon Kf düşürür.",
-          "note_quote": "Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin kontraktilitesindeki değişikliklerden önemli ölçüde etkilenir.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "157_P4",
           "level": "orta",
           "subtopic": "Renal arter basıncı GFH belirleyicisi",
           "note": "Notta birebir: \"Starling kuvvetlerini etkileyen faktörler (Puf): Afferent arteriol direnci, Efferent arteriol direnci, Renal arter basıncı, Bowman boşluğu basıncı, Plazma onkotik basıncı.\"",
@@ -56996,7 +55747,7 @@
           }
         },
         {
-          "id": "157_P5",
+          "id": "157_P4",
           "level": "orta",
           "subtopic": "Bowman boşluğu basıncı artışı — GFH azalır",
           "note": "Notta birebir: \"Üreter taşı nedeniyle obstrüksiyonu olan bir hastanın GFR'sinin azalmış olduğu saptanıyor... Bowman hidrostatik basıncında artma\"",
@@ -57035,7 +55786,7 @@
           }
         },
         {
-          "id": "157_P6",
+          "id": "157_P5",
           "level": "orta",
           "subtopic": "Efferent arteriol dilatasyonu — GFH azalır",
           "note": "Notta birebir: \"Efferent arteriolar dirençte artış; -Glomerüler kapiller basıncı artırır. Aynı anda renal plazma akımını azaltır.\"",
@@ -57074,46 +55825,7 @@
           }
         },
         {
-          "id": "157_P7",
-          "level": "orta",
-          "subtopic": "Anjiyotensin-II — efferent vazokonstriksiyon",
-          "note": "Notta birebir: \"anjiyotensin-2'nin direkt efferent arteriol üzerindeki güçlü vazokonstrüksiyonu sebebiyle GFH'nı azaltmasıdır.\"",
-          "stem": "Anjiyotensin-II böbrekte primer olarak hangi damar üzerine etki ederek GFH'yi düzenler?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Afferent arteriol"
-            },
-            {
-              "letter": "B",
-              "text": "Efferent arteriol"
-            },
-            {
-              "letter": "C",
-              "text": "Peritübüler kapiller"
-            },
-            {
-              "letter": "D",
-              "text": "Vasa recta"
-            },
-            {
-              "letter": "E",
-              "text": "Renal ven"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"anjiyotensin-2 nin direkt efferent arteriol üzerindeki güçlü vazokonstrüksiyonu\"</b>.",
-          "note_quote": "Hoca bu tabloda bazı yerlerde GFH'nı direkt arttırır demenin fazla iddialı olduğunu söyledi. Yanlış değil ama eksiktir. Bunlardan biri anjiyotensin-2 nin direkt efferent arteriol üzerindeki güçlü vazokonstrüksiyonu sebebiyle GFH'nı azaltmasıdır.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": 8
-          }
-        },
-        {
-          "id": "157_P8",
+          "id": "157_P6",
           "level": "orta",
           "subtopic": "Miyojenik otoregülasyon",
           "note": "Notta birebir: \"Miyojenik Mekanizma (Otoregülasyon), basınç değişikliklerine karşı GFH'nı aynı düzeyde tutmaya çalışan bir mekanizmadır.\"",
@@ -58143,125 +56855,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "161_P1",
-          "level": "orta",
-          "subtopic": "Zarflı virüsler — glikoproteinler dışta",
-          "note": "Açıklamada birebir: \"Matriks proteini, zarf yapısının iç kısmını döşer. Glikoproteinler ise zardan dışarıya doğru çıkıntı şeklinde uzanmaktadırlar.\"",
-          "stem": "Zarflı virüslerde matriks proteininin yeri ile ilgili aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Zarf yapısının iç kısmını döşer"
-            },
-            {
-              "letter": "B",
-              "text": "Glikoproteinlerle birlikte dışta yer alır"
-            },
-            {
-              "letter": "C",
-              "text": "Nükleik aside doğrudan bağlanır"
-            },
-            {
-              "letter": "D",
-              "text": "Sadece çıplak virüslerde bulunur"
-            },
-            {
-              "letter": "E",
-              "text": "Kapsidi tamamen örter"
-            }
-          ],
-          "correct": "A",
-          "explain": "Açıklamadan: <b>\"Matriks proteini, zarf yapısının iç kısmını döşer.\"</b>",
-          "note_quote": "Matriks proteini, zarf yapısının iç kısmını döşer. Glikoproteinler ise zardan dışarıya doğru çıkıntı şeklinde uzanmaktadırlar.",
-          "note_ref": {
-            "file": "Hafta 4 - Virusların Genel Özellikleri ve Sınıflandırılması",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "161_P2",
-          "level": "orta",
-          "subtopic": "Helikal hayvan virüsleri — tümü zarflı",
-          "note": "Açıklamada birebir: \"Tüm helikal hayvan virüsleri zarflıdır.\"",
-          "stem": "Hayvanlarda hastalık yapan helikal simetrili virüsler için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Genellikle çıplaktır"
-            },
-            {
-              "letter": "B",
-              "text": "Tümü zarflıdır"
-            },
-            {
-              "letter": "C",
-              "text": "Bitki virüslerinde çoğunluk gibi çıplaktır"
-            },
-            {
-              "letter": "D",
-              "text": "Hiçbir zarf taşımaz"
-            },
-            {
-              "letter": "E",
-              "text": "İkozahedraldir"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"Tüm helikal hayvan virüsleri zarflıdır.\"</b>",
-          "note_quote": "Helikal simetrili virüsler zarflı veya çıplak olabilir. Bitki virüslerinin çoğu helikaldir ve helikal bir bitki virüsünün zarflı olması çok nadirdir. Tüm helikal hayvan virüsleri zarflıdır.",
-          "note_ref": {
-            "file": "Hafta 4 - Virusların Genel Özellikleri ve Sınıflandırılması",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "161_P3",
-          "level": "orta",
-          "subtopic": "Pozitif polariteli RNA virüsleri — kendi mRNA olarak işlev görür",
-          "note": "Açıklamada birebir: pozitif polariteli RNA, hücrede kendi başına mRNA gibi davranır.",
-          "stem": "Pozitif polariteli (+ RNA) virüsler için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Hücrede kendi başına mRNA gibi okunabilir"
-            },
-            {
-              "letter": "B",
-              "text": "Mutlaka önce ters transkriptaz kullanır"
-            },
-            {
-              "letter": "C",
-              "text": "Sadece RNA polimeraz olarak görev görür"
-            },
-            {
-              "letter": "D",
-              "text": "DNA virüsleridir"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece çıplak yapıdadır"
-            }
-          ],
-          "correct": "A",
-          "explain": "Açıklamadan: <b>\"pozitif RNA virüsleri hücrede kendi\"</b> mRNA olarak iş görür.",
-          "note_quote": "pozitif polariteli yazmalı aslında — pozitif RNA virüsleri hücrede kendi mRNA olarak görev görür.",
-          "note_ref": {
-            "file": "Hafta 4 - Virusların Genel Özellikleri ve Sınıflandırılması",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -58344,45 +56938,6 @@
         {
           "id": "162_P1",
           "level": "orta",
-          "subtopic": "Egzersiz yoğun ve uygunsuz yapılırsa zararlı",
-          "note": "Notta birebir: \"Egzersiz yoğun ve uygunsuz bir biçimde yapıldığında fiziksel ve ruhsal olumsuz etkiler gösterebilir.\"",
-          "stem": "Egzersiz ile ilgili aşağıdakilerden hangisi yanlıştır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Egzersiz uygun şekilde yapıldığında olumlu etki gösterir"
-            },
-            {
-              "letter": "B",
-              "text": "Yoğun ve uygunsuz biçimde yapıldığında dahi yalnızca olumlu etki gösterir"
-            },
-            {
-              "letter": "C",
-              "text": "Kiloyu kontrol etmeye yardımcı olur"
-            },
-            {
-              "letter": "D",
-              "text": "İyi uyumaya yardımcı olur"
-            },
-            {
-              "letter": "E",
-              "text": "Depresif belirtileri azaltır"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta egzersizin uygun yapıldığında olumlu etki gösterdiği, uygunsuz yapımında zararlı olabileceği belirtiliyor.",
-          "note_quote": "Egzersiz fiziksel ve ruhsal sağlığı destekler ancak yoğun ve uygunsuz şekilde yapıldığında zararlı olabilir; ısınma-yüklenme-soğuma periyodları içermeli.",
-          "note_ref": {
-            "file": "Sağlıklı Yaşam s4) Egzersiz Reçetesi .pdf",
-            "week": "M4H5",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "162_P2",
-          "level": "orta",
           "subtopic": "Egzersiz — kilo kontrolü",
           "note": "Notta birebir: \"Vücut yağ oranını azaltır, Obezite riski azalır.\"",
           "stem": "Egzersizin metabolizma üzerine etkileri arasında aşağıdakilerden hangisi yer almaz?",
@@ -58420,7 +56975,7 @@
           }
         },
         {
-          "id": "162_P3",
+          "id": "162_P2",
           "level": "orta",
           "subtopic": "Egzersiz — uyku kalitesi artar",
           "note": "Notta birebir: \"Uyku kalitesini artırır (Sistemlerin toparlanması için gereklidir)\"",
@@ -58459,7 +57014,7 @@
           }
         },
         {
-          "id": "162_P4",
+          "id": "162_P3",
           "level": "orta",
           "subtopic": "Egzersiz — endorfin salınımı",
           "note": "Notta birebir: \"Rahatlama sağlar (endorfin salgısı sayesinde)\"",
@@ -58498,7 +57053,7 @@
           }
         },
         {
-          "id": "162_P5",
+          "id": "162_P4",
           "level": "orta",
           "subtopic": "İnaktivite — KVH riski artışı",
           "note": "Notta birebir: \"İnaktivite ile ilişkili hastalıklar: Kardiyovasküler hastalıklar: enfarktüs, inme, hipertansiyon, periferik vasküler hastalıklar, varis\"",
@@ -58971,45 +57526,6 @@
         {
           "id": "164_P2",
           "level": "orta",
-          "subtopic": "Bazı maya mantarları — gerçek hif oluşturur",
-          "note": "Açıklamada birebir: \"Ayrıca Bazı maya mantarları gerçek hif oluşturulabilir. Gerçek hif oluşturabildikleri için virülansları daha yüksektir.\"",
-          "stem": "Maya mantarlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Tümü sadece yalancı hif oluşturur"
-            },
-            {
-              "letter": "B",
-              "text": "Bazıları gerçek hif yapabilir, bu durum virülansı artırır"
-            },
-            {
-              "letter": "C",
-              "text": "Hiçbiri tomurcuklanma yapmaz"
-            },
-            {
-              "letter": "D",
-              "text": "Mikroskopta uzun ipliksi yapıdadırlar"
-            },
-            {
-              "letter": "E",
-              "text": "Renk maya tür ayrımında belirteçtir"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"Bazı maya mantarları gerçek hif oluşturulabilir. Gerçek hif oluşturabildikleri için virülansları daha yüksektir.\"</b>",
-          "note_quote": "Maya mantarları genellikle bej rengindedir. Koloni rengi maya mantarlarının değil küf mantarlarının ayrımında kullanılır. Her bir küfün özel rengi vardır, pigmenti vardır. Ayrıca Bazı maya mantarları gerçek hif oluşturulabilir. Gerçek hif oluşturabildikleri için virülansları daha yüksektir.",
-          "note_ref": {
-            "file": "Mantarların Genel Özellikleri",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "164_P3",
-          "level": "orta",
           "subtopic": "Candida albicans — yalancı hif",
           "note": "Notta birebir: \"Histopatoloji: Candida'ya ait yalancı hif yapıları ve maya hücreleri\"",
           "stem": "Candida albicans için tipik morfolojik bulgu hangisidir?",
@@ -59047,7 +57563,7 @@
           }
         },
         {
-          "id": "164_P4",
+          "id": "164_P3",
           "level": "orta",
           "subtopic": "Termal dimorfizm — 25°C küf / 37°C maya",
           "note": "Notta birebir: \"Termal dimorfizim gösterirler. Doğal ortamlarda ve oda ısısındaki besiyerlerinde küf, 37 derecede ve in vivo koşullarda (insan vücudunda) maya ya da sferül şeklinde bulunan mantarlara ısıdimorfizmi gösteren mantarlar denir.\"",
@@ -59086,7 +57602,7 @@
           }
         },
         {
-          "id": "164_P5",
+          "id": "164_P4",
           "level": "orta",
           "subtopic": "Maya tomurcuklanması (blastokonidya)",
           "note": "Notta birebir: \"Blastokonidiya oluşturma\"",
@@ -59125,7 +57641,7 @@
           }
         },
         {
-          "id": "164_P6",
+          "id": "164_P5",
           "level": "orta",
           "subtopic": "Küf — koloni rengi tür ayrımında belirteç",
           "note": "Açıklamada birebir: \"Koloni rengi maya mantarlarının değil küf mantarlarının ayrımında kullanılır. Her bir küfün özel rengi vardır, pigmenti vardır.\"",
@@ -59244,123 +57760,6 @@
         {
           "id": "165_P1",
           "level": "orta",
-          "subtopic": "Klirens > inülin → net sekresyon",
-          "note": "Açıklamada birebir: \"Bir maddenin klirensi inülininkinden daha fazla ise: Madde nefron tübüllerinden net sekresyona uğramaktadır.\"",
-          "stem": "Klirensi 140 mL/dk olan bir madde için (GFH=125 mL/dk kabul edildiğinde) aşağıdakilerden hangisi söylenebilir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Madde net olarak sekresyona uğrar"
-            },
-            {
-              "letter": "B",
-              "text": "Madde net olarak geri emilir"
-            },
-            {
-              "letter": "C",
-              "text": "Madde kesin olarak sadece filtre edilir"
-            },
-            {
-              "letter": "D",
-              "text": "Madde kesin olarak geri emilemez"
-            },
-            {
-              "letter": "E",
-              "text": "Madde filtre edilmez"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"klirensi inülininkinden daha fazla ise... net sekresyona uğramaktadır.\"</b>",
-          "note_quote": "Bir maddenin klirensi inülininkine eşit ise: Madde sadece filtre edilmektedir... Bir maddenin klirensi inülin klirensinden daha az ise: Madde nefron tübüllerinden net geriemilmektedir. Bir maddenin klirensi inülininkinden daha fazla ise: Madde nefron tübüllerinden net sekresyona uğramaktadır.",
-          "note_ref": {
-            "file": "Fizyoloji s2) Böbrek kan akımı ve glomerül filtrasyon hızının regülasyonu",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "165_P2",
-          "level": "orta",
-          "subtopic": "Klirens = inülin → sadece filtre olur",
-          "note": "Notta birebir: \"Bir maddenin klirensi inülininkine eşit ise: Madde sadece filtre edilmektedir, geriemilime ve sekresyona uğramamaktadır.\"",
-          "stem": "Bir maddenin klirensi inülin klirensine eşitse bu madde için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Sadece filtre edilir, geriemilim/sekresyon yoktur"
-            },
-            {
-              "letter": "B",
-              "text": "Net olarak geri emilir"
-            },
-            {
-              "letter": "C",
-              "text": "Net olarak sekrete edilir"
-            },
-            {
-              "letter": "D",
-              "text": "Filtre edilmez"
-            },
-            {
-              "letter": "E",
-              "text": "Tübüler reabsorpsiyon yapar"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Madde sadece filtre edilmektedir, geriemilime ve sekresyona uğramamaktadır.\"</b>",
-          "note_quote": "Bir maddenin klirensi inülininkine eşit ise: Madde sadece filtre edilmektedir, geriemilime ve sekresyona uğramamaktadır.",
-          "note_ref": {
-            "file": "Fizyoloji s2) Böbrek kan akımı ve glomerül filtrasyon hızının regülasyonu",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "165_P3",
-          "level": "orta",
-          "subtopic": "Klirens < inülin → net geriemilim",
-          "note": "Notta birebir: \"Bir maddenin klirensi inülin klirensinden daha az ise: Madde nefron tübüllerinden net geriemilmektedir.\"",
-          "stem": "Klirensi GFH'dan (inülin klirensi) düşük olan bir maddenin tübüler işlemi nedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Net olarak sekrete edilir"
-            },
-            {
-              "letter": "B",
-              "text": "Net olarak geri emilir"
-            },
-            {
-              "letter": "C",
-              "text": "Sadece filtre edilir"
-            },
-            {
-              "letter": "D",
-              "text": "Tübüler işlem yok"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece sekresyon"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: <b>\"klirensi inülin klirensinden daha az ise... net geriemilmektedir.\"</b>",
-          "note_quote": "Bir maddenin klirensi inülin klirensinden daha az ise: Madde nefron tübüllerinden net geriemilmektedir.",
-          "note_ref": {
-            "file": "Fizyoloji s2) Böbrek kan akımı ve glomerül filtrasyon hızının regülasyonu",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "165_P4",
-          "level": "orta",
           "subtopic": "İnülin — altın standart, sadece filtre olur",
           "note": "Notta birebir: \"İnülin klirensinin GFH için kullanımı altın standarttır. İnülin serbestçe filtre olur, reabsorbe ve sekrete edilmez.\"",
           "stem": "GFH ölçümünde altın standart hangisidir?",
@@ -59398,46 +57797,7 @@
           }
         },
         {
-          "id": "165_P5",
-          "level": "orta",
-          "subtopic": "GFH değeri ~125 mL/dk",
-          "note": "Notta birebir (HATIRLATMA): \"GFH 125ml/dk kabul ediliyordu.\"",
-          "stem": "Sağlıklı erişkinde GFH yaklaşık olarak ne kadardır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "25 mL/dk"
-            },
-            {
-              "letter": "B",
-              "text": "50 mL/dk"
-            },
-            {
-              "letter": "C",
-              "text": "125 mL/dk"
-            },
-            {
-              "letter": "D",
-              "text": "600 mL/dk"
-            },
-            {
-              "letter": "E",
-              "text": "1200 mL/dk"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"GFH 125ml/dk kabul ediliyordu.\"</b>",
-          "note_quote": "HATIRLATMA: GFH 125ml/dk kabul ediliyordu.",
-          "note_ref": {
-            "file": "Fizyoloji s2) Böbrek kan akımı ve glomerül filtrasyon hızının regülasyonu",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "165_P6",
+          "id": "165_P2",
           "level": "orta",
           "subtopic": "Kreatinin klirensi — klinikte yaygın",
           "note": "Notta birebir: \"Kreatinin klirensi (CCr veya CrCl) (En çok kullanılan böbrek fonksiyon testi). En sık kullanılan belirteçtir.\"",
@@ -59560,45 +57920,6 @@
         {
           "id": "166_P1",
           "level": "orta",
-          "subtopic": "Retrovirüs — diploid",
-          "note": "Açıklamada birebir: \"Retrovirüsler hariç bütün virüsler haploiddir. (Retrovirüsler diploid)\"",
-          "stem": "Aşağıdaki RNA virüslerinden hangisi diploittir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Pikornavirüsler"
-            },
-            {
-              "letter": "B",
-              "text": "Retrovirüsler"
-            },
-            {
-              "letter": "C",
-              "text": "Reovirüsler"
-            },
-            {
-              "letter": "D",
-              "text": "Togavirüsler"
-            },
-            {
-              "letter": "E",
-              "text": "Ortomiksovirüsler"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"Retrovirüsler hariç bütün virüsler haploiddir. (Retrovirüsler diploid)\"</b>",
-          "note_quote": "Hafta 4 - Virus Genetiği — Retrovirüsler hariç bütün virüsler haploiddir. (Retrovirüsler diploid)",
-          "note_ref": {
-            "file": "Hafta 4 - Virus Genetiği",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "166_P2",
-          "level": "orta",
           "subtopic": "HIV — antijenik değişim hızlı",
           "note": "Notta birebir: \"birçok virüs, özellikle RNA virüsleri çok hızlı antijenik değişime uğrar... Örn: İnfluenzavirus, Rhinovirus, Rotavirus, HIV\"",
           "stem": "Aşağıdaki virüslerden hangisi hızlı antijenik değişime uğrayan RNA virüslerine örnek değildir?",
@@ -59633,45 +57954,6 @@
             "week": "M4H4",
             "type": "Not",
             "pages": 13
-          }
-        },
-        {
-          "id": "166_P3",
-          "level": "orta",
-          "subtopic": "Haploid virüsler — çoğunluk",
-          "note": "Açıklamada birebir: \"Retrovirüsler hariç bütün virüsler haploiddir.\"",
-          "stem": "Aşağıdaki virüslerden hangisi haploittir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "HIV"
-            },
-            {
-              "letter": "B",
-              "text": "Diğer retrovirüsler"
-            },
-            {
-              "letter": "C",
-              "text": "Polyomavirüs (haploit DNA)"
-            },
-            {
-              "letter": "D",
-              "text": "Tüm retrovirüsler"
-            },
-            {
-              "letter": "E",
-              "text": "Hiçbir virüs haploit değildir"
-            }
-          ],
-          "correct": "C",
-          "explain": "Açıklamadan: <b>\"Retrovirüsler hariç bütün virüsler haploiddir.\"</b>",
-          "note_quote": "Retrovirüsler hariç bütün virüsler haploiddir.",
-          "note_ref": {
-            "file": "Hafta 4 - Virus Genetiği",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
           }
         }
       ],
@@ -59902,47 +58184,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "169_P1",
-          "level": "orta",
-          "subtopic": "A. vesicales superiores — a. umbilicalis dalı",
-          "note": "Açıklamada birebir: \"A. vesicales superiores erişkin dönemde a. umbilicalis'in patent kalan kısmından dallanır.\"",
-          "stem": "Aa. vesicales superiores en sık olarak hangi arterin dalıdır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "A. uterina"
-            },
-            {
-              "letter": "B",
-              "text": "A. ovarica"
-            },
-            {
-              "letter": "C",
-              "text": "A. iliaca externa"
-            },
-            {
-              "letter": "D",
-              "text": "A. iliaca interna"
-            },
-            {
-              "letter": "E",
-              "text": "A. umbilicalis"
-            }
-          ],
-          "correct": "E",
-          "explain": "Pelvik vasküler anatomi notunda <b>a. umbilicalis'in dalı</b> olduğu belirtilir.",
-          "note_quote": "A. umbilicalis erişkin dönemde patent kalan kısımdan a. vesicales superiores'i verir; geri kalan kısım ligamentum umbilicale mediale olur.",
-          "note_ref": {
-            "file": "Anatomi uyg6) Pelvik Vasküler Anatomi.pdf",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -60219,45 +58461,6 @@
       "prof_questions": [
         {
           "id": "171_P1",
-          "level": "orta",
-          "subtopic": "Steroid hormonlar — adrenal, gonad ve plasentada",
-          "note": "Notta birebir: \"Steroid hormonlar adrenal korteks, gonadlar (testis ve ovaryum) ve plasentada kolesterolden sentezlenir.\"",
-          "stem": "Steroid hormonlar ağırlıklı olarak hangi dokuda üretilir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Böbrek"
-            },
-            {
-              "letter": "B",
-              "text": "Pankreas"
-            },
-            {
-              "letter": "C",
-              "text": "Hipofiz"
-            },
-            {
-              "letter": "D",
-              "text": "Eşeysel bezler (gonad) ve adrenal korteks"
-            },
-            {
-              "letter": "E",
-              "text": "Karaciğer"
-            }
-          ],
-          "correct": "D",
-          "explain": "Notta birebir: <b>\"adrenal korteks, gonadlar (testis ve ovaryum) ve plasentada\"</b>.",
-          "note_quote": "Steroid hormonların sentezi adrenal korteks, gonadlar (testis ve ovaryum) ve plasentada gerçekleşir. Tümünün öncülü kolesteroldür.",
-          "note_ref": {
-            "file": "Biyokimya s5) Steroid Hormonların Sentezi ve Metabolik Etkileri.pdf",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "171_P2",
           "level": "orta",
           "subtopic": "Steroid sentezi — kolesterolden başlar",
           "note": "Notta birebir: \"kolesterol, 21 karbonlu olan pregnenolon'a çevrilir. Bu reaksiyon, kolesterol yan zinciri kırıcı enzim kompleksi (desmolaz) tarafından katalizlenir. Bu enzim iç mitokondri membranında bulunan bir CYP mikst fonksiyonlu oksidazdır. Reaksiyon için NADPH ve moleküler oksijen gerekir. Hız kısıtlayıcı basamaktır.\"",
@@ -60800,45 +59003,6 @@
         {
           "id": "175_P2",
           "level": "zor",
-          "subtopic": "Coccidioides — sferül formu",
-          "note": "Notta birebir: \"(Coccidioides immitis türünde maya yerine sferül) şeklinde bulunan mantarlara ısı dimorfizmi görülen mantarlar denir.\"",
-          "stem": "Coccidioides immitis in vivo koşullarda hangi formu alır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Maya formu"
-            },
-            {
-              "letter": "B",
-              "text": "Hif formu"
-            },
-            {
-              "letter": "C",
-              "text": "Sferül"
-            },
-            {
-              "letter": "D",
-              "text": "Spor"
-            },
-            {
-              "letter": "E",
-              "text": "Yalancı hif"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir: <b>\"Coccidioides immitis türünde maya yerine sferül\"</b>.",
-          "note_quote": "Yaşadığı ekolojik çevre koşullarında ve oda sıcaklığında (25°C) küf, in vivo koşullarda (insan vücudunda, 37°C) maya (Coccidioides immitis türünde maya yerine sferül) şeklinde bulunan mantarlara ısı dimorfizmi görülen mantarlar denir.",
-          "note_ref": {
-            "file": "Mantarların Üreme Özellikleri",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "175_P3",
-          "level": "zor",
           "subtopic": "Dimorfik patojenler — Histoplasma, Blastomyces",
           "note": "Notta birebir: \"Dimorfizm: Birçok patojen mantar (ör. Histoplasma, Blastomyces), çevre ısısında (20-25°C) küf formundayken, konak ısısında (37°C) maya formuna dönüşür.\"",
           "stem": "Aşağıdakilerden hangisi termal dimorfizm gösteren primer patojen mantarlardan biridir?",
@@ -60876,7 +59040,7 @@
           }
         },
         {
-          "id": "175_P4",
+          "id": "175_P3",
           "level": "orta",
           "subtopic": "Dimorfizm — immün kaçış",
           "note": "Notta birebir: \"Bu morfolojik değişim, yüzey antijenlerini değiştirerek immün sistemden kaçışa yardımcı olur.\"",
@@ -61190,45 +59354,6 @@
         {
           "id": "177_P1",
           "level": "orta",
-          "subtopic": "ADH — medullar toplama kanalında etki",
-          "note": "Açıklamada birebir: \"Tabloda da görüldüğü gibi ADH etkisi en çok medullar toplama kanallarında görülür.\"",
-          "stem": "Yüksek plazma ADH düzeylerinde böbreklerde su emiliminin en yoğun olduğu segment hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Proksimal tübül"
-            },
-            {
-              "letter": "B",
-              "text": "Henle kıvrımı"
-            },
-            {
-              "letter": "C",
-              "text": "Distal tübül"
-            },
-            {
-              "letter": "D",
-              "text": "Kortikal toplama borusu"
-            },
-            {
-              "letter": "E",
-              "text": "Medullar toplama kanalı"
-            }
-          ],
-          "correct": "E",
-          "explain": "Açıklamadan: <b>\"ADH etkisi en çok medullar toplama kanallarında görülür.\"</b>",
-          "note_quote": "HAFTA 1 TÜBÜLLERDE GERİ EMİLİM NOTU — Tabloda da görüldüğü gibi ADH etkisi en çok medullar toplama kanallarında görülür.",
-          "note_ref": {
-            "file": "Fizyoloji s4) Tübüler geri emilim ve sekresyon mekanizmaları.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "177_P2",
-          "level": "orta",
           "subtopic": "AVP/ADH — esas hücrelere etki",
           "note": "Notta birebir: \"Principal cell (esas hücre) ise distal tübül ve toplayıcı kanallarda bulunur. Esas hücreler önemli çünkü Arginin Vazopressin (AVP, ADH) burada etkilidir.\"",
           "stem": "ADH (AVP) tübülde en çok hangi hücrelere etki gösterir?",
@@ -61266,7 +59391,7 @@
           }
         },
         {
-          "id": "177_P3",
+          "id": "177_P2",
           "level": "orta",
           "subtopic": "Su emiliminin büyük bölümü proksimal tübül (genel)",
           "note": "Genel: Filtre olan suyun yaklaşık %65'i proksimal tübülde geri emilir; ancak ADH'ye duyarlı asıl bölge toplayıcı kanaldır.",
@@ -61367,45 +59492,6 @@
         {
           "id": "178_P1",
           "level": "orta",
-          "subtopic": "Arter basıncı azalması — GFH azalır",
-          "note": "Notta birebir: \"Alfa1-adrenerjik reseptörlerin aktivasyonu GFH'yı düşürür. Böylece kan basıncının düştüğü durumda filtrasyon azalarak sıvının vücutta tutulması sağlanır.\"",
-          "stem": "GFH'da azalmaya neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Renal arter basıncında azalma"
-            },
-            {
-              "letter": "B",
-              "text": "Mezangiyal hücrelerde gevşeme (Kf artışı)"
-            },
-            {
-              "letter": "C",
-              "text": "Bowman boşluğu hidrostatik basıncında artma"
-            },
-            {
-              "letter": "D",
-              "text": "Plazma onkotik basıncında artma"
-            },
-            {
-              "letter": "E",
-              "text": "Afferent arteriol kontraksiyonu"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir: mezangiyal gevşeme Kf'yi artırır → GFH artar; azaltmaz. Diğer şıklar GFH'yı düşürür.",
-          "note_quote": "Alfa1-adrenerjik reseptörlerin aktivasyonu GFH'yı düşürür. Böylece kan basıncının düştüğü durumda filtrasyon azalarak sıvının vücutta tutulması sağlanır.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": 7
-          }
-        },
-        {
-          "id": "178_P2",
-          "level": "orta",
           "subtopic": "Eferent arteriol dilatasyonu — GFH azalır",
           "note": "Notta birebir: \"Efferent arteriolar dirençte artış; Glomerüler kapiller basıncı artırır. Aynı anda renal plazma akımını azaltır.\"",
           "stem": "Eferent arteriol dilatasyonu (direnç düşmesi) GFH'yı nasıl etkiler?",
@@ -61440,45 +59526,6 @@
             "week": "M4H1",
             "type": "Not",
             "pages": 9
-          }
-        },
-        {
-          "id": "178_P3",
-          "level": "zor",
-          "subtopic": "Mezangiyal kontraksiyon — Kf azalır",
-          "note": "Notta birebir: \"Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin kontraktilitesindeki değişikliklerden önemli ölçüde etkilenir.\"",
-          "stem": "Mezangiyal hücre kontraksiyonu glomerüler filtrasyonu nasıl etkiler?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Kf'yi azaltır → GFH azalır"
-            },
-            {
-              "letter": "B",
-              "text": "Kf'yi artırır → GFH artar"
-            },
-            {
-              "letter": "C",
-              "text": "Etkisi yoktur"
-            },
-            {
-              "letter": "D",
-              "text": "Sadece RPF'i etkiler"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece Bowman basıncını artırır"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir mezangiyal kontraktilite filtrasyon yüzey alanını etkiler — kontraksiyon Kf düşürür → GFH azalır.",
-          "note_quote": "Filtrasyon için etkin yüzey alanının mezengiyal hücrelerin kontraktilitesindeki değişikliklerden önemli ölçüde etkilenir.",
-          "note_ref": {
-            "file": "Fizyoloji s3) Glomerüler filtrasyon hızı ve düzenlenmesi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
           }
         }
       ],
@@ -61967,47 +60014,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "182_P1",
-          "level": "orta",
-          "subtopic": "Serokonversiyon — retrospektif tanı",
-          "note": "Notta birebir: \"Akut ve konvalesan dönemde alınan serum örneklerinde antikor titresinde 4 kat ya da daha fazla artışın saptanması serokonversiyon olarak tanımlanır ve geriye dönük (retrospektif) tanı koymayı sağlar.\"",
-          "stem": "Enfeksiyon tanısını retrospektif olarak koymayı sağlayan test hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Serokonversiyonun gösterilmesi"
-            },
-            {
-              "letter": "B",
-              "text": "Klinik örnekte etkenin çoğaltılması"
-            },
-            {
-              "letter": "C",
-              "text": "Klinik örnekte antijen aranması"
-            },
-            {
-              "letter": "D",
-              "text": "Serumda IgG taranması"
-            },
-            {
-              "letter": "E",
-              "text": "Klinik örnekte PCR ile amplifikasyon"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta serokonversiyon iki örnekte titre artışı ile retrospektif tanı sağlar.",
-          "note_quote": "Serokonversiyon: Akut ve konvalesan dönemde alınan serum örneklerinde antikor titresinde 4 kat ya da daha fazla artışın saptanması; geriye dönük (retrospektif) tanı koymak için kullanılır.",
-          "note_ref": {
-            "file": "Mikrobiyoloji s19) Mikrobiyolojik Laboratuvar Tanı - Seroimmünolojik Yöntemler.pdf",
-            "week": "M4H7",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -62260,47 +60267,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "185_P1",
-          "level": "zor",
-          "subtopic": "NLRP3 inflamasomu — akut inflamasyon sitokini",
-          "note": "Notta birebir: Doğal bağışıklık reseptörlerinden NLRP3 aktivasyonu kaspaz-1 üzerinden IL-1β salgılanmasına yol açar (akut inflamasyon).",
-          "stem": "Aşağıdaki doğal bağışıklık reseptörlerinden hangisinin aktivasyonu kaspaz-1 üzerinden IL-1β salınımına ve akut inflamasyona yol açar?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "TLR3"
-            },
-            {
-              "letter": "B",
-              "text": "TLR1"
-            },
-            {
-              "letter": "C",
-              "text": "NOD1"
-            },
-            {
-              "letter": "D",
-              "text": "NOD2"
-            },
-            {
-              "letter": "E",
-              "text": "NLRP3"
-            }
-          ],
-          "correct": "E",
-          "explain": "Slaytta birebir: <b>NLRP3 inflamasomu</b> kaspaz-1 üzerinden IL-1β salgılatır.",
-          "note_quote": "Doğal bağışık yanıtlardan NLRP3 inflamasomu sitozolik PAMP/DAMP tanır; aktivasyonu kaspaz-1 yoluyla IL-1β salınımı ile akut inflamasyonu uyarır.",
-          "note_ref": {
-            "file": "2-Doğal Bağışıklık.pdf",
-            "week": "M4H1",
-            "type": "Slayt",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -62416,162 +60383,6 @@
             "type": "Not",
             "pages": null
           }
-        },
-        {
-          "id": "186_P2",
-          "level": "orta",
-          "subtopic": "Hiperparazitlik tanımı",
-          "note": "Açıklamada birebir: \"hiperparazitlik: parazit bir canlının vücuduna yerleşen parazit.\"",
-          "stem": "Bir parazitin başka bir parazitin üzerinde/vücudunda yaşamasına ne denir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Süperparazitlik"
-            },
-            {
-              "letter": "B",
-              "text": "Hiperparazitlik"
-            },
-            {
-              "letter": "C",
-              "text": "Multiparazitlik"
-            },
-            {
-              "letter": "D",
-              "text": "Şaşkın parazitlik"
-            },
-            {
-              "letter": "E",
-              "text": "Protelan"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"hiperparazitlik\"</b>.",
-          "note_quote": "hiperparazitlik:parazit bir canlının vücuduna yerleşen parazit.",
-          "note_ref": {
-            "file": "Parazitoloji s1) Tıbbi parazitoloji_ Temel kavramlar ve taksonomi.pdf",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "186_P3",
-          "level": "orta",
-          "subtopic": "Multiparazitlik",
-          "note": "Açıklamada birebir: \"multiparazitlik: insanın birden fazla cinste parazitle enjekte olması.\"",
-          "stem": "Aynı kişinin farklı türde birden fazla parazitle enfekte olmasına ne denir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Süperparazitlik"
-            },
-            {
-              "letter": "B",
-              "text": "Multiparazitlik"
-            },
-            {
-              "letter": "C",
-              "text": "Hiperparazitlik"
-            },
-            {
-              "letter": "D",
-              "text": "Şaşkın parazitlik"
-            },
-            {
-              "letter": "E",
-              "text": "Protelan"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamadan: <b>\"multiparazitlik: insanın birden fazla cinste parazitle enjekte olması.\"</b>",
-          "note_quote": "multiparazitlik:insanın birden fazla cinste parazitle enjekte olması.",
-          "note_ref": {
-            "file": "Parazitoloji s1) Tıbbi parazitoloji_ Temel kavramlar ve taksonomi.pdf",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "186_P4",
-          "level": "orta",
-          "subtopic": "Protelan parazitlik",
-          "note": "Açıklamada birebir: \"protelan: erişkin dönemleri serbest larva dönemleri parazit olan parazitler.\"",
-          "stem": "Protelan parazitlik için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Erişkin formu serbest, larva formu parazitik olan parazitler"
-            },
-            {
-              "letter": "B",
-              "text": "Erişkin formu parazitik, larva formu serbest olan parazitler"
-            },
-            {
-              "letter": "C",
-              "text": "Yalnızca larva formunda parazitik olanlar"
-            },
-            {
-              "letter": "D",
-              "text": "Yalnızca erişkin formunda parazitik olanlar"
-            },
-            {
-              "letter": "E",
-              "text": "Sürekli erişkin parazitler"
-            }
-          ],
-          "correct": "A",
-          "explain": "Açıklamadan: <b>\"protelan: erişkin dönemleri serbest larva dönemleri parazit olan parazitler.\"</b>",
-          "note_quote": "protelan:erişkin dönemleri serbest larva dönemleri parazit olan parazitler",
-          "note_ref": {
-            "file": "Parazitoloji s1) Tıbbi parazitoloji_ Temel kavramlar ve taksonomi.pdf",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "186_P5",
-          "level": "orta",
-          "subtopic": "Şaşkın parazitlik",
-          "note": "Açıklamada birebir: \"şaşkın parazitlik: normalde yaşadığı konakta başka bir canlıda yaşayan parazit.\"",
-          "stem": "Normalde yaşadığı konaktan farklı bir canlıda yaşayan parazit terimi hangisidir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Süperparazitlik"
-            },
-            {
-              "letter": "B",
-              "text": "Hiperparazitlik"
-            },
-            {
-              "letter": "C",
-              "text": "Şaşkın parazitlik"
-            },
-            {
-              "letter": "D",
-              "text": "Multiparazitlik"
-            },
-            {
-              "letter": "E",
-              "text": "Protelan"
-            }
-          ],
-          "correct": "C",
-          "explain": "Açıklamadan: <b>\"şaşkın parazitlik\"</b>.",
-          "note_quote": "şaşkın parazitlik:normalde yaşadığı konakta başka bir canlıda yaşayan parazit.",
-          "note_ref": {
-            "file": "Parazitoloji s1) Tıbbi parazitoloji_ Temel kavramlar ve taksonomi.pdf",
-            "week": "M4H3",
-            "type": "Not",
-            "pages": null
-          }
         }
       ],
       "similar_top": [],
@@ -62650,47 +60461,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "187_P1",
-          "level": "orta",
-          "subtopic": "Funiculus spermaticus içeriği",
-          "note": "Notta birebir: \"Funiculus spermaticus içeriği: ductus deferens, a. testicularis, a. ductus deferentis, a. cremasterica, plexus pampiniformis, plexus venosus deferentialis, n. genitofemoralis r. genitalis, otonom sinirler, lenf damarları. N. ilioinguinalis funiculus spermaticus dışından/üstünden gider, içeriğinde değildir.\"",
-          "stem": "Aşağıdakilerden hangisi funiculus spermaticus içeriğinde bulunmaz?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "N. ilioinguinalis"
-            },
-            {
-              "letter": "B",
-              "text": "N. genitofemoralis r. genitalis"
-            },
-            {
-              "letter": "C",
-              "text": "Ductus deferens"
-            },
-            {
-              "letter": "D",
-              "text": "A. testicularis"
-            },
-            {
-              "letter": "E",
-              "text": "Plexus pampiniformis"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>n. ilioinguinalis</b> funiculus spermaticus dışında yer alır.",
-          "note_quote": "m4h8 organa genitalia masculina interna — N. ilioinguinalis funiculus spermaticus dışında yer alır; içerikte değildir. İçerikte ductus deferens, a. testicularis, plexus pampiniformis, n. genitofemoralisin r. genitalis bulunur.",
-          "note_ref": {
-            "file": "Anatomi uyg2) Organa Genitalia Masculina İnterna.pdf",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -62767,86 +60538,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "188_P1",
-          "level": "orta",
-          "subtopic": "İnsülin — iskelet kası protein sentezini artırır",
-          "note": "Notta birebir: \"İnsülin iskelet kasında glukoz alımını, glikojen ve protein sentezini artırır.\"",
-          "stem": "Aşağıdakilerden hangisi insülin artışı ile gözlenmez?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Karaciğerde keton cisimleri sentezinin azalması"
-            },
-            {
-              "letter": "B",
-              "text": "İskelet kası hücresinde protein sentezinin azalması"
-            },
-            {
-              "letter": "C",
-              "text": "Karaciğerde glukoneogenezin azalması"
-            },
-            {
-              "letter": "D",
-              "text": "Karaciğerde glikojen sentezinin artması"
-            },
-            {
-              "letter": "E",
-              "text": "Karaciğerde yağ asidi sentezinin artması"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta insülin iskelet kasında <b>protein sentezini artırır</b>; azaltmaz.",
-          "note_quote": "İnsülin etkileri: karaciğerde glikojen ve yağ asidi sentezini artırır, glukoneogenezi ve keton cisim sentezini azaltır. İskelet kasında glukoz alımı, glikojen ve protein sentezini uyarır.",
-          "note_ref": {
-            "file": "Biyokimya s9) Metabolizmanın Entegrasyonu.pdf",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "188_P2",
-          "level": "orta",
-          "subtopic": "İnsülin — keton sentezini baskılar",
-          "note": "Notta birebir: insülin ketogenezi inhibe eder.",
-          "stem": "İnsülin karaciğerde aşağıdakilerden hangisini baskılar?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Glikojen sentezi"
-            },
-            {
-              "letter": "B",
-              "text": "Yağ asidi sentezi"
-            },
-            {
-              "letter": "C",
-              "text": "Keton cisimleri sentezi ve glukoneogenez"
-            },
-            {
-              "letter": "D",
-              "text": "Glikoliz"
-            },
-            {
-              "letter": "E",
-              "text": "Glukoz alımı"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir insülin karaciğerde <b>keton cisim sentezini ve glukoneogenezi</b> baskılar.",
-          "note_quote": "İnsülin karaciğerde keton cisim sentezini ve glukoneogenezi baskılar; glikojenez ve lipogenezi uyarır.",
-          "note_ref": {
-            "file": "Biyokimya s9) Metabolizmanın Entegrasyonu.pdf",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -63040,47 +60732,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "190_P1",
-          "level": "orta",
-          "subtopic": "GLUT4 — yağ ve kasta, insüline duyarlı",
-          "note": "Notta birebir: \"GLUT4 iskelet kası ve yağ dokusunda eksprese olur, insüline duyarlıdır.\"",
-          "stem": "Yağ dokusunda bulunan glukoz taşıyıcısı için aşağıdakilerden hangisi doğrudur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "GLUT4 olarak adlandırılır ve insüline duyarlıdır"
-            },
-            {
-              "letter": "B",
-              "text": "GLUT2'dir"
-            },
-            {
-              "letter": "C",
-              "text": "GLUT1'dir, insülinden bağımsızdır"
-            },
-            {
-              "letter": "D",
-              "text": "GLUT3'tür, beyinde de eksprese olur"
-            },
-            {
-              "letter": "E",
-              "text": "SGLT1'dir"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"GLUT4... yağ dokusunda... insüline duyarlı\"</b>.",
-          "note_quote": "GLUT4 iskelet kası ve yağ dokusunda eksprese edilir; insüline duyarlı (insülin bağımlı) glukoz taşıyıcısıdır.",
-          "note_ref": {
-            "file": "Biyokimya s9) Metabolizmanın Entegrasyonu.pdf",
-            "week": "M4H6",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -63274,47 +60926,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "192_P1",
-          "level": "zor",
-          "subtopic": "B lenfosit aktivasyonu — izotip dönüşümü, hafıza",
-          "note": "Notta birebir: B hücre aktivasyonu izotip dönüşümü, somatik hipermutasyon (afinite olgunlaşması), plazma hücresine ve hafıza B hücrelerine farklılaşma ile sonuçlanır. IgD ekspresyonu olgunlaşmış (toy) B hücrelerinin özelliğidir, aktivasyon sonrası kaybolur.",
-          "stem": "Aşağıdakilerden hangisi B lenfosit aktivasyonu sonucu değildir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "IgD ekspresyonu (aktivasyon sonrası kaybolur)"
-            },
-            {
-              "letter": "B",
-              "text": "Afinite olgunlaşması"
-            },
-            {
-              "letter": "C",
-              "text": "İzotip dönüşümü"
-            },
-            {
-              "letter": "D",
-              "text": "Hafıza hücrelerine dönüşme"
-            },
-            {
-              "letter": "E",
-              "text": "Plazma hücrelerine farklılaşma"
-            }
-          ],
-          "correct": "A",
-          "explain": "B hücresi aktivasyonu sonrası izotip dönüşümü olur ve <b>IgD ekspresyonu</b> kaybolur.",
-          "note_quote": "B-hücre aktivasyonu sonucu: plazma hücresine farklılaşma, hafıza B-hücresi oluşumu, izotip dönüşümü, afinite olgunlaşması. Aktivasyon sonrası IgD ekspresyonu kaybolur (matür toy B hücresi yüzey IgD eksprese eder).",
-          "note_ref": {
-            "file": "s12-13) Humoral bağışık yanıtlar.pdf",
-            "week": "M4H4",
-            "type": "Slayt",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -63576,45 +61188,6 @@
         {
           "id": "195_P1",
           "level": "orta",
-          "subtopic": "MHC — kendi/yabancı antijen sunabilir",
-          "note": "Notta birebir: MHC molekülleri hem konağa ait peptidleri hem yabancı peptidleri sunar; tolerans bunlardan tanınır.",
-          "stem": "MHC molekülleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "İleri derecede polimorfizm gösterirler"
-            },
-            {
-              "letter": "B",
-              "text": "Sadece peptit yapıda antijenleri bağlayarak sunarlar"
-            },
-            {
-              "letter": "C",
-              "text": "Ko-dominant olarak eksprese edilirler"
-            },
-            {
-              "letter": "D",
-              "text": "MHC Sınıf II sadece profesyonel APC'lerde eksprese edilir"
-            },
-            {
-              "letter": "E",
-              "text": "Sadece konağa ait olmayan antijenleri sunarlar"
-            }
-          ],
-          "correct": "E",
-          "explain": "MHC molekülleri kendi ve yabancı peptidleri sunabilir; sadece yabancı antijen sunduğu yanlıştır.",
-          "note_quote": "MHC molekülleri ileri derecede polimorfiktir, ko-dominant eksprese edilir, sadece peptit yapıda antijenleri bağlar; ancak hem konağa ait hem yabancı peptidleri sunarlar.",
-          "note_ref": {
-            "file": "Mikrobiyoloji s8) MHC Molekülleri ve Antijen Sunumu.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "195_P2",
-          "level": "orta",
           "subtopic": "MHC Sınıf I — tüm çekirdekli hücrelerde",
           "note": "Notta birebir: \"Sınıf I MHC molekülleri tüm çekirdekli hücrelerde eksprese ediliyordu.\"",
           "stem": "MHC Sınıf I molekülleri için aşağıdakilerden hangisi doğrudur?",
@@ -63812,45 +61385,6 @@
         {
           "id": "197_P1",
           "level": "zor",
-          "subtopic": "Ornitin transkarbamoilaz eksikliği — orotik asitüri",
-          "note": "Notta birebir: Ornitin transkarbamoilaz (OTC) eksikliğinde karbamoil fosfat pirimidin sentez yoluna kayar, orotik asitüri oluşur.",
-          "stem": "Aşağıdaki enzimlerden hangisinin eksikliği pirimidin sentezini hızlandırarak orotik asitüri oluşumuna neden olur?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Ksantin oksidaz"
-            },
-            {
-              "letter": "B",
-              "text": "Ornitin transkarbomilaz"
-            },
-            {
-              "letter": "C",
-              "text": "Adenozin deaminaz"
-            },
-            {
-              "letter": "D",
-              "text": "Ribonükleotid redüktaz"
-            },
-            {
-              "letter": "E",
-              "text": "Aspartat transkarbomilaz"
-            }
-          ],
-          "correct": "B",
-          "explain": "Açıklamada doğru cevap birebir <b>\"B\" (Ornitin transkarbomilaz)</b> olarak verilmiş.",
-          "note_quote": "OTC eksikliğinde karbamoil fosfat birikir, mitokondriden sitozole çıkar ve pirimidin sentez yolunu uyarır → orotik asitüri.",
-          "note_ref": {
-            "file": "Biyokimya s2) Primidin metabolizması.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "197_P2",
-          "level": "zor",
           "subtopic": "Orotik asitüri — Reye sendromu",
           "note": "Notta birebir: \"Reye sendromuna eşlik eden orotik asitüri, mitokondri hasarı (üre döngüsü, oksidatif fosforilasyon, yağ asidi oksidasyonu) Hiperamonemi ve akut ensefalopati\"",
           "stem": "Orotik asitüri ile ilişkili klinik tablo hangisidir?",
@@ -63964,47 +61498,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "198_P1",
-          "level": "zor",
-          "subtopic": "Aferent dilatasyon — Kf hariç tüm parametreler artar; FF azalabilir",
-          "note": "Notta birebir: aferent dilatasyon glomerüler hidrostatik basıncı, RPA'yı, GFH'yı ve net filtrasyon basıncını artırır; ancak FF (=GFH/RPA) artmaz (genellikle azalır veya değişmez).",
-          "stem": "Aferent arteriyol dilatasyonu aşağıdakilerden hangisinde artışa neden olmaz?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Filtrasyon fraksiyonu"
-            },
-            {
-              "letter": "B",
-              "text": "Glomerüler filtrasyon hızı"
-            },
-            {
-              "letter": "C",
-              "text": "Böbrek plazma akımı"
-            },
-            {
-              "letter": "D",
-              "text": "Glomerül kapiller hidrostatik basıncı"
-            },
-            {
-              "letter": "E",
-              "text": "Net filtrasyon basıncı"
-            }
-          ],
-          "correct": "A",
-          "explain": "Aferent dilatasyon RPA'yı orantısal olarak GFH'dan daha fazla artırdığı için FF artmaz (azalabilir).",
-          "note_quote": "Aferent arteriol dilatasyonu: -Glomerüler kapiller basıncı artırır, renal plazma akımını artırır. -GFH artar. FF değişir (genellikle azalır)",
-          "note_ref": {
-            "file": "Fizyoloji s2) Boşaltım Sisteminin Fonksiyonel Anatomisi ve Renal Kan Akımı.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": 9
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -64232,47 +61726,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "200_P1",
-          "level": "orta",
-          "subtopic": "ANP — medullar toplama kanalında Na geri emilimini azaltır",
-          "note": "Notta birebir: \"ANP medullar toplama kanalında NaCl geri emilimini azaltır (natriürez).\"",
-          "stem": "ANP, aşağıdaki nefron bölümlerinden hangisinde NaCl geri emilimini azaltır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Distal tübül"
-            },
-            {
-              "letter": "B",
-              "text": "Proksimal tübül"
-            },
-            {
-              "letter": "C",
-              "text": "Medullar toplama kanalı"
-            },
-            {
-              "letter": "D",
-              "text": "Çıkan kalın Henle"
-            },
-            {
-              "letter": "E",
-              "text": "İnen ince Henle"
-            }
-          ],
-          "correct": "C",
-          "explain": "Notta birebir ANP <b>medullar toplama kanalında</b> Na emilimini azaltır.",
-          "note_quote": "Tübüler Geri Emilimin Düzenlenmesi — ANP, medullar toplama kanalında Na geri emilimini azaltır, natriüreze yol açar.",
-          "note_ref": {
-            "file": "Fizyoloji s6) Sodyum Dengesi ve ekstraselüler sıvı hacmi.pdf",
-            "week": "M4H1",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -64349,86 +61803,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "201_P1",
-          "level": "orta",
-          "subtopic": "Protozoonlar — ökaryotik tek hücreliler",
-          "note": "Notta birebir: \"Protozoonlar tek hücreli ökaryotik mikroorganizmalardır.\"",
-          "stem": "Protozoonlar ile ilgili aşağıdakilerden hangisi yanlıştır?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Çekirdek proliferasyonu görülür"
-            },
-            {
-              "letter": "B",
-              "text": "Kontraktil vakuolle beslenme görülür"
-            },
-            {
-              "letter": "C",
-              "text": "Ökaryotik mikroorganizmalardır"
-            },
-            {
-              "letter": "D",
-              "text": "Eşeyli/eşeysiz üreme gösterebilir"
-            },
-            {
-              "letter": "E",
-              "text": "Parazitik protozoonların tamamı heterotroftur"
-            }
-          ],
-          "correct": "B",
-          "explain": "Kontraktil vakuoller protozoonlarda <b>osmoregülasyon</b> ile ilgilidir, beslenme değil.",
-          "note_quote": "Protozoonlar ökaryotik, tek hücreli mikroorganizmalardır. Eşeyli/eşeysiz üreyebilir. Parazitik protozoonların tamamı heterotroftur.",
-          "note_ref": {
-            "file": "Parazitoloji s2) Protozoonların Sınıflandırılması ve Genel Özellikleri.pdf",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "201_P2",
-          "level": "orta",
-          "subtopic": "Protozoonlar — heterotrof",
-          "note": "Notta birebir: \"Parazitik protozoonların tamamı heterotroftur.\"",
-          "stem": "Parazitik protozoonların beslenme tipi nedir?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Tamamı heterotrof"
-            },
-            {
-              "letter": "B",
-              "text": "Tamamı ototrof"
-            },
-            {
-              "letter": "C",
-              "text": "Bir kısmı miksotrof"
-            },
-            {
-              "letter": "D",
-              "text": "Tamamı litotrof"
-            },
-            {
-              "letter": "E",
-              "text": "Beslenmezler"
-            }
-          ],
-          "correct": "A",
-          "explain": "Notta birebir: <b>\"Parazitik protozoonların tamamı heterotroftur.\"</b>",
-          "note_quote": "Parazitik protozoonların tamamı heterotroftur.",
-          "note_ref": {
-            "file": "Parazitoloji s2) Protozoonların Sınıflandırılması ve Genel Özellikleri.pdf",
-            "week": "M4H4",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [
         {
@@ -64535,86 +61910,7 @@
         "type": "",
         "pages": ""
       },
-      "prof_questions": [
-        {
-          "id": "203_P1",
-          "level": "orta",
-          "subtopic": "Sensitivite — hasta içinde gerçek pozitif",
-          "note": "Notta birebir: \"Sensitivite = gerçek hasta olanlardan testin pozitif bulduklarının oranı; yani hastalar içinde gerçek pozitif sayısı / tüm hastalar.\"",
-          "stem": "Bir tanı testinin hassasiyeti (sensitivitesi) hangi oranı ifade eder?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Tüm test sonuçlarındaki doğruluk"
-            },
-            {
-              "letter": "B",
-              "text": "Tüm vakaların negatifliği"
-            },
-            {
-              "letter": "C",
-              "text": "Negatif test sonuçları içindeki gerçek negatifler"
-            },
-            {
-              "letter": "D",
-              "text": "Hastalar içinde testi pozitif çıkanlar (gerçek pozitif oranı)"
-            },
-            {
-              "letter": "E",
-              "text": "Tüm sonuçlar içindeki gerçek negatifler"
-            }
-          ],
-          "correct": "D",
-          "explain": "Notta birebir: <b>\"Sensitivite = gerçek hasta olanlardan testin pozitif bulduklarının oranı\"</b>.",
-          "note_quote": "Tanı testleri: Duyarlılık (sensitivite) = a/(a+c) gerçek hasta olanlardan testin pozitif bulduklarının oranı. Özgüllük (spesifisite) = d/(b+d) gerçek hasta olmayanlardan testin negatif bulduklarının oranı.",
-          "note_ref": {
-            "file": "KDT s2) Tanı Testleri.pdf",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        },
-        {
-          "id": "203_P2",
-          "level": "orta",
-          "subtopic": "Spesifisite — sağlıklı içinde gerçek negatif",
-          "note": "Notta birebir: \"Özgüllük (spesifisite) = d/(b+d) gerçek hasta olmayanlardan testin negatif bulduklarının oranı.\"",
-          "stem": "Bir tanı testinin spesifisitesi hangi oranı ifade eder?",
-          "extra_block": "",
-          "choices": [
-            {
-              "letter": "A",
-              "text": "Hastalar içinde gerçek pozitif oranı"
-            },
-            {
-              "letter": "B",
-              "text": "Sağlıklılar içinde gerçek negatif oranı"
-            },
-            {
-              "letter": "C",
-              "text": "Tüm sonuçlar içinde pozitif oran"
-            },
-            {
-              "letter": "D",
-              "text": "Tüm sonuçlar içinde negatif oran"
-            },
-            {
-              "letter": "E",
-              "text": "Pozitif sonuçlar içinde gerçek pozitif oran"
-            }
-          ],
-          "correct": "B",
-          "explain": "Notta birebir spesifisite <b>\"sağlıklılar içinde gerçek negatif oranı\"</b>dır.",
-          "note_quote": "Özgüllük (spesifisite) = d/(b+d) gerçek hasta olmayanlardan testin negatif bulduklarının oranı.",
-          "note_ref": {
-            "file": "KDT s2) Tanı Testleri.pdf",
-            "week": "M4H2",
-            "type": "Not",
-            "pages": null
-          }
-        }
-      ],
+      "prof_questions": [],
       "similar_top": [],
       "similar_questions": [],
       "images": []
