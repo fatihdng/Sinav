@@ -161,6 +161,12 @@ button { cursor: pointer; }
   padding: 1px 6px; background: rgba(251,191,36,0.10);
   border-radius: 4px; font-weight: 600;
 }
+.q-sim {
+  display: inline-block; margin-left: 6px;
+  font-size: 10px; color: #a78bfa;
+  padding: 1px 6px; background: rgba(167,139,250,0.12);
+  border-radius: 4px; font-weight: 700;
+}
 
 .similar-section {
   margin-top: 20px; padding: 16px;

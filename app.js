@@ -407,11 +407,12 @@ function renderQuestionList() {
     if (p) row.classList.add('answered');
     if (p && !p.correct) row.classList.add('wrong');
     const examTag = q.exam_label ? `<span class="q-exam">🎓 ${escapeHtml(q.exam_label)}</span>` : '';
+    const simBadge = (q.similar_top && q.similar_top.length > 0) ? `<span class="q-sim">🔮 ${q.similar_top.length} olası</span>` : '';
     row.innerHTML = `
       <div class="q-num">${q.num}</div>
       <div class="q-info">
         <div class="q-title">${escapeHtml(q.title || q.stem.slice(0,80))}</div>
-        <div class="q-tag">${escapeHtml(q.topic.main)} ${examTag}</div>
+        <div class="q-tag">${escapeHtml(q.topic.main)} ${examTag} ${simBadge}</div>
       </div>
       <div class="q-status">${p ? (p.correct ? '✓' : '✗') : '›'}</div>
     `;
